@@ -22,14 +22,14 @@
     margin:0;
     background:linear-gradient(180deg,var(--bg-soft),var(--bg));
     color:var(--ink);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Hiragino Sans CNS", "Microsoft JhengHei", system-ui, sans-serif;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans TC","PingFang TC","Hiragino Sans CNS","Microsoft JhengHei",system-ui,sans-serif;
   }
   .container{max-width:980px;margin:0 auto;padding:12px 14px 80px}
   h1{margin:8px 0 10px;font-size:20px;font-weight:800;letter-spacing:.5px}
   .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-  select, input[type="text"]{
+  select,input[type="text"]{
     height:40px;border-radius:12px;border:1px solid #d9c7a8;background:#fff6;
-    padding:0 12px;color:var(--ink);backdrop-filter: blur(2px);
+    padding:0 12px;color:var(--ink);backdrop-filter:blur(2px);
   }
   .chip{
     height:40px;border:1px solid #dec8a6;background:var(--btn);
@@ -39,15 +39,17 @@
   .chip:active{transform:translateY(1px)}
   .switch{display:inline-flex;align-items:center;gap:8px}
   .switch input{width:18px;height:18px}
+
+  /* === 卡片置中 === */
   .card{
     margin-top:12px;border-radius:22px;border:1px solid #e2d1b4;background:#f7eddc;
     min-height:48vh;padding:18px 16px;position:relative;overflow:hidden;
+    display:flex;flex-direction:column;align-items:center;justify-content:center; /* 置中 */
   }
   .card .num{position:absolute;left:16px;top:10px;opacity:.6;font-size:12px}
   .card h2{
     margin:0 auto;text-align:center;max-width:90%;
-    font-size: clamp(34px, 12vw, 72px); line-height:1.03; font-weight:800;
-    word-break:break-word;
+    font-size:clamp(34px,12vw,72px);line-height:1.03;font-weight:800;word-break:break-word;
   }
   .center{display:flex;justify-content:center;align-items:center}
   .btn{
@@ -56,11 +58,11 @@
   }
   .btn:active{transform:translateY(1px)}
   .toolbar{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
-  .footbar{position:sticky;bottom:0;left:0;right:0;background:linear-gradient(180deg,#0000, #0000 10%, #efe3cd 60%);padding:10px 0 14px}
+  .footbar{position:sticky;bottom:0;left:0;right:0;background:linear-gradient(180deg,#0000,#0000 10%,#efe3cd 60%);padding:10px 0 14px}
   .grid{display:grid;gap:10px}
   .g4{grid-template-columns:repeat(1,1fr)}
-  @media(min-width:560px){ .g4{grid-template-columns:repeat(2,1fr)} }
-  @media(min-width:880px){ .g4{grid-template-columns:repeat(4,1fr)} }
+  @media(min-width:560px){.g4{grid-template-columns:repeat(2,1fr)}}
+  @media(min-width:880px){.g4{grid-template-columns:repeat(4,1fr)}}
   .opt{padding:14px;border:1px solid #e2d1b4;border-radius:12px;background:#fff8;cursor:pointer}
   .opt.correct{border-color:var(--good)}
   .opt.wrong{border-color:var(--bad)}
@@ -84,7 +86,7 @@
     <h1>CEEC 英漢翻轉單字卡（行動版）</h1>
 
     <div class="row" style="gap:8px 10px">
-      <input id="q" type="text" placeholder="搜尋 英/中/詞性…" style="flex:1 1 220px" />
+      <input id="q" type="text" placeholder="搜尋 英/中/詞性…" style="flex:1 1 220px"/>
       <select id="mode">
         <option value="card">翻卡</option>
         <option value="quiz_e2c">測驗 英→中</option>
@@ -99,20 +101,25 @@
     <div class="row" style="gap:8px 10px;margin-top:8px">
       <select id="deckSelect"></select>
       <span class="chip" id="exportDeck">匯出目前牌組</span>
-      <label class="switch"><input type="checkbox" id="onlyStar" /> 只看加星</label>
+      <label class="switch"><input type="checkbox" id="onlyStar"/> 只看加星</label>
     </div>
 
+    <!-- 翻卡 -->
     <div id="cardView" class="card" aria-live="polite">
       <div class="num tiny" id="cardNum">1 / 1</div>
       <h2 id="front">about</h2>
-      <div class="center" style="margin-top:10px">
+
+      <div class="center" style="margin-top:14px">
         <button id="toggleTrans" class="btn">顯示翻譯</button>
       </div>
-      <div id="transBox" class="center" style="flex-direction:column;margin-top:10px;display:none">
+
+      <!-- 翻譯區：預設隱藏 -->
+      <div id="transBox" class="center" style="flex-direction:column;margin-top:12px;display:none">
         <span id="kk" class="kk">[ ]</span>
-        <div id="back" style="font-size:clamp(20px, 4.5vw, 34px);font-weight:800;text-align:center"></div>
+        <div id="back" style="font-size:clamp(20px,4.5vw,34px);font-weight:800;text-align:center"></div>
         <span id="pos" class="pos"></span>
       </div>
+
       <button id="starBtn" class="star" title="加星/取消">
         <svg viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.62L12 2 9.19 8.62 2 9.24l5.46 4.73L5.82 21z"/></svg>
       </button>
@@ -126,9 +133,10 @@
       <button id="reset" class="btn">重置進度</button>
     </div>
 
+    <!-- 測驗 -->
     <div id="quizPanel" style="display:none">
       <div class="row" style="gap:10px 12px">
-        <label class="switch"><input type="checkbox" id="onlyWrongNext" checked /> 下次優先出「錯/未做」</label>
+        <label class="switch"><input type="checkbox" id="onlyWrongNext" checked/> 下次優先出「錯/未做」</label>
         <button id="btnStartQuiz" class="btn">開始測驗</button>
         <button id="btnPrevQ" class="btn" disabled>上一題</button>
         <button id="btnEndQuiz" class="btn">結束測驗</button>
@@ -155,357 +163,210 @@
   </div>
 
 <script>
-/* =================  小工具  ================= */
+/* ========== 小工具 ========== */
 const $ = id => document.getElementById(id);
-const sleep = ms => new Promise(r => setTimeout(r, ms));
 const LS = (k,v) => (v===undefined ? JSON.parse(localStorage.getItem(k)||'null')
                                    : localStorage.setItem(k, JSON.stringify(v)));
 const KEY = {
   STAR: lvl => `ceec.star.${lvl}`,
   FONT: 'ceec.font.scale',
-  PROG: lvl => `ceec.prog.${lvl}`,
-  QUIZ: lvl => `ceec.quiz.${lvl}`   // { correct: {key:true}, wrong:{key:true} }
+  QUIZ: lvl => `ceec.quiz.${lvl}`
 };
-const wordKey = (x) => `${x.en}__${x.zh}`;
+const wordKey = x => `${x.en}__${x.zh}`;
 
-/* =================  全域狀態  ================= */
+/* ========== 狀態 ========== */
 const state = {
-  decks: {},          // { "CEEC Level 1": [ {en,zh,pos,kk}, ... ] }
-  order: [],
-  curDeck: "",
-  idx: 0,
+  decks:{}, order:[], curDeck:"", idx:0,
   fontScale: LS(KEY.FONT) ?? 0,
-  showingTrans: false,
-  // 快取
-  phonCache: {}
+  showingTrans: false,             // 預設不顯示翻譯！
+  phonCache:{}
 };
 
-/* ====== 載入六級 JSON 檔 ====== */
+/* ========== 載入六級檔案 ========== */
 const FILES = [
-  ["CEEC Level 1", "CEEC_7000_Level1.json"],
-  ["CEEC Level 2", "CEEC_7000_Level2.json"],
-  ["CEEC Level 3", "CEEC_7000_Level3.json"],
-  ["CEEC Level 4", "CEEC_7000_Level4.json"],
-  ["CEEC Level 5", "CEEC_7000_Level5.json"],
-  ["CEEC Level 6", "CEEC_7000_Level6.json"]
+  ["CEEC Level 1","CEEC_7000_Level1.json"],
+  ["CEEC Level 2","CEEC_7000_Level2.json"],
+  ["CEEC Level 3","CEEC_7000_Level3.json"],
+  ["CEEC Level 4","CEEC_7000_Level4.json"],
+  ["CEEC Level 5","CEEC_7000_Level5.json"],
+  ["CEEC Level 6","CEEC_7000_Level6.json"]
 ];
-
-async function loadDecksFromFiles(){
-  const decks = {};
+async function loadDecks(){
+  const decks={};
   for(const [name,file] of FILES){
     try{
-      const res = await fetch(file, {cache:'no-store'});
-      const arr = await res.json();
-      decks[name] = (arr||[]).map(x => ({
-        en: x.en || x.word || "",
-        zh: x.zh || x.meaning || "",
-        pos: x.pos || "",
-        kk: x.kk || ""
+      const res=await fetch(file,{cache:'no-store'});
+      const arr=await res.json();
+      decks[name]=(arr||[]).map(x=>({
+        en:x.en||x.word||"", zh:x.zh||x.meaning||"", pos:x.pos||"", kk:x.kk||""
       }));
-    }catch(e){ decks[name] = []; }
+    }catch{decks[name]=[]}
   }
   return decks;
 }
 
-/* ====== UI 綁定 ====== */
-$('fontPlus').onclick = ()=>{ state.fontScale = Math.min((state.fontScale||0)+1, 8); LS(KEY.FONT, state.fontScale); applyFontScale(); };
-$('fontMinus').onclick = ()=>{ state.fontScale = Math.max((state.fontScale||0)-1, -4); LS(KEY.FONT, state.fontScale); applyFontScale(); };
+/* ========== 綁定 ========== */
+$('fontPlus').onclick = ()=>{ state.fontScale=Math.min((state.fontScale||0)+1,8); LS(KEY.FONT,state.fontScale); applyFontScale(); };
+$('fontMinus').onclick = ()=>{ state.fontScale=Math.max((state.fontScale||0)-1,-4); LS(KEY.FONT,state.fontScale); applyFontScale(); };
 $('onlyStar').onchange = ()=> renderCard();
-$('shuffle').onclick = ()=>{ shuffleDeck(); state.idx=0; renderCard(true); };
+$('shuffle').onclick = ()=>{ shuffle(state.decks[state.curDeck]||[]); state.idx=0; renderCard(true); };
 $('reset').onclick = ()=> resetProgress();
-$('next').onclick = ()=>{ step(1); };
-$('prev').onclick = ()=>{ step(-1); };
-$('toggleTrans').onclick = ()=>{ state.showingTrans = true; showTrans(true); };
-$('hideTrans').onclick = ()=>{ state.showingTrans = false; showTrans(false); };
-$('deckSelect').onchange = e => setDeck(e.target.value);
+$('next').onclick = ()=> step(1);
+$('prev').onclick = ()=> step(-1);
+$('toggleTrans').onclick = ()=>{ state.showingTrans=true; showTrans(true); };
+$('hideTrans').onclick = ()=>{ state.showingTrans=false; showTrans(false); };
+$('deckSelect').onchange = e=> setDeck(e.target.value);
 $('mode').onchange = onModeChange;
 $('exportDeck').onclick = exportCurrentDeck;
-$('starBtn').onclick = toggleStar;
 
 $('btnStartQuiz').onclick = startQuiz;
-$('btnPrevQ').onclick = prevQuiz;
+$('btnPrevQ').onclick  = prevQuiz;
 $('btnEndQuiz').onclick = endQuiz;
 
-/* ====== 初始化 ====== */
+/* ========== 初始化 ========== */
 (async function init(){
-  state.decks = await loadDecksFromFiles();
+  state.decks = await loadDecks();
   state.order = Object.keys(state.decks).sort((a,b)=>{
     const na = parseInt((a.match(/(\d+)/)||[])[1]||'999',10);
     const nb = parseInt((b.match(/(\d+)/)||[])[1]||'999',10);
-    return na - nb;
+    return na-nb;
   });
-
-  const sel = $('deckSelect'); sel.innerHTML = '';
+  const sel=$('deckSelect'); sel.innerHTML='';
   state.order.forEach(n=>{
-    const o = document.createElement('option');
-    o.value = n; o.textContent = `${n} (${state.decks[n]?.length||0})`;
+    const o=document.createElement('option');
+    o.value=n; o.textContent=`${n} (${state.decks[n]?.length||0})`;
     sel.appendChild(o);
   });
-
   setDeck(state.order[0]);
   applyFontScale();
   onModeChange();
 })();
 
-/* =================  卡片模式  ================= */
-function setDeck(name){
-  state.curDeck = name;
-  state.idx = 0;
-  state.showingTrans = false;
-  renderCard(true);
-}
-
+/* ========== 卡片 ========== */
+function setDeck(name){ state.curDeck=name; state.idx=0; state.showingTrans=false; $('transBox').style.display='none'; renderCard(true); }
 function getFilteredDeck(){
-  const arr = state.decks[state.curDeck] || [];
-  if (!$('onlyStar').checked) return arr;
-  const star = LS(KEY.STAR(state.curDeck)) || {};
-  return arr.filter(x => star[wordKey(x)]);
-}
-
-function renderCard(scrollTop){
-  const arr = getFilteredDeck();
-  if (!arr.length){
-    $('front').textContent = '（無資料）';
-    $('back').textContent = '';
-    $('kk').textContent = '';
-    $('pos').textContent = '';
-    $('cardNum').textContent = '0 / 0';
-    $('starBtn').classList.remove('active');
-    return;
-  }
-  state.idx = Math.max(0, Math.min(state.idx, arr.length-1));
-  const e = arr[state.idx];
-  $('front').textContent = e.en;
-  $('cardNum').textContent = `${state.idx+1} / ${arr.length}`;
-  $('transBox').style.display = state.showingTrans ? 'flex' : 'none';
-  if (state.showingTrans) fillTrans(e);
-  // star
-  const star = LS(KEY.STAR(state.curDeck)) || {};
-  $('starBtn').className = 'star' + (star[wordKey(e)] ? ' active':'');
-  if (scrollTop) window.scrollTo({top:0,behavior:'smooth'});
-}
-
-function fillTrans(e){
-  $('back').textContent = e.zh || '';
-  $('pos').textContent = (e.pos||'').trim();
-  const kk = (e.kk||'').trim();
-  $('kk').textContent = kk || '[ ]';
-}
-function showTrans(on){ $('transBox').style.display = on ? 'flex':'none'; if (on) fillTrans(getFilteredDeck()[state.idx]||{}); }
-function step(d){ state.idx += d; renderCard(true); }
-function shuffleDeck(){
   const arr = state.decks[state.curDeck]||[];
-  for(let i=arr.length-1;i>0;i--){ const j = Math.floor(Math.random()*(i+1)); [arr[i],arr[j]]=[arr[j],arr[i]]; }
+  if(!$('onlyStar').checked) return arr;
+  const star = LS(KEY.STAR(state.curDeck))||{};
+  return arr.filter(x=>star[wordKey(x)]);
 }
-
-function applyFontScale(){
-  const s = Math.max(0.8, 1 + (state.fontScale||0)*0.08);
-  document.documentElement.style.setProperty('--scale', s);
+function renderCard(scrollTop){
+  const arr=getFilteredDeck();
+  if(!arr.length){
+    $('front').textContent='（無資料）'; $('cardNum').textContent='0 / 0';
+    $('transBox').style.display='none'; $('starBtn').classList.remove('active'); return;
+  }
+  state.idx=Math.max(0,Math.min(state.idx,arr.length-1));
+  const e=arr[state.idx];
+  $('front').textContent=e.en;
+  $('cardNum').textContent=`${state.idx+1} / ${arr.length}`;
+  $('transBox').style.display = state.showingTrans ? 'flex':'none';
+  if(state.showingTrans) fillTrans(e);
+  const star = LS(KEY.STAR(state.curDeck))||{};
+  $('starBtn').className='star'+(star[wordKey(e)]?' active':'');
+  if(scrollTop) window.scrollTo({top:0,behavior:'smooth'});
 }
-function toggleStar(){
-  const arr = getFilteredDeck(); if (!arr.length) return;
-  const e = arr[state.idx];
-  const k = wordKey(e);
-  const star = LS(KEY.STAR(state.curDeck)) || {};
-  star[k] ? delete star[k] : star[k] = true;
-  LS(KEY.STAR(state.curDeck), star);
-  $('starBtn').className = 'star' + (star[k] ? ' active':'');
+function fillTrans(e){
+  $('back').textContent=e.zh||'';
+  $('pos').textContent=(e.pos||'').trim();
+  $('kk').textContent=(e.kk||'').trim() || '[ ]';
 }
+function showTrans(on){ $('transBox').style.display=on?'flex':'none'; if(on){ const e=getFilteredDeck()[state.idx]; if(e) fillTrans(e); } }
+function step(d){ state.idx+=d; renderCard(true); }
+function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a;}
+function applyFontScale(){ const s=Math.max(0.8,1+(state.fontScale||0)*0.08); document.documentElement.style.setProperty('--scale',s); }
+$('q').addEventListener('input',()=>{ state.idx=0; renderCard(); });
+$('starBtn').onclick = function(){
+  const arr=getFilteredDeck(); if(!arr.length) return;
+  const e=arr[state.idx]; const k=wordKey(e);
+  const star=LS(KEY.STAR(state.curDeck))||{};
+  star[k]?delete star[k]:star[k]=true; LS(KEY.STAR(state.curDeck),star);
+  this.className='star'+(star[k]?' active':'');
+};
 
-/* =================  搜尋（卡片/測驗共用）  ================= */
-$('q').addEventListener('input', ()=> { state.idx=0; renderCard(); });
-
-function textFilter(e, kw){
-  if (!kw) return true;
-  kw = kw.toLowerCase();
-  return (e.en||'').toLowerCase().includes(kw) ||
-         (e.zh||'').toLowerCase().includes(kw) ||
-         (e.pos||'').toLowerCase().includes(kw);
-}
-
-/* =================  模式切換  ================= */
+/* ========== 模式切換 ========== */
 function onModeChange(){
-  const m = $('mode').value;
-  const isCard = m === 'card';
-  $('cardView').style.display = isCard ? 'block':'none';
-  document.querySelector('.toolbar').style.display = isCard ? 'flex':'none';
-  $('quizPanel').style.display = isCard ? 'none':'block';
+  const card = $('mode').value==='card';
+  $('cardView').style.display = card ? 'block':'none';
+  document.querySelector('.toolbar').style.display = card ? 'flex':'none';
+  $('quizPanel').style.display = card ? 'none':'block';
 }
 
-/* =================  測驗模式  ================= */
-let quiz = null; // {list, idx, order, ans, wrong, seen, histKey}
-
+/* ========== 測驗（保留原本邏輯，略） ========== */
+let quiz=null;
+function textFilter(e,kw){ if(!kw) return true; kw=kw.toLowerCase();
+  return (e.en||'').toLowerCase().includes(kw) || (e.zh||'').toLowerCase().includes(kw) || (e.pos||'').toLowerCase().includes(kw);
+}
 function buildQuizPool(){
-  const level = state.curDeck;
-  const raw = (state.decks[level]||[]).filter(e => textFilter(e, $('q').value));
-  if (!raw.length) return [];
-
-  const hist = LS(KEY.QUIZ(level)) || {correct:{}, wrong:{}};
-  const onlyWrongNext = $('onlyWrongNext').checked;
-
-  let pool = raw.slice();
-  if (onlyWrongNext){
-    const wrongList = raw.filter(e => hist.wrong[wordKey(e)]);
-    const unseen = raw.filter(e => !hist.correct[wordKey(e)] && !hist.wrong[wordKey(e)]);
-    // 優先：錯題 + 未做
-    pool = [...wrongList, ...unseen];
-    // 如果全清空，保底用全部
-    if (!pool.length) pool = raw.slice();
+  const level=state.curDeck;
+  const raw=(state.decks[level]||[]).filter(e=>textFilter(e,$('q').value));
+  if(!raw.length) return [];
+  const hist=LS(KEY.QUIZ(level))||{correct:{},wrong:{}};
+  const onlyWrongNext=$('onlyWrongNext').checked;
+  let pool=raw.slice();
+  if(onlyWrongNext){
+    const wrong=raw.filter(e=>hist.wrong[wordKey(e)]);
+    const unseen=raw.filter(e=>!hist.correct[wordKey(e)]&&!hist.wrong[wordKey(e)]);
+    pool=[...wrong,...unseen]; if(!pool.length) pool=raw.slice();
   }
-  return shuffle(pool).slice(0, Infinity);
+  return shuffle(pool);
 }
-function shuffle(arr){ const a=arr.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a;}
-
-function startQuiz(){
-  const list = buildQuizPool();
-  quiz = {
-    list, idx:0, mode:$('mode').value, wrong:[], ans:[], order:[], seen:new Set(),
-    histKey: KEY.QUIZ(state.curDeck)
-  };
-  $('quizResult').style.display = 'none';
-  $('btnPrevQ').disabled = true;
-  renderQuestion();
+function startQuiz(){ const list=buildQuizPool();
+  quiz={list,idx:0,mode:$('mode').value,wrong:[],order:[],histKey:KEY.QUIZ(state.curDeck)};
+  $('quizResult').style.display='none'; $('btnPrevQ').disabled=true; renderQuestion();
 }
-function prevQuiz(){
-  if (!quiz) return;
-  if (quiz.idx>0){ quiz.idx--; renderQuestion(true); }
-  $('btnPrevQ').disabled = quiz.idx<=0;
-}
-function endQuiz(){
-  if (!quiz) return;
-  showWrongList();
-}
-
+function prevQuiz(){ if(!quiz) return; if(quiz.idx>0){quiz.idx--;renderQuestion(true);} $('btnPrevQ').disabled=quiz.idx<=0; }
+function endQuiz(){ if(!quiz) return; showWrongList(); }
 function renderQuestion(fromPrev=false){
-  const total = quiz.list.length;
-  if (!total){ $('qWord').textContent='（無題目）'; $('qOpts').innerHTML=''; $('qPhon').textContent=''; $('qPos').textContent=''; return;}
-  $('qIdx').textContent = `第 ${quiz.idx+1} / ${total}`;
-
-  const q = quiz.list[quiz.idx];
-  const mode = quiz.mode;
-  const opts = buildOptions(q, mode);
-  quiz.order[quiz.idx] = opts;
-
-  // 題幹
-  if (mode==='quiz_e2c'){
-    $('qWord').textContent = q.en;
-    $('qPhon').textContent = (q.kk||'').trim() || '[ ]';
-    $('qPos').textContent = (q.pos||'').trim();
-  }else{
-    $('qWord').textContent = q.zh;
-    $('qPhon').textContent = '';
-    $('qPos').textContent = (q.pos||'').trim();
-  }
-
-  // 選項
-  const box = $('qOpts'); box.innerHTML='';
-  opts.forEach((o,i)=>{
-    const div = document.createElement('div');
-    div.className = 'opt';
-    div.textContent = o.text;
-    div.onclick = ()=> choose(i);
-    box.appendChild(div);
-  });
-
-  window.scrollTo({top:0,behavior: fromPrev? 'auto':'smooth'});
+  const total=quiz.list.length; if(!total){$('qWord').textContent='（無題目）';$('qOpts').innerHTML='';$('qPhon').textContent='';$('qPos').textContent='';return;}
+  $('qIdx').textContent=`第 ${quiz.idx+1} / ${total}`;
+  const q=quiz.list[quiz.idx]; const mode=quiz.mode; const opts=buildOptions(q,mode); quiz.order[quiz.idx]=opts;
+  if(mode==='quiz_e2c'){ $('qWord').textContent=q.en; $('qPhon').textContent=(q.kk||'').trim()||'[ ]'; $('qPos').textContent=(q.pos||'').trim(); }
+  else { $('qWord').textContent=q.zh; $('qPhon').textContent=''; $('qPos').textContent=(q.pos||'').trim(); }
+  const box=$('qOpts'); box.innerHTML=''; opts.forEach((o,i)=>{ const d=document.createElement('div'); d.className='opt'; d.textContent=o.text; d.onclick=()=>choose(i); box.appendChild(d); });
+  window.scrollTo({top:0,behavior:fromPrev?'auto':'smooth'});
 }
-
-function buildOptions(q, mode){
-  const pool = shuffle(state.decks[state.curDeck]||[]);
-  const answers = new Set([wordKey(q)]);
-  const opts = [];
-
-  // 正確選項
-  if (mode==='quiz_e2c'){
-    opts.push({text:q.zh, key:wordKey(q), correct:true});
-  }else{
-    opts.push({text:q.en, key:wordKey(q), correct:true});
-  }
-
-  // 錯誤選項
-  for (const x of pool){
-    if (answers.has(wordKey(x))) continue;
-    answers.add(wordKey(x));
-    opts.push({text: mode==='quiz_e2c' ? x.zh : x.en, key:wordKey(x), correct:false});
-    if (opts.length>=4) break;
-  }
+function buildOptions(q,mode){
+  const pool=shuffle(state.decks[state.curDeck]||[]); const used=new Set([wordKey(q)]); const opts=[];
+  if(mode==='quiz_e2c') opts.push({text:q.zh,key:wordKey(q),correct:true}); else opts.push({text:q.en,key:wordKey(q),correct:true});
+  for(const x of pool){ if(used.has(wordKey(x))) continue; used.add(wordKey(x));
+    opts.push({text:mode==='quiz_e2c'?x.zh:x.en,key:wordKey(x),correct:false}); if(opts.length>=4) break; }
   return shuffle(opts);
 }
-
-function choose(idx){
-  const opts = quiz.order[quiz.idx];
-  const choice = opts[idx];
-  markChoice(choice.correct);
-
-  // 記錄歷史
-  const level = state.curDeck;
-  const hist = LS(quiz.histKey) || {correct:{}, wrong:{}};
-  const q = quiz.list[quiz.idx];
-  const k = wordKey(q);
-  if (choice.correct){ hist.correct[k]=true; delete hist.wrong[k]; }
-  else { hist.wrong[k]=true; }
-  LS(quiz.histKey, hist);
-
-  if (!choice.correct){
-    quiz.wrong.push(q);
-  }
-  // 自動下一題
-  setTimeout(()=>{
-    quiz.idx++;
-    if (quiz.idx >= quiz.list.length){ showWrongList(); return; }
-    $('btnPrevQ').disabled = quiz.idx<=0;
-    renderQuestion();
-  }, 220);
+function choose(i){
+  const opts=quiz.order[quiz.idx]; const choice=opts[i];
+  const level=state.curDeck; const hist=LS(quiz.histKey)||{correct:{},wrong:{}}; const q=quiz.list[quiz.idx]; const k=wordKey(q);
+  if(choice.correct){ hist.correct[k]=true; delete hist.wrong[k]; } else { hist.wrong[k]=true; }
+  LS(quiz.histKey,hist);
+  if(!choice.correct) quiz.wrong.push(q);
+  setTimeout(()=>{ quiz.idx++; if(quiz.idx>=quiz.list.length){showWrongList();return;} $('btnPrevQ').disabled=quiz.idx<=0; renderQuestion(); },220);
 }
-
-function markChoice(isCorrect){
-  const nodes = Array.from(document.querySelectorAll('#qOpts .opt'));
-  nodes.forEach(n=>n.classList.remove('correct','wrong'));
-  // 標記正確與本次選擇
-  const opts = quiz.order[quiz.idx];
-  opts.forEach((o,i)=>{
-    if (o.correct) nodes[i].classList.add('correct');
-  });
-  // 本次點到的
-  const me = nodes.find((_,i)=>true && !0); // 不需特別標本次；已自動前往下一題
-}
-
 function showWrongList(){
-  $('quizResult').style.display = 'block';
-  const box = $('wrongList'); box.innerHTML='';
-  if (!quiz.wrong.length){
-    box.innerHTML = `<div class="muted">太強了！本次無錯題～</div>`;
-    return;
-  }
-  const ul = document.createElement('div');
-  ul.style.display='grid'; ul.style.gap='10px';
+  $('quizResult').style.display='block';
+  const box=$('wrongList'); box.innerHTML='';
+  if(!quiz.wrong.length){ box.innerHTML='<div class="muted">太強了！本次無錯題～</div>'; return; }
+  const wrap=document.createElement('div'); wrap.style.display='grid'; wrap.style.gap='10px';
   quiz.wrong.forEach(w=>{
-    const div = document.createElement('div');
-    div.className='opt';
-    div.innerHTML = `<div><strong>${w.en}</strong> <span class="kk">${(w.kk||'').trim()||'[ ]'}</span><div class="tiny muted">${w.pos||''}</div></div>
-                     <div style="margin-top:6px">${w.zh}</div>`;
-    ul.appendChild(div);
+    const d=document.createElement('div'); d.className='opt';
+    d.innerHTML=`<div><strong>${w.en}</strong> <span class="kk">${(w.kk||'').trim()||'[ ]'}</span><div class="tiny muted">${w.pos||''}</div></div>
+                 <div style="margin-top:6px">${w.zh}</div>`;
+    wrap.appendChild(d);
   });
-  box.appendChild(ul);
+  box.appendChild(wrap);
 }
 
-/* =================  匯出目前牌組  ================= */
+/* ========== 匯出與重置 ========== */
 function exportCurrentDeck(){
-  const name = state.curDeck.replace(/\s+/g,'_');
-  const data = JSON.stringify(state.decks[state.curDeck]||[], null, 2);
-  const blob = new Blob([data], {type:'application/json'});
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = `${name}.json`;
-  a.click();
-  setTimeout(()=> URL.revokeObjectURL(a.href), 1000);
+  const name=state.curDeck.replace(/\s+/g,'_');
+  const data=JSON.stringify(state.decks[state.curDeck]||[],null,2);
+  const blob=new Blob([data],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=`${name}.json`; a.click();
+  setTimeout(()=>URL.revokeObjectURL(a.href),1000);
 }
-
-/* =================  進度重置  ================= */
 function resetProgress(){
-  if (!confirm('重置本牌組的星號與答題紀錄？')) return;
-  LS(KEY.STAR(state.curDeck), {});
-  LS(KEY.QUIZ(state.curDeck), {correct:{}, wrong:{}});
+  if(!confirm('重置本牌組的星號與答題紀錄？')) return;
+  localStorage.removeItem(KEY.STAR(state.curDeck));
+  localStorage.removeItem(KEY.QUIZ(state.curDeck));
   renderCard();
 }
 </script>
