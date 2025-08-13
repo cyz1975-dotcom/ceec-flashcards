@@ -1,131 +1,377 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>CEEC 英漢翻譯單字卡（行動版）</title>
 <style>
-body {
-  font-family: Arial, sans-serif;
-  background: #fdf6e3;
-  margin: 0;
-  padding: 0;
-}
-.card {
-  position: relative;
-  background: #fefefe;
-  margin: 20px;
-  border-radius: 10px;
-  padding: 15px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  min-height: 60vh;
-}
-.num {
-  font-size: 12px;
-  color: #888;
-  position: absolute;
-  top: 10px;
-  left: 15px;
-}
-.star {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  background: none;
-  border: none;
-  cursor: pointer;
-}
-.star svg {
-  fill: #ccc;
-  width: 24px;
-  height: 24px;
-}
-.star.active svg {
-  fill: gold;
-}
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.btn {
-  padding: 6px 12px;
-  background: #f5deb3;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-.kk {
-  font-size: 20px;
-  margin-bottom: 5px;
-}
-.pos {
-  font-size: 14px;
-  color: #666;
-}
-/* 置中容器 */
-.cardBody {
-  width: 100%;
-  min-height: 40vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
+  :root{
+    --bg:#f6e8c8;      /* 背景米色（照片那種底色） */
+    --paper:#fffaf2;   /* 卡片奶油白 */
+    --ink:#4a2e1a;     /* 深咖啡字色 */
+    --ink-weak:#7b5a46;
+    --accent:#e8cf9a;  /* 按鈕米金 */
+    --accent-2:#c9a86d;
+    --ring:rgba(0,0,0,.06);
+    --front-scale:1;   /* 正面字體倍率（用 + / - 控制） */
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    margin:0;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+    background:var(--bg);
+    color:var(--ink);
+  }
+  .wrap{max-width:980px;margin:0 auto;padding:16px 14px 28px}
+
+  h1{
+    font-size:clamp(20px,4.6vw,30px);
+    margin:6px 0 10px;
+    letter-spacing:.5px;
+    font-weight:900;
+    color:var(--ink);
+  }
+
+  /* 控制列 */
+  .toolbar{
+    display:grid;
+    grid-template-columns: 1fr auto auto;
+    gap:10px;
+    align-items:center;
+  }
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .search{
+    width:100%;
+    padding:10px 12px;
+    border:1px solid var(--ring);
+    border-radius:12px;
+    background:#fff3dd;
+    color:var(--ink);
+    outline:none;
+  }
+  .sel,.btn,.check{
+    border:1px solid var(--ring);
+    background:#fff3dd;
+    color:var(--ink);
+    padding:10px 12px;
+    border-radius:12px;
+    font-weight:700;
+  }
+  .btn{background:var(--accent);border-color:#d7c08d}
+  .btn:active{transform:translateY(1px)}
+  .iconBtn{
+    width:40px;height:40px;border-radius:12px;border:1px solid var(--ring);
+    background:#fff3dd;font-size:18px;font-weight:900;display:flex;align-items:center;justify-content:center;
+  }
+
+  /* 卡片 */
+  .card{
+    position:relative;
+    background:var(--paper);
+    border-radius:18px;
+    padding:18px 16px 22px;
+    box-shadow:0 14px 30px rgba(0,0,0,.08);
+    min-height:62vh;
+    margin-top:14px;
+    overflow:hidden;
+  }
+  .num{
+    position:absolute;left:14px;top:12px;color:var(--ink-weak);font-size:12px;font-weight:700;
+  }
+  .star{
+    position:absolute;right:14px;top:10px;
+    width:36px;height:36px;border-radius:50%;
+    border:0;background:transparent;display:grid;place-items:center;cursor:pointer;
+  }
+  .star svg{width:22px;height:22px;fill:#c9c9c9}
+  .star.active svg{fill:#f5c02e}
+
+  /* 內容置中關鍵 */
+  .cardBody{
+    width:100%;
+    min-height:40vh;          /* 想高/低，可調 38~45vh 微調視覺中心 */
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;   /* 垂直置中 */
+    text-align:center;
+  }
+
+  #front{
+    font-weight:900;
+    letter-spacing:.6px;
+    margin:4px 0 10px;
+    /* 字體大小：用倍率控制，並在小螢幕也能漂亮縮放 */
+    font-size: calc(var(--front-scale) * clamp(28px, 8.5vw, 56px));
+    color:var(--ink);
+  }
+  #toggleTrans{
+    margin-top:8px;
+    padding:10px 14px;border-radius:12px;border:0;
+    background:var(--accent);color:var(--ink);font-weight:900;
+    box-shadow:0 6px 14px rgba(0,0,0,.06);
+  }
+  #transBox{
+    margin-top:12px;display:none;flex-direction:column;align-items:center;
+  }
+  .kk{font-weight:800;color:#7a5337;margin-bottom:6px}
+  #back{font-size:clamp(20px,4.6vw,34px);font-weight:900}
+  .pos{color:var(--ink-weak);margin-top:3px}
+
+  /* 底部控制 */
+  .controls{
+    display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-top:14px
+  }
+  .ctlBtn{
+    border:1px solid var(--ring);background:#fff3dd;color:var(--ink);
+    padding:12px 8px;border-radius:12px;font-weight:900;text-align:center
+  }
+  .rightRow{display:flex;gap:12px;align-items:center;justify-content:flex-end;margin-top:10px}
+  .tiny{font-size:12px}
+  .muted{color:var(--ink-weak)}
+  @media (max-width:520px){
+    .controls{grid-template-columns:repeat(4,1fr)}
+  }
 </style>
 </head>
 <body>
+  <div class="wrap">
+    <h1>CEEC 英漢翻譯單字卡（行動版）</h1>
 
-<h2 style="text-align:center">CEEC 英漢翻譯單字卡（行動版）</h2>
-
-<div id="cardView" class="card" aria-live="polite">
-  <div class="num tiny" id="cardNum">1 / 1</div>
-
-  <div class="cardBody">
-    <h2 id="front">about</h2>
-
-    <div class="center" style="margin-top:14px">
-      <button id="toggleTrans" class="btn">顯示翻譯</button>
+    <!-- 上方工具列 -->
+    <div class="toolbar">
+      <input id="search" class="search" type="search" placeholder="搜尋 英/中/詞性…（可輸入多個關鍵字）" />
+      <div class="row">
+        <button id="fontMinus" class="iconBtn">－</button>
+        <span class="tiny muted">字體大小</span>
+        <button id="fontPlus"  class="iconBtn">＋</button>
+      </div>
+      <div class="row">
+        <select id="levelSel" class="sel" title="選擇 CEEC 等級">
+          <option value="1">CEEC Level 1</option>
+          <option value="2">CEEC Level 2</option>
+          <option value="3">CEEC Level 3</option>
+          <option value="4">CEEC Level 4</option>
+          <option value="5">CEEC Level 5</option>
+          <option value="6">CEEC Level 6</option>
+        </select>
+      </div>
     </div>
 
-    <div id="transBox" class="center" style="flex-direction:column;margin-top:12px;display:none">
-      <span id="kk" class="kk">[ ]</span>
-      <div id="back" style="font-size:clamp(20px,4.5vw,34px);font-weight:800;text-align:center"></div>
-      <span id="pos" class="pos"></span>
+    <!-- 只看加星 -->
+    <div class="rightRow">
+      <label class="row" style="gap:8px">
+        <input id="onlyStar" type="checkbox" />
+        <span class="tiny">只看加星</span>
+      </label>
+    </div>
+
+    <!-- 卡片 -->
+    <div id="cardView" class="card" aria-live="polite">
+      <div class="num tiny" id="cardNum">—</div>
+
+      <!-- 右上角星星 -->
+      <button id="starBtn" class="star" title="加星/取消">
+        <svg viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.62L12 2 9.19 8.62 2 9.24l5.46 4.73L5.82 21z"/></svg>
+      </button>
+
+      <!-- 置中容器：單字＋按鈕＋翻譯 -->
+      <div class="cardBody">
+        <h2 id="front">Loading…</h2>
+
+        <button id="toggleTrans">顯示翻譯</button>
+
+        <div id="transBox">
+          <span id="kk" class="kk"></span>
+          <div id="back"></div>
+          <span id="pos" class="pos"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 底部控制列 -->
+    <div class="controls">
+      <button id="prevBtn" class="ctlBtn">← 上一張</button>
+      <button id="hideBtn" class="ctlBtn">隱藏翻譯</button>
+      <button id="nextBtn" class="ctlBtn">下一張 →</button>
+      <button id="randBtn" class="ctlBtn">隨機</button>
+      <button id="resetBtn" class="ctlBtn">重置進度</button>
+    </div>
+
+    <div class="rightRow tiny muted">
+      已內建 CEEC 7000 六級單字・星與字體設定會保存於本機
     </div>
   </div>
 
-  <button id="starBtn" class="star" title="加星/取消">
-    <svg viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.62L12 2 9.19 8.62 2 9.24l5.46 4.73L5.82 21z"/></svg>
-  </button>
-</div>
-
 <script>
-// 範例資料
-const data = [
-  {word:"cook", kk:"[kʊk]", trans:"煮", pos:"vt."},
-  {word:"a/an", kk:"[ə]/[æn]", trans:"一個", pos:"art."}
-];
+  // 6 個等級檔案
+  const LEVEL_FILES = {
+    1: "CEEC_7000_Level1.json",
+    2: "CEEC_7000_Level2.json",
+    3: "CEEC_7000_Level3.json",
+    4: "CEEC_7000_Level4.json",
+    5: "CEEC_7000_Level5.json",
+    6: "CEEC_7000_Level6.json",
+  };
 
-let index = 0;
+  // 狀態
+  let allCards = [];      // 當前等級完整資料
+  let viewCards = [];     // 篩選後（搜尋 / 只看星）的清單
+  let idx = 0;            // 目前索引
+  let showTrans = false;  // 翻譯是否顯示
+  let level = +localStorage.getItem('ceec_level') || 1;
+  let starSet = new Set(JSON.parse(localStorage.getItem('ceec_stars') || '[]')); // 存字串 key
+  let fontScale = +localStorage.getItem('ceec_font') || 1;
 
-function renderCard(){
-  const item = data[index];
-  document.getElementById("cardNum").textContent = `${index+1} / ${data.length}`;
-  document.getElementById("front").textContent = item.word;
-  document.getElementById("kk").textContent = item.kk;
-  document.getElementById("back").textContent = item.trans;
-  document.getElementById("pos").textContent = item.pos;
-  document.getElementById("transBox").style.display = "none";
-}
+  // 元件
+  const el = s => document.querySelector(s);
+  const $front = el('#front');
+  const $kk    = el('#kk');
+  const $back  = el('#back');
+  const $pos   = el('#pos');
+  const $cardNum = el('#cardNum');
+  const $toggleTrans = el('#toggleTrans');
+  const $transBox = el('#transBox');
+  const $starBtn = el('#starBtn');
 
-document.getElementById("toggleTrans").addEventListener("click",()=>{
-  const box = document.getElementById("transBox");
-  box.style.display = box.style.display==="none" ? "flex" : "none";
-});
+  const $levelSel = el('#levelSel');
+  const $search   = el('#search');
+  const $onlyStar = el('#onlyStar');
 
-renderCard();
+  // 初始化 UI
+  $levelSel.value = String(level);
+  document.documentElement.style.setProperty('--front-scale', fontScale);
+
+  // 載入等級
+  async function loadLevel(lv){
+    level = lv;
+    localStorage.setItem('ceec_level', lv);
+    idx = 0; showTrans = false;
+    try{
+      const res = await fetch(LEVEL_FILES[lv], {cache:'no-store'});
+      allCards = await res.json();  // 期望 [{en, zh, pos, kk}, ...]
+    }catch(e){
+      allCards = [];
+    }
+    applyFilters();
+    render();
+  }
+
+  // 依搜尋/星號套用篩選
+  function applyFilters(){
+    const q = $search.value.trim().toLowerCase();
+    const onlyStar = $onlyStar.checked;
+
+    viewCards = allCards.filter(it=>{
+      if(onlyStar && !starSet.has(buildKey(it))) return false;
+      if(!q) return true;
+      const hay = [it.en, it.zh, it.pos, it.kk].filter(Boolean).join(' ').toLowerCase();
+      return q.split(/\s+/).every(k => hay.includes(k));
+    });
+
+    if(viewCards.length === 0){
+      viewCards = [{en:"（沒有符合的單字）", zh:"", pos:"", kk:""}];
+      idx = 0;
+    }else{
+      idx = Math.min(idx, viewCards.length - 1);
+    }
+  }
+
+  // 產生星號 key（加上等級避免不同級同字衝突）
+  function buildKey(it){ return `${level}::${it.en}` }
+
+  // 呈現卡片
+  function render(){
+    const sizeInfo = viewCards.length ? `${idx+1} / ${viewCards.length}` : '—';
+    $cardNum.textContent = sizeInfo;
+
+    const it = viewCards[idx] || {en:"",zh:"",pos:"",kk:""};
+
+    $front.textContent = it.en || '';
+    $back.textContent  = it.zh || '';
+    $pos.textContent   = it.pos || '';
+    $kk.textContent    = it.kk ? it.kk : '';
+    $kk.style.display  = it.kk ? 'block' : 'none';
+
+    // 翻譯顯示/隱藏
+    $transBox.style.display = showTrans ? 'flex' : 'none';
+    $toggleTrans.textContent = showTrans ? '隱藏翻譯' : '顯示翻譯';
+
+    // 星號狀態
+    const k = buildKey(it);
+    if(starSet.has(k)) $starBtn.classList.add('active');
+    else $starBtn.classList.remove('active');
+  }
+
+  // 事件綁定
+  $toggleTrans.addEventListener('click', ()=>{
+    showTrans = !showTrans;
+    render();
+  });
+  el('#hideBtn').addEventListener('click', ()=>{
+    showTrans = false; render();
+  });
+  el('#nextBtn').addEventListener('click', ()=>{
+    if(!viewCards.length) return;
+    idx = (idx + 1) % viewCards.length;
+    showTrans = false;
+    render();
+  });
+  el('#prevBtn').addEventListener('click', ()=>{
+    if(!viewCards.length) return;
+    idx = (idx - 1 + viewCards.length) % viewCards.length;
+    showTrans = false;
+    render();
+  });
+  el('#randBtn').addEventListener('click', ()=>{
+    if(!viewCards.length) return;
+    idx = Math.floor(Math.random()*viewCards.length);
+    showTrans = false;
+    render();
+  });
+  el('#resetBtn').addEventListener('click', ()=>{
+    // 只重置進度：回第一張、取消顯示翻譯；不動星號/字體
+    idx = 0; showTrans = false; render();
+  });
+
+  // 星號
+  $starBtn.addEventListener('click', ()=>{
+    const it = viewCards[idx]; if(!it) return;
+    const k = buildKey(it);
+    if(starSet.has(k)) starSet.delete(k); else starSet.add(k);
+    localStorage.setItem('ceec_stars', JSON.stringify([...starSet]));
+    render();
+    // 若正在「只看加星」，切換星號要即時更新清單
+    if($onlyStar.checked){ applyFilters(); idx = Math.min(idx, viewCards.length-1); render(); }
+  });
+
+  // 搜尋/篩選/等級/字體
+  $search.addEventListener('input', ()=>{ applyFilters(); idx=0; showTrans=false; render(); });
+  $onlyStar.addEventListener('change', ()=>{ applyFilters(); idx=0; showTrans=false; render(); });
+  $levelSel.addEventListener('change', ()=> loadLevel(+$levelSel.value));
+
+  el('#fontPlus').addEventListener('click', ()=>{
+    fontScale = Math.min(1.6, (fontScale + 0.1));
+    document.documentElement.style.setProperty('--front-scale', fontScale);
+    localStorage.setItem('ceec_font', fontScale);
+  });
+  el('#fontMinus').addEventListener('click', ()=>{
+    fontScale = Math.max(0.7, (fontScale - 0.1));
+    document.documentElement.style.setProperty('--front-scale', fontScale);
+    localStorage.setItem('ceec_font', fontScale);
+  });
+
+  // 鍵盤快捷（左右鍵換卡、空白鍵切翻譯）
+  window.addEventListener('keydown', (e)=>{
+    if(e.target.matches('input,textarea')) return;
+    if(e.key==='ArrowRight'){ el('#nextBtn').click(); }
+    if(e.key==='ArrowLeft'){ el('#prevBtn').click(); }
+    if(e.key===' '){ e.preventDefault(); $toggleTrans.click(); }
+  });
+
+  // 啟動
+  loadLevel(level);
 </script>
-
 </body>
 </html>
