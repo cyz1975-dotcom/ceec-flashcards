@@ -1,0 +1,8194 @@
+[
+  {
+    "word": "a/an",
+    "kk": "[æn]",
+    "pos": "art.",
+    "meaning": "一",
+    "en": "a/an",
+    "zh": "一"
+  },
+  {
+    "word": "able",
+    "kk": "[ˋeb!]",
+    "pos": "adj.",
+    "meaning": "能，可以",
+    "en": "able",
+    "zh": "能，可以"
+  },
+  {
+    "word": "about",
+    "kk": "[əˋbaʊt]",
+    "pos": "prep.",
+    "meaning": "關於",
+    "en": "about",
+    "zh": "關於"
+  },
+  {
+    "word": "above",
+    "kk": "[əˋbʌv]",
+    "pos": "prep. adv.",
+    "meaning": "在…上面",
+    "en": "above",
+    "zh": "在…上面"
+  },
+  {
+    "word": "according to",
+    "kk": "[əˋkɔrdɪŋ tu]",
+    "pos": "",
+    "meaning": "根據",
+    "en": "according to",
+    "zh": "根據"
+  },
+  {
+    "word": "across",
+    "kk": "[əˋkrɔs]",
+    "pos": "prep.",
+    "meaning": "穿過",
+    "en": "across",
+    "zh": "穿過"
+  },
+  {
+    "word": "act",
+    "kk": "[ækt]",
+    "pos": "vt.",
+    "meaning": "扮演",
+    "en": "act",
+    "zh": "扮演"
+  },
+  {
+    "word": "action",
+    "kk": "[ˋækʃən]",
+    "pos": "n.",
+    "meaning": "行動",
+    "en": "action",
+    "zh": "行動"
+  },
+  {
+    "word": "actor/actress",
+    "kk": "[ˋæktɚ]",
+    "pos": "",
+    "meaning": "/ [ˋæktrɪs]",
+    "en": "actor/actress",
+    "zh": "/ [ˋæktrɪs]"
+  },
+  {
+    "word": "add",
+    "kk": "[æd]",
+    "pos": "vt.",
+    "meaning": "添加",
+    "en": "add",
+    "zh": "添加"
+  },
+  {
+    "word": "address",
+    "kk": "[əˋdrɛs]",
+    "pos": "n.",
+    "meaning": "地址",
+    "en": "address",
+    "zh": "地址"
+  },
+  {
+    "word": "adult",
+    "kk": "[əˋdʌlt]",
+    "pos": "n.",
+    "meaning": "成人",
+    "en": "adult",
+    "zh": "成人"
+  },
+  {
+    "word": "afraid",
+    "kk": "[əˋfred]",
+    "pos": "adj.",
+    "meaning": "害怕",
+    "en": "afraid",
+    "zh": "害怕"
+  },
+  {
+    "word": "after",
+    "kk": "[ˋæftɚ]",
+    "pos": "prep.",
+    "meaning": "在…以後",
+    "en": "after",
+    "zh": "在…以後"
+  },
+  {
+    "word": "afternoon",
+    "kk": "[ˋæftɚˋnun]",
+    "pos": "n.",
+    "meaning": "午後",
+    "en": "afternoon",
+    "zh": "午後"
+  },
+  {
+    "word": "again",
+    "kk": "[əˋgɛn]",
+    "pos": "adv.",
+    "meaning": "再",
+    "en": "again",
+    "zh": "再"
+  },
+  {
+    "word": "against",
+    "kk": "[əˋgɛnst]",
+    "pos": "prep.",
+    "meaning": "反對",
+    "en": "against",
+    "zh": "反對"
+  },
+  {
+    "word": "age",
+    "kk": "[edʒ]",
+    "pos": "n.",
+    "meaning": "年齡",
+    "en": "age",
+    "zh": "年齡"
+  },
+  {
+    "word": "ago",
+    "kk": "[əˋgo]",
+    "pos": "adv.",
+    "meaning": "在…之前",
+    "en": "ago",
+    "zh": "在…之前"
+  },
+  {
+    "word": "agree(ment)",
+    "kk": "[əˋgrimənt]",
+    "pos": "vi.",
+    "meaning": "同意",
+    "en": "agree(ment)",
+    "zh": "同意"
+  },
+  {
+    "word": "ahead",
+    "kk": "[əˋhɛd]",
+    "pos": "adv.",
+    "meaning": "在前",
+    "en": "ahead",
+    "zh": "在前"
+  },
+  {
+    "word": "air",
+    "kk": "[ɛr]",
+    "pos": "n.",
+    "meaning": "空氣",
+    "en": "air",
+    "zh": "空氣"
+  },
+  {
+    "word": "airmail",
+    "kk": "[ˋɛr͵mel]",
+    "pos": "n.",
+    "meaning": "航空郵政",
+    "en": "airmail",
+    "zh": "航空郵政"
+  },
+  {
+    "word": "airplane/plane",
+    "kk": "[ˋɛr͵plen]",
+    "pos": "n.",
+    "meaning": "飛機",
+    "en": "airplane/plane",
+    "zh": "飛機"
+  },
+  {
+    "word": "airport",
+    "kk": "[ˋɛr͵port]",
+    "pos": "n.",
+    "meaning": "機場",
+    "en": "airport",
+    "zh": "機場"
+  },
+  {
+    "word": "all",
+    "kk": "[ɔl]",
+    "pos": "adj.",
+    "meaning": "一切的",
+    "en": "all",
+    "zh": "一切的"
+  },
+  {
+    "word": "allow",
+    "kk": "[əˋlaʊ]",
+    "pos": "vt.",
+    "meaning": "允許",
+    "en": "allow",
+    "zh": "允許"
+  },
+  {
+    "word": "almost",
+    "kk": "[ˋɔl͵most]",
+    "pos": "adv.",
+    "meaning": "幾乎",
+    "en": "almost",
+    "zh": "幾乎"
+  },
+  {
+    "word": "alone",
+    "kk": "[əˋlon]",
+    "pos": "adj. adv.",
+    "meaning": "單獨的",
+    "en": "alone",
+    "zh": "單獨的"
+  },
+  {
+    "word": "along",
+    "kk": "[əˋlɔŋ]",
+    "pos": "prep.",
+    "meaning": "沿著",
+    "en": "along",
+    "zh": "沿著"
+  },
+  {
+    "word": "already",
+    "kk": "[ɔlˋrɛdɪ]",
+    "pos": "adv.",
+    "meaning": "已經",
+    "en": "already",
+    "zh": "已經"
+  },
+  {
+    "word": "also",
+    "kk": "[ˋɔlso]",
+    "pos": "adv.",
+    "meaning": "也",
+    "en": "also",
+    "zh": "也"
+  },
+  {
+    "word": "always",
+    "kk": "[ˋɔlwez]",
+    "pos": "adv.",
+    "meaning": "總是",
+    "en": "always",
+    "zh": "總是"
+  },
+  {
+    "word": "am",
+    "kk": "[æm]",
+    "pos": "",
+    "meaning": "(第一人稱) vi. 是",
+    "en": "am",
+    "zh": "(第一人稱) vi. 是"
+  },
+  {
+    "word": "among",
+    "kk": "[əˋmʌŋ]",
+    "pos": "prep.",
+    "meaning": "在…之中",
+    "en": "among",
+    "zh": "在…之中"
+  },
+  {
+    "word": "and",
+    "kk": "[ænd]",
+    "pos": "conj.",
+    "meaning": "和",
+    "en": "and",
+    "zh": "和"
+  },
+  {
+    "word": "anger",
+    "kk": "[ˋæŋgɚ]",
+    "pos": "n.",
+    "meaning": "憤怒",
+    "en": "anger",
+    "zh": "憤怒"
+  },
+  {
+    "word": "angry",
+    "kk": "[ˋæŋgrɪ]",
+    "pos": "adj.",
+    "meaning": "生氣的",
+    "en": "angry",
+    "zh": "生氣的"
+  },
+  {
+    "word": "animal",
+    "kk": "[ˋænəm!]",
+    "pos": "n.",
+    "meaning": "動物",
+    "en": "animal",
+    "zh": "動物"
+  },
+  {
+    "word": "another",
+    "kk": "[əˋnʌðɚ]",
+    "pos": "",
+    "meaning": "adj.另外的",
+    "en": "another",
+    "zh": "adj.另外的"
+  },
+  {
+    "word": "answer",
+    "kk": "[ˋænsɚ]",
+    "pos": "n.",
+    "meaning": "/ vt. 回答",
+    "en": "answer",
+    "zh": "/ vt. 回答"
+  },
+  {
+    "word": "ant",
+    "kk": "[ænt]",
+    "pos": "n.",
+    "meaning": "螞蟻",
+    "en": "ant",
+    "zh": "螞蟻"
+  },
+  {
+    "word": "any",
+    "kk": "[ˋɛnɪ]",
+    "pos": "adj.",
+    "meaning": "任何的",
+    "en": "any",
+    "zh": "任何的"
+  },
+  {
+    "word": "anything",
+    "kk": "[ˋɛnɪ͵θɪŋ]",
+    "pos": "n.",
+    "meaning": "任何東西",
+    "en": "anything",
+    "zh": "任何東西"
+  },
+  {
+    "word": "ape",
+    "kk": "[ep]",
+    "pos": "n.",
+    "meaning": "大猩猩",
+    "en": "ape",
+    "zh": "大猩猩"
+  },
+  {
+    "word": "appear",
+    "kk": "[əˋpɪr]",
+    "pos": "vi.",
+    "meaning": "出現",
+    "en": "appear",
+    "zh": "出現"
+  },
+  {
+    "word": "apple",
+    "kk": "[ˋæp!]",
+    "pos": "n.",
+    "meaning": "蘋果",
+    "en": "apple",
+    "zh": "蘋果"
+  },
+  {
+    "word": "April/Apr.",
+    "kk": "[ˋeprəl]",
+    "pos": "n.",
+    "meaning": "四月",
+    "en": "April/Apr.",
+    "zh": "四月"
+  },
+  {
+    "word": "are",
+    "kk": "[ɑr]",
+    "pos": "",
+    "meaning": "(第二人稱) vi. 是",
+    "en": "are",
+    "zh": "(第二人稱) vi. 是"
+  },
+  {
+    "word": "area",
+    "kk": "[ˋɛrɪə]",
+    "pos": "n.",
+    "meaning": "面積",
+    "en": "area",
+    "zh": "面積"
+  },
+  {
+    "word": "arm (1)",
+    "kk": "[ɑrm]",
+    "pos": "n.",
+    "meaning": "手臂",
+    "en": "arm (1)",
+    "zh": "手臂"
+  },
+  {
+    "word": "army",
+    "kk": "[ˋɑrmɪ]",
+    "pos": "n.",
+    "meaning": "軍隊",
+    "en": "army",
+    "zh": "軍隊"
+  },
+  {
+    "word": "around",
+    "kk": "[əˋraʊnd]",
+    "pos": "adv.",
+    "meaning": "/ prep. 到處",
+    "en": "around",
+    "zh": "/ prep. 到處"
+  },
+  {
+    "word": "art",
+    "kk": "[ɑrt]",
+    "pos": "n.",
+    "meaning": "藝術",
+    "en": "art",
+    "zh": "藝術"
+  },
+  {
+    "word": "as",
+    "kk": "[æz]",
+    "pos": "prep. adv. conj.",
+    "meaning": "當作、如同",
+    "en": "as",
+    "zh": "當作、如同"
+  },
+  {
+    "word": "ask",
+    "kk": "[æsk]",
+    "pos": "vt.",
+    "meaning": "詢問",
+    "en": "ask",
+    "zh": "詢問"
+  },
+  {
+    "word": "at",
+    "kk": "[æt]",
+    "pos": "prep.",
+    "meaning": "在…地點",
+    "en": "at",
+    "zh": "在…地點"
+  },
+  {
+    "word": "August/Aug.",
+    "kk": "[ɔˋgʌst]",
+    "pos": "n.",
+    "meaning": "八月",
+    "en": "August/Aug.",
+    "zh": "八月"
+  },
+  {
+    "word": "aunt/auntie/aunty",
+    "kk": "[ænt]",
+    "pos": "n.",
+    "meaning": "伯母",
+    "en": "aunt/auntie/aunty",
+    "zh": "伯母"
+  },
+  {
+    "word": "autumn/fall",
+    "kk": "[ˋɔtəm]",
+    "pos": "",
+    "meaning": "/ [fɔl] n.秋天",
+    "en": "autumn/fall",
+    "zh": "/ [fɔl] n.秋天"
+  },
+  {
+    "word": "away",
+    "kk": "[əˋwe]",
+    "pos": "adv.",
+    "meaning": "隔開",
+    "en": "away",
+    "zh": "隔開"
+  },
+  {
+    "word": "baby",
+    "kk": "[ˋbebɪ]",
+    "pos": "n.",
+    "meaning": "嬰兒",
+    "en": "baby",
+    "zh": "嬰兒"
+  },
+  {
+    "word": "back",
+    "kk": "[bæk]",
+    "pos": "n.",
+    "meaning": "背部",
+    "en": "back",
+    "zh": "背部"
+  },
+  {
+    "word": "bad",
+    "kk": "[bæd]",
+    "pos": "adj.",
+    "meaning": "壞的",
+    "en": "bad",
+    "zh": "壞的"
+  },
+  {
+    "word": "bag",
+    "kk": "[bæg]",
+    "pos": "n.",
+    "meaning": "袋子",
+    "en": "bag",
+    "zh": "袋子"
+  },
+  {
+    "word": "ball",
+    "kk": "[bɔl]",
+    "pos": "n.",
+    "meaning": "球",
+    "en": "ball",
+    "zh": "球"
+  },
+  {
+    "word": "balloon",
+    "kk": "[bəˋlun]",
+    "pos": "n.",
+    "meaning": "氣球",
+    "en": "balloon",
+    "zh": "氣球"
+  },
+  {
+    "word": "banana",
+    "kk": "[bəˋnænə]",
+    "pos": "n.",
+    "meaning": "香蕉",
+    "en": "banana",
+    "zh": "香蕉"
+  },
+  {
+    "word": "band",
+    "kk": "[bænd]",
+    "pos": "n.",
+    "meaning": "綁帶",
+    "en": "band",
+    "zh": "綁帶"
+  },
+  {
+    "word": "bank",
+    "kk": "[bæŋk]",
+    "pos": "n.",
+    "meaning": "(1)銀行 (2) 河堤",
+    "en": "bank",
+    "zh": "(1)銀行 (2) 河堤"
+  },
+  {
+    "word": "bar",
+    "kk": "[bɑr]",
+    "pos": "n.",
+    "meaning": "棒；酒吧",
+    "en": "bar",
+    "zh": "棒；酒吧"
+  },
+  {
+    "word": "barber",
+    "kk": "[ˋbɑrbɚ]",
+    "pos": "n.",
+    "meaning": "理髮師",
+    "en": "barber",
+    "zh": "理髮師"
+  },
+  {
+    "word": "base",
+    "kk": "[bes]",
+    "pos": "n.",
+    "meaning": "基底",
+    "en": "base",
+    "zh": "基底"
+  },
+  {
+    "word": "baseball",
+    "kk": "[ˋbes͵bɔl]",
+    "pos": "n.",
+    "meaning": "棒球",
+    "en": "baseball",
+    "zh": "棒球"
+  },
+  {
+    "word": "basic",
+    "kk": "[ˋbesɪk]",
+    "pos": "adj.",
+    "meaning": "基礎的",
+    "en": "basic",
+    "zh": "基礎的"
+  },
+  {
+    "word": "basket",
+    "kk": "[ˋbæskɪt]",
+    "pos": "n.",
+    "meaning": "籃子",
+    "en": "basket",
+    "zh": "籃子"
+  },
+  {
+    "word": "basketball",
+    "kk": "[ˋbæskɪt͵bɔl]",
+    "pos": "n.",
+    "meaning": "籃球",
+    "en": "basketball",
+    "zh": "籃球"
+  },
+  {
+    "word": "bat",
+    "kk": "[bæt]",
+    "pos": "n.",
+    "meaning": "(1)球棒 (2)蝙蝠",
+    "en": "bat",
+    "zh": "(1)球棒 (2)蝙蝠"
+  },
+  {
+    "word": "bath",
+    "kk": "[bæθ]",
+    "pos": "n.",
+    "meaning": "沐浴；浴缸",
+    "en": "bath",
+    "zh": "沐浴；浴缸"
+  },
+  {
+    "word": "bathe",
+    "kk": "[beð]",
+    "pos": "vt.",
+    "meaning": "浸洗",
+    "en": "bathe",
+    "zh": "浸洗"
+  },
+  {
+    "word": "bathroom",
+    "kk": "[ˋbæθ͵rum]",
+    "pos": "n.",
+    "meaning": "浴室",
+    "en": "bathroom",
+    "zh": "浴室"
+  },
+  {
+    "word": "be",
+    "kk": "[bi]",
+    "pos": "vi.",
+    "meaning": "是",
+    "en": "be",
+    "zh": "是"
+  },
+  {
+    "word": "beach",
+    "kk": "[bitʃ]",
+    "pos": "n.",
+    "meaning": "海灘",
+    "en": "beach",
+    "zh": "海灘"
+  },
+  {
+    "word": "bear",
+    "kk": "[bɛr]",
+    "pos": "n.",
+    "meaning": "(1) 熊",
+    "en": "bear",
+    "zh": "(1) 熊"
+  },
+  {
+    "word": "beat",
+    "kk": "[bit]",
+    "pos": "vt.",
+    "meaning": "打、擊",
+    "en": "beat",
+    "zh": "打、擊"
+  },
+  {
+    "word": "beautiful",
+    "kk": "[ˋbjutəfəl]",
+    "pos": "adj.",
+    "meaning": "美麗的",
+    "en": "beautiful",
+    "zh": "美麗的"
+  },
+  {
+    "word": "beauty",
+    "kk": "[ˋbjutɪ]",
+    "pos": "n.",
+    "meaning": "美麗",
+    "en": "beauty",
+    "zh": "美麗"
+  },
+  {
+    "word": "because",
+    "kk": "[bɪˋkɔz]",
+    "pos": "conj.",
+    "meaning": "因為",
+    "en": "because",
+    "zh": "因為"
+  },
+  {
+    "word": "become",
+    "kk": "[bɪˋkʌm]",
+    "pos": "vi.",
+    "meaning": "成為",
+    "en": "become",
+    "zh": "成為"
+  },
+  {
+    "word": "bed",
+    "kk": "[bɛd]",
+    "pos": "n.",
+    "meaning": "床",
+    "en": "bed",
+    "zh": "床"
+  },
+  {
+    "word": "bee",
+    "kk": "[bi]",
+    "pos": "n.",
+    "meaning": "蜜蜂",
+    "en": "bee",
+    "zh": "蜜蜂"
+  },
+  {
+    "word": "before",
+    "kk": "[bɪˋfor]",
+    "pos": "prep.",
+    "meaning": "在…之前",
+    "en": "before",
+    "zh": "在…之前"
+  },
+  {
+    "word": "begin",
+    "kk": "[bɪˋgɪn]",
+    "pos": "vt.",
+    "meaning": "開始",
+    "en": "begin",
+    "zh": "開始"
+  },
+  {
+    "word": "behind",
+    "kk": "[bɪˋhaɪnd]",
+    "pos": "",
+    "meaning": "prep.在…後面",
+    "en": "behind",
+    "zh": "prep.在…後面"
+  },
+  {
+    "word": "believe",
+    "kk": "[bɪˋliv]",
+    "pos": "vt.",
+    "meaning": "相信",
+    "en": "believe",
+    "zh": "相信"
+  },
+  {
+    "word": "bell",
+    "kk": "[bɛl]",
+    "pos": "n.",
+    "meaning": "鈴",
+    "en": "bell",
+    "zh": "鈴"
+  },
+  {
+    "word": "belong",
+    "kk": "[bəˋlɔŋ]",
+    "pos": "vi.",
+    "meaning": "屬於",
+    "en": "belong",
+    "zh": "屬於"
+  },
+  {
+    "word": "below",
+    "kk": "[bəˋlo]",
+    "pos": "prep.",
+    "meaning": "在…下面",
+    "en": "below",
+    "zh": "在…下面"
+  },
+  {
+    "word": "beside",
+    "kk": "[bɪˋsaɪd]",
+    "pos": "prep.",
+    "meaning": "在旁邊",
+    "en": "beside",
+    "zh": "在旁邊"
+  },
+  {
+    "word": "best",
+    "kk": "[bɛst]",
+    "pos": "adj.",
+    "meaning": "最好的",
+    "en": "best",
+    "zh": "最好的"
+  },
+  {
+    "word": "better",
+    "kk": "[ˋbɛtɚ]",
+    "pos": "adj.",
+    "meaning": "較好的",
+    "en": "better",
+    "zh": "較好的"
+  },
+  {
+    "word": "between",
+    "kk": "[bɪˋtwin]",
+    "pos": "",
+    "meaning": "prep.在…之間",
+    "en": "between",
+    "zh": "prep.在…之間"
+  },
+  {
+    "word": "bicycle/bike",
+    "kk": "[ˋbaɪsɪk!]",
+    "pos": "",
+    "meaning": "/[baɪk] n.",
+    "en": "bicycle/bike",
+    "zh": "/[baɪk] n."
+  },
+  {
+    "word": "big",
+    "kk": "[bɪg]",
+    "pos": "adj.",
+    "meaning": "大的",
+    "en": "big",
+    "zh": "大的"
+  },
+  {
+    "word": "bird",
+    "kk": "[bɝd]",
+    "pos": "n.",
+    "meaning": "鳥",
+    "en": "bird",
+    "zh": "鳥"
+  },
+  {
+    "word": "birth",
+    "kk": "[bɝθ]",
+    "pos": "n.",
+    "meaning": "出生",
+    "en": "birth",
+    "zh": "出生"
+  },
+  {
+    "word": "bit",
+    "kk": "[bɪt]",
+    "pos": "n.",
+    "meaning": "一點",
+    "en": "bit",
+    "zh": "一點"
+  },
+  {
+    "word": "bite",
+    "kk": "[baɪt]",
+    "pos": "vt.",
+    "meaning": "咬",
+    "en": "bite",
+    "zh": "咬"
+  },
+  {
+    "word": "black",
+    "kk": "[blæk]",
+    "pos": "adj.",
+    "meaning": "黑色的",
+    "en": "black",
+    "zh": "黑色的"
+  },
+  {
+    "word": "block",
+    "kk": "[blɑk]",
+    "pos": "n.",
+    "meaning": "街區",
+    "en": "block",
+    "zh": "街區"
+  },
+  {
+    "word": "blood",
+    "kk": "[blʌd]",
+    "pos": "n.",
+    "meaning": "血",
+    "en": "blood",
+    "zh": "血"
+  },
+  {
+    "word": "blow",
+    "kk": "[blo]",
+    "pos": "vt.",
+    "meaning": "吹",
+    "en": "blow",
+    "zh": "吹"
+  },
+  {
+    "word": "blue",
+    "kk": "[blu]",
+    "pos": "adj.",
+    "meaning": "藍色的",
+    "en": "blue",
+    "zh": "藍色的"
+  },
+  {
+    "word": "boat",
+    "kk": "[bot]",
+    "pos": "n.",
+    "meaning": "小船",
+    "en": "boat",
+    "zh": "小船"
+  },
+  {
+    "word": "body",
+    "kk": "[ˋbɑdɪ]",
+    "pos": "n.",
+    "meaning": "身體",
+    "en": "body",
+    "zh": "身體"
+  },
+  {
+    "word": "bone",
+    "kk": "[bon]",
+    "pos": "n.",
+    "meaning": "骨頭",
+    "en": "bone",
+    "zh": "骨頭"
+  },
+  {
+    "word": "book",
+    "kk": "[bʊk]",
+    "pos": "",
+    "meaning": "(1) n.書 (2) vt.預定",
+    "en": "book",
+    "zh": "(1) n.書 (2) vt.預定"
+  },
+  {
+    "word": "born",
+    "kk": "[bɔrn]",
+    "pos": "a.",
+    "meaning": "出生的",
+    "en": "born",
+    "zh": "出生的"
+  },
+  {
+    "word": "both",
+    "kk": "[boθ]",
+    "pos": "",
+    "meaning": "adj./adv.兩者都",
+    "en": "both",
+    "zh": "adj./adv.兩者都"
+  },
+  {
+    "word": "bottom",
+    "kk": "[ˋbɑtəm]",
+    "pos": "n.",
+    "meaning": "底部",
+    "en": "bottom",
+    "zh": "底部"
+  },
+  {
+    "word": "bowl",
+    "kk": "[bol]",
+    "pos": "n.",
+    "meaning": "碗",
+    "en": "bowl",
+    "zh": "碗"
+  },
+  {
+    "word": "box",
+    "kk": "[bɑks]",
+    "pos": "n.",
+    "meaning": "箱子",
+    "en": "box",
+    "zh": "箱子"
+  },
+  {
+    "word": "boy",
+    "kk": "[bɔɪ]",
+    "pos": "n.",
+    "meaning": "男孩",
+    "en": "boy",
+    "zh": "男孩"
+  },
+  {
+    "word": "brave",
+    "kk": "[brev]",
+    "pos": "adj.",
+    "meaning": "勇敢的",
+    "en": "brave",
+    "zh": "勇敢的"
+  },
+  {
+    "word": "bread",
+    "kk": "[brɛd]",
+    "pos": "n.",
+    "meaning": "麵包",
+    "en": "bread",
+    "zh": "麵包"
+  },
+  {
+    "word": "break",
+    "kk": "[brek]",
+    "pos": "vt.",
+    "meaning": "打破",
+    "en": "break",
+    "zh": "打破"
+  },
+  {
+    "word": "breakfast",
+    "kk": "[ˋbrɛkfəst]",
+    "pos": "n.",
+    "meaning": "早餐",
+    "en": "breakfast",
+    "zh": "早餐"
+  },
+  {
+    "word": "bridge",
+    "kk": "[brɪdʒ]",
+    "pos": "n.",
+    "meaning": "橋",
+    "en": "bridge",
+    "zh": "橋"
+  },
+  {
+    "word": "bright",
+    "kk": "[braɪt]",
+    "pos": "adj.",
+    "meaning": "明亮的",
+    "en": "bright",
+    "zh": "明亮的"
+  },
+  {
+    "word": "bring",
+    "kk": "[brɪŋ]",
+    "pos": "vt.",
+    "meaning": "帶來",
+    "en": "bring",
+    "zh": "帶來"
+  },
+  {
+    "word": "brother",
+    "kk": "[ˋbrʌðɚ]",
+    "pos": "n.",
+    "meaning": "兄弟",
+    "en": "brother",
+    "zh": "兄弟"
+  },
+  {
+    "word": "brown",
+    "kk": "[braʊn]",
+    "pos": "adj.",
+    "meaning": "褐色",
+    "en": "brown",
+    "zh": "褐色"
+  },
+  {
+    "word": "bug",
+    "kk": "[bʌg]",
+    "pos": "n.",
+    "meaning": "蟲子",
+    "en": "bug",
+    "zh": "蟲子"
+  },
+  {
+    "word": "build",
+    "kk": "[bɪld]",
+    "pos": "vt.",
+    "meaning": "建造",
+    "en": "build",
+    "zh": "建造"
+  },
+  {
+    "word": "building",
+    "kk": "[ˋbɪldɪŋ]",
+    "pos": "n.",
+    "meaning": "建築物",
+    "en": "building",
+    "zh": "建築物"
+  },
+  {
+    "word": "bus",
+    "kk": "[bʌs]",
+    "pos": "n.",
+    "meaning": "巴士",
+    "en": "bus",
+    "zh": "巴士"
+  },
+  {
+    "word": "busy",
+    "kk": "[ˋbɪzɪ]",
+    "pos": "adj.",
+    "meaning": "忙碌的",
+    "en": "busy",
+    "zh": "忙碌的"
+  },
+  {
+    "word": "but",
+    "kk": "[bʌt]",
+    "pos": "conj.",
+    "meaning": "但是",
+    "en": "but",
+    "zh": "但是"
+  },
+  {
+    "word": "butter",
+    "kk": "[ˋbʌtɚ]",
+    "pos": "n.",
+    "meaning": "奶油",
+    "en": "butter",
+    "zh": "奶油"
+  },
+  {
+    "word": "butterfly",
+    "kk": "[ˋbʌtɚ͵flaɪ]",
+    "pos": "n.",
+    "meaning": "蝴蝶",
+    "en": "butterfly",
+    "zh": "蝴蝶"
+  },
+  {
+    "word": "buy",
+    "kk": "[baɪ]",
+    "pos": "vt.",
+    "meaning": "買",
+    "en": "buy",
+    "zh": "買"
+  },
+  {
+    "word": "by",
+    "kk": "[baɪ]",
+    "pos": "prep.",
+    "meaning": "透過；在…旁邊",
+    "en": "by",
+    "zh": "透過；在…旁邊"
+  },
+  {
+    "word": "cage",
+    "kk": "[kedʒ]",
+    "pos": "n.",
+    "meaning": "獸籠",
+    "en": "cage",
+    "zh": "獸籠"
+  },
+  {
+    "word": "cake",
+    "kk": "[kek]",
+    "pos": "n.",
+    "meaning": "蛋糕",
+    "en": "cake",
+    "zh": "蛋糕"
+  },
+  {
+    "word": "call",
+    "kk": "[kɔl]",
+    "pos": "vt.",
+    "meaning": "呼叫",
+    "en": "call",
+    "zh": "呼叫"
+  },
+  {
+    "word": "camel",
+    "kk": "[ˋkæm!]",
+    "pos": "n.",
+    "meaning": "駱駝",
+    "en": "camel",
+    "zh": "駱駝"
+  },
+  {
+    "word": "camera",
+    "kk": "[ˋkæmərə]",
+    "pos": "n.",
+    "meaning": "照相機",
+    "en": "camera",
+    "zh": "照相機"
+  },
+  {
+    "word": "camp",
+    "kk": "[kæmp]",
+    "pos": "n.",
+    "meaning": "營地",
+    "en": "camp",
+    "zh": "營地"
+  },
+  {
+    "word": "can",
+    "kk": "[kæn]",
+    "pos": "",
+    "meaning": "(1) aux.可以 (2) n.罐頭",
+    "en": "can",
+    "zh": "(1) aux.可以 (2) n.罐頭"
+  },
+  {
+    "word": "candy/sweet",
+    "kk": "[ˋkændɪ]",
+    "pos": "",
+    "meaning": "/ [swit] n.糖果",
+    "en": "candy/sweet",
+    "zh": "/ [swit] n.糖果"
+  },
+  {
+    "word": "cap",
+    "kk": "[kæp]",
+    "pos": "n.",
+    "meaning": "棒球帽",
+    "en": "cap",
+    "zh": "棒球帽"
+  },
+  {
+    "word": "car",
+    "kk": "[kɑr]",
+    "pos": "n.",
+    "meaning": "汽車",
+    "en": "car",
+    "zh": "汽車"
+  },
+  {
+    "word": "card",
+    "kk": "[kɑrd]",
+    "pos": "n.",
+    "meaning": "紙牌",
+    "en": "card",
+    "zh": "紙牌"
+  },
+  {
+    "word": "care",
+    "kk": "[kɛr]",
+    "pos": "vi.",
+    "meaning": "關心",
+    "en": "care",
+    "zh": "關心"
+  },
+  {
+    "word": "careful",
+    "kk": "[ˋkɛrfəl]",
+    "pos": "adj.",
+    "meaning": "小心的",
+    "en": "careful",
+    "zh": "小心的"
+  },
+  {
+    "word": "carry",
+    "kk": "[ˋkærɪ]",
+    "pos": "",
+    "meaning": "vt.(用手)提、搬、扛",
+    "en": "carry",
+    "zh": "vt.(用手)提、搬、扛"
+  },
+  {
+    "word": "case",
+    "kk": "[kes]",
+    "pos": "n.",
+    "meaning": "(1)箱子 (2)案件",
+    "en": "case",
+    "zh": "(1)箱子 (2)案件"
+  },
+  {
+    "word": "cat",
+    "kk": "[kæt]",
+    "pos": "n.",
+    "meaning": "貓",
+    "en": "cat",
+    "zh": "貓"
+  },
+  {
+    "word": "catch",
+    "kk": "[kætʃ]",
+    "pos": "vt.",
+    "meaning": "接住、抓住",
+    "en": "catch",
+    "zh": "接住、抓住"
+  },
+  {
+    "word": "cause",
+    "kk": "[kɔz]",
+    "pos": "n.",
+    "meaning": "原因",
+    "en": "cause",
+    "zh": "原因"
+  },
+  {
+    "word": "cent",
+    "kk": "[sɛnt]",
+    "pos": "n.",
+    "meaning": "分(美元)",
+    "en": "cent",
+    "zh": "分(美元)"
+  },
+  {
+    "word": "center",
+    "kk": "[ˋsɛntɚ]",
+    "pos": "n.",
+    "meaning": "中心",
+    "en": "center",
+    "zh": "中心"
+  },
+  {
+    "word": "certain",
+    "kk": "[ˋsɝtən]",
+    "pos": "adj.",
+    "meaning": "確切的",
+    "en": "certain",
+    "zh": "確切的"
+  },
+  {
+    "word": "chair",
+    "kk": "[tʃɛr]",
+    "pos": "n.",
+    "meaning": "椅子",
+    "en": "chair",
+    "zh": "椅子"
+  },
+  {
+    "word": "chance",
+    "kk": "[tʃæns]",
+    "pos": "n.",
+    "meaning": "機會",
+    "en": "chance",
+    "zh": "機會"
+  },
+  {
+    "word": "chart",
+    "kk": "[tʃɑrt]",
+    "pos": "n.",
+    "meaning": "圖表",
+    "en": "chart",
+    "zh": "圖表"
+  },
+  {
+    "word": "chase",
+    "kk": "[tʃes]",
+    "pos": "vt.",
+    "meaning": "追捕",
+    "en": "chase",
+    "zh": "追捕"
+  },
+  {
+    "word": "check",
+    "kk": "[tʃɛk]",
+    "pos": "vt.",
+    "meaning": "檢查",
+    "en": "check",
+    "zh": "檢查"
+  },
+  {
+    "word": "chick",
+    "kk": "[tʃɪk]",
+    "pos": "n.",
+    "meaning": "小雞",
+    "en": "chick",
+    "zh": "小雞"
+  },
+  {
+    "word": "chicken",
+    "kk": "[ˋtʃɪkɪn]",
+    "pos": "n.",
+    "meaning": "雞",
+    "en": "chicken",
+    "zh": "雞"
+  },
+  {
+    "word": "chief",
+    "kk": "[tʃif]",
+    "pos": "n.",
+    "meaning": "領袖",
+    "en": "chief",
+    "zh": "領袖"
+  },
+  {
+    "word": "child",
+    "kk": "[tʃaɪld]",
+    "pos": "n.",
+    "meaning": "小孩",
+    "en": "child",
+    "zh": "小孩"
+  },
+  {
+    "word": "Christmas/Xmas",
+    "kk": "[ˋkrɪsməs]",
+    "pos": "",
+    "meaning": "n.聖誕節",
+    "en": "Christmas/Xmas",
+    "zh": "n.聖誕節"
+  },
+  {
+    "word": "church",
+    "kk": "[tʃɝtʃ]",
+    "pos": "n.",
+    "meaning": "教堂",
+    "en": "church",
+    "zh": "教堂"
+  },
+  {
+    "word": "city",
+    "kk": "[ˋsɪtɪ]",
+    "pos": "n.",
+    "meaning": "城市",
+    "en": "city",
+    "zh": "城市"
+  },
+  {
+    "word": "class",
+    "kk": "[klæs]",
+    "pos": "n.",
+    "meaning": "班級、等級",
+    "en": "class",
+    "zh": "班級、等級"
+  },
+  {
+    "word": "clean",
+    "kk": "[klin]",
+    "pos": "a.",
+    "meaning": "乾淨的",
+    "en": "clean",
+    "zh": "乾淨的"
+  },
+  {
+    "word": "clear",
+    "kk": "[klɪr]",
+    "pos": "adj.",
+    "meaning": "清晰的",
+    "en": "clear",
+    "zh": "清晰的"
+  },
+  {
+    "word": "climb",
+    "kk": "[klaɪm]",
+    "pos": "vi.",
+    "meaning": "/vt. 爬",
+    "en": "climb",
+    "zh": "/vt. 爬"
+  },
+  {
+    "word": "clock",
+    "kk": "[klɑk]",
+    "pos": "n.",
+    "meaning": "時鐘",
+    "en": "clock",
+    "zh": "時鐘"
+  },
+  {
+    "word": "close",
+    "kk": "[klos]",
+    "pos": "",
+    "meaning": "(1) adj. 接近的 (2) vt. 關",
+    "en": "close",
+    "zh": "(1) adj. 接近的 (2) vt. 關"
+  },
+  {
+    "word": "cloud",
+    "kk": "[klaʊd]",
+    "pos": "n.",
+    "meaning": "雲",
+    "en": "cloud",
+    "zh": "雲"
+  },
+  {
+    "word": "coast",
+    "kk": "[kost]",
+    "pos": "n.",
+    "meaning": "海岸",
+    "en": "coast",
+    "zh": "海岸"
+  },
+  {
+    "word": "coat",
+    "kk": "[kot]",
+    "pos": "n.",
+    "meaning": "大衣",
+    "en": "coat",
+    "zh": "大衣"
+  },
+  {
+    "word": "cocoa",
+    "kk": "[ˋkoko]",
+    "pos": "n.",
+    "meaning": "可可豆",
+    "en": "cocoa",
+    "zh": "可可豆"
+  },
+  {
+    "word": "coffee",
+    "kk": "[ˋkɔfɪ]",
+    "pos": "n.",
+    "meaning": "咖啡",
+    "en": "coffee",
+    "zh": "咖啡"
+  },
+  {
+    "word": "cola/Coke",
+    "kk": "[ˋkolə]",
+    "pos": "",
+    "meaning": "/ [kok] n. 可樂",
+    "en": "cola/Coke",
+    "zh": "/ [kok] n. 可樂"
+  },
+  {
+    "word": "cold",
+    "kk": "[kold]",
+    "pos": "adj.",
+    "meaning": "冷的",
+    "en": "cold",
+    "zh": "冷的"
+  },
+  {
+    "word": "color",
+    "kk": "[ˋkʌlɚ]",
+    "pos": "n.",
+    "meaning": "顏色",
+    "en": "color",
+    "zh": "顏色"
+  },
+  {
+    "word": "come",
+    "kk": "[kʌm]",
+    "pos": "vi.",
+    "meaning": "來",
+    "en": "come",
+    "zh": "來"
+  },
+  {
+    "word": "common",
+    "kk": "[ˋkɑmən]",
+    "pos": "adj.",
+    "meaning": "普通的",
+    "en": "common",
+    "zh": "普通的"
+  },
+  {
+    "word": "continue",
+    "kk": "[kənˋtɪnjʊ]",
+    "pos": "",
+    "meaning": "vi.繼續",
+    "en": "continue",
+    "zh": "vi.繼續"
+  },
+  {
+    "word": "cook",
+    "kk": "[kʊk]",
+    "pos": "vt.",
+    "meaning": "煮",
+    "en": "cook",
+    "zh": "煮"
+  },
+  {
+    "word": "cookie/cooky",
+    "kk": "[ˈkʊki]",
+    "pos": "n.",
+    "meaning": "餅乾",
+    "en": "cookie/cooky",
+    "zh": "餅乾"
+  },
+  {
+    "word": "cool",
+    "kk": "[kul]",
+    "pos": "adj.",
+    "meaning": "酷的",
+    "en": "cool",
+    "zh": "酷的"
+  },
+  {
+    "word": "corn",
+    "kk": "[kɔrn]",
+    "pos": "n.",
+    "meaning": "玉米",
+    "en": "corn",
+    "zh": "玉米"
+  },
+  {
+    "word": "correct",
+    "kk": "[kəˋrɛkt]",
+    "pos": "adj.",
+    "meaning": "正確的",
+    "en": "correct",
+    "zh": "正確的"
+  },
+  {
+    "word": "cost",
+    "kk": "[kɔst]",
+    "pos": "vi.",
+    "meaning": "/n. 花費",
+    "en": "cost",
+    "zh": "/n. 花費"
+  },
+  {
+    "word": "count",
+    "kk": "[kaʊnt]",
+    "pos": "vt.",
+    "meaning": "計算",
+    "en": "count",
+    "zh": "計算"
+  },
+  {
+    "word": "country",
+    "kk": "[ˋkʌntrɪ]",
+    "pos": "n.",
+    "meaning": "國家",
+    "en": "country",
+    "zh": "國家"
+  },
+  {
+    "word": "course",
+    "kk": "[kors]",
+    "pos": "n.",
+    "meaning": "路線",
+    "en": "course",
+    "zh": "路線"
+  },
+  {
+    "word": "cover",
+    "kk": "[ˋkʌvɚ]",
+    "pos": "vt.",
+    "meaning": "覆蓋",
+    "en": "cover",
+    "zh": "覆蓋"
+  },
+  {
+    "word": "cow",
+    "kk": "[kaʊ]",
+    "pos": "n.",
+    "meaning": "母牛",
+    "en": "cow",
+    "zh": "母牛"
+  },
+  {
+    "word": "cowboy",
+    "kk": "[ˋkaʊbɔɪ]",
+    "pos": "n.",
+    "meaning": "牛仔",
+    "en": "cowboy",
+    "zh": "牛仔"
+  },
+  {
+    "word": "crow",
+    "kk": "[kro]",
+    "pos": "n.",
+    "meaning": "(1) 烏鴉；啼叫聲",
+    "en": "crow",
+    "zh": "(1) 烏鴉；啼叫聲"
+  },
+  {
+    "word": "cry",
+    "kk": "[kraɪ]",
+    "pos": "vi.",
+    "meaning": "哭",
+    "en": "cry",
+    "zh": "哭"
+  },
+  {
+    "word": "cub",
+    "kk": "[kʌb]",
+    "pos": "n.",
+    "meaning": "幼獸",
+    "en": "cub",
+    "zh": "幼獸"
+  },
+  {
+    "word": "cup",
+    "kk": "[kʌp]",
+    "pos": "n.",
+    "meaning": "杯子",
+    "en": "cup",
+    "zh": "杯子"
+  },
+  {
+    "word": "cut",
+    "kk": "[kʌt]",
+    "pos": "vt.",
+    "meaning": "切、剪",
+    "en": "cut",
+    "zh": "切、剪"
+  },
+  {
+    "word": "cute",
+    "kk": "[kjut]",
+    "pos": "adj.",
+    "meaning": "可愛的",
+    "en": "cute",
+    "zh": "可愛的"
+  },
+  {
+    "word": "",
+    "kk": "[ˋdædɪ]",
+    "pos": "",
+    "meaning": "/ [dæd]/ [ˋpɑpə]/ [pɑ]/ [pɑp]",
+    "en": "",
+    "zh": "/ [dæd]/ [ˋpɑpə]/ [pɑ]/ [pɑp]"
+  },
+  {
+    "word": "dance",
+    "kk": "[dæns]",
+    "pos": "vi.",
+    "meaning": "跳舞",
+    "en": "dance",
+    "zh": "跳舞"
+  },
+  {
+    "word": "dancer",
+    "kk": "[ˋdænsɚ]",
+    "pos": "n.",
+    "meaning": "舞蹈家",
+    "en": "dancer",
+    "zh": "舞蹈家"
+  },
+  {
+    "word": "danger",
+    "kk": "[ˋdendʒɚ]",
+    "pos": "n.",
+    "meaning": "危險",
+    "en": "danger",
+    "zh": "危險"
+  },
+  {
+    "word": "dark",
+    "kk": "[dɑrk]",
+    "pos": "adj.",
+    "meaning": "黑暗的",
+    "en": "dark",
+    "zh": "黑暗的"
+  },
+  {
+    "word": "date",
+    "kk": "[det]",
+    "pos": "n.",
+    "meaning": "日期",
+    "en": "date",
+    "zh": "日期"
+  },
+  {
+    "word": "daughter",
+    "kk": "[ˋdɔtɚ]",
+    "pos": "n.",
+    "meaning": "女兒",
+    "en": "daughter",
+    "zh": "女兒"
+  },
+  {
+    "word": "day",
+    "kk": "[de]",
+    "pos": "n.",
+    "meaning": "一天",
+    "en": "day",
+    "zh": "一天"
+  },
+  {
+    "word": "dead",
+    "kk": "[dɛd]",
+    "pos": "adj.",
+    "meaning": "死的",
+    "en": "dead",
+    "zh": "死的"
+  },
+  {
+    "word": "deal",
+    "kk": "[dil]",
+    "pos": "vi.",
+    "meaning": "處理",
+    "en": "deal",
+    "zh": "處理"
+  },
+  {
+    "word": "dear",
+    "kk": "[dɪr]",
+    "pos": "adj.",
+    "meaning": "親愛的",
+    "en": "dear",
+    "zh": "親愛的"
+  },
+  {
+    "word": "death",
+    "kk": "[dɛθ]",
+    "pos": "n.",
+    "meaning": "死亡",
+    "en": "death",
+    "zh": "死亡"
+  },
+  {
+    "word": "December/Dec.",
+    "kk": "[dɪˋsɛmbɚ]",
+    "pos": "",
+    "meaning": "n.十二月",
+    "en": "December/Dec.",
+    "zh": "n.十二月"
+  },
+  {
+    "word": "decide",
+    "kk": "[dɪˋsaɪd]",
+    "pos": "",
+    "meaning": "vt.決定",
+    "en": "decide",
+    "zh": "vt.決定"
+  },
+  {
+    "word": "deep",
+    "kk": "[dip]",
+    "pos": "adj.",
+    "meaning": "深的",
+    "en": "deep",
+    "zh": "深的"
+  },
+  {
+    "word": "deer",
+    "kk": "[dɪr]",
+    "pos": "n.",
+    "meaning": "鹿",
+    "en": "deer",
+    "zh": "鹿"
+  },
+  {
+    "word": "desk",
+    "kk": "[dɛsk]",
+    "pos": "n.",
+    "meaning": "桌子",
+    "en": "desk",
+    "zh": "桌子"
+  },
+  {
+    "word": "die",
+    "kk": "[daɪ]",
+    "pos": "vi.",
+    "meaning": "死",
+    "en": "die",
+    "zh": "死"
+  },
+  {
+    "word": "different",
+    "kk": "[ˋdɪfərənt]",
+    "pos": "adj.",
+    "meaning": "不同的",
+    "en": "different",
+    "zh": "不同的"
+  },
+  {
+    "word": "difficult",
+    "kk": "[ˋdɪfə͵kəlt]",
+    "pos": "adj.",
+    "meaning": "困難的",
+    "en": "difficult",
+    "zh": "困難的"
+  },
+  {
+    "word": "dig",
+    "kk": "[dɪg]",
+    "pos": "vt.",
+    "meaning": "挖",
+    "en": "dig",
+    "zh": "挖"
+  },
+  {
+    "word": "dinner",
+    "kk": "[ˋdɪnɚ]",
+    "pos": "n.",
+    "meaning": "晚餐",
+    "en": "dinner",
+    "zh": "晚餐"
+  },
+  {
+    "word": "direct",
+    "kk": "[dəˋrɛkt]",
+    "pos": "vt.",
+    "meaning": "指揮",
+    "en": "direct",
+    "zh": "指揮"
+  },
+  {
+    "word": "dirty",
+    "kk": "[ˋdɝtɪ]",
+    "pos": "adj.",
+    "meaning": "髒的",
+    "en": "dirty",
+    "zh": "髒的"
+  },
+  {
+    "word": "discover",
+    "kk": "[dɪsˋkʌvɚ]",
+    "pos": "vt.",
+    "meaning": "發現",
+    "en": "discover",
+    "zh": "發現"
+  },
+  {
+    "word": "dish",
+    "kk": "[dɪʃ]",
+    "pos": "n.",
+    "meaning": "碟",
+    "en": "dish",
+    "zh": "碟"
+  },
+  {
+    "word": "do",
+    "kk": "[du]",
+    "pos": "vt.",
+    "meaning": "做",
+    "en": "do",
+    "zh": "做"
+  },
+  {
+    "word": "doctor/doc",
+    "kk": "[ˋdɑktɚ]",
+    "pos": "n.",
+    "meaning": "醫生",
+    "en": "doctor/doc",
+    "zh": "醫生"
+  },
+  {
+    "word": "dog",
+    "kk": "[dɔg]",
+    "pos": "n.",
+    "meaning": "狗",
+    "en": "dog",
+    "zh": "狗"
+  },
+  {
+    "word": "doll",
+    "kk": "[dɑl]",
+    "pos": "n.",
+    "meaning": "玩偶",
+    "en": "doll",
+    "zh": "玩偶"
+  },
+  {
+    "word": "dollar/buck",
+    "kk": "[ˋdɑlɚ]",
+    "pos": "",
+    "meaning": "/ [bʌk] n. 元",
+    "en": "dollar/buck",
+    "zh": "/ [bʌk] n. 元"
+  },
+  {
+    "word": "door",
+    "kk": "[dor]",
+    "pos": "n.",
+    "meaning": "門",
+    "en": "door",
+    "zh": "門"
+  },
+  {
+    "word": "dove",
+    "kk": "[dʌv]",
+    "pos": "n.",
+    "meaning": "鴿子",
+    "en": "dove",
+    "zh": "鴿子"
+  },
+  {
+    "word": "down",
+    "kk": "[daʊn]",
+    "pos": "adv.",
+    "meaning": "向下",
+    "en": "down",
+    "zh": "向下"
+  },
+  {
+    "word": "downstairs",
+    "kk": "[͵daʊnˋstɛrz]",
+    "pos": "adj.",
+    "meaning": "adv.樓下的",
+    "en": "downstairs",
+    "zh": "adv.樓下的"
+  },
+  {
+    "word": "dozen",
+    "kk": "[ˋdʌzn]",
+    "pos": "n.",
+    "meaning": "一打",
+    "en": "dozen",
+    "zh": "一打"
+  },
+  {
+    "word": "draw",
+    "kk": "[drɔ]",
+    "pos": "vt.",
+    "meaning": "畫",
+    "en": "draw",
+    "zh": "畫"
+  },
+  {
+    "word": "dream",
+    "kk": "[drim]",
+    "pos": "n.",
+    "meaning": "夢",
+    "en": "dream",
+    "zh": "夢"
+  },
+  {
+    "word": "drink",
+    "kk": "[drɪŋk]",
+    "pos": "vt.",
+    "meaning": "喝",
+    "en": "drink",
+    "zh": "喝"
+  },
+  {
+    "word": "drive",
+    "kk": "[draɪv]",
+    "pos": "vt.",
+    "meaning": "開車",
+    "en": "drive",
+    "zh": "開車"
+  },
+  {
+    "word": "driver",
+    "kk": "[ˋdraɪvɚ]",
+    "pos": "n.",
+    "meaning": "司機",
+    "en": "driver",
+    "zh": "司機"
+  },
+  {
+    "word": "dry",
+    "kk": "[draɪ]",
+    "pos": "adj.",
+    "meaning": "乾的",
+    "en": "dry",
+    "zh": "乾的"
+  },
+  {
+    "word": "duck",
+    "kk": "[dʌk]",
+    "pos": "n.",
+    "meaning": "鴨子",
+    "en": "duck",
+    "zh": "鴨子"
+  },
+  {
+    "word": "duckling",
+    "kk": "[ˋdʌklɪŋ]",
+    "pos": "",
+    "meaning": "n.小鴨",
+    "en": "duckling",
+    "zh": "n.小鴨"
+  },
+  {
+    "word": "during",
+    "kk": "[ˋdjʊrɪŋ]",
+    "pos": "prep.",
+    "meaning": "在…期間",
+    "en": "during",
+    "zh": "在…期間"
+  },
+  {
+    "word": "each",
+    "kk": "[itʃ]",
+    "pos": "adj.",
+    "meaning": "每個",
+    "en": "each",
+    "zh": "每個"
+  },
+  {
+    "word": "eagle",
+    "kk": "[ˋig!]",
+    "pos": "n.",
+    "meaning": "老鷹",
+    "en": "eagle",
+    "zh": "老鷹"
+  },
+  {
+    "word": "ear",
+    "kk": "[ɪr]",
+    "pos": "n.",
+    "meaning": "耳朵",
+    "en": "ear",
+    "zh": "耳朵"
+  },
+  {
+    "word": "early",
+    "kk": "[ˋɝlɪ]",
+    "pos": "adj.",
+    "meaning": "早的",
+    "en": "early",
+    "zh": "早的"
+  },
+  {
+    "word": "earth",
+    "kk": "[ɝθ]",
+    "pos": "n.",
+    "meaning": "地球",
+    "en": "earth",
+    "zh": "地球"
+  },
+  {
+    "word": "ease",
+    "kk": "[iz]",
+    "pos": "n.",
+    "meaning": "容易",
+    "en": "ease",
+    "zh": "容易"
+  },
+  {
+    "word": "east",
+    "kk": "[ist]",
+    "pos": "n.",
+    "meaning": "東",
+    "en": "east",
+    "zh": "東"
+  },
+  {
+    "word": "easy",
+    "kk": "[ˋizɪ]",
+    "pos": "adj.",
+    "meaning": "容易的",
+    "en": "easy",
+    "zh": "容易的"
+  },
+  {
+    "word": "eat",
+    "kk": "[it]",
+    "pos": "vt.",
+    "meaning": "吃",
+    "en": "eat",
+    "zh": "吃"
+  },
+  {
+    "word": "edge",
+    "kk": "[ɛdʒ]",
+    "pos": "n.",
+    "meaning": "邊緣",
+    "en": "edge",
+    "zh": "邊緣"
+  },
+  {
+    "word": "egg",
+    "kk": "[ɛg]",
+    "pos": "n.",
+    "meaning": "蛋",
+    "en": "egg",
+    "zh": "蛋"
+  },
+  {
+    "word": "eight",
+    "kk": "[et]",
+    "pos": "n.",
+    "meaning": "八",
+    "en": "eight",
+    "zh": "八"
+  },
+  {
+    "word": "eighteen",
+    "kk": "[ˋeˋtin]",
+    "pos": "n.",
+    "meaning": "十八",
+    "en": "eighteen",
+    "zh": "十八"
+  },
+  {
+    "word": "eighty",
+    "kk": "[ˋetɪ]",
+    "pos": "n.",
+    "meaning": "八十",
+    "en": "eighty",
+    "zh": "八十"
+  },
+  {
+    "word": "either",
+    "kk": "[ˋiðɚ]",
+    "pos": "",
+    "meaning": "(1) adj.任一的 (2) adv.也",
+    "en": "either",
+    "zh": "(1) adj.任一的 (2) adv.也"
+  },
+  {
+    "word": "elephant",
+    "kk": "[ˋɛləfənt]",
+    "pos": "n.",
+    "meaning": "大象",
+    "en": "elephant",
+    "zh": "大象"
+  },
+  {
+    "word": "eleven",
+    "kk": "[ɪˋlɛvn]",
+    "pos": "n.",
+    "meaning": "十一",
+    "en": "eleven",
+    "zh": "十一"
+  },
+  {
+    "word": "else",
+    "kk": "[ɛls]",
+    "pos": "adv.",
+    "meaning": "其他",
+    "en": "else",
+    "zh": "其他"
+  },
+  {
+    "word": "end",
+    "kk": "[ɛnd]",
+    "pos": "n.",
+    "meaning": "最後",
+    "en": "end",
+    "zh": "最後"
+  },
+  {
+    "word": "English",
+    "kk": "[ˋɪŋglɪʃ]",
+    "pos": "",
+    "meaning": "n.英文、英國的",
+    "en": "English",
+    "zh": "n.英文、英國的"
+  },
+  {
+    "word": "enough",
+    "kk": "[əˋnʌf]",
+    "pos": "adj. adv.",
+    "meaning": "足夠的",
+    "en": "enough",
+    "zh": "足夠的"
+  },
+  {
+    "word": "enter",
+    "kk": "[ˋɛntɚ]",
+    "pos": "vt.",
+    "meaning": "進入",
+    "en": "enter",
+    "zh": "進入"
+  },
+  {
+    "word": "equal",
+    "kk": "[ˋikwəl]",
+    "pos": "adj.",
+    "meaning": "相等的",
+    "en": "equal",
+    "zh": "相等的"
+  },
+  {
+    "word": "even",
+    "kk": "[ˋivən]",
+    "pos": "",
+    "meaning": "(1) adv.甚至 (2) adj.偶數的",
+    "en": "even",
+    "zh": "(1) adv.甚至 (2) adj.偶數的"
+  },
+  {
+    "word": "evening",
+    "kk": "[ˋivnɪŋ]",
+    "pos": "n.",
+    "meaning": "傍晚",
+    "en": "evening",
+    "zh": "傍晚"
+  },
+  {
+    "word": "ever",
+    "kk": "[ˋɛvɚ]",
+    "pos": "adv.",
+    "meaning": "從來",
+    "en": "ever",
+    "zh": "從來"
+  },
+  {
+    "word": "every",
+    "kk": "[ˋɛvrɪ]",
+    "pos": "adj.",
+    "meaning": "每個",
+    "en": "every",
+    "zh": "每個"
+  },
+  {
+    "word": "",
+    "kk": "[ɪg͵zæməˋneʃən]",
+    "pos": "",
+    "meaning": "/[ɪgˋzæm] n.考試",
+    "en": "",
+    "zh": "/[ɪgˋzæm] n.考試"
+  },
+  {
+    "word": "examine",
+    "kk": "[ɪgˋzæmɪn]",
+    "pos": "vt.",
+    "meaning": "檢查",
+    "en": "examine",
+    "zh": "檢查"
+  },
+  {
+    "word": "example",
+    "kk": "[ɪgˋzæmp!]",
+    "pos": "n.",
+    "meaning": "例子",
+    "en": "example",
+    "zh": "例子"
+  },
+  {
+    "word": "except",
+    "kk": "[ɪkˋsɛpt]",
+    "pos": "",
+    "meaning": "prep.除了…之外",
+    "en": "except",
+    "zh": "prep.除了…之外"
+  },
+  {
+    "word": "eye",
+    "kk": "[aɪ]",
+    "pos": "n.",
+    "meaning": "眼睛",
+    "en": "eye",
+    "zh": "眼睛"
+  },
+  {
+    "word": "face",
+    "kk": "[fes]",
+    "pos": "n.",
+    "meaning": "臉",
+    "en": "face",
+    "zh": "臉"
+  },
+  {
+    "word": "fact",
+    "kk": "[fækt]",
+    "pos": "n.",
+    "meaning": "事實",
+    "en": "fact",
+    "zh": "事實"
+  },
+  {
+    "word": "factory",
+    "kk": "[ˋfæktərɪ]",
+    "pos": "n.",
+    "meaning": "工廠",
+    "en": "factory",
+    "zh": "工廠"
+  },
+  {
+    "word": "fall",
+    "kk": "[fɔl]",
+    "pos": "vi.",
+    "meaning": "落下",
+    "en": "fall",
+    "zh": "落下"
+  },
+  {
+    "word": "false",
+    "kk": "[fɔls]",
+    "pos": "adj.",
+    "meaning": "錯誤的",
+    "en": "false",
+    "zh": "錯誤的"
+  },
+  {
+    "word": "family",
+    "kk": "[ˋfæməlɪ]",
+    "pos": "n.",
+    "meaning": "家庭",
+    "en": "family",
+    "zh": "家庭"
+  },
+  {
+    "word": "fan",
+    "kk": "[fæn]",
+    "pos": "n.",
+    "meaning": "(1)扇子",
+    "en": "fan",
+    "zh": "(1)扇子"
+  },
+  {
+    "word": "far",
+    "kk": "[fɑr]",
+    "pos": "adj. adv.",
+    "meaning": "遠的",
+    "en": "far",
+    "zh": "遠的"
+  },
+  {
+    "word": "farm",
+    "kk": "[fɑrm]",
+    "pos": "n.",
+    "meaning": "農場",
+    "en": "farm",
+    "zh": "農場"
+  },
+  {
+    "word": "farmer",
+    "kk": "[ˋfɑrmɚ]",
+    "pos": "n.",
+    "meaning": "農夫",
+    "en": "farmer",
+    "zh": "農夫"
+  },
+  {
+    "word": "fast",
+    "kk": "[fæst]",
+    "pos": "adj. adv.",
+    "meaning": "快的",
+    "en": "fast",
+    "zh": "快的"
+  },
+  {
+    "word": "fat",
+    "kk": "[fæt]",
+    "pos": "adj.",
+    "meaning": "肥胖的",
+    "en": "fat",
+    "zh": "肥胖的"
+  },
+  {
+    "word": "father",
+    "kk": "[ˋfɑðɚ]",
+    "pos": "n.",
+    "meaning": "父親",
+    "en": "father",
+    "zh": "父親"
+  },
+  {
+    "word": "fear",
+    "kk": "[fɪr]",
+    "pos": "n.",
+    "meaning": "恐懼",
+    "en": "fear",
+    "zh": "恐懼"
+  },
+  {
+    "word": "February/Feb.",
+    "kk": "[ˋfɛbrʊ͵ɛrɪ]",
+    "pos": "",
+    "meaning": "n.二月",
+    "en": "February/Feb.",
+    "zh": "n.二月"
+  },
+  {
+    "word": "feed",
+    "kk": "[fid]",
+    "pos": "vt.",
+    "meaning": "餵食",
+    "en": "feed",
+    "zh": "餵食"
+  },
+  {
+    "word": "feel",
+    "kk": "[fil]",
+    "pos": "n. vt.",
+    "meaning": "觸摸；感覺",
+    "en": "feel",
+    "zh": "觸摸；感覺"
+  },
+  {
+    "word": "feeling",
+    "kk": "[ˋfilɪŋ]",
+    "pos": "n.",
+    "meaning": "感覺；看法",
+    "en": "feeling",
+    "zh": "感覺；看法"
+  },
+  {
+    "word": "feelings",
+    "kk": "[ˋfilɪŋs]",
+    "pos": "n.",
+    "meaning": "感情；心情",
+    "en": "feelings",
+    "zh": "感情；心情"
+  },
+  {
+    "word": "few",
+    "kk": "[fju]",
+    "pos": "adj.",
+    "meaning": "很少的",
+    "en": "few",
+    "zh": "很少的"
+  },
+  {
+    "word": "fifteen",
+    "kk": "[ˋfɪfˋtin]",
+    "pos": "",
+    "meaning": "n.十五",
+    "en": "fifteen",
+    "zh": "n.十五"
+  },
+  {
+    "word": "fifty",
+    "kk": "[ˋfɪftɪ]",
+    "pos": "n.",
+    "meaning": "五十",
+    "en": "fifty",
+    "zh": "五十"
+  },
+  {
+    "word": "fight",
+    "kk": "[faɪt]",
+    "pos": "vi.",
+    "meaning": "打架",
+    "en": "fight",
+    "zh": "打架"
+  },
+  {
+    "word": "fill",
+    "kk": "[fɪl]",
+    "pos": "vt.",
+    "meaning": "填滿",
+    "en": "fill",
+    "zh": "填滿"
+  },
+  {
+    "word": "final",
+    "kk": "[ˋfaɪn!]",
+    "pos": "adj.",
+    "meaning": "最後的",
+    "en": "final",
+    "zh": "最後的"
+  },
+  {
+    "word": "find",
+    "kk": "[faɪnd]",
+    "pos": "vt.",
+    "meaning": "尋找",
+    "en": "find",
+    "zh": "尋找"
+  },
+  {
+    "word": "fine",
+    "kk": "[faɪn]",
+    "pos": "",
+    "meaning": "(1) adj.美好的；健康的",
+    "en": "fine",
+    "zh": "(1) adj.美好的；健康的"
+  },
+  {
+    "word": "finger",
+    "kk": "[ˋfɪŋgɚ]",
+    "pos": "n.",
+    "meaning": "手指",
+    "en": "finger",
+    "zh": "手指"
+  },
+  {
+    "word": "finish",
+    "kk": "[ˋfɪnɪʃ]",
+    "pos": "vt.",
+    "meaning": "完成",
+    "en": "finish",
+    "zh": "完成"
+  },
+  {
+    "word": "fire",
+    "kk": "[faɪr]",
+    "pos": "",
+    "meaning": "(1) n.火 vt. vi. 開火 (2) vt.開除",
+    "en": "fire",
+    "zh": "(1) n.火 vt. vi. 開火 (2) vt.開除"
+  },
+  {
+    "word": "first",
+    "kk": "[fɝst]",
+    "pos": "adj.",
+    "meaning": "第一的",
+    "en": "first",
+    "zh": "第一的"
+  },
+  {
+    "word": "fish",
+    "kk": "[fɪʃ]",
+    "pos": "n.",
+    "meaning": "魚",
+    "en": "fish",
+    "zh": "魚"
+  },
+  {
+    "word": "five",
+    "kk": "[faɪv]",
+    "pos": "n.",
+    "meaning": "五",
+    "en": "five",
+    "zh": "五"
+  },
+  {
+    "word": "floor",
+    "kk": "[flor]",
+    "pos": "n.",
+    "meaning": "地板",
+    "en": "floor",
+    "zh": "地板"
+  },
+  {
+    "word": "flower",
+    "kk": "[ˋflaʊɚ]",
+    "pos": "n.",
+    "meaning": "花",
+    "en": "flower",
+    "zh": "花"
+  },
+  {
+    "word": "fly",
+    "kk": "[flaɪ]",
+    "pos": "",
+    "meaning": "(1) n.蒼蠅 (2) vi.飛",
+    "en": "fly",
+    "zh": "(1) n.蒼蠅 (2) vi.飛"
+  },
+  {
+    "word": "fog",
+    "kk": "[fɑg]",
+    "pos": "n.",
+    "meaning": "霧",
+    "en": "fog",
+    "zh": "霧"
+  },
+  {
+    "word": "follow",
+    "kk": "[ˋfɑlo]",
+    "pos": "vt.",
+    "meaning": "跟隨",
+    "en": "follow",
+    "zh": "跟隨"
+  },
+  {
+    "word": "food",
+    "kk": "[fud]",
+    "pos": "n.",
+    "meaning": "食物",
+    "en": "food",
+    "zh": "食物"
+  },
+  {
+    "word": "foot",
+    "kk": "[fʊt]",
+    "pos": "n.",
+    "meaning": "腳",
+    "en": "foot",
+    "zh": "腳"
+  },
+  {
+    "word": "for",
+    "kk": "[fɔr]",
+    "pos": "prep.",
+    "meaning": "為了",
+    "en": "for",
+    "zh": "為了"
+  },
+  {
+    "word": "force",
+    "kk": "[fors]",
+    "pos": "n.",
+    "meaning": "力量",
+    "en": "force",
+    "zh": "力量"
+  },
+  {
+    "word": "foreign",
+    "kk": "[ˋfɔrɪn]",
+    "pos": "adj.",
+    "meaning": "外國的",
+    "en": "foreign",
+    "zh": "外國的"
+  },
+  {
+    "word": "forest",
+    "kk": "[ˋfɔrɪst]",
+    "pos": "n.",
+    "meaning": "森林",
+    "en": "forest",
+    "zh": "森林"
+  },
+  {
+    "word": "forget",
+    "kk": "[fɚˋgɛt]",
+    "pos": "vt.",
+    "meaning": "忘記",
+    "en": "forget",
+    "zh": "忘記"
+  },
+  {
+    "word": "fork",
+    "kk": "[fɔrk]",
+    "pos": "n.",
+    "meaning": "叉子",
+    "en": "fork",
+    "zh": "叉子"
+  },
+  {
+    "word": "forty",
+    "kk": "[ˋfɔrtɪ]",
+    "pos": "n.",
+    "meaning": "四十",
+    "en": "forty",
+    "zh": "四十"
+  },
+  {
+    "word": "four",
+    "kk": "[for]",
+    "pos": "n.",
+    "meaning": "四",
+    "en": "four",
+    "zh": "四"
+  },
+  {
+    "word": "fourteen",
+    "kk": "[ˋforˋtin]",
+    "pos": "n.",
+    "meaning": "十四",
+    "en": "fourteen",
+    "zh": "十四"
+  },
+  {
+    "word": "free",
+    "kk": "[fri]",
+    "pos": "adj.",
+    "meaning": "自由的",
+    "en": "free",
+    "zh": "自由的"
+  },
+  {
+    "word": "fresh",
+    "kk": "[frɛʃ]",
+    "pos": "adj.",
+    "meaning": "新鮮的",
+    "en": "fresh",
+    "zh": "新鮮的"
+  },
+  {
+    "word": "Friday/Fri.",
+    "kk": "[ˋfraɪ͵de]",
+    "pos": "",
+    "meaning": "n.星期五",
+    "en": "Friday/Fri.",
+    "zh": "n.星期五"
+  },
+  {
+    "word": "friend",
+    "kk": "[frɛnd]",
+    "pos": "n.",
+    "meaning": "朋友",
+    "en": "friend",
+    "zh": "朋友"
+  },
+  {
+    "word": "frog",
+    "kk": "[frɑg]",
+    "pos": "n.",
+    "meaning": "青蛙",
+    "en": "frog",
+    "zh": "青蛙"
+  },
+  {
+    "word": "from",
+    "kk": "[frɑm]",
+    "pos": "prep.",
+    "meaning": "從",
+    "en": "from",
+    "zh": "從"
+  },
+  {
+    "word": "front",
+    "kk": "[frʌnt]",
+    "pos": "n.",
+    "meaning": "前面",
+    "en": "front",
+    "zh": "前面"
+  },
+  {
+    "word": "fruit",
+    "kk": "[frut]",
+    "pos": "n.",
+    "meaning": "水果",
+    "en": "fruit",
+    "zh": "水果"
+  },
+  {
+    "word": "full",
+    "kk": "[fʊl]",
+    "pos": "adj.",
+    "meaning": "滿的",
+    "en": "full",
+    "zh": "滿的"
+  },
+  {
+    "word": "fun",
+    "kk": "[fʌn]",
+    "pos": "n.",
+    "meaning": "樂趣",
+    "en": "fun",
+    "zh": "樂趣"
+  },
+  {
+    "word": "funny",
+    "kk": "[ˋfʌnɪ]",
+    "pos": "adj.",
+    "meaning": "有趣的",
+    "en": "funny",
+    "zh": "有趣的"
+  },
+  {
+    "word": "game",
+    "kk": "[gem]",
+    "pos": "n.",
+    "meaning": "遊戲",
+    "en": "game",
+    "zh": "遊戲"
+  },
+  {
+    "word": "garden",
+    "kk": "[ˋgɑrdn]",
+    "pos": "n.",
+    "meaning": "花園",
+    "en": "garden",
+    "zh": "花園"
+  },
+  {
+    "word": "gas",
+    "kk": "[gæs]",
+    "pos": "n.",
+    "meaning": "汽油",
+    "en": "gas",
+    "zh": "汽油"
+  },
+  {
+    "word": "general",
+    "kk": "[ˋdʒɛnərəl]",
+    "pos": "",
+    "meaning": "(1) adj.一般的",
+    "en": "general",
+    "zh": "(1) adj.一般的"
+  },
+  {
+    "word": "get",
+    "kk": "[gɛt]",
+    "pos": "vt.",
+    "meaning": "獲得",
+    "en": "get",
+    "zh": "獲得"
+  },
+  {
+    "word": "ghost",
+    "kk": "[gost]",
+    "pos": "n.",
+    "meaning": "幽靈",
+    "en": "ghost",
+    "zh": "幽靈"
+  },
+  {
+    "word": "gift",
+    "kk": "[gɪft]",
+    "pos": "n.",
+    "meaning": "禮物",
+    "en": "gift",
+    "zh": "禮物"
+  },
+  {
+    "word": "girl",
+    "kk": "[gɝl]",
+    "pos": "n.",
+    "meaning": "女孩",
+    "en": "girl",
+    "zh": "女孩"
+  },
+  {
+    "word": "give",
+    "kk": "[gɪv]",
+    "pos": "vt.",
+    "meaning": "給",
+    "en": "give",
+    "zh": "給"
+  },
+  {
+    "word": "glad",
+    "kk": "[glæd]",
+    "pos": "adj.",
+    "meaning": "高興的",
+    "en": "glad",
+    "zh": "高興的"
+  },
+  {
+    "word": "glass",
+    "kk": "[glæs]",
+    "pos": "n.",
+    "meaning": "玻璃",
+    "en": "glass",
+    "zh": "玻璃"
+  },
+  {
+    "word": "glasses",
+    "kk": "[ˋglæsɪz]",
+    "pos": "n.",
+    "meaning": "眼鏡",
+    "en": "glasses",
+    "zh": "眼鏡"
+  },
+  {
+    "word": "go",
+    "kk": "[go]",
+    "pos": "vi.",
+    "meaning": "去",
+    "en": "go",
+    "zh": "去"
+  },
+  {
+    "word": "god/goddess",
+    "kk": "[gɑd]",
+    "pos": "",
+    "meaning": "/ [ˋgɑdɪs] n.神/女神",
+    "en": "god/goddess",
+    "zh": "/ [ˋgɑdɪs] n.神/女神"
+  },
+  {
+    "word": "gold",
+    "kk": "[gold]",
+    "pos": "n.",
+    "meaning": "黃金",
+    "en": "gold",
+    "zh": "黃金"
+  },
+  {
+    "word": "good",
+    "kk": "[gʊd]",
+    "pos": "adj.",
+    "meaning": "好的",
+    "en": "good",
+    "zh": "好的"
+  },
+  {
+    "word": "/bye",
+    "kk": "[ˌgʊdˈbaɪ]",
+    "pos": "",
+    "meaning": "/ [baɪ] n. 再見",
+    "en": "/bye",
+    "zh": "/ [baɪ] n. 再見"
+  },
+  {
+    "word": "goose",
+    "kk": "[gus]",
+    "pos": "n.",
+    "meaning": "鵝",
+    "en": "goose",
+    "zh": "鵝"
+  },
+  {
+    "word": "grand",
+    "kk": "[grænd]",
+    "pos": "adj.",
+    "meaning": "雄偉的",
+    "en": "grand",
+    "zh": "雄偉的"
+  },
+  {
+    "word": "grandchild",
+    "kk": "[ˋgrænd͵tʃaɪld]",
+    "pos": "n.",
+    "meaning": "孫子女",
+    "en": "grandchild",
+    "zh": "孫子女"
+  },
+  {
+    "word": "granddaughter",
+    "kk": "[ˋgræn͵dɔtɚ]",
+    "pos": "n",
+    "meaning": "孫女",
+    "en": "granddaughter",
+    "zh": "孫女"
+  },
+  {
+    "word": "",
+    "kk": "[ˋgrænd͵fɑðɚ]",
+    "pos": "",
+    "meaning": "/ [ˋgrændpɑ] n 爺爺",
+    "en": "",
+    "zh": "/ [ˋgrændpɑ] n 爺爺"
+  },
+  {
+    "word": "",
+    "kk": "[ˋgrænd͵mʌðɚ]",
+    "pos": "",
+    "meaning": "/ [ˋgrændmɑ] n.奶奶",
+    "en": "",
+    "zh": "/ [ˋgrændmɑ] n.奶奶"
+  },
+  {
+    "word": "grandson",
+    "kk": "[ˋgrænd͵sʌn]",
+    "pos": "",
+    "meaning": "n.孫子",
+    "en": "grandson",
+    "zh": "n.孫子"
+  },
+  {
+    "word": "grass",
+    "kk": "[græs]",
+    "pos": "n.",
+    "meaning": "草",
+    "en": "grass",
+    "zh": "草"
+  },
+  {
+    "word": "gray/grey",
+    "kk": "[gre]",
+    "pos": "adj.",
+    "meaning": "灰色的",
+    "en": "gray/grey",
+    "zh": "灰色的"
+  },
+  {
+    "word": "great",
+    "kk": "[gret]",
+    "pos": "adj.",
+    "meaning": "極好的",
+    "en": "great",
+    "zh": "極好的"
+  },
+  {
+    "word": "green",
+    "kk": "[grin]",
+    "pos": "adj.",
+    "meaning": "綠色的",
+    "en": "green",
+    "zh": "綠色的"
+  },
+  {
+    "word": "ground",
+    "kk": "[graʊnd]",
+    "pos": "n.",
+    "meaning": "地面",
+    "en": "ground",
+    "zh": "地面"
+  },
+  {
+    "word": "group",
+    "kk": "[grup]",
+    "pos": "n.",
+    "meaning": "群組",
+    "en": "group",
+    "zh": "群組"
+  },
+  {
+    "word": "grow",
+    "kk": "[gro]",
+    "pos": "vi.",
+    "meaning": "生長",
+    "en": "grow",
+    "zh": "生長"
+  },
+  {
+    "word": "guess",
+    "kk": "[gɛs]",
+    "pos": "vt.",
+    "meaning": "猜測",
+    "en": "guess",
+    "zh": "猜測"
+  },
+  {
+    "word": "guest",
+    "kk": "[gɛst]",
+    "pos": "n.",
+    "meaning": "客人",
+    "en": "guest",
+    "zh": "客人"
+  },
+  {
+    "word": "guide",
+    "kk": "[gaɪd]",
+    "pos": "n.",
+    "meaning": "導遊",
+    "en": "guide",
+    "zh": "導遊"
+  },
+  {
+    "word": "gun",
+    "kk": "[gʌn]",
+    "pos": "n.",
+    "meaning": "槍",
+    "en": "gun",
+    "zh": "槍"
+  },
+  {
+    "word": "hair",
+    "kk": "[hɛr]",
+    "pos": "n.",
+    "meaning": "毛髮",
+    "en": "hair",
+    "zh": "毛髮"
+  },
+  {
+    "word": "haircut",
+    "kk": "[ˋhɛr͵kʌt]",
+    "pos": "n.",
+    "meaning": "理髮",
+    "en": "haircut",
+    "zh": "理髮"
+  },
+  {
+    "word": "half",
+    "kk": "[hæf]",
+    "pos": "n.",
+    "meaning": "一半",
+    "en": "half",
+    "zh": "一半"
+  },
+  {
+    "word": "ham",
+    "kk": "[hæm]",
+    "pos": "n.",
+    "meaning": "火腿",
+    "en": "ham",
+    "zh": "火腿"
+  },
+  {
+    "word": "hand",
+    "kk": "[hænd]",
+    "pos": "n.",
+    "meaning": "手",
+    "en": "hand",
+    "zh": "手"
+  },
+  {
+    "word": "happen",
+    "kk": "[ˋhæpən]",
+    "pos": "vi.",
+    "meaning": "發生",
+    "en": "happen",
+    "zh": "發生"
+  },
+  {
+    "word": "happy",
+    "kk": "[ˋhæpɪ]",
+    "pos": "adj.",
+    "meaning": "高興的",
+    "en": "happy",
+    "zh": "高興的"
+  },
+  {
+    "word": "hard",
+    "kk": "[hɑrd]",
+    "pos": "adj.",
+    "meaning": "堅硬的 adv. 努力地",
+    "en": "hard",
+    "zh": "堅硬的 adv. 努力地"
+  },
+  {
+    "word": "hat",
+    "kk": "[hæt]",
+    "pos": "n.",
+    "meaning": "帽子",
+    "en": "hat",
+    "zh": "帽子"
+  },
+  {
+    "word": "hate",
+    "kk": "[het]",
+    "pos": "vt.",
+    "meaning": "討厭",
+    "en": "hate",
+    "zh": "討厭"
+  },
+  {
+    "word": "have",
+    "kk": "[hæv]",
+    "pos": "vt.",
+    "meaning": "擁有",
+    "en": "have",
+    "zh": "擁有"
+  },
+  {
+    "word": "he",
+    "kk": "[hi]",
+    "pos": "n.",
+    "meaning": "他",
+    "en": "he",
+    "zh": "他"
+  },
+  {
+    "word": "head",
+    "kk": "[hɛd]",
+    "pos": "n.",
+    "meaning": "頭",
+    "en": "head",
+    "zh": "頭"
+  },
+  {
+    "word": "health",
+    "kk": "[hɛlθ]",
+    "pos": "n.",
+    "meaning": "健康",
+    "en": "health",
+    "zh": "健康"
+  },
+  {
+    "word": "hear",
+    "kk": "[hɪr]",
+    "pos": "vt.",
+    "meaning": "聽見",
+    "en": "hear",
+    "zh": "聽見"
+  },
+  {
+    "word": "heart",
+    "kk": "[hɑrt]",
+    "pos": "n.",
+    "meaning": "心臟",
+    "en": "heart",
+    "zh": "心臟"
+  },
+  {
+    "word": "heat",
+    "kk": "[hit]",
+    "pos": "vt.",
+    "meaning": "使…加熱",
+    "en": "heat",
+    "zh": "使…加熱"
+  },
+  {
+    "word": "heavy",
+    "kk": "[ˋhɛvɪ]",
+    "pos": "adj.",
+    "meaning": "重的",
+    "en": "heavy",
+    "zh": "重的"
+  },
+  {
+    "word": "hello",
+    "kk": "[həˋlo]",
+    "pos": "n.",
+    "meaning": "嗨",
+    "en": "hello",
+    "zh": "嗨"
+  },
+  {
+    "word": "help",
+    "kk": "[hɛlp]",
+    "pos": "vt.",
+    "meaning": "幫助",
+    "en": "help",
+    "zh": "幫助"
+  },
+  {
+    "word": "her(s)",
+    "kk": "[hɝs]",
+    "pos": "pron.",
+    "meaning": "她的",
+    "en": "her(s)",
+    "zh": "她的"
+  },
+  {
+    "word": "here",
+    "kk": "[hɪr]",
+    "pos": "adv.",
+    "meaning": "這裡",
+    "en": "here",
+    "zh": "這裡"
+  },
+  {
+    "word": "high",
+    "kk": "[haɪ]",
+    "pos": "adj.",
+    "meaning": "高的",
+    "en": "high",
+    "zh": "高的"
+  },
+  {
+    "word": "hill",
+    "kk": "[hɪl]",
+    "pos": "n.",
+    "meaning": "小山",
+    "en": "hill",
+    "zh": "小山"
+  },
+  {
+    "word": "him",
+    "kk": "[hɪm]",
+    "pos": "pron.",
+    "meaning": "他(受格)",
+    "en": "him",
+    "zh": "他(受格)"
+  },
+  {
+    "word": "his",
+    "kk": "[hɪz]",
+    "pos": "pron.",
+    "meaning": "他的",
+    "en": "his",
+    "zh": "他的"
+  },
+  {
+    "word": "history",
+    "kk": "[ˋhɪstərɪ]",
+    "pos": "n.",
+    "meaning": "歷史",
+    "en": "history",
+    "zh": "歷史"
+  },
+  {
+    "word": "hit",
+    "kk": "[hɪt]",
+    "pos": "vt.",
+    "meaning": "打；擊中",
+    "en": "hit",
+    "zh": "打；擊中"
+  },
+  {
+    "word": "hold",
+    "kk": "[hold]",
+    "pos": "vt.",
+    "meaning": "握著",
+    "en": "hold",
+    "zh": "握著"
+  },
+  {
+    "word": "hole",
+    "kk": "[hol]",
+    "pos": "n.",
+    "meaning": "洞",
+    "en": "hole",
+    "zh": "洞"
+  },
+  {
+    "word": "holiday",
+    "kk": "[ˋhɑlə͵de]",
+    "pos": "n.",
+    "meaning": "假日",
+    "en": "holiday",
+    "zh": "假日"
+  },
+  {
+    "word": "home",
+    "kk": "[hom]",
+    "pos": "n.",
+    "meaning": "家",
+    "en": "home",
+    "zh": "家"
+  },
+  {
+    "word": "homework",
+    "kk": "[ˋhom͵wɝk]",
+    "pos": "",
+    "meaning": "n.家庭作業",
+    "en": "homework",
+    "zh": "n.家庭作業"
+  },
+  {
+    "word": "hope",
+    "kk": "[hop]",
+    "pos": "vt.",
+    "meaning": "希望",
+    "en": "hope",
+    "zh": "希望"
+  },
+  {
+    "word": "horse",
+    "kk": "[hɔrs]",
+    "pos": "n.",
+    "meaning": "馬",
+    "en": "horse",
+    "zh": "馬"
+  },
+  {
+    "word": "hot",
+    "kk": "[hɑt]",
+    "pos": "adj.",
+    "meaning": "熱的",
+    "en": "hot",
+    "zh": "熱的"
+  },
+  {
+    "word": "hour",
+    "kk": "[aʊr]",
+    "pos": "n.",
+    "meaning": "小時",
+    "en": "hour",
+    "zh": "小時"
+  },
+  {
+    "word": "house",
+    "kk": "[haʊs]",
+    "pos": "n.",
+    "meaning": "房子",
+    "en": "house",
+    "zh": "房子"
+  },
+  {
+    "word": "how",
+    "kk": "[haʊ]",
+    "pos": "",
+    "meaning": "adv.如何",
+    "en": "how",
+    "zh": "adv.如何"
+  },
+  {
+    "word": "huge",
+    "kk": "[hjudʒ]",
+    "pos": "adj.",
+    "meaning": "巨大的",
+    "en": "huge",
+    "zh": "巨大的"
+  },
+  {
+    "word": "human",
+    "kk": "[ˋhjumən]",
+    "pos": "n.",
+    "meaning": "人類",
+    "en": "human",
+    "zh": "人類"
+  },
+  {
+    "word": "hundred",
+    "kk": "[ˋhʌndrəd]",
+    "pos": "n.",
+    "meaning": "一百",
+    "en": "hundred",
+    "zh": "一百"
+  },
+  {
+    "word": "hungry",
+    "kk": "[ˋhʌŋgrɪ]",
+    "pos": "adj.",
+    "meaning": "飢餓的",
+    "en": "hungry",
+    "zh": "飢餓的"
+  },
+  {
+    "word": "hurt",
+    "kk": "[hɝt]",
+    "pos": "vt. vi. n.",
+    "meaning": "(使)受傷",
+    "en": "hurt",
+    "zh": "(使)受傷"
+  },
+  {
+    "word": "husband",
+    "kk": "[ˋhʌzbənd]",
+    "pos": "n.",
+    "meaning": "丈夫",
+    "en": "husband",
+    "zh": "丈夫"
+  },
+  {
+    "word": "I",
+    "kk": "[aɪ]",
+    "pos": "n.",
+    "meaning": "(主格)我",
+    "en": "I",
+    "zh": "(主格)我"
+  },
+  {
+    "word": "ice",
+    "kk": "[aɪs]",
+    "pos": "n.",
+    "meaning": "冰",
+    "en": "ice",
+    "zh": "冰"
+  },
+  {
+    "word": "idea",
+    "kk": "[aɪˋdiə]",
+    "pos": "n.",
+    "meaning": "主意",
+    "en": "idea",
+    "zh": "主意"
+  },
+  {
+    "word": "if",
+    "kk": "[ɪf]",
+    "pos": "conj.",
+    "meaning": "如果",
+    "en": "if",
+    "zh": "如果"
+  },
+  {
+    "word": "important",
+    "kk": "[ɪmˋpɔrtnt]",
+    "pos": "adj.",
+    "meaning": "重要的",
+    "en": "important",
+    "zh": "重要的"
+  },
+  {
+    "word": "in",
+    "kk": "[ɪn]",
+    "pos": "prep.",
+    "meaning": "在…裡面",
+    "en": "in",
+    "zh": "在…裡面"
+  },
+  {
+    "word": "inch",
+    "kk": "[ɪntʃ]",
+    "pos": "n.",
+    "meaning": "英吋",
+    "en": "inch",
+    "zh": "英吋"
+  },
+  {
+    "word": "inside",
+    "kk": "[ˋɪnˋsaɪd]",
+    "pos": "n.",
+    "meaning": "內部",
+    "en": "inside",
+    "zh": "內部"
+  },
+  {
+    "word": "interest",
+    "kk": "[ˋɪntərɪst]",
+    "pos": "n.",
+    "meaning": "興趣",
+    "en": "interest",
+    "zh": "興趣"
+  },
+  {
+    "word": "into",
+    "kk": "[ˋɪntu]",
+    "pos": "prep.",
+    "meaning": "到…裡",
+    "en": "into",
+    "zh": "到…裡"
+  },
+  {
+    "word": "iron",
+    "kk": "[ˋaɪɚn]",
+    "pos": "n.",
+    "meaning": "鐵",
+    "en": "iron",
+    "zh": "鐵"
+  },
+  {
+    "word": "is",
+    "kk": "[ɪz]",
+    "pos": "vi.",
+    "meaning": "(第三人稱)是",
+    "en": "is",
+    "zh": "(第三人稱)是"
+  },
+  {
+    "word": "it",
+    "kk": "[ɪt]",
+    "pos": "pron.",
+    "meaning": "它",
+    "en": "it",
+    "zh": "它"
+  },
+  {
+    "word": "its",
+    "kk": "[ɪts]",
+    "pos": "pron.",
+    "meaning": "它的",
+    "en": "its",
+    "zh": "它的"
+  },
+  {
+    "word": "jam",
+    "kk": "[dʒæm]",
+    "pos": "n.",
+    "meaning": "(1) 堵塞；果醬",
+    "en": "jam",
+    "zh": "(1) 堵塞；果醬"
+  },
+  {
+    "word": "January/Jan.",
+    "kk": "[ˋdʒænjʊ͵ɛrɪ]",
+    "pos": "n.",
+    "meaning": "一月",
+    "en": "January/Jan.",
+    "zh": "一月"
+  },
+  {
+    "word": "job",
+    "kk": "[dʒɑb]",
+    "pos": "n.",
+    "meaning": "工作",
+    "en": "job",
+    "zh": "工作"
+  },
+  {
+    "word": "join",
+    "kk": "[dʒɑb]",
+    "pos": "vt.",
+    "meaning": "參加",
+    "en": "join",
+    "zh": "參加"
+  },
+  {
+    "word": "joke",
+    "kk": "[dʒok]",
+    "pos": "n.",
+    "meaning": "玩笑",
+    "en": "joke",
+    "zh": "玩笑"
+  },
+  {
+    "word": "joy",
+    "kk": "[dʒɔɪ]",
+    "pos": "n.",
+    "meaning": "歡樂",
+    "en": "joy",
+    "zh": "歡樂"
+  },
+  {
+    "word": "juice",
+    "kk": "[dʒus]",
+    "pos": "n.",
+    "meaning": "果汁",
+    "en": "juice",
+    "zh": "果汁"
+  },
+  {
+    "word": "July/Jul.",
+    "kk": "[dʒuˋlaɪ]",
+    "pos": "n.",
+    "meaning": "七月",
+    "en": "July/Jul.",
+    "zh": "七月"
+  },
+  {
+    "word": "jump",
+    "kk": "[dʒʌmp]",
+    "pos": "vi.",
+    "meaning": "跳",
+    "en": "jump",
+    "zh": "跳"
+  },
+  {
+    "word": "June/Jun.",
+    "kk": "[dʒun]",
+    "pos": "n.",
+    "meaning": "六月",
+    "en": "June/Jun.",
+    "zh": "六月"
+  },
+  {
+    "word": "just",
+    "kk": "[dʒʌst]",
+    "pos": "",
+    "meaning": "(1) adj.正直的 (2) adv. 只是",
+    "en": "just",
+    "zh": "(1) adj.正直的 (2) adv. 只是"
+  },
+  {
+    "word": "keep",
+    "kk": "[kip]",
+    "pos": "vt.",
+    "meaning": "保有",
+    "en": "keep",
+    "zh": "保有"
+  },
+  {
+    "word": "keeper",
+    "kk": "[ˋkipɚ]",
+    "pos": "n.",
+    "meaning": "管理者",
+    "en": "keeper",
+    "zh": "管理者"
+  },
+  {
+    "word": "key",
+    "kk": "[ki]",
+    "pos": "",
+    "meaning": "(1) n.鑰匙 vt.鍵入 (2) adv.關鍵的",
+    "en": "key",
+    "zh": "(1) n.鑰匙 vt.鍵入 (2) adv.關鍵的"
+  },
+  {
+    "word": "kick",
+    "kk": "[kɪk]",
+    "pos": "vt.",
+    "meaning": "踢",
+    "en": "kick",
+    "zh": "踢"
+  },
+  {
+    "word": "kid",
+    "kk": "[kɪd]",
+    "pos": "n.",
+    "meaning": "小孩",
+    "en": "kid",
+    "zh": "小孩"
+  },
+  {
+    "word": "kill",
+    "kk": "[kɪl]",
+    "pos": "vt.",
+    "meaning": "殺死",
+    "en": "kill",
+    "zh": "殺死"
+  },
+  {
+    "word": "kind",
+    "kk": "[kaɪnd]",
+    "pos": "",
+    "meaning": "(1) adj.善良 (2) n.種類",
+    "en": "kind",
+    "zh": "(1) adj.善良 (2) n.種類"
+  },
+  {
+    "word": "king",
+    "kk": "[kɪŋ]",
+    "pos": "n.",
+    "meaning": "國王",
+    "en": "king",
+    "zh": "國王"
+  },
+  {
+    "word": "kiss",
+    "kk": "[kɪs]",
+    "pos": "vt.",
+    "meaning": "吻",
+    "en": "kiss",
+    "zh": "吻"
+  },
+  {
+    "word": "kitchen",
+    "kk": "[ˋkɪtʃɪn]",
+    "pos": "n.",
+    "meaning": "廚房",
+    "en": "kitchen",
+    "zh": "廚房"
+  },
+  {
+    "word": "kite",
+    "kk": "[kaɪt]",
+    "pos": "n.",
+    "meaning": "風箏",
+    "en": "kite",
+    "zh": "風箏"
+  },
+  {
+    "word": "kitten/kitty",
+    "kk": "[ˋkɪtn]",
+    "pos": "",
+    "meaning": "/ [ˋkɪtɪ] n.小貓",
+    "en": "kitten/kitty",
+    "zh": "/ [ˋkɪtɪ] n.小貓"
+  },
+  {
+    "word": "knee",
+    "kk": "[ni]",
+    "pos": "n.",
+    "meaning": "膝蓋",
+    "en": "knee",
+    "zh": "膝蓋"
+  },
+  {
+    "word": "knife",
+    "kk": "[naɪf]",
+    "pos": "n.",
+    "meaning": "刀",
+    "en": "knife",
+    "zh": "刀"
+  },
+  {
+    "word": "know",
+    "kk": "[no]",
+    "pos": "vt.",
+    "meaning": "知道",
+    "en": "know",
+    "zh": "知道"
+  },
+  {
+    "word": "lack",
+    "kk": "[læk]",
+    "pos": "vt.",
+    "meaning": "缺少",
+    "en": "lack",
+    "zh": "缺少"
+  },
+  {
+    "word": "lady",
+    "kk": "[ˋledɪ]",
+    "pos": "n.",
+    "meaning": "女士",
+    "en": "lady",
+    "zh": "女士"
+  },
+  {
+    "word": "lake",
+    "kk": "[lek]",
+    "pos": "n.",
+    "meaning": "湖泊",
+    "en": "lake",
+    "zh": "湖泊"
+  },
+  {
+    "word": "lamb",
+    "kk": "[læm]",
+    "pos": "n.",
+    "meaning": "小羊",
+    "en": "lamb",
+    "zh": "小羊"
+  },
+  {
+    "word": "lamp",
+    "kk": "[læmp]",
+    "pos": "n.",
+    "meaning": "燈",
+    "en": "lamp",
+    "zh": "燈"
+  },
+  {
+    "word": "land",
+    "kk": "[lænd]",
+    "pos": "",
+    "meaning": "(1) n.陸地 (2) vt. vi. (使)降落",
+    "en": "land",
+    "zh": "(1) n.陸地 (2) vt. vi. (使)降落"
+  },
+  {
+    "word": "large",
+    "kk": "[lɑrdʒ]",
+    "pos": "adj.",
+    "meaning": "寬的",
+    "en": "large",
+    "zh": "寬的"
+  },
+  {
+    "word": "last",
+    "kk": "[læst]",
+    "pos": "",
+    "meaning": "(1) adj. 最後的 (2) vi.持續",
+    "en": "last",
+    "zh": "(1) adj. 最後的 (2) vi.持續"
+  },
+  {
+    "word": "late",
+    "kk": "[let]",
+    "pos": "adj.",
+    "meaning": "遲的",
+    "en": "late",
+    "zh": "遲的"
+  },
+  {
+    "word": "laugh",
+    "kk": "[læf]",
+    "pos": "vi.",
+    "meaning": "笑",
+    "en": "laugh",
+    "zh": "笑"
+  },
+  {
+    "word": "law",
+    "kk": "[lɔ]",
+    "pos": "n.",
+    "meaning": "法律",
+    "en": "law",
+    "zh": "法律"
+  },
+  {
+    "word": "lay",
+    "kk": "[le]",
+    "pos": "vt.",
+    "meaning": "放；下蛋",
+    "en": "lay",
+    "zh": "放；下蛋"
+  },
+  {
+    "word": "lazy",
+    "kk": "[ˋlezɪ]",
+    "pos": "adj.",
+    "meaning": "懶散的",
+    "en": "lazy",
+    "zh": "懶散的"
+  },
+  {
+    "word": "lead",
+    "kk": "[lid]",
+    "pos": "",
+    "meaning": "(1) n. 領先；線索",
+    "en": "lead",
+    "zh": "(1) n. 領先；線索"
+  },
+  {
+    "word": "leader",
+    "kk": "[ˋlidɚ]",
+    "pos": "n.",
+    "meaning": "領袖",
+    "en": "leader",
+    "zh": "領袖"
+  },
+  {
+    "word": "leaf",
+    "kk": "[lif]",
+    "pos": "n.",
+    "meaning": "葉子",
+    "en": "leaf",
+    "zh": "葉子"
+  },
+  {
+    "word": "learn",
+    "kk": "[lɝn]",
+    "pos": "vt.",
+    "meaning": "學習",
+    "en": "learn",
+    "zh": "學習"
+  },
+  {
+    "word": "least",
+    "kk": "[list]",
+    "pos": "adj.",
+    "meaning": "最小的",
+    "en": "least",
+    "zh": "最小的"
+  },
+  {
+    "word": "leave",
+    "kk": "[liv]",
+    "pos": "vt.",
+    "meaning": "離開",
+    "en": "leave",
+    "zh": "離開"
+  },
+  {
+    "word": "left",
+    "kk": "[lɛft]",
+    "pos": "adj.",
+    "meaning": "左方的",
+    "en": "left",
+    "zh": "左方的"
+  },
+  {
+    "word": "leg",
+    "kk": "[lɛg]",
+    "pos": "n.",
+    "meaning": "腿",
+    "en": "leg",
+    "zh": "腿"
+  },
+  {
+    "word": "less",
+    "kk": "[lɛs]",
+    "pos": "adj.",
+    "meaning": "較少的",
+    "en": "less",
+    "zh": "較少的"
+  },
+  {
+    "word": "lesson",
+    "kk": "[ˋlɛsn]",
+    "pos": "n.",
+    "meaning": "一課",
+    "en": "lesson",
+    "zh": "一課"
+  },
+  {
+    "word": "let",
+    "kk": "[lɛt]",
+    "pos": "vt.",
+    "meaning": "讓",
+    "en": "let",
+    "zh": "讓"
+  },
+  {
+    "word": "letter",
+    "kk": "[ˋlɛtɚ]",
+    "pos": "n.",
+    "meaning": "(1)信件 (2)字母",
+    "en": "letter",
+    "zh": "(1)信件 (2)字母"
+  },
+  {
+    "word": "level",
+    "kk": "[ˋlɛv!]",
+    "pos": "n.",
+    "meaning": "階級",
+    "en": "level",
+    "zh": "階級"
+  },
+  {
+    "word": "lie",
+    "kk": "[laɪ]",
+    "pos": "vi.",
+    "meaning": "躺",
+    "en": "lie",
+    "zh": "躺"
+  },
+  {
+    "word": "life",
+    "kk": "[laɪf]",
+    "pos": "n.",
+    "meaning": "生命",
+    "en": "life",
+    "zh": "生命"
+  },
+  {
+    "word": "lift",
+    "kk": "[lɪft]",
+    "pos": "vt.",
+    "meaning": "舉起",
+    "en": "lift",
+    "zh": "舉起"
+  },
+  {
+    "word": "light",
+    "kk": "[laɪt]",
+    "pos": "",
+    "meaning": "(1) n.光 vt. vi.照亮 adj. 明亮的",
+    "en": "light",
+    "zh": "(1) n.光 vt. vi.照亮 adj. 明亮的"
+  },
+  {
+    "word": "like",
+    "kk": "[laɪk]",
+    "pos": "",
+    "meaning": "(1) prep.像 (2) vt.喜歡",
+    "en": "like",
+    "zh": "(1) prep.像 (2) vt.喜歡"
+  },
+  {
+    "word": "likely",
+    "kk": "[ˋlaɪklɪ]",
+    "pos": "adj.",
+    "meaning": "很可能的",
+    "en": "likely",
+    "zh": "很可能的"
+  },
+  {
+    "word": "lily",
+    "kk": "[ˋlɪlɪ]",
+    "pos": "n.",
+    "meaning": "百合",
+    "en": "lily",
+    "zh": "百合"
+  },
+  {
+    "word": "line",
+    "kk": "[laɪn]",
+    "pos": "n.",
+    "meaning": "線",
+    "en": "line",
+    "zh": "線"
+  },
+  {
+    "word": "lion",
+    "kk": "[ˋlaɪən]",
+    "pos": "n.",
+    "meaning": "獅子",
+    "en": "lion",
+    "zh": "獅子"
+  },
+  {
+    "word": "lip",
+    "kk": "[lɪp]",
+    "pos": "n.",
+    "meaning": "嘴唇",
+    "en": "lip",
+    "zh": "嘴唇"
+  },
+  {
+    "word": "list",
+    "kk": "[lɪst]",
+    "pos": "n.",
+    "meaning": "表單",
+    "en": "list",
+    "zh": "表單"
+  },
+  {
+    "word": "listen",
+    "kk": "[ˋlɪsn]",
+    "pos": "vt.",
+    "meaning": "聽",
+    "en": "listen",
+    "zh": "聽"
+  },
+  {
+    "word": "little",
+    "kk": "[ˋlɪt!]",
+    "pos": "adj.",
+    "meaning": "小的 adv. 少",
+    "en": "little",
+    "zh": "小的 adv. 少"
+  },
+  {
+    "word": "live (1)",
+    "kk": "[laɪv]",
+    "pos": "",
+    "meaning": "adj.活的 (2) [lɪv] vi.活著",
+    "en": "live (1)",
+    "zh": "adj.活的 (2) [lɪv] vi.活著"
+  },
+  {
+    "word": "long",
+    "kk": "[lɔŋ]",
+    "pos": "",
+    "meaning": "(1) adj.長的 (2) vi.渴望",
+    "en": "long",
+    "zh": "(1) adj.長的 (2) vi.渴望"
+  },
+  {
+    "word": "look",
+    "kk": "[lʊk]",
+    "pos": "vi. vt.",
+    "meaning": "看",
+    "en": "look",
+    "zh": "看"
+  },
+  {
+    "word": "lot",
+    "kk": "[lɑt]",
+    "pos": "n.",
+    "meaning": "很多；籤；一塊地",
+    "en": "lot",
+    "zh": "很多；籤；一塊地"
+  },
+  {
+    "word": "loud",
+    "kk": "[laʊd]",
+    "pos": "adj.",
+    "meaning": "大聲的",
+    "en": "loud",
+    "zh": "大聲的"
+  },
+  {
+    "word": "love",
+    "kk": "[lʌv]",
+    "pos": "vt. n.",
+    "meaning": "愛",
+    "en": "love",
+    "zh": "愛"
+  },
+  {
+    "word": "low",
+    "kk": "[lo]",
+    "pos": "adj.",
+    "meaning": "低的",
+    "en": "low",
+    "zh": "低的"
+  },
+  {
+    "word": "lucky",
+    "kk": "[ˋlʌkɪ]",
+    "pos": "adj.",
+    "meaning": "幸運的",
+    "en": "lucky",
+    "zh": "幸運的"
+  },
+  {
+    "word": "",
+    "kk": "[lʌntʃ]",
+    "pos": "",
+    "meaning": "/ [ˋlʌntʃən] n. 午餐",
+    "en": "",
+    "zh": "/ [ˋlʌntʃən] n. 午餐"
+  },
+  {
+    "word": "machine",
+    "kk": "[məˋʃin]",
+    "pos": "n.",
+    "meaning": "機器",
+    "en": "machine",
+    "zh": "機器"
+  },
+  {
+    "word": "mad",
+    "kk": "[mæd]",
+    "pos": "adj.",
+    "meaning": "發飆的",
+    "en": "mad",
+    "zh": "發飆的"
+  },
+  {
+    "word": "mail",
+    "kk": "[mel]",
+    "pos": "n.",
+    "meaning": "郵件",
+    "en": "mail",
+    "zh": "郵件"
+  },
+  {
+    "word": "make",
+    "kk": "[mek]",
+    "pos": "vt.",
+    "meaning": "做",
+    "en": "make",
+    "zh": "做"
+  },
+  {
+    "word": "man",
+    "kk": "[mæn]",
+    "pos": "n.",
+    "meaning": "男人",
+    "en": "man",
+    "zh": "男人"
+  },
+  {
+    "word": "many",
+    "kk": "[ˋmɛnɪ]",
+    "pos": "adj.",
+    "meaning": "許多的",
+    "en": "many",
+    "zh": "許多的"
+  },
+  {
+    "word": "map",
+    "kk": "[mæp]",
+    "pos": "n.",
+    "meaning": "地圖",
+    "en": "map",
+    "zh": "地圖"
+  },
+  {
+    "word": "March/Mar.",
+    "kk": "[mɑrtʃ]",
+    "pos": "n.",
+    "meaning": "三月",
+    "en": "March/Mar.",
+    "zh": "三月"
+  },
+  {
+    "word": "market",
+    "kk": "[ˋmɑrkɪt]",
+    "pos": "n.",
+    "meaning": "市場",
+    "en": "market",
+    "zh": "市場"
+  },
+  {
+    "word": "marry",
+    "kk": "[ˋmærɪ]",
+    "pos": "vt.",
+    "meaning": "嫁娶",
+    "en": "marry",
+    "zh": "嫁娶"
+  },
+  {
+    "word": "master",
+    "kk": "[ˋmæstɚ]",
+    "pos": "",
+    "meaning": "(1) n. 主人(2) vt. 精通",
+    "en": "master",
+    "zh": "(1) n. 主人(2) vt. 精通"
+  },
+  {
+    "word": "match",
+    "kk": "[mætʃ]",
+    "pos": "n.",
+    "meaning": "(1) 比賽",
+    "en": "match",
+    "zh": "(1) 比賽"
+  },
+  {
+    "word": "matter",
+    "kk": "[ˋmætɚ]",
+    "pos": "",
+    "meaning": "(1) n.事件 (2) vi.重要",
+    "en": "matter",
+    "zh": "(1) n.事件 (2) vi.重要"
+  },
+  {
+    "word": "May",
+    "kk": "[me]",
+    "pos": "n.",
+    "meaning": "五月",
+    "en": "May",
+    "zh": "五月"
+  },
+  {
+    "word": "may",
+    "kk": "[me]",
+    "pos": "aux.",
+    "meaning": "可能",
+    "en": "may",
+    "zh": "可能"
+  },
+  {
+    "word": "maybe",
+    "kk": "[ˋmebɪ]",
+    "pos": "adv.",
+    "meaning": "或許",
+    "en": "maybe",
+    "zh": "或許"
+  },
+  {
+    "word": "me",
+    "kk": "[mi]",
+    "pos": "pron.",
+    "meaning": "(受格)我",
+    "en": "me",
+    "zh": "(受格)我"
+  },
+  {
+    "word": "mean",
+    "kk": "[min]",
+    "pos": "",
+    "meaning": "(1) vt.表…意思 (2) adj.吝嗇",
+    "en": "mean",
+    "zh": "(1) vt.表…意思 (2) adj.吝嗇"
+  },
+  {
+    "word": "meat",
+    "kk": "[mit]",
+    "pos": "n.",
+    "meaning": "肉",
+    "en": "meat",
+    "zh": "肉"
+  },
+  {
+    "word": "meet",
+    "kk": "[mit]",
+    "pos": "vt.",
+    "meaning": "遇見",
+    "en": "meet",
+    "zh": "遇見"
+  },
+  {
+    "word": "middle",
+    "kk": "[ˋmɪd!]",
+    "pos": "adj.",
+    "meaning": "中間的",
+    "en": "middle",
+    "zh": "中間的"
+  },
+  {
+    "word": "mile",
+    "kk": "[maɪl]",
+    "pos": "n.",
+    "meaning": "英里",
+    "en": "mile",
+    "zh": "英里"
+  },
+  {
+    "word": "milk",
+    "kk": "[mɪlk]",
+    "pos": "n.",
+    "meaning": "牛奶",
+    "en": "milk",
+    "zh": "牛奶"
+  },
+  {
+    "word": "mind",
+    "kk": "[maɪnd]",
+    "pos": "n.",
+    "meaning": "心智",
+    "en": "mind",
+    "zh": "心智"
+  },
+  {
+    "word": "minute",
+    "kk": "[ˋmɪnɪt]",
+    "pos": "n.",
+    "meaning": "分鐘",
+    "en": "minute",
+    "zh": "分鐘"
+  },
+  {
+    "word": "Miss/miss",
+    "kk": "[mɪs]",
+    "pos": "n.",
+    "meaning": "小姐",
+    "en": "Miss/miss",
+    "zh": "小姐"
+  },
+  {
+    "word": "miss",
+    "kk": "[mɪs]",
+    "pos": "vt.",
+    "meaning": "想念",
+    "en": "miss",
+    "zh": "想念"
+  },
+  {
+    "word": "mistake",
+    "kk": "[mɪˋstek]",
+    "pos": "n.",
+    "meaning": "錯誤",
+    "en": "mistake",
+    "zh": "錯誤"
+  },
+  {
+    "word": "moment",
+    "kk": "[ˋmomənt]",
+    "pos": "n.",
+    "meaning": "瞬間",
+    "en": "moment",
+    "zh": "瞬間"
+  },
+  {
+    "word": "",
+    "kk": "[ˋmɑmɪ]",
+    "pos": "",
+    "meaning": "/ [ˋmɑmə]/ [mɑm] n.媽媽",
+    "en": "",
+    "zh": "/ [ˋmɑmə]/ [mɑm] n.媽媽"
+  },
+  {
+    "word": "Monday/Mon.",
+    "kk": "[ˋmʌnde]",
+    "pos": "",
+    "meaning": "n.星期一",
+    "en": "Monday/Mon.",
+    "zh": "n.星期一"
+  },
+  {
+    "word": "money",
+    "kk": "[ˋmʌnɪ]",
+    "pos": "n.",
+    "meaning": "錢",
+    "en": "money",
+    "zh": "錢"
+  },
+  {
+    "word": "monkey",
+    "kk": "[ˋmʌŋkɪ]",
+    "pos": "n.",
+    "meaning": "猴子",
+    "en": "monkey",
+    "zh": "猴子"
+  },
+  {
+    "word": "month",
+    "kk": "[mʌnθ]",
+    "pos": "n.",
+    "meaning": "月",
+    "en": "month",
+    "zh": "月"
+  },
+  {
+    "word": "moon",
+    "kk": "[mun]",
+    "pos": "n.",
+    "meaning": "月亮",
+    "en": "moon",
+    "zh": "月亮"
+  },
+  {
+    "word": "more",
+    "kk": "[mor]",
+    "pos": "adj. adv. pron.",
+    "meaning": "更多(的)",
+    "en": "more",
+    "zh": "更多(的)"
+  },
+  {
+    "word": "morning",
+    "kk": "[ˋmɔrnɪŋ]",
+    "pos": "n.",
+    "meaning": "早晨",
+    "en": "morning",
+    "zh": "早晨"
+  },
+  {
+    "word": "most",
+    "kk": "[most]",
+    "pos": "adj. adv. pron.",
+    "meaning": "最多(的)",
+    "en": "most",
+    "zh": "最多(的)"
+  },
+  {
+    "word": "mother",
+    "kk": "[ˋmʌðɚ]",
+    "pos": "n.",
+    "meaning": "媽媽",
+    "en": "mother",
+    "zh": "媽媽"
+  },
+  {
+    "word": "mountain",
+    "kk": "[ˋmaʊntn]",
+    "pos": "n.",
+    "meaning": "山",
+    "en": "mountain",
+    "zh": "山"
+  },
+  {
+    "word": "mouse",
+    "kk": "[maʊs]",
+    "pos": "n.",
+    "meaning": "老鼠",
+    "en": "mouse",
+    "zh": "老鼠"
+  },
+  {
+    "word": "mouth",
+    "kk": "[maʊθ]",
+    "pos": "n.",
+    "meaning": "嘴巴",
+    "en": "mouth",
+    "zh": "嘴巴"
+  },
+  {
+    "word": "move(ment)",
+    "kk": "[muvmənt]",
+    "pos": "vi.",
+    "meaning": "動作",
+    "en": "move(ment)",
+    "zh": "動作"
+  },
+  {
+    "word": "Mr./mister",
+    "kk": "[ˋmɪstɚ]",
+    "pos": "n.",
+    "meaning": "先生",
+    "en": "Mr./mister",
+    "zh": "先生"
+  },
+  {
+    "word": "Mrs.",
+    "kk": "[ˋmɪsɪz]",
+    "pos": "n.",
+    "meaning": "太太",
+    "en": "Mrs.",
+    "zh": "太太"
+  },
+  {
+    "word": "Ms.",
+    "kk": "[mɪz]",
+    "pos": "",
+    "meaning": "n.女士(婚姻狀況不明)",
+    "en": "Ms.",
+    "zh": "n.女士(婚姻狀況不明)"
+  },
+  {
+    "word": "much",
+    "kk": "[mʌtʃ]",
+    "pos": "adj. adv. pron.",
+    "meaning": "許多(的)",
+    "en": "much",
+    "zh": "許多(的)"
+  },
+  {
+    "word": "mud",
+    "kk": "[mʌd]",
+    "pos": "n.",
+    "meaning": "泥巴",
+    "en": "mud",
+    "zh": "泥巴"
+  },
+  {
+    "word": "mug",
+    "kk": "[mʌg]",
+    "pos": "n.",
+    "meaning": "大杯子",
+    "en": "mug",
+    "zh": "大杯子"
+  },
+  {
+    "word": "music",
+    "kk": "[ˋmjuzɪk]",
+    "pos": "n.",
+    "meaning": "音樂",
+    "en": "music",
+    "zh": "音樂"
+  },
+  {
+    "word": "must",
+    "kk": "[mʌst]",
+    "pos": "aux.",
+    "meaning": "必須",
+    "en": "must",
+    "zh": "必須"
+  },
+  {
+    "word": "my",
+    "kk": "[maɪ]",
+    "pos": "pron.",
+    "meaning": "我的",
+    "en": "my",
+    "zh": "我的"
+  },
+  {
+    "word": "name",
+    "kk": "[nem]",
+    "pos": "n.",
+    "meaning": "名字",
+    "en": "name",
+    "zh": "名字"
+  },
+  {
+    "word": "nation",
+    "kk": "[ˋneʃən]",
+    "pos": "n.",
+    "meaning": "國家",
+    "en": "nation",
+    "zh": "國家"
+  },
+  {
+    "word": "nature",
+    "kk": "[ˋnetʃɚ]",
+    "pos": "n.",
+    "meaning": "大自然",
+    "en": "nature",
+    "zh": "大自然"
+  },
+  {
+    "word": "near",
+    "kk": "[nɪr]",
+    "pos": "adj. adv. prep.",
+    "meaning": "近(…的)",
+    "en": "near",
+    "zh": "近(…的)"
+  },
+  {
+    "word": "neck",
+    "kk": "[nɛk]",
+    "pos": "n.",
+    "meaning": "脖子",
+    "en": "neck",
+    "zh": "脖子"
+  },
+  {
+    "word": "need",
+    "kk": "[nid]",
+    "pos": "vt.",
+    "meaning": "需要",
+    "en": "need",
+    "zh": "需要"
+  },
+  {
+    "word": "never",
+    "kk": "[ˋnɛvɚ]",
+    "pos": "adv.",
+    "meaning": "從不",
+    "en": "never",
+    "zh": "從不"
+  },
+  {
+    "word": "new",
+    "kk": "[nju]",
+    "pos": "adj.",
+    "meaning": "新的",
+    "en": "new",
+    "zh": "新的"
+  },
+  {
+    "word": "news",
+    "kk": "[njuz]",
+    "pos": "n.",
+    "meaning": "新聞",
+    "en": "news",
+    "zh": "新聞"
+  },
+  {
+    "word": "newspaper",
+    "kk": "[ˋnjuz͵pepɚ]",
+    "pos": "n.",
+    "meaning": "報紙",
+    "en": "newspaper",
+    "zh": "報紙"
+  },
+  {
+    "word": "next",
+    "kk": "[ˋnɛkst]",
+    "pos": "adj. adv. prep.",
+    "meaning": "緊接在後的",
+    "en": "next",
+    "zh": "緊接在後的"
+  },
+  {
+    "word": "nice",
+    "kk": "[naɪs]",
+    "pos": "adj.",
+    "meaning": "好的",
+    "en": "nice",
+    "zh": "好的"
+  },
+  {
+    "word": "night",
+    "kk": "[naɪt]",
+    "pos": "n.",
+    "meaning": "晚上",
+    "en": "night",
+    "zh": "晚上"
+  },
+  {
+    "word": "nine",
+    "kk": "[naɪn]",
+    "pos": "n.",
+    "meaning": "九",
+    "en": "nine",
+    "zh": "九"
+  },
+  {
+    "word": "nineteen",
+    "kk": "[ˋnaɪnˋtin]",
+    "pos": "n.",
+    "meaning": "十九",
+    "en": "nineteen",
+    "zh": "十九"
+  },
+  {
+    "word": "ninety",
+    "kk": "[ˋnaɪntɪ]",
+    "pos": "n.",
+    "meaning": "九十",
+    "en": "ninety",
+    "zh": "九十"
+  },
+  {
+    "word": "no/nope",
+    "kk": "[no]",
+    "pos": "",
+    "meaning": "/ [nop] adv. 不是",
+    "en": "no/nope",
+    "zh": "/ [nop] adv. 不是"
+  },
+  {
+    "word": "noise",
+    "kk": "[nɔɪz]",
+    "pos": "n.",
+    "meaning": "噪音",
+    "en": "noise",
+    "zh": "噪音"
+  },
+  {
+    "word": "noisy",
+    "kk": "[ˋnɔɪzɪ]",
+    "pos": "adj.",
+    "meaning": "喧鬧的",
+    "en": "noisy",
+    "zh": "喧鬧的"
+  },
+  {
+    "word": "noon",
+    "kk": "[nun]",
+    "pos": "n.",
+    "meaning": "中午",
+    "en": "noon",
+    "zh": "中午"
+  },
+  {
+    "word": "nor",
+    "kk": "[nɔr]",
+    "pos": "",
+    "meaning": "conj.（用在 neither 之後）也不",
+    "en": "nor",
+    "zh": "conj.（用在 neither 之後）也不"
+  },
+  {
+    "word": "north",
+    "kk": "[nɔrθ]",
+    "pos": "n.",
+    "meaning": "北",
+    "en": "north",
+    "zh": "北"
+  },
+  {
+    "word": "nose",
+    "kk": "[noz]",
+    "pos": "n.",
+    "meaning": "鼻子",
+    "en": "nose",
+    "zh": "鼻子"
+  },
+  {
+    "word": "not",
+    "kk": "[nɑt]",
+    "pos": "adv.",
+    "meaning": "不",
+    "en": "not",
+    "zh": "不"
+  },
+  {
+    "word": "note",
+    "kk": "[not]",
+    "pos": "n.",
+    "meaning": "筆記",
+    "en": "note",
+    "zh": "筆記"
+  },
+  {
+    "word": "nothing",
+    "kk": "[ˋnʌθɪŋ]",
+    "pos": "n.",
+    "meaning": "沒什麼",
+    "en": "nothing",
+    "zh": "沒什麼"
+  },
+  {
+    "word": "notice",
+    "kk": "[ˋnotɪs]",
+    "pos": "vt.",
+    "meaning": "注意",
+    "en": "notice",
+    "zh": "注意"
+  },
+  {
+    "word": "November/Nov.",
+    "kk": "[noˋvɛmbɚ]",
+    "pos": "",
+    "meaning": "n.11 月",
+    "en": "November/Nov.",
+    "zh": "n.11 月"
+  },
+  {
+    "word": "now",
+    "kk": "[naʊ]",
+    "pos": "adv.",
+    "meaning": "現在",
+    "en": "now",
+    "zh": "現在"
+  },
+  {
+    "word": "number",
+    "kk": "[ˋnʌmbɚ]",
+    "pos": "n.",
+    "meaning": "數字",
+    "en": "number",
+    "zh": "數字"
+  },
+  {
+    "word": "nurse",
+    "kk": "[nɝs]",
+    "pos": "n.",
+    "meaning": "護士",
+    "en": "nurse",
+    "zh": "護士"
+  },
+  {
+    "word": "O.K./OK/okay",
+    "kk": "[ˋoˋke]",
+    "pos": "adj.",
+    "meaning": "adv.可以",
+    "en": "O.K./OK/okay",
+    "zh": "adv.可以"
+  },
+  {
+    "word": "ocean",
+    "kk": "[ˋoʃən]",
+    "pos": "n.",
+    "meaning": "海洋",
+    "en": "ocean",
+    "zh": "海洋"
+  },
+  {
+    "word": "o’clock",
+    "kk": "[əˋklɑk]",
+    "pos": "n.",
+    "meaning": "…點鐘",
+    "en": "o’clock",
+    "zh": "…點鐘"
+  },
+  {
+    "word": "October/Oct.",
+    "kk": "[ɑkˋtobɚ]",
+    "pos": "n.",
+    "meaning": "十月",
+    "en": "October/Oct.",
+    "zh": "十月"
+  },
+  {
+    "word": "of",
+    "kk": "[ɑv]",
+    "pos": "prep.",
+    "meaning": "…的；屬於",
+    "en": "of",
+    "zh": "…的；屬於"
+  },
+  {
+    "word": "off",
+    "kk": "[ɔf]",
+    "pos": "adv. prep. adj.",
+    "meaning": "離開(…)",
+    "en": "off",
+    "zh": "離開(…)"
+  },
+  {
+    "word": "office",
+    "kk": "[ˋɔfɪs]",
+    "pos": "n.",
+    "meaning": "辦公室",
+    "en": "office",
+    "zh": "辦公室"
+  },
+  {
+    "word": "officer",
+    "kk": "[ˋɔfəsɚ]",
+    "pos": "n.",
+    "meaning": "公務員",
+    "en": "officer",
+    "zh": "公務員"
+  },
+  {
+    "word": "often",
+    "kk": "[ˋɔfən]",
+    "pos": "adv.",
+    "meaning": "常常",
+    "en": "often",
+    "zh": "常常"
+  },
+  {
+    "word": "oil",
+    "kk": "[ɔɪl]",
+    "pos": "n.",
+    "meaning": "油",
+    "en": "oil",
+    "zh": "油"
+  },
+  {
+    "word": "old",
+    "kk": "[old]",
+    "pos": "adj.",
+    "meaning": "老的",
+    "en": "old",
+    "zh": "老的"
+  },
+  {
+    "word": "on",
+    "kk": "[ɑn]",
+    "pos": "prep.",
+    "meaning": "在…上",
+    "en": "on",
+    "zh": "在…上"
+  },
+  {
+    "word": "once",
+    "kk": "[wʌns]",
+    "pos": "adv.",
+    "meaning": "一次；一旦",
+    "en": "once",
+    "zh": "一次；一旦"
+  },
+  {
+    "word": "one",
+    "kk": "[wʌn]",
+    "pos": "n.",
+    "meaning": "一",
+    "en": "one",
+    "zh": "一"
+  },
+  {
+    "word": "only",
+    "kk": "[ˋonlɪ]",
+    "pos": "adj.",
+    "meaning": "唯一的",
+    "en": "only",
+    "zh": "唯一的"
+  },
+  {
+    "word": "open",
+    "kk": "[ˋopən]",
+    "pos": "adj.",
+    "meaning": "打開的",
+    "en": "open",
+    "zh": "打開的"
+  },
+  {
+    "word": "or",
+    "kk": "[ɔr]",
+    "pos": "conj.",
+    "meaning": "或者",
+    "en": "or",
+    "zh": "或者"
+  },
+  {
+    "word": "orange",
+    "kk": "[ˋɔrɪndʒ]",
+    "pos": "n.",
+    "meaning": "柳橙",
+    "en": "orange",
+    "zh": "柳橙"
+  },
+  {
+    "word": "order",
+    "kk": "[ˋɔrdɚ]",
+    "pos": "n.",
+    "meaning": "順序",
+    "en": "order",
+    "zh": "順序"
+  },
+  {
+    "word": "other",
+    "kk": "[ˋʌðɚ]",
+    "pos": "adj.",
+    "meaning": "其餘的",
+    "en": "other",
+    "zh": "其餘的"
+  },
+  {
+    "word": "our(s)",
+    "kk": "[ˋaʊrz]",
+    "pos": "pron.",
+    "meaning": "我們的",
+    "en": "our(s)",
+    "zh": "我們的"
+  },
+  {
+    "word": "out",
+    "kk": "[aʊt]",
+    "pos": "prep.",
+    "meaning": "在外",
+    "en": "out",
+    "zh": "在外"
+  },
+  {
+    "word": "outside",
+    "kk": "[ˋaʊtˋsaɪd]",
+    "pos": "n.",
+    "meaning": "外面",
+    "en": "outside",
+    "zh": "外面"
+  },
+  {
+    "word": "over",
+    "kk": "[ˋovɚ]",
+    "pos": "prep.",
+    "meaning": "在…之上 adv. 在上方",
+    "en": "over",
+    "zh": "在…之上 adv. 在上方"
+  },
+  {
+    "word": "own",
+    "kk": "[on]",
+    "pos": "adj.",
+    "meaning": "自己的 vt. 擁有",
+    "en": "own",
+    "zh": "自己的 vt. 擁有"
+  },
+  {
+    "word": "page",
+    "kk": "[pedʒ]",
+    "pos": "n.",
+    "meaning": "頁",
+    "en": "page",
+    "zh": "頁"
+  },
+  {
+    "word": "paint",
+    "kk": "[pent]",
+    "pos": "vt.",
+    "meaning": "塗",
+    "en": "paint",
+    "zh": "塗"
+  },
+  {
+    "word": "pair",
+    "kk": "[pɛr]",
+    "pos": "n.",
+    "meaning": "一對",
+    "en": "pair",
+    "zh": "一對"
+  },
+  {
+    "word": "",
+    "kk": "[pænts]",
+    "pos": "",
+    "meaning": "/ [ˋtraʊzɚz] n. 褲子",
+    "en": "",
+    "zh": "/ [ˋtraʊzɚz] n. 褲子"
+  },
+  {
+    "word": "paper",
+    "kk": "[ˋpepɚ]",
+    "pos": "n.",
+    "meaning": "紙",
+    "en": "paper",
+    "zh": "紙"
+  },
+  {
+    "word": "parent(s)",
+    "kk": "[ˋpɛrənt]",
+    "pos": "n.",
+    "meaning": "雙親",
+    "en": "parent(s)",
+    "zh": "雙親"
+  },
+  {
+    "word": "park",
+    "kk": "[pɑrk]",
+    "pos": "",
+    "meaning": "(1) n. 公園 (2) vt. vi. 停車",
+    "en": "park",
+    "zh": "(1) n. 公園 (2) vt. vi. 停車"
+  },
+  {
+    "word": "part",
+    "kk": "[pɑrt]",
+    "pos": "",
+    "meaning": "(1) n.一部分(2) vt.使分開",
+    "en": "part",
+    "zh": "(1) n.一部分(2) vt.使分開"
+  },
+  {
+    "word": "party",
+    "kk": "[ˋpɑrtɪ]",
+    "pos": "n.",
+    "meaning": "派對",
+    "en": "party",
+    "zh": "派對"
+  },
+  {
+    "word": "pass",
+    "kk": "[pæs]",
+    "pos": "vi. vt.",
+    "meaning": "經過",
+    "en": "pass",
+    "zh": "經過"
+  },
+  {
+    "word": "past",
+    "kk": "[pæst]",
+    "pos": "",
+    "meaning": "(1)prep.經過(2)n.往昔 adj.過去的",
+    "en": "past",
+    "zh": "(1)prep.經過(2)n.往昔 adj.過去的"
+  },
+  {
+    "word": "pay (1) (ment)",
+    "kk": "[ˋpe(mənt)]",
+    "pos": "vt. vi.",
+    "meaning": "n.",
+    "en": "pay (1) (ment)",
+    "zh": "n."
+  },
+  {
+    "word": "pen",
+    "kk": "[pɛn]",
+    "pos": "n.",
+    "meaning": "筆",
+    "en": "pen",
+    "zh": "筆"
+  },
+  {
+    "word": "pencil",
+    "kk": "[ˋpɛns!]",
+    "pos": "n.",
+    "meaning": "鉛筆",
+    "en": "pencil",
+    "zh": "鉛筆"
+  },
+  {
+    "word": "people",
+    "kk": "[ˋpip!]",
+    "pos": "n.",
+    "meaning": "人們",
+    "en": "people",
+    "zh": "人們"
+  },
+  {
+    "word": "perhaps",
+    "kk": "[pɚˋhæps]",
+    "pos": "adv.",
+    "meaning": "大概",
+    "en": "perhaps",
+    "zh": "大概"
+  },
+  {
+    "word": "person",
+    "kk": "[ˋpɝsn]",
+    "pos": "n.",
+    "meaning": "人",
+    "en": "person",
+    "zh": "人"
+  },
+  {
+    "word": "pet",
+    "kk": "[pɛt]",
+    "pos": "n.",
+    "meaning": "寵物",
+    "en": "pet",
+    "zh": "寵物"
+  },
+  {
+    "word": "piano",
+    "kk": "[pɪˋæno]",
+    "pos": "n.",
+    "meaning": "鋼琴",
+    "en": "piano",
+    "zh": "鋼琴"
+  },
+  {
+    "word": "picture",
+    "kk": "[ˋpɪktʃɚ]",
+    "pos": "n.",
+    "meaning": "圖像",
+    "en": "picture",
+    "zh": "圖像"
+  },
+  {
+    "word": "pie",
+    "kk": "[paɪ]",
+    "pos": "n.",
+    "meaning": "派",
+    "en": "pie",
+    "zh": "派"
+  },
+  {
+    "word": "piece",
+    "kk": "[pis]",
+    "pos": "n.",
+    "meaning": "一片",
+    "en": "piece",
+    "zh": "一片"
+  },
+  {
+    "word": "pig",
+    "kk": "[pɪg]",
+    "pos": "n.",
+    "meaning": "豬",
+    "en": "pig",
+    "zh": "豬"
+  },
+  {
+    "word": "place",
+    "kk": "[pɪg]",
+    "pos": "n.",
+    "meaning": "地方",
+    "en": "place",
+    "zh": "地方"
+  },
+  {
+    "word": "plan",
+    "kk": "[plæn]",
+    "pos": "n.",
+    "meaning": "計畫",
+    "en": "plan",
+    "zh": "計畫"
+  },
+  {
+    "word": "plant",
+    "kk": "[plænt]",
+    "pos": "",
+    "meaning": "(1) n.植物 (2) vt.栽種 n. 工廠",
+    "en": "plant",
+    "zh": "(1) n.植物 (2) vt.栽種 n. 工廠"
+  },
+  {
+    "word": "play",
+    "kk": "[ple]",
+    "pos": "vi.",
+    "meaning": "玩耍",
+    "en": "play",
+    "zh": "玩耍"
+  },
+  {
+    "word": "player",
+    "kk": "[ˋpleɚ]",
+    "pos": "n.",
+    "meaning": "遊戲的人",
+    "en": "player",
+    "zh": "遊戲的人"
+  },
+  {
+    "word": "playground",
+    "kk": "[ˋple͵graʊnd]",
+    "pos": "",
+    "meaning": "n.操場",
+    "en": "playground",
+    "zh": "n.操場"
+  },
+  {
+    "word": "please",
+    "kk": "[pliz]",
+    "pos": "vt.",
+    "meaning": "使高興",
+    "en": "please",
+    "zh": "使高興"
+  },
+  {
+    "word": "pocket",
+    "kk": "[ˋpɑkɪt]",
+    "pos": "n.",
+    "meaning": "口袋",
+    "en": "pocket",
+    "zh": "口袋"
+  },
+  {
+    "word": "poetry",
+    "kk": "[ˋpoɪtrɪ]",
+    "pos": "n.",
+    "meaning": "詩(總稱)",
+    "en": "poetry",
+    "zh": "詩(總稱)"
+  },
+  {
+    "word": "point",
+    "kk": "[pɔɪnt]",
+    "pos": "",
+    "meaning": "(1) vi.指向 (2) n.尖端",
+    "en": "point",
+    "zh": "(1) vi.指向 (2) n.尖端"
+  },
+  {
+    "word": "police",
+    "kk": "[pəˋlis]",
+    "pos": "n.",
+    "meaning": "警察",
+    "en": "police",
+    "zh": "警察"
+  },
+  {
+    "word": "",
+    "kk": "[pəˋlismən]",
+    "pos": "",
+    "meaning": "/[kɑp] n. 警察",
+    "en": "",
+    "zh": "/[kɑp] n. 警察"
+  },
+  {
+    "word": "pond",
+    "kk": "[pɑnd]",
+    "pos": "n.",
+    "meaning": "池塘",
+    "en": "pond",
+    "zh": "池塘"
+  },
+  {
+    "word": "pool",
+    "kk": "[pul]",
+    "pos": "n.",
+    "meaning": "水池",
+    "en": "pool",
+    "zh": "水池"
+  },
+  {
+    "word": "poor",
+    "kk": "[pʊr]",
+    "pos": "adj.",
+    "meaning": "貧窮的",
+    "en": "poor",
+    "zh": "貧窮的"
+  },
+  {
+    "word": "popcorn",
+    "kk": "[ˋpɑp͵kɔrn]",
+    "pos": "n.",
+    "meaning": "爆米花",
+    "en": "popcorn",
+    "zh": "爆米花"
+  },
+  {
+    "word": "position",
+    "kk": "[pəˋzɪʃən]",
+    "pos": "n.",
+    "meaning": "位置",
+    "en": "position",
+    "zh": "位置"
+  },
+  {
+    "word": "possible",
+    "kk": "[ˋpɑsəb!]",
+    "pos": "adj.",
+    "meaning": "可能的",
+    "en": "possible",
+    "zh": "可能的"
+  },
+  {
+    "word": "power",
+    "kk": "[ˋpaʊɚ]",
+    "pos": "n.",
+    "meaning": "力量",
+    "en": "power",
+    "zh": "力量"
+  },
+  {
+    "word": "practice",
+    "kk": "[ˋpræktɪs]",
+    "pos": "",
+    "meaning": "vt.練習",
+    "en": "practice",
+    "zh": "vt.練習"
+  },
+  {
+    "word": "prepare",
+    "kk": "[prɪˋpɛr]",
+    "pos": "vt.",
+    "meaning": "準備",
+    "en": "prepare",
+    "zh": "準備"
+  },
+  {
+    "word": "pretty",
+    "kk": "[ˋprɪtɪ]",
+    "pos": "",
+    "meaning": "(1) adj.漂亮的 (2) adv.非常",
+    "en": "pretty",
+    "zh": "(1) adj.漂亮的 (2) adv.非常"
+  },
+  {
+    "word": "price",
+    "kk": "[praɪs]",
+    "pos": "n.",
+    "meaning": "價格",
+    "en": "price",
+    "zh": "價格"
+  },
+  {
+    "word": "print",
+    "kk": "[prɪnt]",
+    "pos": "vt.",
+    "meaning": "印",
+    "en": "print",
+    "zh": "印"
+  },
+  {
+    "word": "problem",
+    "kk": "[ˋprɑbləm]",
+    "pos": "n.",
+    "meaning": "問題",
+    "en": "problem",
+    "zh": "問題"
+  },
+  {
+    "word": "prove",
+    "kk": "[pruv]",
+    "pos": "vt.",
+    "meaning": "證明",
+    "en": "prove",
+    "zh": "證明"
+  },
+  {
+    "word": "public",
+    "kk": "[ˋpʌblɪk]",
+    "pos": "adj.",
+    "meaning": "公眾的",
+    "en": "public",
+    "zh": "公眾的"
+  },
+  {
+    "word": "pull",
+    "kk": "[pʊl]",
+    "pos": "vt.",
+    "meaning": "拉；拖",
+    "en": "pull",
+    "zh": "拉；拖"
+  },
+  {
+    "word": "purple",
+    "kk": "[ˋpɝp!]",
+    "pos": "adj.",
+    "meaning": "紫色的",
+    "en": "purple",
+    "zh": "紫色的"
+  },
+  {
+    "word": "purpose",
+    "kk": "[ˋpɝpəs]",
+    "pos": "n.",
+    "meaning": "目的",
+    "en": "purpose",
+    "zh": "目的"
+  },
+  {
+    "word": "push",
+    "kk": "[pʊʃ]",
+    "pos": "vt.",
+    "meaning": "推",
+    "en": "push",
+    "zh": "推"
+  },
+  {
+    "word": "put",
+    "kk": "[pʊt]",
+    "pos": "vt.",
+    "meaning": "放",
+    "en": "put",
+    "zh": "放"
+  },
+  {
+    "word": "queen",
+    "kk": "[ˋkwin]",
+    "pos": "n.",
+    "meaning": "女王",
+    "en": "queen",
+    "zh": "女王"
+  },
+  {
+    "word": "question",
+    "kk": "[ˋkwɛstʃən]",
+    "pos": "n.",
+    "meaning": "問題",
+    "en": "question",
+    "zh": "問題"
+  },
+  {
+    "word": "quick",
+    "kk": "[kwɪk]",
+    "pos": "adj.",
+    "meaning": "adv.快(的)",
+    "en": "quick",
+    "zh": "adv.快(的)"
+  },
+  {
+    "word": "quiet",
+    "kk": "[ˋkwaɪət]",
+    "pos": "adj.",
+    "meaning": "安靜的",
+    "en": "quiet",
+    "zh": "安靜的"
+  },
+  {
+    "word": "quite",
+    "kk": "[kwaɪt]",
+    "pos": "adv.",
+    "meaning": "相當；很",
+    "en": "quite",
+    "zh": "相當；很"
+  },
+  {
+    "word": "race",
+    "kk": "[res]",
+    "pos": "",
+    "meaning": "(1) vt. vi. n.競賽 (2) n. 種族",
+    "en": "race",
+    "zh": "(1) vt. vi. n.競賽 (2) n. 種族"
+  },
+  {
+    "word": "radio",
+    "kk": "[ˋredɪ͵o]",
+    "pos": "n.",
+    "meaning": "收音機",
+    "en": "radio",
+    "zh": "收音機"
+  },
+  {
+    "word": "railroad",
+    "kk": "[ˋrel͵rod]",
+    "pos": "n.",
+    "meaning": "鐵路",
+    "en": "railroad",
+    "zh": "鐵路"
+  },
+  {
+    "word": "rain",
+    "kk": "[ren]",
+    "pos": "n.",
+    "meaning": "雨",
+    "en": "rain",
+    "zh": "雨"
+  },
+  {
+    "word": "rainbow",
+    "kk": "[ˋren͵bo]",
+    "pos": "n.",
+    "meaning": "彩虹",
+    "en": "rainbow",
+    "zh": "彩虹"
+  },
+  {
+    "word": "raise",
+    "kk": "[rez]",
+    "pos": "vt.",
+    "meaning": "舉起",
+    "en": "raise",
+    "zh": "舉起"
+  },
+  {
+    "word": "rat",
+    "kk": "[ræt]",
+    "pos": "n.",
+    "meaning": "老鼠",
+    "en": "rat",
+    "zh": "老鼠"
+  },
+  {
+    "word": "reach",
+    "kk": "[ritʃ]",
+    "pos": "vt. vi.",
+    "meaning": "抵達；伸出手或腳",
+    "en": "reach",
+    "zh": "抵達；伸出手或腳"
+  },
+  {
+    "word": "read",
+    "kk": "[rid]",
+    "pos": "vt.",
+    "meaning": "閱讀",
+    "en": "read",
+    "zh": "閱讀"
+  },
+  {
+    "word": "ready",
+    "kk": "[ˋrɛdɪ]",
+    "pos": "adj.",
+    "meaning": "準備好的",
+    "en": "ready",
+    "zh": "準備好的"
+  },
+  {
+    "word": "real",
+    "kk": "[ˋriəl]",
+    "pos": "adj.",
+    "meaning": "真的：衷心的",
+    "en": "real",
+    "zh": "真的：衷心的"
+  },
+  {
+    "word": "reason",
+    "kk": "[ˋrizn]",
+    "pos": "n.",
+    "meaning": "理由",
+    "en": "reason",
+    "zh": "理由"
+  },
+  {
+    "word": "receive",
+    "kk": "[rɪˋsiv]",
+    "pos": "vt.",
+    "meaning": "接收",
+    "en": "receive",
+    "zh": "接收"
+  },
+  {
+    "word": "red",
+    "kk": "[rɛd]",
+    "pos": "adj.",
+    "meaning": "紅色的",
+    "en": "red",
+    "zh": "紅色的"
+  },
+  {
+    "word": "remember",
+    "kk": "[rɪˋmɛmbɚ]",
+    "pos": "vt. vi.",
+    "meaning": "記得",
+    "en": "remember",
+    "zh": "記得"
+  },
+  {
+    "word": "report",
+    "kk": "[rɪˋport]",
+    "pos": "n.",
+    "meaning": "報告",
+    "en": "report",
+    "zh": "報告"
+  },
+  {
+    "word": "rest",
+    "kk": "[rɛst]",
+    "pos": "vi.",
+    "meaning": "休息",
+    "en": "rest",
+    "zh": "休息"
+  },
+  {
+    "word": "return",
+    "kk": "[rɪˋtɝn]",
+    "pos": "vt. vi.",
+    "meaning": "返回",
+    "en": "return",
+    "zh": "返回"
+  },
+  {
+    "word": "rice",
+    "kk": "[raɪs]",
+    "pos": "n.",
+    "meaning": "米",
+    "en": "rice",
+    "zh": "米"
+  },
+  {
+    "word": "rich",
+    "kk": "[rɪtʃ]",
+    "pos": "adj.",
+    "meaning": "有錢的",
+    "en": "rich",
+    "zh": "有錢的"
+  },
+  {
+    "word": "ride",
+    "kk": "[raɪd]",
+    "pos": "vt.",
+    "meaning": "騎乘",
+    "en": "ride",
+    "zh": "騎乘"
+  },
+  {
+    "word": "right",
+    "kk": "[raɪt]",
+    "pos": "",
+    "meaning": "(1) n. adj.右邊(的) (2) n.正確",
+    "en": "right",
+    "zh": "(1) n. adj.右邊(的) (2) n.正確"
+  },
+  {
+    "word": "ring",
+    "kk": "[rɪŋ]",
+    "pos": "n.",
+    "meaning": "(1) v. n. 搖鈴；鳴響",
+    "en": "ring",
+    "zh": "(1) v. n. 搖鈴；鳴響"
+  },
+  {
+    "word": "rise",
+    "kk": "[raɪz]",
+    "pos": "vi.",
+    "meaning": "上升",
+    "en": "rise",
+    "zh": "上升"
+  },
+  {
+    "word": "river",
+    "kk": "[ˋrɪvɚ]",
+    "pos": "n.",
+    "meaning": "河",
+    "en": "river",
+    "zh": "河"
+  },
+  {
+    "word": "road",
+    "kk": "[rod]",
+    "pos": "n.",
+    "meaning": "道路",
+    "en": "road",
+    "zh": "道路"
+  },
+  {
+    "word": "robot",
+    "kk": "[ˋrobət]",
+    "pos": "n.",
+    "meaning": "機器人",
+    "en": "robot",
+    "zh": "機器人"
+  },
+  {
+    "word": "rock",
+    "kk": "[rɑk]",
+    "pos": "",
+    "meaning": "(1) n. 岩石",
+    "en": "rock",
+    "zh": "(1) n. 岩石"
+  },
+  {
+    "word": "roll",
+    "kk": "[rol]",
+    "pos": "vi.",
+    "meaning": "滾動",
+    "en": "roll",
+    "zh": "滾動"
+  },
+  {
+    "word": "roof",
+    "kk": "[ruf]",
+    "pos": "n.",
+    "meaning": "屋頂",
+    "en": "roof",
+    "zh": "屋頂"
+  },
+  {
+    "word": "room",
+    "kk": "[rum]",
+    "pos": "n.",
+    "meaning": "房間",
+    "en": "room",
+    "zh": "房間"
+  },
+  {
+    "word": "rooster",
+    "kk": "[ˋrustɚ]",
+    "pos": "n.",
+    "meaning": "公雞",
+    "en": "rooster",
+    "zh": "公雞"
+  },
+  {
+    "word": "root",
+    "kk": "[rut]",
+    "pos": "n.",
+    "meaning": "根",
+    "en": "root",
+    "zh": "根"
+  },
+  {
+    "word": "rope",
+    "kk": "[rop]",
+    "pos": "n.",
+    "meaning": "繩子",
+    "en": "rope",
+    "zh": "繩子"
+  },
+  {
+    "word": "rose",
+    "kk": "[roz]",
+    "pos": "n.",
+    "meaning": "玫瑰",
+    "en": "rose",
+    "zh": "玫瑰"
+  },
+  {
+    "word": "round",
+    "kk": "[raʊnd]",
+    "pos": "adj.",
+    "meaning": "圓的",
+    "en": "round",
+    "zh": "圓的"
+  },
+  {
+    "word": "row",
+    "kk": "[ro]",
+    "pos": "",
+    "meaning": "(1) n.列；排 (2) vt.划船",
+    "en": "row",
+    "zh": "(1) n.列；排 (2) vt.划船"
+  },
+  {
+    "word": "rub",
+    "kk": "[rʌb]",
+    "pos": "vt.",
+    "meaning": "摩擦",
+    "en": "rub",
+    "zh": "摩擦"
+  },
+  {
+    "word": "rubber",
+    "kk": "[ˋrʌbɚ]",
+    "pos": "n.",
+    "meaning": "橡膠",
+    "en": "rubber",
+    "zh": "橡膠"
+  },
+  {
+    "word": "rule",
+    "kk": "[rul]",
+    "pos": "n.",
+    "meaning": "規則",
+    "en": "rule",
+    "zh": "規則"
+  },
+  {
+    "word": "run",
+    "kk": "[rʌn]",
+    "pos": "vi.",
+    "meaning": "跑",
+    "en": "run",
+    "zh": "跑"
+  },
+  {
+    "word": "sad",
+    "kk": "[sæd]",
+    "pos": "adj.",
+    "meaning": "悲哀的",
+    "en": "sad",
+    "zh": "悲哀的"
+  },
+  {
+    "word": "safe",
+    "kk": "[sef]",
+    "pos": "",
+    "meaning": "(1) adj.安全的 (2) n.保險櫃",
+    "en": "safe",
+    "zh": "(1) adj.安全的 (2) n.保險櫃"
+  },
+  {
+    "word": "sail",
+    "kk": "[sel]",
+    "pos": "vi. vt.",
+    "meaning": "航行",
+    "en": "sail",
+    "zh": "航行"
+  },
+  {
+    "word": "sale",
+    "kk": "[sel]",
+    "pos": "n.",
+    "meaning": "賣",
+    "en": "sale",
+    "zh": "賣"
+  },
+  {
+    "word": "salt",
+    "kk": "[sɔlt]",
+    "pos": "n.",
+    "meaning": "鹽巴",
+    "en": "salt",
+    "zh": "鹽巴"
+  },
+  {
+    "word": "same",
+    "kk": "[sem]",
+    "pos": "adj.",
+    "meaning": "同樣的",
+    "en": "same",
+    "zh": "同樣的"
+  },
+  {
+    "word": "sand",
+    "kk": "[sænd]",
+    "pos": "n.",
+    "meaning": "沙子",
+    "en": "sand",
+    "zh": "沙子"
+  },
+  {
+    "word": "Saturday/Sat.",
+    "kk": "[ˋsætɚde]",
+    "pos": "",
+    "meaning": "n.星期六",
+    "en": "Saturday/Sat.",
+    "zh": "n.星期六"
+  },
+  {
+    "word": "save",
+    "kk": "[sev]",
+    "pos": "vt.",
+    "meaning": "挽救；儲存",
+    "en": "save",
+    "zh": "挽救；儲存"
+  },
+  {
+    "word": "saw",
+    "kk": "[sɔ]",
+    "pos": "n.",
+    "meaning": "鋸子",
+    "en": "saw",
+    "zh": "鋸子"
+  },
+  {
+    "word": "say",
+    "kk": "[se]",
+    "pos": "vt.",
+    "meaning": "說",
+    "en": "say",
+    "zh": "說"
+  },
+  {
+    "word": "scare",
+    "kk": "[skɛr]",
+    "pos": "vt.",
+    "meaning": "使恐懼",
+    "en": "scare",
+    "zh": "使恐懼"
+  },
+  {
+    "word": "scene",
+    "kk": "[sin]",
+    "pos": "n.",
+    "meaning": "場景",
+    "en": "scene",
+    "zh": "場景"
+  },
+  {
+    "word": "school",
+    "kk": "[skul]",
+    "pos": "n.",
+    "meaning": "學校",
+    "en": "school",
+    "zh": "學校"
+  },
+  {
+    "word": "sea",
+    "kk": "[si]",
+    "pos": "n.",
+    "meaning": "海洋",
+    "en": "sea",
+    "zh": "海洋"
+  },
+  {
+    "word": "season",
+    "kk": "[ˋsizn]",
+    "pos": "n.",
+    "meaning": "季節",
+    "en": "season",
+    "zh": "季節"
+  },
+  {
+    "word": "seat",
+    "kk": "[sit]",
+    "pos": "n.",
+    "meaning": "座位",
+    "en": "seat",
+    "zh": "座位"
+  },
+  {
+    "word": "second",
+    "kk": "[ˋsɛkənd]",
+    "pos": "",
+    "meaning": "",
+    "en": "second",
+    "zh": ""
+  },
+  {
+    "word": "see",
+    "kk": "[si]",
+    "pos": "vt.",
+    "meaning": "看見",
+    "en": "see",
+    "zh": "看見"
+  },
+  {
+    "word": "seed",
+    "kk": "[sid]",
+    "pos": "n.",
+    "meaning": "種子",
+    "en": "seed",
+    "zh": "種子"
+  },
+  {
+    "word": "seem",
+    "kk": "[sim]",
+    "pos": "vi.",
+    "meaning": "似乎",
+    "en": "seem",
+    "zh": "似乎"
+  },
+  {
+    "word": "seesaw",
+    "kk": "[ˋsi͵sɔ]",
+    "pos": "n.",
+    "meaning": "蹺蹺板",
+    "en": "seesaw",
+    "zh": "蹺蹺板"
+  },
+  {
+    "word": "self",
+    "kk": "[sɛlf]",
+    "pos": "n.",
+    "meaning": "自己",
+    "en": "self",
+    "zh": "自己"
+  },
+  {
+    "word": "selfish",
+    "kk": "[ˋsɛlfɪʃ]",
+    "pos": "adj.",
+    "meaning": "自私的",
+    "en": "selfish",
+    "zh": "自私的"
+  },
+  {
+    "word": "sell",
+    "kk": "[sɛl]",
+    "pos": "vt.",
+    "meaning": "賣",
+    "en": "sell",
+    "zh": "賣"
+  },
+  {
+    "word": "send",
+    "kk": "[sɛnd]",
+    "pos": "vt.",
+    "meaning": "發送：寄",
+    "en": "send",
+    "zh": "發送：寄"
+  },
+  {
+    "word": "sense",
+    "kk": "[sɛns]",
+    "pos": "n.",
+    "meaning": "感官；感覺",
+    "en": "sense",
+    "zh": "感官；感覺"
+  },
+  {
+    "word": "sentence",
+    "kk": "[ˋsɛntəns]",
+    "pos": "n.",
+    "meaning": "句子",
+    "en": "sentence",
+    "zh": "句子"
+  },
+  {
+    "word": "September/Sept.",
+    "kk": "[sɛpˋtɛmbɚ]",
+    "pos": "n.",
+    "meaning": "九月",
+    "en": "September/Sept.",
+    "zh": "九月"
+  },
+  {
+    "word": "serve",
+    "kk": "[sɝv]",
+    "pos": "vt.",
+    "meaning": "為…服務",
+    "en": "serve",
+    "zh": "為…服務"
+  },
+  {
+    "word": "service",
+    "kk": "[ˋsɝvɪs]",
+    "pos": "n.",
+    "meaning": "服務",
+    "en": "service",
+    "zh": "服務"
+  },
+  {
+    "word": "set",
+    "kk": "[sɛt]",
+    "pos": "",
+    "meaning": "(1) vt.設立 (2) n.一套",
+    "en": "set",
+    "zh": "(1) vt.設立 (2) n.一套"
+  },
+  {
+    "word": "seven",
+    "kk": "[ˋsɛvn]",
+    "pos": "n.",
+    "meaning": "七",
+    "en": "seven",
+    "zh": "七"
+  },
+  {
+    "word": "seventeen",
+    "kk": "[͵sɛvnˋtin]",
+    "pos": "n.",
+    "meaning": "十七",
+    "en": "seventeen",
+    "zh": "十七"
+  },
+  {
+    "word": "seventy",
+    "kk": "[ˋsɛvntɪ]",
+    "pos": "n.",
+    "meaning": "七十",
+    "en": "seventy",
+    "zh": "七十"
+  },
+  {
+    "word": "several",
+    "kk": "[ˋsɛvərəl]",
+    "pos": "adj.",
+    "meaning": "幾個的",
+    "en": "several",
+    "zh": "幾個的"
+  },
+  {
+    "word": "shake",
+    "kk": "[ʃek]",
+    "pos": "vt.",
+    "meaning": "搖動",
+    "en": "shake",
+    "zh": "搖動"
+  },
+  {
+    "word": "shall",
+    "kk": "[ʃæl]",
+    "pos": "aux.",
+    "meaning": "將：會",
+    "en": "shall",
+    "zh": "將：會"
+  },
+  {
+    "word": "shape",
+    "kk": "[ʃep]",
+    "pos": "n.",
+    "meaning": "形狀",
+    "en": "shape",
+    "zh": "形狀"
+  },
+  {
+    "word": "shark",
+    "kk": "[ˋʃɑrk]",
+    "pos": "n.",
+    "meaning": "鯊魚",
+    "en": "shark",
+    "zh": "鯊魚"
+  },
+  {
+    "word": "sharp",
+    "kk": "[ʃɑrp]",
+    "pos": "adj.",
+    "meaning": "尖銳的",
+    "en": "sharp",
+    "zh": "尖銳的"
+  },
+  {
+    "word": "she",
+    "kk": "[ʃi]",
+    "pos": "pron.",
+    "meaning": "(主格)她",
+    "en": "she",
+    "zh": "(主格)她"
+  },
+  {
+    "word": "sheep",
+    "kk": "[ʃip]",
+    "pos": "n.",
+    "meaning": "綿羊",
+    "en": "sheep",
+    "zh": "綿羊"
+  },
+  {
+    "word": "sheet",
+    "kk": "[ʃit]",
+    "pos": "n.",
+    "meaning": "一張",
+    "en": "sheet",
+    "zh": "一張"
+  },
+  {
+    "word": "shine",
+    "kk": "[ʃaɪn]",
+    "pos": "vi.",
+    "meaning": "發光 vt. 擦亮 n. 光亮",
+    "en": "shine",
+    "zh": "發光 vt. 擦亮 n. 光亮"
+  },
+  {
+    "word": "ship",
+    "kk": "[ʃɪp]",
+    "pos": "n.",
+    "meaning": "船",
+    "en": "ship",
+    "zh": "船"
+  },
+  {
+    "word": "shirt",
+    "kk": "[ʃɝt]",
+    "pos": "n.",
+    "meaning": "襯衫",
+    "en": "shirt",
+    "zh": "襯衫"
+  },
+  {
+    "word": "shoe(s)",
+    "kk": "[ʃu]",
+    "pos": "n.",
+    "meaning": "鞋子",
+    "en": "shoe(s)",
+    "zh": "鞋子"
+  },
+  {
+    "word": "shop",
+    "kk": "[ʃɑp]",
+    "pos": "",
+    "meaning": "(1) store[stor] n. 商店",
+    "en": "shop",
+    "zh": "(1) store[stor] n. 商店"
+  },
+  {
+    "word": "shop",
+    "kk": "[ʃɑp]",
+    "pos": "n.",
+    "meaning": "商店 (2) vi. 購物",
+    "en": "shop",
+    "zh": "商店 (2) vi. 購物"
+  },
+  {
+    "word": "shore",
+    "kk": "[ʃɔr]",
+    "pos": "n.",
+    "meaning": "海濱",
+    "en": "shore",
+    "zh": "海濱"
+  },
+  {
+    "word": "short",
+    "kk": "[ʃɔrt]",
+    "pos": "adj.",
+    "meaning": "短的；矮的",
+    "en": "short",
+    "zh": "短的；矮的"
+  },
+  {
+    "word": "shot",
+    "kk": "[ʃɑt]",
+    "pos": "vt.",
+    "meaning": "射擊",
+    "en": "shot",
+    "zh": "射擊"
+  },
+  {
+    "word": "shoulder",
+    "kk": "[ˋʃoldɚ]",
+    "pos": "n.",
+    "meaning": "肩膀",
+    "en": "shoulder",
+    "zh": "肩膀"
+  },
+  {
+    "word": "shout",
+    "kk": "[ʃaʊt]",
+    "pos": "vi.",
+    "meaning": "呼喊",
+    "en": "shout",
+    "zh": "呼喊"
+  },
+  {
+    "word": "show",
+    "kk": "[ʃo]",
+    "pos": "vt. n.",
+    "meaning": "顯示；演出",
+    "en": "show",
+    "zh": "顯示；演出"
+  },
+  {
+    "word": "shut",
+    "kk": "[ʃʌt]",
+    "pos": "vt.",
+    "meaning": "關上",
+    "en": "shut",
+    "zh": "關上"
+  },
+  {
+    "word": "shy",
+    "kk": "[ʃaɪ]",
+    "pos": "adj.",
+    "meaning": "害羞的",
+    "en": "shy",
+    "zh": "害羞的"
+  },
+  {
+    "word": "sick",
+    "kk": "[sɪk]",
+    "pos": "adj.",
+    "meaning": "生病的",
+    "en": "sick",
+    "zh": "生病的"
+  },
+  {
+    "word": "side",
+    "kk": "[saɪd]",
+    "pos": "n.",
+    "meaning": "邊；面",
+    "en": "side",
+    "zh": "邊；面"
+  },
+  {
+    "word": "sight",
+    "kk": "[saɪt]",
+    "pos": "n.",
+    "meaning": "視界",
+    "en": "sight",
+    "zh": "視界"
+  },
+  {
+    "word": "silly",
+    "kk": "[ˋsɪlɪ]",
+    "pos": "adj.",
+    "meaning": "愚蠢的",
+    "en": "silly",
+    "zh": "愚蠢的"
+  },
+  {
+    "word": "silver",
+    "kk": "[ˋsɪlvɚ]",
+    "pos": "n.",
+    "meaning": "銀",
+    "en": "silver",
+    "zh": "銀"
+  },
+  {
+    "word": "simple",
+    "kk": "[ˋsɪmp!]",
+    "pos": "adj.",
+    "meaning": "簡單的",
+    "en": "simple",
+    "zh": "簡單的"
+  },
+  {
+    "word": "since",
+    "kk": "[sɪns]",
+    "pos": "prep. conj.",
+    "meaning": "此後；因為",
+    "en": "since",
+    "zh": "此後；因為"
+  },
+  {
+    "word": "sing",
+    "kk": "[sɪŋ]",
+    "pos": "vi.",
+    "meaning": "唱歌",
+    "en": "sing",
+    "zh": "唱歌"
+  },
+  {
+    "word": "singer",
+    "kk": "[ˋsɪŋɚ]",
+    "pos": "n.",
+    "meaning": "歌手",
+    "en": "singer",
+    "zh": "歌手"
+  },
+  {
+    "word": "sir",
+    "kk": "[sɝ]",
+    "pos": "n.",
+    "meaning": "先生",
+    "en": "sir",
+    "zh": "先生"
+  },
+  {
+    "word": "sister",
+    "kk": "[ˋsɪstɚ]",
+    "pos": "n.",
+    "meaning": "姊妹",
+    "en": "sister",
+    "zh": "姊妹"
+  },
+  {
+    "word": "sit",
+    "kk": "[sɪt]",
+    "pos": "vi.",
+    "meaning": "坐下",
+    "en": "sit",
+    "zh": "坐下"
+  },
+  {
+    "word": "six",
+    "kk": "[sɪks]",
+    "pos": "n.",
+    "meaning": "六",
+    "en": "six",
+    "zh": "六"
+  },
+  {
+    "word": "sixteen",
+    "kk": "[ˋsɪksˋtin]",
+    "pos": "n.",
+    "meaning": "十六",
+    "en": "sixteen",
+    "zh": "十六"
+  },
+  {
+    "word": "sixty",
+    "kk": "[ˋsɪkstɪ]",
+    "pos": "",
+    "meaning": "n.十六",
+    "en": "sixty",
+    "zh": "n.十六"
+  },
+  {
+    "word": "size",
+    "kk": "[saɪz]",
+    "pos": "n.",
+    "meaning": "尺寸",
+    "en": "size",
+    "zh": "尺寸"
+  },
+  {
+    "word": "skill",
+    "kk": "[ˋskɪl]",
+    "pos": "n.",
+    "meaning": "技術",
+    "en": "skill",
+    "zh": "技術"
+  },
+  {
+    "word": "skin",
+    "kk": "[skɪn]",
+    "pos": "n.",
+    "meaning": "皮膚",
+    "en": "skin",
+    "zh": "皮膚"
+  },
+  {
+    "word": "sky",
+    "kk": "[skaɪ]",
+    "pos": "n.",
+    "meaning": "天空",
+    "en": "sky",
+    "zh": "天空"
+  },
+  {
+    "word": "sleep",
+    "kk": "[slip]",
+    "pos": "vi.",
+    "meaning": "睡覺",
+    "en": "sleep",
+    "zh": "睡覺"
+  },
+  {
+    "word": "slow",
+    "kk": "[slo]",
+    "pos": "adj.",
+    "meaning": "緩慢的",
+    "en": "slow",
+    "zh": "緩慢的"
+  },
+  {
+    "word": "small",
+    "kk": "[smɔl]",
+    "pos": "adj.",
+    "meaning": "小的",
+    "en": "small",
+    "zh": "小的"
+  },
+  {
+    "word": "smart",
+    "kk": "[smɑrt]",
+    "pos": "adj.",
+    "meaning": "聰明的",
+    "en": "smart",
+    "zh": "聰明的"
+  },
+  {
+    "word": "smell",
+    "kk": "[smɛl]",
+    "pos": "vt. n.",
+    "meaning": "聞",
+    "en": "smell",
+    "zh": "聞"
+  },
+  {
+    "word": "smile",
+    "kk": "[smaɪl]",
+    "pos": "vi. n.",
+    "meaning": "微笑",
+    "en": "smile",
+    "zh": "微笑"
+  },
+  {
+    "word": "smoke",
+    "kk": "[smok]",
+    "pos": "n.",
+    "meaning": "煙 vt. 抽(菸) vi. 冒煙",
+    "en": "smoke",
+    "zh": "煙 vt. 抽(菸) vi. 冒煙"
+  },
+  {
+    "word": "snake",
+    "kk": "[snek]",
+    "pos": "n.",
+    "meaning": "蛇",
+    "en": "snake",
+    "zh": "蛇"
+  },
+  {
+    "word": "snow",
+    "kk": "[sno]",
+    "pos": "n.",
+    "meaning": "雪",
+    "en": "snow",
+    "zh": "雪"
+  },
+  {
+    "word": "so",
+    "kk": "[so]",
+    "pos": "",
+    "meaning": "(1) conj.所以 (2) adv.非常",
+    "en": "so",
+    "zh": "(1) conj.所以 (2) adv.非常"
+  },
+  {
+    "word": "soap",
+    "kk": "[sop]",
+    "pos": "n.",
+    "meaning": "肥皂",
+    "en": "soap",
+    "zh": "肥皂"
+  },
+  {
+    "word": "soda",
+    "kk": "[ˋsodə]",
+    "pos": "n.",
+    "meaning": "蘇打",
+    "en": "soda",
+    "zh": "蘇打"
+  },
+  {
+    "word": "sofa",
+    "kk": "[ˋsofə]",
+    "pos": "n.",
+    "meaning": "沙發",
+    "en": "sofa",
+    "zh": "沙發"
+  },
+  {
+    "word": "soft",
+    "kk": "[sɔft]",
+    "pos": "adj.",
+    "meaning": "柔軟的",
+    "en": "soft",
+    "zh": "柔軟的"
+  },
+  {
+    "word": "soil",
+    "kk": "[sɔɪl]",
+    "pos": "n.",
+    "meaning": "土壤",
+    "en": "soil",
+    "zh": "土壤"
+  },
+  {
+    "word": "some",
+    "kk": "[sʌm]",
+    "pos": "adj.",
+    "meaning": "某些",
+    "en": "some",
+    "zh": "某些"
+  },
+  {
+    "word": "someone",
+    "kk": "[ˋsʌm͵wʌn]",
+    "pos": "pron.",
+    "meaning": "某人",
+    "en": "someone",
+    "zh": "某人"
+  },
+  {
+    "word": "something",
+    "kk": "[ˋsʌmθɪŋ]",
+    "pos": "",
+    "meaning": "pron.某事",
+    "en": "something",
+    "zh": "pron.某事"
+  },
+  {
+    "word": "sometimes",
+    "kk": "[ˋsʌm͵taɪmz]",
+    "pos": "",
+    "meaning": "pron.有時候",
+    "en": "sometimes",
+    "zh": "pron.有時候"
+  },
+  {
+    "word": "son",
+    "kk": "[sʌn]",
+    "pos": "n.",
+    "meaning": "兒子",
+    "en": "son",
+    "zh": "兒子"
+  },
+  {
+    "word": "song",
+    "kk": "[sɔŋ]",
+    "pos": "n.",
+    "meaning": "歌",
+    "en": "song",
+    "zh": "歌"
+  },
+  {
+    "word": "soon",
+    "kk": "[sun]",
+    "pos": "adv.",
+    "meaning": "不久",
+    "en": "soon",
+    "zh": "不久"
+  },
+  {
+    "word": "sorry",
+    "kk": "[ˋsɑrɪ]",
+    "pos": "adj.",
+    "meaning": "感到難過的 int. 抱歉",
+    "en": "sorry",
+    "zh": "感到難過的 int. 抱歉"
+  },
+  {
+    "word": "soul",
+    "kk": "[sol]",
+    "pos": "n.",
+    "meaning": "靈魂",
+    "en": "soul",
+    "zh": "靈魂"
+  },
+  {
+    "word": "sound",
+    "kk": "[saʊnd]",
+    "pos": "",
+    "meaning": "(1) n.聲音",
+    "en": "sound",
+    "zh": "(1) n.聲音"
+  },
+  {
+    "word": "soup",
+    "kk": "[sup]",
+    "pos": "n.",
+    "meaning": "湯",
+    "en": "soup",
+    "zh": "湯"
+  },
+  {
+    "word": "sour",
+    "kk": "[ˋsaʊr]",
+    "pos": "adj.",
+    "meaning": "酸的",
+    "en": "sour",
+    "zh": "酸的"
+  },
+  {
+    "word": "south",
+    "kk": "[saʊθ]",
+    "pos": "n.",
+    "meaning": "南",
+    "en": "south",
+    "zh": "南"
+  },
+  {
+    "word": "space",
+    "kk": "[spes]",
+    "pos": "n.",
+    "meaning": "空間",
+    "en": "space",
+    "zh": "空間"
+  },
+  {
+    "word": "speak",
+    "kk": "[spik]",
+    "pos": "vi. vt.",
+    "meaning": "說話",
+    "en": "speak",
+    "zh": "說話"
+  },
+  {
+    "word": "special",
+    "kk": "[ˋspɛʃəl]",
+    "pos": "adj.",
+    "meaning": "特別的",
+    "en": "special",
+    "zh": "特別的"
+  },
+  {
+    "word": "speech",
+    "kk": "[spitʃ]",
+    "pos": "n.",
+    "meaning": "演說",
+    "en": "speech",
+    "zh": "演說"
+  },
+  {
+    "word": "spell",
+    "kk": "[spɛl]",
+    "pos": "vt.",
+    "meaning": "拼寫",
+    "en": "spell",
+    "zh": "拼寫"
+  },
+  {
+    "word": "spend",
+    "kk": "[spɛnd]",
+    "pos": "vt.",
+    "meaning": "花費",
+    "en": "spend",
+    "zh": "花費"
+  },
+  {
+    "word": "spoon",
+    "kk": "[spun]",
+    "pos": "n.",
+    "meaning": "湯匙",
+    "en": "spoon",
+    "zh": "湯匙"
+  },
+  {
+    "word": "sport",
+    "kk": "[sport]",
+    "pos": "n.",
+    "meaning": "運動",
+    "en": "sport",
+    "zh": "運動"
+  },
+  {
+    "word": "spring",
+    "kk": "[sprɪŋ]",
+    "pos": "n.",
+    "meaning": "(1) 春天",
+    "en": "spring",
+    "zh": "(1) 春天"
+  },
+  {
+    "word": "stair",
+    "kk": "[stɛr]",
+    "pos": "n.",
+    "meaning": "階梯",
+    "en": "stair",
+    "zh": "階梯"
+  },
+  {
+    "word": "stand",
+    "kk": "[stænd]",
+    "pos": "vi.",
+    "meaning": "站著",
+    "en": "stand",
+    "zh": "站著"
+  },
+  {
+    "word": "star",
+    "kk": "[stɑr]",
+    "pos": "n.",
+    "meaning": "星星",
+    "en": "star",
+    "zh": "星星"
+  },
+  {
+    "word": "start",
+    "kk": "[stɑrt]",
+    "pos": "vi. vt.",
+    "meaning": "開始",
+    "en": "start",
+    "zh": "開始"
+  },
+  {
+    "word": "state",
+    "kk": "[stet]",
+    "pos": "",
+    "meaning": "(1) n. 狀態；國家",
+    "en": "state",
+    "zh": "(1) n. 狀態；國家"
+  },
+  {
+    "word": "state(ment)",
+    "kk": "[ˋstet(mənt)]",
+    "pos": "",
+    "meaning": "(2) vt. (n.) 陳述",
+    "en": "state(ment)",
+    "zh": "(2) vt. (n.) 陳述"
+  },
+  {
+    "word": "station",
+    "kk": "[ˋsteʃən]",
+    "pos": "n.",
+    "meaning": "車站",
+    "en": "station",
+    "zh": "車站"
+  },
+  {
+    "word": "stay",
+    "kk": "[ste]",
+    "pos": "vi.",
+    "meaning": "停留",
+    "en": "stay",
+    "zh": "停留"
+  },
+  {
+    "word": "step",
+    "kk": "[stɛp]",
+    "pos": "n.",
+    "meaning": "腳步",
+    "en": "step",
+    "zh": "腳步"
+  },
+  {
+    "word": "still",
+    "kk": "[stɪl]",
+    "pos": "",
+    "meaning": "(1) adj.靜止的 (2) adv.仍舊",
+    "en": "still",
+    "zh": "(1) adj.靜止的 (2) adv.仍舊"
+  },
+  {
+    "word": "stone",
+    "kk": "[ston]",
+    "pos": "n.",
+    "meaning": "石頭",
+    "en": "stone",
+    "zh": "石頭"
+  },
+  {
+    "word": "stop",
+    "kk": "[stɑp]",
+    "pos": "vt.",
+    "meaning": "停止",
+    "en": "stop",
+    "zh": "停止"
+  },
+  {
+    "word": "store",
+    "kk": "[stor]",
+    "pos": "vt.",
+    "meaning": "儲藏",
+    "en": "store",
+    "zh": "儲藏"
+  },
+  {
+    "word": "story",
+    "kk": "[ˋstorɪ]",
+    "pos": "n.",
+    "meaning": "(1) 故事 (2) 樓層",
+    "en": "story",
+    "zh": "(1) 故事 (2) 樓層"
+  },
+  {
+    "word": "strange",
+    "kk": "[strendʒ]",
+    "pos": "adj.",
+    "meaning": "奇怪的",
+    "en": "strange",
+    "zh": "奇怪的"
+  },
+  {
+    "word": "street",
+    "kk": "[strit]",
+    "pos": "n.",
+    "meaning": "街道",
+    "en": "street",
+    "zh": "街道"
+  },
+  {
+    "word": "strong",
+    "kk": "[strɔŋ]",
+    "pos": "adj.",
+    "meaning": "強壯的",
+    "en": "strong",
+    "zh": "強壯的"
+  },
+  {
+    "word": "student",
+    "kk": "[ˋstjudnt]",
+    "pos": "n.",
+    "meaning": "學生",
+    "en": "student",
+    "zh": "學生"
+  },
+  {
+    "word": "study",
+    "kk": "[ˋstʌdɪ]",
+    "pos": "",
+    "meaning": "(1) n. 學習 (2) vt. vi. 研究",
+    "en": "study",
+    "zh": "(1) n. 學習 (2) vt. vi. 研究"
+  },
+  {
+    "word": "stupid",
+    "kk": "[ˋstjupɪd]",
+    "pos": "adj.",
+    "meaning": "愚笨的",
+    "en": "stupid",
+    "zh": "愚笨的"
+  },
+  {
+    "word": "such",
+    "kk": "[sʌtʃ]",
+    "pos": "adj.",
+    "meaning": "如此的",
+    "en": "such",
+    "zh": "如此的"
+  },
+  {
+    "word": "sugar",
+    "kk": "[ˋʃʊgɚ]",
+    "pos": "n.",
+    "meaning": "糖",
+    "en": "sugar",
+    "zh": "糖"
+  },
+  {
+    "word": "summer",
+    "kk": "[ˋsʌmɚ]",
+    "pos": "n.",
+    "meaning": "夏天",
+    "en": "summer",
+    "zh": "夏天"
+  },
+  {
+    "word": "sun",
+    "kk": "[sʌn]",
+    "pos": "n.",
+    "meaning": "太陽",
+    "en": "sun",
+    "zh": "太陽"
+  },
+  {
+    "word": "Sunday/Sun.",
+    "kk": "[ˋsʌnde]",
+    "pos": "n.",
+    "meaning": "星期日",
+    "en": "Sunday/Sun.",
+    "zh": "星期日"
+  },
+  {
+    "word": "super",
+    "kk": "[ˋsupɚ]",
+    "pos": "adj.",
+    "meaning": "極度的",
+    "en": "super",
+    "zh": "極度的"
+  },
+  {
+    "word": "supper",
+    "kk": "[ˋsʌpɚ]",
+    "pos": "n.",
+    "meaning": "晚餐",
+    "en": "supper",
+    "zh": "晚餐"
+  },
+  {
+    "word": "sure",
+    "kk": "[ʃʊr]",
+    "pos": "adj.",
+    "meaning": "確信的 adv.當然",
+    "en": "sure",
+    "zh": "確信的 adv.當然"
+  },
+  {
+    "word": "surprise",
+    "kk": "[sɚˋpraɪz]",
+    "pos": "vt.",
+    "meaning": "使吃驚",
+    "en": "surprise",
+    "zh": "使吃驚"
+  },
+  {
+    "word": "sweet",
+    "kk": "[swit]",
+    "pos": "adj.",
+    "meaning": "甜蜜的",
+    "en": "sweet",
+    "zh": "甜蜜的"
+  },
+  {
+    "word": "swim",
+    "kk": "[swɪm]",
+    "pos": "vi.",
+    "meaning": "游泳",
+    "en": "swim",
+    "zh": "游泳"
+  },
+  {
+    "word": "table",
+    "kk": "[ˋteb!]",
+    "pos": "n.",
+    "meaning": "桌子",
+    "en": "table",
+    "zh": "桌子"
+  },
+  {
+    "word": "tail",
+    "kk": "[tel]",
+    "pos": "n.",
+    "meaning": "尾巴",
+    "en": "tail",
+    "zh": "尾巴"
+  },
+  {
+    "word": "take",
+    "kk": "[tek]",
+    "pos": "vt.",
+    "meaning": "拿；取；握",
+    "en": "take",
+    "zh": "拿；取；握"
+  },
+  {
+    "word": "tale",
+    "kk": "[tel]",
+    "pos": "n.",
+    "meaning": "故事",
+    "en": "tale",
+    "zh": "故事"
+  },
+  {
+    "word": "talk",
+    "kk": "[tɔk]",
+    "pos": "vi.",
+    "meaning": "講話",
+    "en": "talk",
+    "zh": "講話"
+  },
+  {
+    "word": "tall",
+    "kk": "[tɔl]",
+    "pos": "adj.",
+    "meaning": "高大的",
+    "en": "tall",
+    "zh": "高大的"
+  },
+  {
+    "word": "taste",
+    "kk": "[test]",
+    "pos": "vt. vi.",
+    "meaning": "嚐",
+    "en": "taste",
+    "zh": "嚐"
+  },
+  {
+    "word": "",
+    "kk": "[ˋtæksɪ͵kæb]",
+    "pos": "n.",
+    "meaning": "計程車",
+    "en": "",
+    "zh": "計程車"
+  },
+  {
+    "word": "tea",
+    "kk": "[ti]",
+    "pos": "n.",
+    "meaning": "茶",
+    "en": "tea",
+    "zh": "茶"
+  },
+  {
+    "word": "teach",
+    "kk": "[titʃ]",
+    "pos": "vt. vi.",
+    "meaning": "教授",
+    "en": "teach",
+    "zh": "教授"
+  },
+  {
+    "word": "teacher",
+    "kk": "[ˋtitʃɚ]",
+    "pos": "n.",
+    "meaning": "教師",
+    "en": "teacher",
+    "zh": "教師"
+  },
+  {
+    "word": "tell",
+    "kk": "[tɛl]",
+    "pos": "vt.",
+    "meaning": "告訴；分辨",
+    "en": "tell",
+    "zh": "告訴；分辨"
+  },
+  {
+    "word": "ten",
+    "kk": "[tɛn]",
+    "pos": "n.",
+    "meaning": "十",
+    "en": "ten",
+    "zh": "十"
+  },
+  {
+    "word": "than",
+    "kk": "[ðæn]",
+    "pos": "conj.",
+    "meaning": "比 prep. 超過",
+    "en": "than",
+    "zh": "比 prep. 超過"
+  },
+  {
+    "word": "thank",
+    "kk": "[θæŋk]",
+    "pos": "vt.",
+    "meaning": "感謝",
+    "en": "thank",
+    "zh": "感謝"
+  },
+  {
+    "word": "that",
+    "kk": "[ðæt]",
+    "pos": "pron. adj.",
+    "meaning": "那個",
+    "en": "that",
+    "zh": "那個"
+  },
+  {
+    "word": "the",
+    "kk": "[ðə]",
+    "pos": "art.",
+    "meaning": "這(個)",
+    "en": "the",
+    "zh": "這(個)"
+  },
+  {
+    "word": "their(s)",
+    "kk": "[ðɛr(z)]",
+    "pos": "pron.",
+    "meaning": "他們的",
+    "en": "their(s)",
+    "zh": "他們的"
+  },
+  {
+    "word": "them",
+    "kk": "[ðɛm]",
+    "pos": "pron.",
+    "meaning": "他們",
+    "en": "them",
+    "zh": "他們"
+  },
+  {
+    "word": "then",
+    "kk": "[ðɛn]",
+    "pos": "adv. n.",
+    "meaning": "那時",
+    "en": "then",
+    "zh": "那時"
+  },
+  {
+    "word": "there",
+    "kk": "[ðɛr]",
+    "pos": "adv. n.",
+    "meaning": "(在)那裡 int. 好啦!",
+    "en": "there",
+    "zh": "(在)那裡 int. 好啦!"
+  },
+  {
+    "word": "these",
+    "kk": "[ðiz]",
+    "pos": "pron. adj.",
+    "meaning": "這些",
+    "en": "these",
+    "zh": "這些"
+  },
+  {
+    "word": "they",
+    "kk": "[ðe]",
+    "pos": "pron.",
+    "meaning": "他們",
+    "en": "they",
+    "zh": "他們"
+  },
+  {
+    "word": "thing",
+    "kk": "[θɪŋ]",
+    "pos": "n.",
+    "meaning": "物品",
+    "en": "thing",
+    "zh": "物品"
+  },
+  {
+    "word": "think",
+    "kk": "[θɪŋk]",
+    "pos": "vi. vt.",
+    "meaning": "想",
+    "en": "think",
+    "zh": "想"
+  },
+  {
+    "word": "third",
+    "kk": "[θɝd]",
+    "pos": "adj.",
+    "meaning": "第三的",
+    "en": "third",
+    "zh": "第三的"
+  },
+  {
+    "word": "thirteen",
+    "kk": "[ˋθɝtin]",
+    "pos": "n.",
+    "meaning": "十三",
+    "en": "thirteen",
+    "zh": "十三"
+  },
+  {
+    "word": "thirty",
+    "kk": "[ˋθɝtɪ]",
+    "pos": "n.",
+    "meaning": "三十",
+    "en": "thirty",
+    "zh": "三十"
+  },
+  {
+    "word": "this",
+    "kk": "[ðɪs]",
+    "pos": "pron. adj.",
+    "meaning": "這個",
+    "en": "this",
+    "zh": "這個"
+  },
+  {
+    "word": "those",
+    "kk": "[ðoz]",
+    "pos": "pron. adj.",
+    "meaning": "那些",
+    "en": "those",
+    "zh": "那些"
+  },
+  {
+    "word": "though",
+    "kk": "[ðo]",
+    "pos": "conj.",
+    "meaning": "雖然 adv. 不過",
+    "en": "though",
+    "zh": "雖然 adv. 不過"
+  },
+  {
+    "word": "thought",
+    "kk": "[θɔt]",
+    "pos": "n.",
+    "meaning": "想法",
+    "en": "thought",
+    "zh": "想法"
+  },
+  {
+    "word": "thousand",
+    "kk": "[ˋθaʊznd]",
+    "pos": "n.",
+    "meaning": "千",
+    "en": "thousand",
+    "zh": "千"
+  },
+  {
+    "word": "three",
+    "kk": "[θri]",
+    "pos": "n.",
+    "meaning": "三",
+    "en": "three",
+    "zh": "三"
+  },
+  {
+    "word": "throw",
+    "kk": "[θro]",
+    "pos": "vt. vi.",
+    "meaning": "投；拋",
+    "en": "throw",
+    "zh": "投；拋"
+  },
+  {
+    "word": "",
+    "kk": "[ˋθɝzde]",
+    "pos": "n.",
+    "meaning": "星期四",
+    "en": "",
+    "zh": "星期四"
+  },
+  {
+    "word": "thus",
+    "kk": "[ðʌs]",
+    "pos": "adv.",
+    "meaning": "因此",
+    "en": "thus",
+    "zh": "因此"
+  },
+  {
+    "word": "ticket",
+    "kk": "[ˋtɪkɪt]",
+    "pos": "n.",
+    "meaning": "票",
+    "en": "ticket",
+    "zh": "票"
+  },
+  {
+    "word": "tie",
+    "kk": "[taɪ]",
+    "pos": "",
+    "meaning": "(1) vt. vi. 栓；繫 (2) n. 領帶",
+    "en": "tie",
+    "zh": "(1) vt. vi. 栓；繫 (2) n. 領帶"
+  },
+  {
+    "word": "tiger",
+    "kk": "[ˋtaɪgɚ]",
+    "pos": "n.",
+    "meaning": "虎",
+    "en": "tiger",
+    "zh": "虎"
+  },
+  {
+    "word": "time",
+    "kk": "[taɪm]",
+    "pos": "n.",
+    "meaning": "時間",
+    "en": "time",
+    "zh": "時間"
+  },
+  {
+    "word": "tiny",
+    "kk": "[ˋtaɪnɪ]",
+    "pos": "adj.",
+    "meaning": "極小的",
+    "en": "tiny",
+    "zh": "極小的"
+  },
+  {
+    "word": "tire",
+    "kk": "[taɪr]",
+    "pos": "",
+    "meaning": "(1) n.輪胎 (2) vt.使疲倦",
+    "en": "tire",
+    "zh": "(1) n.輪胎 (2) vt.使疲倦"
+  },
+  {
+    "word": "to",
+    "kk": "[tu]",
+    "pos": "prep.",
+    "meaning": "向；往；到",
+    "en": "to",
+    "zh": "向；往；到"
+  },
+  {
+    "word": "today",
+    "kk": "[təˋde]",
+    "pos": "n.",
+    "meaning": "今天",
+    "en": "today",
+    "zh": "今天"
+  },
+  {
+    "word": "together",
+    "kk": "[təˋgɛðɚ]",
+    "pos": "adv.",
+    "meaning": "一起",
+    "en": "together",
+    "zh": "一起"
+  },
+  {
+    "word": "tomorrow",
+    "kk": "[təˋmɔro]",
+    "pos": "n.",
+    "meaning": "明天",
+    "en": "tomorrow",
+    "zh": "明天"
+  },
+  {
+    "word": "tone",
+    "kk": "[ton]",
+    "pos": "n.",
+    "meaning": "音調",
+    "en": "tone",
+    "zh": "音調"
+  },
+  {
+    "word": "tonight",
+    "kk": "[təˋnaɪt]",
+    "pos": "n.",
+    "meaning": "今晚",
+    "en": "tonight",
+    "zh": "今晚"
+  },
+  {
+    "word": "too",
+    "kk": "[tu]",
+    "pos": "adv.",
+    "meaning": "也",
+    "en": "too",
+    "zh": "也"
+  },
+  {
+    "word": "tool",
+    "kk": "[tul]",
+    "pos": "n.",
+    "meaning": "工具",
+    "en": "tool",
+    "zh": "工具"
+  },
+  {
+    "word": "top",
+    "kk": "[tɑp]",
+    "pos": "n.",
+    "meaning": "頂部",
+    "en": "top",
+    "zh": "頂部"
+  },
+  {
+    "word": "total",
+    "kk": "[ˋtot!]",
+    "pos": "adj.",
+    "meaning": "總計的",
+    "en": "total",
+    "zh": "總計的"
+  },
+  {
+    "word": "touch",
+    "kk": "[tʌtʃ]",
+    "pos": "vt.",
+    "meaning": "觸摸",
+    "en": "touch",
+    "zh": "觸摸"
+  },
+  {
+    "word": "toward(s)",
+    "kk": "[təˋwɔrd(z)]",
+    "pos": "prep.",
+    "meaning": "朝向",
+    "en": "toward(s)",
+    "zh": "朝向"
+  },
+  {
+    "word": "town",
+    "kk": "[taʊn]",
+    "pos": "n.",
+    "meaning": "城鎮",
+    "en": "town",
+    "zh": "城鎮"
+  },
+  {
+    "word": "toy",
+    "kk": "[tɔɪ]",
+    "pos": "n.",
+    "meaning": "玩具",
+    "en": "toy",
+    "zh": "玩具"
+  },
+  {
+    "word": "train",
+    "kk": "[tren]",
+    "pos": "",
+    "meaning": "(1) n.火車 (2) vt.訓練",
+    "en": "train",
+    "zh": "(1) n.火車 (2) vt.訓練"
+  },
+  {
+    "word": "tree",
+    "kk": "[tri]",
+    "pos": "n.",
+    "meaning": "樹",
+    "en": "tree",
+    "zh": "樹"
+  },
+  {
+    "word": "trip",
+    "kk": "[trɪp]",
+    "pos": "n.",
+    "meaning": "旅行",
+    "en": "trip",
+    "zh": "旅行"
+  },
+  {
+    "word": "trouble",
+    "kk": "[ˋtrʌb!]",
+    "pos": "n.",
+    "meaning": "麻煩",
+    "en": "trouble",
+    "zh": "麻煩"
+  },
+  {
+    "word": "true",
+    "kk": "[tru]",
+    "pos": "adj.",
+    "meaning": "真實的",
+    "en": "true",
+    "zh": "真實的"
+  },
+  {
+    "word": "try",
+    "kk": "[traɪ]",
+    "pos": "vt. vi.",
+    "meaning": "嘗試",
+    "en": "try",
+    "zh": "嘗試"
+  },
+  {
+    "word": "T-shirt",
+    "kk": "[ˋti͵ʃɝt]",
+    "pos": "n.",
+    "meaning": "短袖圓領汗衫",
+    "en": "T-shirt",
+    "zh": "短袖圓領汗衫"
+  },
+  {
+    "word": "Tuesday/ Tue.",
+    "kk": "[ˋtjuzde]",
+    "pos": "",
+    "meaning": "n.星期二",
+    "en": "Tuesday/ Tue.",
+    "zh": "n.星期二"
+  },
+  {
+    "word": "tummy",
+    "kk": "[ˋtʌmɪ]",
+    "pos": "n.",
+    "meaning": "肚子",
+    "en": "tummy",
+    "zh": "肚子"
+  },
+  {
+    "word": "turn",
+    "kk": "[tɝn]",
+    "pos": "vi. vt.",
+    "meaning": "使轉動",
+    "en": "turn",
+    "zh": "使轉動"
+  },
+  {
+    "word": "twelve",
+    "kk": "[twɛlv]",
+    "pos": "n.",
+    "meaning": "十二",
+    "en": "twelve",
+    "zh": "十二"
+  },
+  {
+    "word": "twenty",
+    "kk": "[ˋtwɛntɪ]",
+    "pos": "n.",
+    "meaning": "二十",
+    "en": "twenty",
+    "zh": "二十"
+  },
+  {
+    "word": "twice",
+    "kk": "[twaɪs]",
+    "pos": "adv.",
+    "meaning": "兩次",
+    "en": "twice",
+    "zh": "兩次"
+  },
+  {
+    "word": "two",
+    "kk": "[tu]",
+    "pos": "n.",
+    "meaning": "二",
+    "en": "two",
+    "zh": "二"
+  },
+  {
+    "word": "uncle",
+    "kk": "[ˋʌŋk!]",
+    "pos": "",
+    "meaning": "n.叔叔；伯父；舅舅",
+    "en": "uncle",
+    "zh": "n.叔叔；伯父；舅舅"
+  },
+  {
+    "word": "under",
+    "kk": "[ˋʌndɚ]",
+    "pos": "prep.",
+    "meaning": "在…下面",
+    "en": "under",
+    "zh": "在…下面"
+  },
+  {
+    "word": "understand",
+    "kk": "[͵ʌndɚˋstænd]",
+    "pos": "",
+    "meaning": "vt.理解",
+    "en": "understand",
+    "zh": "vt.理解"
+  },
+  {
+    "word": "unit",
+    "kk": "[ˋjunɪt]",
+    "pos": "n.",
+    "meaning": "單位",
+    "en": "unit",
+    "zh": "單位"
+  },
+  {
+    "word": "until/till",
+    "kk": "[ənˋtɪl]",
+    "pos": "",
+    "meaning": "prep.直到…為止",
+    "en": "until/till",
+    "zh": "prep.直到…為止"
+  },
+  {
+    "word": "up",
+    "kk": "[ʌp]",
+    "pos": "adv.",
+    "meaning": "向上",
+    "en": "up",
+    "zh": "向上"
+  },
+  {
+    "word": "upstairs",
+    "kk": "[ˋʌpˋstɛrz]",
+    "pos": "adv.",
+    "meaning": "在樓上",
+    "en": "upstairs",
+    "zh": "在樓上"
+  },
+  {
+    "word": "us",
+    "kk": "[ʌs]",
+    "pos": "pron.",
+    "meaning": "(受格)我們",
+    "en": "us",
+    "zh": "(受格)我們"
+  },
+  {
+    "word": "use",
+    "kk": "[jus]",
+    "pos": "vt.",
+    "meaning": "使用",
+    "en": "use",
+    "zh": "使用"
+  },
+  {
+    "word": "useful",
+    "kk": "[ˋjusfəl]",
+    "pos": "adj.",
+    "meaning": "有用的",
+    "en": "useful",
+    "zh": "有用的"
+  },
+  {
+    "word": "vegetable",
+    "kk": "[ˋvɛdʒətəb!]",
+    "pos": "n.",
+    "meaning": "蔬菜",
+    "en": "vegetable",
+    "zh": "蔬菜"
+  },
+  {
+    "word": "very",
+    "kk": "[ˋvɛrɪ]",
+    "pos": "adv.",
+    "meaning": "(1) 非常",
+    "en": "very",
+    "zh": "(1) 非常"
+  },
+  {
+    "word": "view",
+    "kk": "[vju]",
+    "pos": "n.",
+    "meaning": "視野",
+    "en": "view",
+    "zh": "視野"
+  },
+  {
+    "word": "visit",
+    "kk": "[ˋvɪzɪt]",
+    "pos": "vt.",
+    "meaning": "參觀",
+    "en": "visit",
+    "zh": "參觀"
+  },
+  {
+    "word": "voice",
+    "kk": "[vɔɪs]",
+    "pos": "n.",
+    "meaning": "聲音",
+    "en": "voice",
+    "zh": "聲音"
+  },
+  {
+    "word": "wait",
+    "kk": "[wet]",
+    "pos": "vi.",
+    "meaning": "等待",
+    "en": "wait",
+    "zh": "等待"
+  },
+  {
+    "word": "walk",
+    "kk": "[wɔk]",
+    "pos": "vi. vt.",
+    "meaning": "走",
+    "en": "walk",
+    "zh": "走"
+  },
+  {
+    "word": "wall",
+    "kk": "[wɔl]",
+    "pos": "n.",
+    "meaning": "牆",
+    "en": "wall",
+    "zh": "牆"
+  },
+  {
+    "word": "want",
+    "kk": "[wɑnt]",
+    "pos": "vt.",
+    "meaning": "想要",
+    "en": "want",
+    "zh": "想要"
+  },
+  {
+    "word": "war",
+    "kk": "[wɔr]",
+    "pos": "n.",
+    "meaning": "戰爭",
+    "en": "war",
+    "zh": "戰爭"
+  },
+  {
+    "word": "warm",
+    "kk": "[wɔrm]",
+    "pos": "adj.",
+    "meaning": "溫暖的",
+    "en": "warm",
+    "zh": "溫暖的"
+  },
+  {
+    "word": "wash",
+    "kk": "[wɑʃ]",
+    "pos": "vt.",
+    "meaning": "洗",
+    "en": "wash",
+    "zh": "洗"
+  },
+  {
+    "word": "waste",
+    "kk": "[west]",
+    "pos": "vt.",
+    "meaning": "浪費",
+    "en": "waste",
+    "zh": "浪費"
+  },
+  {
+    "word": "watch",
+    "kk": "[wɑtʃ]",
+    "pos": "",
+    "meaning": "(1) n.手錶；監視",
+    "en": "watch",
+    "zh": "(1) n.手錶；監視"
+  },
+  {
+    "word": "water",
+    "kk": "[ˋwɔtɚ]",
+    "pos": "n.",
+    "meaning": "水",
+    "en": "water",
+    "zh": "水"
+  },
+  {
+    "word": "way",
+    "kk": "[we]",
+    "pos": "n.",
+    "meaning": "路",
+    "en": "way",
+    "zh": "路"
+  },
+  {
+    "word": "we",
+    "kk": "[wi]",
+    "pos": "pron.",
+    "meaning": "(主格)我們",
+    "en": "we",
+    "zh": "(主格)我們"
+  },
+  {
+    "word": "weak",
+    "kk": "[wik]",
+    "pos": "adj.",
+    "meaning": "虛弱的",
+    "en": "weak",
+    "zh": "虛弱的"
+  },
+  {
+    "word": "wear",
+    "kk": "[wɛr]",
+    "pos": "vt.",
+    "meaning": "穿",
+    "en": "wear",
+    "zh": "穿"
+  },
+  {
+    "word": "weather",
+    "kk": "[ˋwɛðɚ]",
+    "pos": "n.",
+    "meaning": "天氣",
+    "en": "weather",
+    "zh": "天氣"
+  },
+  {
+    "word": "wedding",
+    "kk": "[ˋwɛdɪŋ]",
+    "pos": "n.",
+    "meaning": "婚禮",
+    "en": "wedding",
+    "zh": "婚禮"
+  },
+  {
+    "word": "Wednesday/Wed.",
+    "kk": "[ˋwɛnzde]",
+    "pos": "n",
+    "meaning": "星期三",
+    "en": "Wednesday/Wed.",
+    "zh": "星期三"
+  },
+  {
+    "word": "week",
+    "kk": "[wik]",
+    "pos": "n.",
+    "meaning": "週",
+    "en": "week",
+    "zh": "週"
+  },
+  {
+    "word": "weekend",
+    "kk": "[ˋwikˋɛnd]",
+    "pos": "n.",
+    "meaning": "週末",
+    "en": "weekend",
+    "zh": "週末"
+  },
+  {
+    "word": "weigh",
+    "kk": "[we]",
+    "pos": "vt.",
+    "meaning": "秤…的重量",
+    "en": "weigh",
+    "zh": "秤…的重量"
+  },
+  {
+    "word": "weight",
+    "kk": "[wet]",
+    "pos": "n.",
+    "meaning": "重量",
+    "en": "weight",
+    "zh": "重量"
+  },
+  {
+    "word": "welcome",
+    "kk": "[ˋwɛlkəm]",
+    "pos": "vt.",
+    "meaning": "歡迎",
+    "en": "welcome",
+    "zh": "歡迎"
+  },
+  {
+    "word": "well",
+    "kk": "[wɛl]",
+    "pos": "",
+    "meaning": "(1)adv.很好地 (2)n.井 adj.健康的",
+    "en": "well",
+    "zh": "(1)adv.很好地 (2)n.井 adj.健康的"
+  },
+  {
+    "word": "west",
+    "kk": "[wɛst]",
+    "pos": "n.",
+    "meaning": "西",
+    "en": "west",
+    "zh": "西"
+  },
+  {
+    "word": "what",
+    "kk": "[hwɑt]",
+    "pos": "pron.",
+    "meaning": "什麼",
+    "en": "what",
+    "zh": "什麼"
+  },
+  {
+    "word": "when",
+    "kk": "[hwɛn]",
+    "pos": "adv. conj. pron.",
+    "meaning": "何時",
+    "en": "when",
+    "zh": "何時"
+  },
+  {
+    "word": "where",
+    "kk": "[hwɛr]",
+    "pos": "adv. conj. pron.",
+    "meaning": "在哪裡",
+    "en": "where",
+    "zh": "在哪裡"
+  },
+  {
+    "word": "whether",
+    "kk": "[ˋhwɛðɚ]",
+    "pos": "conj.",
+    "meaning": "是否",
+    "en": "whether",
+    "zh": "是否"
+  },
+  {
+    "word": "which",
+    "kk": "[hwɪtʃ]",
+    "pos": "pron.",
+    "meaning": "哪一個",
+    "en": "which",
+    "zh": "哪一個"
+  },
+  {
+    "word": "while",
+    "kk": "[hwaɪl]",
+    "pos": "",
+    "meaning": "(1) conj. 當…時；然而",
+    "en": "while",
+    "zh": "(1) conj. 當…時；然而"
+  },
+  {
+    "word": "white",
+    "kk": "[hwaɪt]",
+    "pos": "adj.",
+    "meaning": "白色的",
+    "en": "white",
+    "zh": "白色的"
+  },
+  {
+    "word": "who",
+    "kk": "[hu]",
+    "pos": "pron.",
+    "meaning": "誰",
+    "en": "who",
+    "zh": "誰"
+  },
+  {
+    "word": "whole",
+    "kk": "[hol]",
+    "pos": "adj.",
+    "meaning": "全部的",
+    "en": "whole",
+    "zh": "全部的"
+  },
+  {
+    "word": "whom",
+    "kk": "[hum]",
+    "pos": "",
+    "meaning": "pron.(who 的受格)誰",
+    "en": "whom",
+    "zh": "pron.(who 的受格)誰"
+  },
+  {
+    "word": "whose",
+    "kk": "[huz]",
+    "pos": "pron.",
+    "meaning": "誰的",
+    "en": "whose",
+    "zh": "誰的"
+  },
+  {
+    "word": "why",
+    "kk": "[hwaɪ]",
+    "pos": "adv.",
+    "meaning": "為什麼",
+    "en": "why",
+    "zh": "為什麼"
+  },
+  {
+    "word": "wide",
+    "kk": "[waɪd]",
+    "pos": "adj.",
+    "meaning": "寬闊的",
+    "en": "wide",
+    "zh": "寬闊的"
+  },
+  {
+    "word": "wife",
+    "kk": "[waɪf]",
+    "pos": "n.",
+    "meaning": "妻子",
+    "en": "wife",
+    "zh": "妻子"
+  },
+  {
+    "word": "will",
+    "kk": "[wɪl]",
+    "pos": "",
+    "meaning": "(1) n.意志；遺囑 (2) aux.將",
+    "en": "will",
+    "zh": "(1) n.意志；遺囑 (2) aux.將"
+  },
+  {
+    "word": "win",
+    "kk": "[wɪn]",
+    "pos": "vt.",
+    "meaning": "贏",
+    "en": "win",
+    "zh": "贏"
+  },
+  {
+    "word": "wind",
+    "kk": "[wɪnd]",
+    "pos": "",
+    "meaning": "(1) n. 風",
+    "en": "wind",
+    "zh": "(1) n. 風"
+  },
+  {
+    "word": "window",
+    "kk": "[ˋwɪndo]",
+    "pos": "n.",
+    "meaning": "窗戶",
+    "en": "window",
+    "zh": "窗戶"
+  },
+  {
+    "word": "wine",
+    "kk": "[waɪn]",
+    "pos": "n.",
+    "meaning": "紅酒",
+    "en": "wine",
+    "zh": "紅酒"
+  },
+  {
+    "word": "winter",
+    "kk": "[ˋwɪntɚ]",
+    "pos": "n.",
+    "meaning": "冬天",
+    "en": "winter",
+    "zh": "冬天"
+  },
+  {
+    "word": "wish",
+    "kk": "[wɪʃ]",
+    "pos": "vt.",
+    "meaning": "但願",
+    "en": "wish",
+    "zh": "但願"
+  },
+  {
+    "word": "with",
+    "kk": "[wɪð]",
+    "pos": "prpe.",
+    "meaning": "與…一起",
+    "en": "with",
+    "zh": "與…一起"
+  },
+  {
+    "word": "woman",
+    "kk": "[ˋwʊmən]",
+    "pos": "n.",
+    "meaning": "女人",
+    "en": "woman",
+    "zh": "女人"
+  },
+  {
+    "word": "wood(s)",
+    "kk": "[wʊd]",
+    "pos": "n.",
+    "meaning": "木頭",
+    "en": "wood(s)",
+    "zh": "木頭"
+  },
+  {
+    "word": "word",
+    "kk": "[wɝd]",
+    "pos": "n.",
+    "meaning": "字",
+    "en": "word",
+    "zh": "字"
+  },
+  {
+    "word": "work",
+    "kk": "[wɝk]",
+    "pos": "n. vi.",
+    "meaning": "vt.工作",
+    "en": "work",
+    "zh": "vt.工作"
+  },
+  {
+    "word": "worker",
+    "kk": "[ˋwɝkɚ]",
+    "pos": "n.",
+    "meaning": "工人",
+    "en": "worker",
+    "zh": "工人"
+  },
+  {
+    "word": "world",
+    "kk": "[wɝld]",
+    "pos": "n.",
+    "meaning": "世界",
+    "en": "world",
+    "zh": "世界"
+  },
+  {
+    "word": "worm",
+    "kk": "[wɝm]",
+    "pos": "n.",
+    "meaning": "蠕蟲",
+    "en": "worm",
+    "zh": "蠕蟲"
+  },
+  {
+    "word": "worry",
+    "kk": "[ˋwɝɪ]",
+    "pos": "vt.",
+    "meaning": "使擔心",
+    "en": "worry",
+    "zh": "使擔心"
+  },
+  {
+    "word": "worse",
+    "kk": "[wɝs]",
+    "pos": "adj.",
+    "meaning": "更壞的",
+    "en": "worse",
+    "zh": "更壞的"
+  },
+  {
+    "word": "worst",
+    "kk": "[wɝst]",
+    "pos": "adj.",
+    "meaning": "最壞的",
+    "en": "worst",
+    "zh": "最壞的"
+  },
+  {
+    "word": "write",
+    "kk": "[raɪt]",
+    "pos": "vt.",
+    "meaning": "寫下",
+    "en": "write",
+    "zh": "寫下"
+  },
+  {
+    "word": "writer",
+    "kk": "[ˋraɪtɚ]",
+    "pos": "n.",
+    "meaning": "作者",
+    "en": "writer",
+    "zh": "作者"
+  },
+  {
+    "word": "wrong",
+    "kk": "[rɔŋ]",
+    "pos": "adj.",
+    "meaning": "錯誤的",
+    "en": "wrong",
+    "zh": "錯誤的"
+  },
+  {
+    "word": "yam/sweet potato",
+    "kk": "[jæm]",
+    "pos": "n.",
+    "meaning": "番薯",
+    "en": "yam/sweet potato",
+    "zh": "番薯"
+  },
+  {
+    "word": "year",
+    "kk": "[jɪr]",
+    "pos": "n.",
+    "meaning": "年",
+    "en": "year",
+    "zh": "年"
+  },
+  {
+    "word": "yellow",
+    "kk": "[ˋjɛlo]",
+    "pos": "adj.",
+    "meaning": "黃色的",
+    "en": "yellow",
+    "zh": "黃色的"
+  },
+  {
+    "word": "yes/yeah",
+    "kk": "[jɛs]",
+    "pos": "",
+    "meaning": "/ [jɛə] adv. n. 是",
+    "en": "yes/yeah",
+    "zh": "/ [jɛə] adv. n. 是"
+  },
+  {
+    "word": "yesterday",
+    "kk": "[ˋjɛstɚde]",
+    "pos": "n.",
+    "meaning": "昨天",
+    "en": "yesterday",
+    "zh": "昨天"
+  },
+  {
+    "word": "yet",
+    "kk": "[jɛt]",
+    "pos": "adv.",
+    "meaning": "然而；還(沒)",
+    "en": "yet",
+    "zh": "然而；還(沒)"
+  },
+  {
+    "word": "you",
+    "kk": "[ju]",
+    "pos": "pron.",
+    "meaning": "(主格)你",
+    "en": "you",
+    "zh": "(主格)你"
+  },
+  {
+    "word": "young",
+    "kk": "[jʌŋ]",
+    "pos": "adj.",
+    "meaning": "年輕的",
+    "en": "young",
+    "zh": "年輕的"
+  },
+  {
+    "word": "your(s)",
+    "kk": "[jʊrz]",
+    "pos": "adj.",
+    "meaning": "你的；你們的",
+    "en": "your(s)",
+    "zh": "你的；你們的"
+  },
+  {
+    "word": "yucky",
+    "kk": "[ˋjʌkɪ]",
+    "pos": "adj.",
+    "meaning": "噁心的",
+    "en": "yucky",
+    "zh": "噁心的"
+  }
+]
