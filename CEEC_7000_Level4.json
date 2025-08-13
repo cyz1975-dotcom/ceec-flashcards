@@ -1,0 +1,9682 @@
+[
+  {
+    "word": "abandon",
+    "kk": "[əˋbændən]",
+    "pos": "",
+    "meaning": "vt.放棄，中止",
+    "en": "abandon",
+    "zh": "vt.放棄，中止"
+  },
+  {
+    "word": "abdomen",
+    "kk": "[ˋæbdəmən]",
+    "pos": "",
+    "meaning": "n.腹；腹部",
+    "en": "abdomen",
+    "zh": "n.腹；腹部"
+  },
+  {
+    "word": "absolute",
+    "kk": "[ˋæbsə͵lut]",
+    "pos": "",
+    "meaning": "a.絕對的；完全的",
+    "en": "absolute",
+    "zh": "a.絕對的；完全的"
+  },
+  {
+    "word": "absorb",
+    "kk": "[əbˋsɔrb]",
+    "pos": "",
+    "meaning": "vt.吸收；吸引(注意等)；使",
+    "en": "absorb",
+    "zh": "vt.吸收；吸引(注意等)；使"
+  },
+  {
+    "word": "abstract",
+    "kk": "[ˋæbstrækt]",
+    "pos": "",
+    "meaning": "a.抽象的 n.摘要，梗概",
+    "en": "abstract",
+    "zh": "a.抽象的 n.摘要，梗概"
+  },
+  {
+    "word": "academic",
+    "kk": "[͵ækəˋdɛmɪk]",
+    "pos": "",
+    "meaning": "a.學術的",
+    "en": "academic",
+    "zh": "a.學術的"
+  },
+  {
+    "word": "accent",
+    "kk": "[ˋæksɛnt]",
+    "pos": "",
+    "meaning": "n.口音，腔調；重音；強調",
+    "en": "accent",
+    "zh": "n.口音，腔調；重音；強調"
+  },
+  {
+    "word": "acceptance",
+    "kk": "[əkˋsɛptəns]",
+    "pos": "",
+    "meaning": "n.接受；歡迎",
+    "en": "acceptance",
+    "zh": "n.接受；歡迎"
+  },
+  {
+    "word": "access",
+    "kk": "[ˋæksɛs]",
+    "pos": "",
+    "meaning": "n.接近，進入；通道，入口",
+    "en": "access",
+    "zh": "n.接近，進入；通道，入口"
+  },
+  {
+    "word": "accidental",
+    "kk": "[͵æksəˋdɛnt!]",
+    "pos": "",
+    "meaning": "a.偶然的；意外的",
+    "en": "accidental",
+    "zh": "a.偶然的；意外的"
+  },
+  {
+    "word": "accompany",
+    "kk": "[əˋkʌmpənɪ]",
+    "pos": "",
+    "meaning": "vt.陪伴；為…伴奏",
+    "en": "accompany",
+    "zh": "vt.陪伴；為…伴奏"
+  },
+  {
+    "word": "accomplish",
+    "kk": "[əˋkɑmplɪʃ]",
+    "pos": "",
+    "meaning": "vt.完成，實現，達到",
+    "en": "accomplish",
+    "zh": "vt.完成，實現，達到"
+  },
+  {
+    "word": "accomplishment",
+    "kk": "[əˋkɑmplɪʃmənt]",
+    "pos": "",
+    "meaning": "n.成就；成",
+    "en": "accomplishment",
+    "zh": "n.成就；成"
+  },
+  {
+    "word": "績",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "績",
+    "zh": ""
+  },
+  {
+    "word": "accountant",
+    "kk": "[əˋkaʊntənt]",
+    "pos": "",
+    "meaning": "n.會計師；會計人員",
+    "en": "accountant",
+    "zh": "n.會計師；會計人員"
+  },
+  {
+    "word": "accuracy",
+    "kk": "[ˋækjərəsɪ]",
+    "pos": "",
+    "meaning": "n.正確(性)；準確(性)",
+    "en": "accuracy",
+    "zh": "n.正確(性)；準確(性)"
+  },
+  {
+    "word": "accuse",
+    "kk": "[əˋkjuz]",
+    "pos": "",
+    "meaning": "vt.指控，控告；譴責",
+    "en": "accuse",
+    "zh": "vt.指控，控告；譴責"
+  },
+  {
+    "word": "acid",
+    "kk": "[ˋæsɪd]",
+    "pos": "",
+    "meaning": "a.酸的，有酸味的 n.【化】酸",
+    "en": "acid",
+    "zh": "a.酸的，有酸味的 n.【化】酸"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[U]",
+    "en": "",
+    "zh": "[U]"
+  },
+  {
+    "word": "acquaint",
+    "kk": "[əˋkwent]",
+    "pos": "",
+    "meaning": "vt.使認識；使熟悉",
+    "en": "acquaint",
+    "zh": "vt.使認識；使熟悉"
+  },
+  {
+    "word": "acquaintance",
+    "kk": "[əˋkwentəns]",
+    "pos": "",
+    "meaning": "n.(與人)相識",
+    "en": "acquaintance",
+    "zh": "n.(與人)相識"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "人",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "人",
+    "zh": ""
+  },
+  {
+    "word": "acquire",
+    "kk": "[əˋkwaɪr]",
+    "pos": "",
+    "meaning": "vt.取得，獲得；學到",
+    "en": "acquire",
+    "zh": "vt.取得，獲得；學到"
+  },
+  {
+    "word": "acre",
+    "kk": "[ˋekɚ]",
+    "pos": "",
+    "meaning": "n.英畝",
+    "en": "acre",
+    "zh": "n.英畝"
+  },
+  {
+    "word": "adapt",
+    "kk": "[əˋdæpt]",
+    "pos": "",
+    "meaning": "vt.使適應，使適合；改編，",
+    "en": "adapt",
+    "zh": "vt.使適應，使適合；改編，"
+  },
+  {
+    "word": "adequate",
+    "kk": "[ˋædəkwɪt]",
+    "pos": "",
+    "meaning": "a.適當的；足夠的",
+    "en": "adequate",
+    "zh": "a.適當的；足夠的"
+  },
+  {
+    "word": "adjective",
+    "kk": "[ˋædʒɪktɪv]",
+    "pos": "",
+    "meaning": "n.形容詞  a.形容詞的",
+    "en": "adjective",
+    "zh": "n.形容詞  a.形容詞的"
+  },
+  {
+    "word": "adjust",
+    "kk": "[əˋdʒʌst]",
+    "pos": "",
+    "meaning": "vt.調節；校準；調整",
+    "en": "adjust",
+    "zh": "vt.調節；校準；調整"
+  },
+  {
+    "word": "adjustment",
+    "kk": "[əˋdʒʌstmənt]",
+    "pos": "",
+    "meaning": "n.調節；調整；校",
+    "en": "adjustment",
+    "zh": "n.調節；調整；校"
+  },
+  {
+    "word": "admirable",
+    "kk": "[ˋædmərəb!]",
+    "pos": "",
+    "meaning": "a.值得讚揚的；令人",
+    "en": "admirable",
+    "zh": "a.值得讚揚的；令人"
+  },
+  {
+    "word": "admiration",
+    "kk": "[ædməˋreʃən]",
+    "pos": "",
+    "meaning": "n.欽佩，讚美，羨",
+    "en": "admiration",
+    "zh": "n.欽佩，讚美，羨"
+  },
+  {
+    "word": "admission",
+    "kk": "[ədˋmɪʃən]",
+    "pos": "",
+    "meaning": "n.(學校，會場，俱樂部",
+    "en": "admission",
+    "zh": "n.(學校，會場，俱樂部"
+  },
+  {
+    "word": "等的)進入許可；入場費",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；入場券[C]；",
+    "en": "等的)進入許可；入場費",
+    "zh": "；入場券[C]；"
+  },
+  {
+    "word": "承認",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "承認",
+    "zh": ""
+  },
+  {
+    "word": "adverb",
+    "kk": "[ˋædvɚb]",
+    "pos": "",
+    "meaning": "n.副詞  a.副詞的",
+    "en": "adverb",
+    "zh": "n.副詞  a.副詞的"
+  },
+  {
+    "word": "agency",
+    "kk": "[ˋedʒənsɪ]",
+    "pos": "",
+    "meaning": "n.代辦處，經銷處",
+    "en": "agency",
+    "zh": "n.代辦處，經銷處"
+  },
+  {
+    "word": "agent",
+    "kk": "[ˋedʒənt]",
+    "pos": "",
+    "meaning": "n.代理人；代理商；仲介人",
+    "en": "agent",
+    "zh": "n.代理人；代理商；仲介人"
+  },
+  {
+    "word": "aggressive",
+    "kk": "[əˋgrɛsɪv]",
+    "pos": "",
+    "meaning": "a.侵略的，有進取精神",
+    "en": "aggressive",
+    "zh": "a.侵略的，有進取精神"
+  },
+  {
+    "word": "agreeable",
+    "kk": "[əˋgriəb!]",
+    "pos": "",
+    "meaning": "a.令人愉快的，宜人的",
+    "en": "agreeable",
+    "zh": "a.令人愉快的，宜人的"
+  },
+  {
+    "word": "AIDS",
+    "kk": "[edz]",
+    "pos": "",
+    "meaning": "n.愛滋病",
+    "en": "AIDS",
+    "zh": "n.愛滋病"
+  },
+  {
+    "word": "alcohol",
+    "kk": "[ˋælkə͵hɔl]",
+    "pos": "",
+    "meaning": "n.酒精；含酒精飲料；酒",
+    "en": "alcohol",
+    "zh": "n.酒精；含酒精飲料；酒"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "alert",
+    "kk": "[əˋlɝt]",
+    "pos": "",
+    "meaning": "a.警覺的；警惕的 n.警戒，警報",
+    "en": "alert",
+    "zh": "a.警覺的；警惕的 n.警戒，警報"
+  },
+  {
+    "word": "allowance",
+    "kk": "[əˋlaʊəns]",
+    "pos": "",
+    "meaning": "n.零用錢；津貼，補貼",
+    "en": "allowance",
+    "zh": "n.零用錢；津貼，補貼"
+  },
+  {
+    "word": "aluminum",
+    "kk": "[əˋlumɪnəm]",
+    "pos": "",
+    "meaning": "n.鋁[U]",
+    "en": "aluminum",
+    "zh": "n.鋁[U]"
+  },
+  {
+    "word": "amateur",
+    "kk": "[ˋæmə͵tʃʊr]",
+    "pos": "",
+    "meaning": "n.業餘從事者",
+    "en": "amateur",
+    "zh": "n.業餘從事者"
+  },
+  {
+    "word": "ambitious",
+    "kk": "[æmˋbɪʃəs]",
+    "pos": "",
+    "meaning": "a.有雄心的；野心勃勃",
+    "en": "ambitious",
+    "zh": "a.有雄心的；野心勃勃"
+  },
+  {
+    "word": "amid",
+    "kk": "[əˋmɪd]",
+    "pos": "",
+    "meaning": "prep.在…之間；在…之中",
+    "en": "amid",
+    "zh": "prep.在…之間；在…之中"
+  },
+  {
+    "word": "amuse",
+    "kk": "[əˋmjuz]",
+    "pos": "",
+    "meaning": "vt.使歡樂，逗…高興",
+    "en": "amuse",
+    "zh": "vt.使歡樂，逗…高興"
+  },
+  {
+    "word": "amusement",
+    "kk": "[əˋmjuzmənt]",
+    "pos": "",
+    "meaning": "n.樂趣；娛樂，消",
+    "en": "amusement",
+    "zh": "n.樂趣；娛樂，消"
+  },
+  {
+    "word": "analysis",
+    "kk": "[əˋnæləsɪs]",
+    "pos": "",
+    "meaning": "n.分析；分解；解析",
+    "en": "analysis",
+    "zh": "n.分析；分解；解析"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[U]",
+    "en": "",
+    "zh": "[U]"
+  },
+  {
+    "word": "analyze",
+    "kk": "[ˋæn!͵aɪz]",
+    "pos": "",
+    "meaning": "vt.分析；解析",
+    "en": "analyze",
+    "zh": "vt.分析；解析"
+  },
+  {
+    "word": "ancestor",
+    "kk": "[ˋænsɛstɚ]",
+    "pos": "",
+    "meaning": "n.祖宗，祖先",
+    "en": "ancestor",
+    "zh": "n.祖宗，祖先"
+  },
+  {
+    "word": "anniversary",
+    "kk": "[͵ænəˋvɝsərɪ]",
+    "pos": "",
+    "meaning": "n.週年紀念日",
+    "en": "anniversary",
+    "zh": "n.週年紀念日"
+  },
+  {
+    "word": "annoy",
+    "kk": "[əˋnɔɪ]",
+    "pos": "",
+    "meaning": "vt.惹惱，使生氣",
+    "en": "annoy",
+    "zh": "vt.惹惱，使生氣"
+  },
+  {
+    "word": "annual",
+    "kk": "[ˋænjʊəl]",
+    "pos": "",
+    "meaning": "a.一年的；一年一次的",
+    "en": "annual",
+    "zh": "a.一年的；一年一次的"
+  },
+  {
+    "word": "anxiety",
+    "kk": "[æŋˋzaɪətɪ]",
+    "pos": "",
+    "meaning": "n.焦慮，掛念",
+    "en": "anxiety",
+    "zh": "n.焦慮，掛念"
+  },
+  {
+    "word": "anxious",
+    "kk": "[ˋæŋkʃəs]",
+    "pos": "",
+    "meaning": "a.焦慮的，掛念的",
+    "en": "anxious",
+    "zh": "a.焦慮的，掛念的"
+  },
+  {
+    "word": "apologize",
+    "kk": "[əˋpɑlə͵dʒaɪz]",
+    "pos": "",
+    "meaning": "vi.道歉；認錯",
+    "en": "apologize",
+    "zh": "vi.道歉；認錯"
+  },
+  {
+    "word": "apology",
+    "kk": "[əˋpɑlədʒɪ]",
+    "pos": "",
+    "meaning": "n.道歉；陪罪[(+to/for)]",
+    "en": "apology",
+    "zh": "n.道歉；陪罪[(+to/for)]"
+  },
+  {
+    "word": "appliance",
+    "kk": "[əˋplaɪəns]",
+    "pos": "",
+    "meaning": "n.器具，用具；裝置，",
+    "en": "appliance",
+    "zh": "n.器具，用具；裝置，"
+  },
+  {
+    "word": "設備",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "設備",
+    "zh": ""
+  },
+  {
+    "word": "applicant",
+    "kk": "[ˋæpləkənt]",
+    "pos": "",
+    "meaning": "n.申請人[C][(+for)]",
+    "en": "applicant",
+    "zh": "n.申請人[C][(+for)]"
+  },
+  {
+    "word": "application",
+    "kk": "[͵æpləˋkeʃən]",
+    "pos": "",
+    "meaning": "n.應用，適用；",
+    "en": "application",
+    "zh": "n.應用，適用；"
+  },
+  {
+    "word": "appoint",
+    "kk": "[əˋpɔɪnt]",
+    "pos": "",
+    "meaning": "vt.任命，指派",
+    "en": "appoint",
+    "zh": "vt.任命，指派"
+  },
+  {
+    "word": "appointment",
+    "kk": "[əˋpɔɪntmənt]",
+    "pos": "",
+    "meaning": "n.(尤指正式的)約",
+    "en": "appointment",
+    "zh": "n.(尤指正式的)約"
+  },
+  {
+    "word": "會",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "；任命，委派[U]",
+    "en": "會",
+    "zh": "；任命，委派[U]"
+  },
+  {
+    "word": "appreciation",
+    "kk": "[ə͵priʃɪˋeʃən]",
+    "pos": "",
+    "meaning": "n.欣賞；賞識；感",
+    "en": "appreciation",
+    "zh": "n.欣賞；賞識；感"
+  },
+  {
+    "word": "appropriate",
+    "kk": "[əˋproprɪ͵et]",
+    "pos": "",
+    "meaning": "a.適當的，恰當的",
+    "en": "appropriate",
+    "zh": "a.適當的，恰當的"
+  },
+  {
+    "word": "approval",
+    "kk": "[əˋpruv!]",
+    "pos": "",
+    "meaning": "n.批准；認可；贊成；同",
+    "en": "approval",
+    "zh": "n.批准；認可；贊成；同"
+  },
+  {
+    "word": "arch",
+    "kk": "[ɑrtʃ]",
+    "pos": "",
+    "meaning": "n.拱，拱門，牌樓",
+    "en": "arch",
+    "zh": "n.拱，拱門，牌樓"
+  },
+  {
+    "word": "arise",
+    "kk": "[əˋraɪz]",
+    "pos": "",
+    "meaning": "vi.上升；產生，出現；【舊】起",
+    "en": "arise",
+    "zh": "vi.上升；產生，出現；【舊】起"
+  },
+  {
+    "word": "arms",
+    "kk": "[ɑrmz]",
+    "pos": "",
+    "meaning": "n.武器",
+    "en": "arms",
+    "zh": "n.武器"
+  },
+  {
+    "word": "arouse",
+    "kk": "[əˋraʊz]",
+    "pos": "",
+    "meaning": "vt.喚起；使奮發",
+    "en": "arouse",
+    "zh": "vt.喚起；使奮發"
+  },
+  {
+    "word": "article1",
+    "kk": "[ˋɑrtɪk!]",
+    "pos": "",
+    "meaning": "n.冠詞；文章；物品；條文",
+    "en": "article1",
+    "zh": "n.冠詞；文章；物品；條文"
+  },
+  {
+    "word": "artificial",
+    "kk": "[͵ɑrtəˋfɪʃəl]",
+    "pos": "",
+    "meaning": "a.人工的，人造的；假",
+    "en": "artificial",
+    "zh": "a.人工的，人造的；假"
+  },
+  {
+    "word": "artistic",
+    "kk": "[ɑrˋtɪstɪk]",
+    "pos": "",
+    "meaning": "a.藝術的；美術的",
+    "en": "artistic",
+    "zh": "a.藝術的；美術的"
+  },
+  {
+    "word": "ashamed",
+    "kk": "[əˋʃemd]",
+    "pos": "",
+    "meaning": "a.羞愧的，感到難為情的",
+    "en": "ashamed",
+    "zh": "a.羞愧的，感到難為情的"
+  },
+  {
+    "word": "aspect",
+    "kk": "[ˋæspɛkt]",
+    "pos": "",
+    "meaning": "n.方面，觀點",
+    "en": "aspect",
+    "zh": "n.方面，觀點"
+  },
+  {
+    "word": "aspirin",
+    "kk": "[ˋæspərɪn]",
+    "pos": "",
+    "meaning": "n.阿斯匹靈(解熱鎮痛藥)",
+    "en": "aspirin",
+    "zh": "n.阿斯匹靈(解熱鎮痛藥)"
+  },
+  {
+    "word": "assemble",
+    "kk": "[əˋsɛmb!]",
+    "pos": "",
+    "meaning": "vt.集合，召集；組合，",
+    "en": "assemble",
+    "zh": "vt.集合，召集；組合，"
+  },
+  {
+    "word": "assembly",
+    "kk": "[əˋsɛmblɪ]",
+    "pos": "",
+    "meaning": "n.集會；集合",
+    "en": "assembly",
+    "zh": "n.集會；集合"
+  },
+  {
+    "word": "assign",
+    "kk": "[əˋsaɪn]",
+    "pos": "",
+    "meaning": "vt.分配，分派；指定",
+    "en": "assign",
+    "zh": "vt.分配，分派；指定"
+  },
+  {
+    "word": "assignment",
+    "kk": "[əˋsaɪnmənt]",
+    "pos": "",
+    "meaning": "n.(分派的)任務；工",
+    "en": "assignment",
+    "zh": "n.(分派的)任務；工"
+  },
+  {
+    "word": "作",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": ";",
+    "en": "作",
+    "zh": ";"
+  },
+  {
+    "word": "功課",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "功課",
+    "zh": ""
+  },
+  {
+    "word": "assistance",
+    "kk": "[əˋsɪstəns]",
+    "pos": "",
+    "meaning": "n.援助，幫助[U][(+in)]",
+    "en": "assistance",
+    "zh": "n.援助，幫助[U][(+in)]"
+  },
+  {
+    "word": "associate",
+    "kk": "[əˋsoʃɪɪt]",
+    "pos": "",
+    "meaning": "n.夥伴；同事；合夥人",
+    "en": "associate",
+    "zh": "n.夥伴；同事；合夥人"
+  },
+  {
+    "word": "",
+    "kk": "[əˋsoʃɪet]",
+    "pos": "",
+    "meaning": "vt.聯想",
+    "en": "",
+    "zh": "vt.聯想"
+  },
+  {
+    "word": "association",
+    "kk": "[ə͵sosɪˋeʃən]",
+    "pos": "",
+    "meaning": "n.協(公)會；聯想，",
+    "en": "association",
+    "zh": "n.協(公)會；聯想，"
+  },
+  {
+    "word": "assume",
+    "kk": "[əˋsjum]",
+    "pos": "",
+    "meaning": "vt.以為；假定為；承擔；就",
+    "en": "assume",
+    "zh": "vt.以為；假定為；承擔；就"
+  },
+  {
+    "word": "assurance",
+    "kk": "[əˋʃʊrəns]",
+    "pos": "",
+    "meaning": "n.保證",
+    "en": "assurance",
+    "zh": "n.保證"
+  },
+  {
+    "word": "assure",
+    "kk": "[əˋʃʊr]",
+    "pos": "",
+    "meaning": "vt.向…保證，擔保；",
+    "en": "assure",
+    "zh": "vt.向…保證，擔保；"
+  },
+  {
+    "word": "使確信，使放心",
+    "kk": "[(+of)]",
+    "pos": "",
+    "meaning": "",
+    "en": "使確信，使放心",
+    "zh": ""
+  },
+  {
+    "word": "athletic",
+    "kk": "[æθˋlɛtɪk]",
+    "pos": "a.",
+    "meaning": "運動的，體育的",
+    "en": "athletic",
+    "zh": "運動的，體育的"
+  },
+  {
+    "word": "atmosphere",
+    "kk": "[ˋætməs͵fɪr]",
+    "pos": "",
+    "meaning": "n.大氣層；氣氛",
+    "en": "atmosphere",
+    "zh": "n.大氣層；氣氛"
+  },
+  {
+    "word": "atom",
+    "kk": "[ˋætəm]",
+    "pos": "",
+    "meaning": "n.原子",
+    "en": "atom",
+    "zh": "n.原子"
+  },
+  {
+    "word": "atomic",
+    "kk": "[əˋtɑmɪk]",
+    "pos": "",
+    "meaning": "a.原子的",
+    "en": "atomic",
+    "zh": "a.原子的"
+  },
+  {
+    "word": "attach",
+    "kk": "[əˋtætʃ]",
+    "pos": "",
+    "meaning": "vt.裝上，貼上，繫上[(+to)]",
+    "en": "attach",
+    "zh": "vt.裝上，貼上，繫上[(+to)]"
+  },
+  {
+    "word": "attachment",
+    "kk": "[əˋtætʃmənt]",
+    "pos": "",
+    "meaning": "n.連接；附著",
+    "en": "attachment",
+    "zh": "n.連接；附著"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "[(+to)]；",
+    "en": "",
+    "zh": "[(+to)]；"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[(+to/for)]",
+    "en": "",
+    "zh": "[(+to/for)]"
+  },
+  {
+    "word": "attraction",
+    "kk": "[əˋtrækʃən]",
+    "pos": "",
+    "meaning": "n.吸引；吸引力[U]；吸",
+    "en": "attraction",
+    "zh": "n.吸引；吸引力[U]；吸"
+  },
+  {
+    "word": "引物",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "引物",
+    "zh": ""
+  },
+  {
+    "word": "audio",
+    "kk": "[ˋɔdɪ͵o]",
+    "pos": "a.",
+    "meaning": "聽覺的，聲音的",
+    "en": "audio",
+    "zh": "聽覺的，聲音的"
+  },
+  {
+    "word": "authority",
+    "kk": "[əˋθɔrətɪ]",
+    "pos": "",
+    "meaning": "n.權力；職權[U]；官方，",
+    "en": "authority",
+    "zh": "n.權力；職權[U]；官方，"
+  },
+  {
+    "word": "autobiography",
+    "kk": "[͵ɔtəbaɪˋɑgrəfɪ]",
+    "pos": "",
+    "meaning": "n.自傳",
+    "en": "autobiography",
+    "zh": "n.自傳"
+  },
+  {
+    "word": "await",
+    "kk": "[əˋwe]",
+    "pos": "",
+    "meaning": "vt.等候，期待",
+    "en": "await",
+    "zh": "vt.等候，期待"
+  },
+  {
+    "word": "awkward",
+    "kk": "[ˋɔkwɚd]",
+    "pos": "",
+    "meaning": "a.笨拙的 [(+with)]；尷尬",
+    "en": "awkward",
+    "zh": "a.笨拙的 [(+with)]；尷尬"
+  },
+  {
+    "word": "backpack",
+    "kk": "[ˋbæk͵pæk]",
+    "pos": "",
+    "meaning": "n.登山、遠足用的背包",
+    "en": "backpack",
+    "zh": "n.登山、遠足用的背包"
+  },
+  {
+    "word": "bald",
+    "kk": "[bɔld]",
+    "pos": "",
+    "meaning": "a.禿頭的；無草木的",
+    "en": "bald",
+    "zh": "a.禿頭的；無草木的"
+  },
+  {
+    "word": "ballet",
+    "kk": "[ˋbæle]",
+    "pos": "",
+    "meaning": "n.芭蕾舞[C][U]",
+    "en": "ballet",
+    "zh": "n.芭蕾舞[C][U]"
+  },
+  {
+    "word": "bankrupt",
+    "kk": "[ˋbæŋkrʌpt]",
+    "pos": "",
+    "meaning": "a.破產的 vt.使破產 n.",
+    "en": "bankrupt",
+    "zh": "a.破產的 vt.使破產 n."
+  },
+  {
+    "word": "bargain",
+    "kk": "[ˋbɑrgɪn]",
+    "pos": "",
+    "meaning": "vt.討價還價",
+    "en": "bargain",
+    "zh": "vt.討價還價"
+  },
+  {
+    "word": "barrier",
+    "kk": "[ˋbærɪr]",
+    "pos": "",
+    "meaning": "n.障礙物；路障，柵欄",
+    "en": "barrier",
+    "zh": "n.障礙物；路障，柵欄"
+  },
+  {
+    "word": "basin",
+    "kk": "[ˋbesn]",
+    "pos": "",
+    "meaning": "n.盆；臉盆；盆地",
+    "en": "basin",
+    "zh": "n.盆；臉盆；盆地"
+  },
+  {
+    "word": "battery",
+    "kk": "[ˋbætərɪ]",
+    "pos": "",
+    "meaning": "n.電池",
+    "en": "battery",
+    "zh": "n.電池"
+  },
+  {
+    "word": "beak",
+    "kk": "[bik]",
+    "pos": "",
+    "meaning": "n.鳥嘴",
+    "en": "beak",
+    "zh": "n.鳥嘴"
+  },
+  {
+    "word": "beam2",
+    "kk": "[bim]",
+    "pos": "",
+    "meaning": "n.笑容，喜色",
+    "en": "beam2",
+    "zh": "n.笑容，喜色"
+  },
+  {
+    "word": "behavior",
+    "kk": "[bɪˋhevjɚ]",
+    "pos": "",
+    "meaning": "n.行為，舉止 [U]",
+    "en": "behavior",
+    "zh": "n.行為，舉止 [U]"
+  },
+  {
+    "word": "biography",
+    "kk": "[baɪˋɑgrəfɪ]",
+    "pos": "",
+    "meaning": "n.傳記[C]",
+    "en": "biography",
+    "zh": "n.傳記[C]"
+  },
+  {
+    "word": "biology",
+    "kk": "[baɪˋɑlədʒɪ]",
+    "pos": "",
+    "meaning": "n.生物學[U]",
+    "en": "biology",
+    "zh": "n.生物學[U]"
+  },
+  {
+    "word": "blade",
+    "kk": "[bled]",
+    "pos": "",
+    "meaning": "n.刀身，劍身；刀片",
+    "en": "blade",
+    "zh": "n.刀身，劍身；刀片"
+  },
+  {
+    "word": "blend",
+    "kk": "[blɛnd]",
+    "pos": "",
+    "meaning": "vt.vi.使混和，使混雜；使交融",
+    "en": "blend",
+    "zh": "vt.vi.使混和，使混雜；使交融"
+  },
+  {
+    "word": "blessing",
+    "kk": "[ˋblɛsɪŋ]",
+    "pos": "",
+    "meaning": "n.(上帝的)賜福；祝福",
+    "en": "blessing",
+    "zh": "n.(上帝的)賜福；祝福"
+  },
+  {
+    "word": "blink",
+    "kk": "[blɪŋk]",
+    "pos": "",
+    "meaning": "vi.vt.n.眨眼睛；瞇著眼看[(+at)]",
+    "en": "blink",
+    "zh": "vi.vt.n.眨眼睛；瞇著眼看[(+at)]"
+  },
+  {
+    "word": "bloom",
+    "kk": "[blum]",
+    "pos": "",
+    "meaning": "n.(尤指觀賞的)花；開花(期)[U]",
+    "en": "bloom",
+    "zh": "n.(尤指觀賞的)花；開花(期)[U]"
+  },
+  {
+    "word": "blossom",
+    "kk": "[ˋblɑsəm]",
+    "pos": "",
+    "meaning": "n.(尤指果樹的)花[C];開",
+    "en": "blossom",
+    "zh": "n.(尤指果樹的)花[C];開"
+  },
+  {
+    "word": "花(期)",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "花(期)",
+    "zh": ""
+  },
+  {
+    "word": "blush",
+    "kk": "[blʌʃ]",
+    "pos": "",
+    "meaning": "vi.n.(因害羞，尷尬等而)臉紅",
+    "en": "blush",
+    "zh": "vi.n.(因害羞，尷尬等而)臉紅"
+  },
+  {
+    "word": "boast",
+    "kk": "[bost]",
+    "pos": "",
+    "meaning": "vi.n.自吹自擂；誇耀；吹牛",
+    "en": "boast",
+    "zh": "vi.n.自吹自擂；誇耀；吹牛"
+  },
+  {
+    "word": "",
+    "kk": "[(+about/of)]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "bond",
+    "kk": "[bɑnd]",
+    "pos": "",
+    "meaning": "n.結合力；聯結；契約，約定[C]",
+    "en": "bond",
+    "zh": "n.結合力；聯結；契約，約定[C]"
+  },
+  {
+    "word": "bounce",
+    "kk": "[baʊns]",
+    "pos": "",
+    "meaning": "vt.vi.n.(球)彈起，彈回；蹦跳",
+    "en": "bounce",
+    "zh": "vt.vi.n.(球)彈起，彈回；蹦跳"
+  },
+  {
+    "word": "bracelet",
+    "kk": "[ˋbreslɪt]",
+    "pos": "",
+    "meaning": "n.手鐲；臂鐲",
+    "en": "bracelet",
+    "zh": "n.手鐲；臂鐲"
+  },
+  {
+    "word": "brassiere",
+    "kk": "[brəˋzɪr]",
+    "pos": "",
+    "meaning": "n.胸罩  = bra [brɑ]",
+    "en": "brassiere",
+    "zh": "n.胸罩  = bra [brɑ]"
+  },
+  {
+    "word": "breed",
+    "kk": "[brid]",
+    "pos": "",
+    "meaning": "vt.vi.(動物)產(子)，孵(卵)；繁",
+    "en": "breed",
+    "zh": "vt.vi.(動物)產(子)，孵(卵)；繁"
+  },
+  {
+    "word": "bridegroom",
+    "kk": "[ˋbraɪd͵grʊm]",
+    "pos": "",
+    "meaning": "n.新郎 (= groom)",
+    "en": "bridegroom",
+    "zh": "n.新郎 (= groom)"
+  },
+  {
+    "word": "broil",
+    "kk": "[brɔɪl]",
+    "pos": "",
+    "meaning": "vt.vi.n.烤，炙",
+    "en": "broil",
+    "zh": "vt.vi.n.烤，炙"
+  },
+  {
+    "word": "broke",
+    "kk": "[brok]",
+    "pos": "",
+    "meaning": "a.【口】破了產的；一文不名的",
+    "en": "broke",
+    "zh": "a.【口】破了產的；一文不名的"
+  },
+  {
+    "word": "brutal",
+    "kk": "[ˋbrut!]",
+    "pos": "",
+    "meaning": "a.殘忍的，冷酷的；野蠻的",
+    "en": "brutal",
+    "zh": "a.殘忍的，冷酷的；野蠻的"
+  },
+  {
+    "word": "bulletin",
+    "kk": "[ˋbʊlətɪn]",
+    "pos": "",
+    "meaning": "n.公告；公報",
+    "en": "bulletin",
+    "zh": "n.公告；公報"
+  },
+  {
+    "word": "cabinet",
+    "kk": "[ˋkæbənɪt]",
+    "pos": "",
+    "meaning": "n.櫥，櫃[C]；內閣；全體",
+    "en": "cabinet",
+    "zh": "n.櫥，櫃[C]；內閣；全體"
+  },
+  {
+    "word": "calculate",
+    "kk": "[ˋkælkjə͵let]",
+    "pos": "",
+    "meaning": "vt.vi.計算",
+    "en": "calculate",
+    "zh": "vt.vi.計算"
+  },
+  {
+    "word": "calculation",
+    "kk": "[͵kælkjəˋleʃən]",
+    "pos": "",
+    "meaning": "n.計算[U]",
+    "en": "calculation",
+    "zh": "n.計算[U]"
+  },
+  {
+    "word": "calculator",
+    "kk": "[ˋkælkjə͵letɚ]",
+    "pos": "",
+    "meaning": "n.計算者(機)",
+    "en": "calculator",
+    "zh": "n.計算者(機)"
+  },
+  {
+    "word": "calorie",
+    "kk": "[ˋkælərɪ]",
+    "pos": "",
+    "meaning": "n.卡，卡路里",
+    "en": "calorie",
+    "zh": "n.卡，卡路里"
+  },
+  {
+    "word": "campaign",
+    "kk": "[kæmˋpen]",
+    "pos": "",
+    "meaning": "n.戰役；運動，活動",
+    "en": "campaign",
+    "zh": "n.戰役；運動，活動"
+  },
+  {
+    "word": "candidate",
+    "kk": "[ˋkændədet]",
+    "pos": "",
+    "meaning": "n.候選人；候補者；應",
+    "en": "candidate",
+    "zh": "n.候選人；候補者；應"
+  },
+  {
+    "word": "capacity",
+    "kk": "[kəˋpæsətɪ]",
+    "pos": "",
+    "meaning": "n.容量，容積；能力，",
+    "en": "capacity",
+    "zh": "n.容量，容積；能力，"
+  },
+  {
+    "word": "cape",
+    "kk": "[kep]",
+    "pos": "",
+    "meaning": "n.披肩；斗篷；岬，海角",
+    "en": "cape",
+    "zh": "n.披肩；斗篷；岬，海角"
+  },
+  {
+    "word": "capital",
+    "kk": "[ˋkæpət!]",
+    "pos": "",
+    "meaning": "n.首都；大寫字母；資本",
+    "en": "capital",
+    "zh": "n.首都；大寫字母；資本"
+  },
+  {
+    "word": "capitalism",
+    "kk": "[ˋkæpət!͵ɪzəm]",
+    "pos": "",
+    "meaning": "n.資本主義(制",
+    "en": "capitalism",
+    "zh": "n.資本主義(制"
+  },
+  {
+    "word": "度)",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "度)",
+    "zh": ""
+  },
+  {
+    "word": "capitalist",
+    "kk": "[ˋkæpət!ɪst]",
+    "pos": "",
+    "meaning": "n.資本家；資本主義者",
+    "en": "capitalist",
+    "zh": "n.資本家；資本主義者"
+  },
+  {
+    "word": "career",
+    "kk": "[kəˋrɪr]",
+    "pos": "",
+    "meaning": "n.(終身的)職業[C]；生涯；歷",
+    "en": "career",
+    "zh": "n.(終身的)職業[C]；生涯；歷"
+  },
+  {
+    "word": "程",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "程",
+    "zh": ""
+  },
+  {
+    "word": "cargo",
+    "kk": "[ˋkɑrgo]",
+    "pos": "",
+    "meaning": "n.(船、飛機、車輛裝載的)貨",
+    "en": "cargo",
+    "zh": "n.(船、飛機、車輛裝載的)貨"
+  },
+  {
+    "word": "carrier",
+    "kk": "[ˋkærɪɚ]",
+    "pos": "",
+    "meaning": "n.運送人；送信人；航空母",
+    "en": "carrier",
+    "zh": "n.運送人；送信人；航空母"
+  },
+  {
+    "word": "carve",
+    "kk": "[kɑrv]",
+    "pos": "",
+    "meaning": "vi.刻，雕刻",
+    "en": "carve",
+    "zh": "vi.刻，雕刻"
+  },
+  {
+    "word": "catalogue/catalog",
+    "kk": "[ˋkætəlɔg]",
+    "pos": "",
+    "meaning": "n.(圖書，商品的)",
+    "en": "catalogue/catalog",
+    "zh": "n.(圖書，商品的)"
+  },
+  {
+    "word": "CD n.光碟 = compact disk",
+    "kk": "[kəmˋpækt dɪsk]",
+    "pos": "",
+    "meaning": "",
+    "en": "CD n.光碟 = compact disk",
+    "zh": ""
+  },
+  {
+    "word": "cease",
+    "kk": "[sis]",
+    "pos": "",
+    "meaning": "n.vt.vi.停止，終止",
+    "en": "cease",
+    "zh": "n.vt.vi.停止，終止"
+  },
+  {
+    "word": "celebration",
+    "kk": "[͵sɛləˋbreʃən]",
+    "pos": "",
+    "meaning": "n.慶祝[U]；慶祝活",
+    "en": "celebration",
+    "zh": "n.慶祝[U]；慶祝活"
+  },
+  {
+    "word": "動",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "動",
+    "zh": ""
+  },
+  {
+    "word": "cement",
+    "kk": "[sɪˋmɛnt]",
+    "pos": "",
+    "meaning": "n.水泥[U]",
+    "en": "cement",
+    "zh": "n.水泥[U]"
+  },
+  {
+    "word": "chamber",
+    "kk": "[ˋtʃembɚ]",
+    "pos": "",
+    "meaning": "n.房間；寢室",
+    "en": "chamber",
+    "zh": "n.房間；寢室"
+  },
+  {
+    "word": "championship",
+    "kk": "[ˋtʃæmpɪən͵ʃɪp]",
+    "pos": "",
+    "meaning": "n.冠軍的地位",
+    "en": "championship",
+    "zh": "n.冠軍的地位"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "characteristic",
+    "kk": "[͵kærəktəˋrɪstɪk]",
+    "pos": "",
+    "meaning": "n.特性，特徵",
+    "en": "characteristic",
+    "zh": "n.特性，特徵"
+  },
+  {
+    "word": "charity",
+    "kk": "[ˋtʃærətɪ]",
+    "pos": "",
+    "meaning": "n.慈悲；慈善[U]；慈善團",
+    "en": "charity",
+    "zh": "n.慈悲；慈善[U]；慈善團"
+  },
+  {
+    "word": "體",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "體",
+    "zh": ""
+  },
+  {
+    "word": "chemistry",
+    "kk": "[ˋkɛmɪstrɪ]",
+    "pos": "",
+    "meaning": "n.化學；男女間的來電",
+    "en": "chemistry",
+    "zh": "n.化學；男女間的來電"
+  },
+  {
+    "word": "cherish",
+    "kk": "[ˋtʃɛrɪʃ]",
+    "pos": "",
+    "meaning": "vt.珍愛；珍惜",
+    "en": "cherish",
+    "zh": "vt.珍愛；珍惜"
+  },
+  {
+    "word": "chirp",
+    "kk": "[tʃɝp]",
+    "pos": "",
+    "meaning": "vi.n.(小鳥)發啁啾聲；(昆蟲)發",
+    "en": "chirp",
+    "zh": "vi.n.(小鳥)發啁啾聲；(昆蟲)發"
+  },
+  {
+    "word": "chore",
+    "kk": "[tʃor]",
+    "pos": "",
+    "meaning": "n.家庭雜務；日常零星活兒",
+    "en": "chore",
+    "zh": "n.家庭雜務；日常零星活兒"
+  },
+  {
+    "word": "chorus",
+    "kk": "[ˋkorəs]",
+    "pos": "",
+    "meaning": "n.合唱隊[C]；合唱[C]；副歌",
+    "en": "chorus",
+    "zh": "n.合唱隊[C]；合唱[C]；副歌"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "cigar",
+    "kk": "[sɪˋgɑr]",
+    "pos": "",
+    "meaning": "n.雪茄",
+    "en": "cigar",
+    "zh": "n.雪茄"
+  },
+  {
+    "word": "cinema",
+    "kk": "[ˋsɪnəmə]",
+    "pos": "",
+    "meaning": "n.【英】電影院[C]；",
+    "en": "cinema",
+    "zh": "n.【英】電影院[C]；"
+  },
+  {
+    "word": "(一部)電影",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "；(總稱)電影；電",
+    "en": "(一部)電影",
+    "zh": "；(總稱)電影；電"
+  },
+  {
+    "word": "circular",
+    "kk": "[ˋsɝkjəlɚ]",
+    "pos": "",
+    "meaning": "a.圓形的；環形的",
+    "en": "circular",
+    "zh": "a.圓形的；環形的"
+  },
+  {
+    "word": "circulate",
+    "kk": "[ˋsɝkjə͵let]",
+    "pos": "",
+    "meaning": "vt.vi.循環；流通；發行",
+    "en": "circulate",
+    "zh": "vt.vi.循環；流通；發行"
+  },
+  {
+    "word": "circulation",
+    "kk": "[͵sɝkjəˋleʃən]",
+    "pos": "",
+    "meaning": "n.循環；(貨幣、消",
+    "en": "circulation",
+    "zh": "n.循環；(貨幣、消"
+  },
+  {
+    "word": "circumstance",
+    "kk": "[ˋsɝkəm͵stæns]",
+    "pos": "",
+    "meaning": "n.情況，環境",
+    "en": "circumstance",
+    "zh": "n.情況，環境"
+  },
+  {
+    "word": "civilian",
+    "kk": "[sɪˋvɪljən]",
+    "pos": "",
+    "meaning": "n.(與軍、警相對的)平民，",
+    "en": "civilian",
+    "zh": "n.(與軍、警相對的)平民，"
+  },
+  {
+    "word": "civilization",
+    "kk": "[͵sɪv!əˋzeʃən]",
+    "pos": "",
+    "meaning": "n.教化(過程)[U]；",
+    "en": "civilization",
+    "zh": "n.教化(過程)[U]；"
+  },
+  {
+    "word": "clarify",
+    "kk": "[ˋklærə͵faɪ]",
+    "pos": "",
+    "meaning": "vt.vi.澄清；闡明",
+    "en": "clarify",
+    "zh": "vt.vi.澄清；闡明"
+  },
+  {
+    "word": "clash",
+    "kk": "[klæʃ]",
+    "pos": "",
+    "meaning": "n.vi.vt.砰地相碰撞；衝突",
+    "en": "clash",
+    "zh": "n.vi.vt.砰地相碰撞；衝突"
+  },
+  {
+    "word": "classification",
+    "kk": "[͵klæsəfəˋkeʃən]",
+    "pos": "",
+    "meaning": "n.分類；分級",
+    "en": "classification",
+    "zh": "n.分類；分級"
+  },
+  {
+    "word": "classify",
+    "kk": "[ˋklæsə͵faɪ]",
+    "pos": "",
+    "meaning": "vt.將…分類；將…分等",
+    "en": "classify",
+    "zh": "vt.將…分類；將…分等"
+  },
+  {
+    "word": "cliff",
+    "kk": "[klɪf]",
+    "pos": "",
+    "meaning": "n.(尤指海邊的)懸崖，峭壁",
+    "en": "cliff",
+    "zh": "n.(尤指海邊的)懸崖，峭壁"
+  },
+  {
+    "word": "climax",
+    "kk": "[ˋklaɪmæks]",
+    "pos": "",
+    "meaning": "n.頂點，高潮",
+    "en": "climax",
+    "zh": "n.頂點，高潮"
+  },
+  {
+    "word": "clumsy",
+    "kk": "[ˋklʌmzɪ]",
+    "pos": "",
+    "meaning": "a.笨拙的，手腳不靈活的",
+    "en": "clumsy",
+    "zh": "a.笨拙的，手腳不靈活的"
+  },
+  {
+    "word": "coarse",
+    "kk": "[kors]",
+    "pos": "",
+    "meaning": "a.粗糙的；粗劣的",
+    "en": "coarse",
+    "zh": "a.粗糙的；粗劣的"
+  },
+  {
+    "word": "code",
+    "kk": "[kod]",
+    "pos": "",
+    "meaning": "n.法典，法規；規則；代碼；密",
+    "en": "code",
+    "zh": "n.法典，法規；規則；代碼；密"
+  },
+  {
+    "word": "collapse",
+    "kk": "[kəˋlæps]",
+    "pos": "",
+    "meaning": "vi.vt.n.倒塌",
+    "en": "collapse",
+    "zh": "vi.vt.n.倒塌"
+  },
+  {
+    "word": "combination",
+    "kk": "[͵kɑmbəˋneʃən]",
+    "pos": "",
+    "meaning": "n.結合(體)；密",
+    "en": "combination",
+    "zh": "n.結合(體)；密"
+  },
+  {
+    "word": "comedy",
+    "kk": "[ˋkɑmədɪ]",
+    "pos": "",
+    "meaning": "n.喜劇",
+    "en": "comedy",
+    "zh": "n.喜劇"
+  },
+  {
+    "word": "comic1",
+    "kk": "[ˋkɑmɪk]",
+    "pos": "",
+    "meaning": "a.喜劇的  n.喜劇演員",
+    "en": "comic1",
+    "zh": "a.喜劇的  n.喜劇演員"
+  },
+  {
+    "word": "comic(s)2",
+    "kk": "[ˋkɑmɪk]",
+    "pos": "",
+    "meaning": "a.連環漫畫的 n.連環漫",
+    "en": "comic(s)2",
+    "zh": "a.連環漫畫的 n.連環漫"
+  },
+  {
+    "word": "commander",
+    "kk": "[kəˋmændɚ]",
+    "pos": "",
+    "meaning": "n.指揮官，司令官",
+    "en": "commander",
+    "zh": "n.指揮官，司令官"
+  },
+  {
+    "word": "comment",
+    "kk": "[ˋkɑmɛnt]",
+    "pos": "",
+    "meaning": "n.vi.註釋，評註；批評，",
+    "en": "comment",
+    "zh": "n.vi.註釋，評註；批評，"
+  },
+  {
+    "word": "commerce",
+    "kk": "[ˋkɑmɝs]",
+    "pos": "",
+    "meaning": "n.商業，貿易 [U]",
+    "en": "commerce",
+    "zh": "n.商業，貿易 [U]"
+  },
+  {
+    "word": "commit",
+    "kk": "[kəˋmɪt]",
+    "pos": "",
+    "meaning": "vt.犯(罪)，做(錯事等)",
+    "en": "commit",
+    "zh": "vt.犯(罪)，做(錯事等)"
+  },
+  {
+    "word": "communication",
+    "kk": "[kə͵mjunəˋkeʃən]",
+    "pos": "",
+    "meaning": "n.溝通；傳",
+    "en": "communication",
+    "zh": "n.溝通；傳"
+  },
+  {
+    "word": "community",
+    "kk": "[kəˋmjunətɪ]",
+    "pos": "",
+    "meaning": "n.社區[C]；",
+    "en": "community",
+    "zh": "n.社區[C]；"
+  },
+  {
+    "word": "companion",
+    "kk": "[kəmˋpænjən]",
+    "pos": "",
+    "meaning": "n.同伴，伴侶",
+    "en": "companion",
+    "zh": "n.同伴，伴侶"
+  },
+  {
+    "word": "competition",
+    "kk": "[͵kɑmpəˋtɪʃən]",
+    "pos": "",
+    "meaning": "n.競爭，比賽，競",
+    "en": "competition",
+    "zh": "n.競爭，比賽，競"
+  },
+  {
+    "word": "competitive",
+    "kk": "[kəmˋpɛtətɪv]",
+    "pos": "",
+    "meaning": "a.競爭的；競爭激",
+    "en": "competitive",
+    "zh": "a.競爭的；競爭激"
+  },
+  {
+    "word": "competitor",
+    "kk": "[kəmˋpɛtətɚ]",
+    "pos": "",
+    "meaning": "n.競爭者；對手",
+    "en": "competitor",
+    "zh": "n.競爭者；對手"
+  },
+  {
+    "word": "complicate",
+    "kk": "[ˋkɑmplə͵ket]",
+    "pos": "",
+    "meaning": "vt.使複雜化",
+    "en": "complicate",
+    "zh": "vt.使複雜化"
+  },
+  {
+    "word": "compose",
+    "kk": "[kəmˋpoz]",
+    "pos": "",
+    "meaning": "vt.作(詩，曲等)；組成",
+    "en": "compose",
+    "zh": "vt.作(詩，曲等)；組成"
+  },
+  {
+    "word": "composer",
+    "kk": "[kəmˋpozɚ]",
+    "pos": "",
+    "meaning": "n.作曲者，作曲家",
+    "en": "composer",
+    "zh": "n.作曲者，作曲家"
+  },
+  {
+    "word": "composition",
+    "kk": "[͵kɑmpəˋzɪʃən]",
+    "pos": "",
+    "meaning": "n.寫作；作曲",
+    "en": "composition",
+    "zh": "n.寫作；作曲"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "concentrate",
+    "kk": "[ˋkɑnsɛn͵tret]",
+    "pos": "",
+    "meaning": "vt.集中；聚集；濃",
+    "en": "concentrate",
+    "zh": "vt.集中；聚集；濃"
+  },
+  {
+    "word": "concentration",
+    "kk": "[͵kɑnsɛnˋtreʃən]",
+    "pos": "",
+    "meaning": "n.集中；專心；",
+    "en": "concentration",
+    "zh": "n.集中；專心；"
+  },
+  {
+    "word": "concept",
+    "kk": "[ˋkɑnsɛpt]",
+    "pos": "",
+    "meaning": "n.概念，觀念",
+    "en": "concept",
+    "zh": "n.概念，觀念"
+  },
+  {
+    "word": "concerning",
+    "kk": "[kənˋsɝnɪŋ]",
+    "pos": "",
+    "meaning": "prep.關於…",
+    "en": "concerning",
+    "zh": "prep.關於…"
+  },
+  {
+    "word": "concrete",
+    "kk": "[ˋkɑnkrit]",
+    "pos": "",
+    "meaning": "a.有形的；具體的  n.混",
+    "en": "concrete",
+    "zh": "a.有形的；具體的  n.混"
+  },
+  {
+    "word": "conductor",
+    "kk": "[kənˋdʌktɚ]",
+    "pos": "",
+    "meaning": "n.管理人；指揮；車",
+    "en": "conductor",
+    "zh": "n.管理人；指揮；車"
+  },
+  {
+    "word": "conference",
+    "kk": "[ˋkɑnfərəns]",
+    "pos": "",
+    "meaning": "n.(正式)會議；",
+    "en": "conference",
+    "zh": "n.(正式)會議；"
+  },
+  {
+    "word": "confess",
+    "kk": "[kənˋfɛs]",
+    "pos": "",
+    "meaning": "vt.坦白，承認",
+    "en": "confess",
+    "zh": "vt.坦白，承認"
+  },
+  {
+    "word": "",
+    "kk": "[+v-ing]",
+    "pos": "",
+    "meaning": "[+(that)",
+    "en": "",
+    "zh": "[+(that)"
+  },
+  {
+    "word": "confidence",
+    "kk": "[ˋkɑnfədəns]",
+    "pos": "",
+    "meaning": "n.自信，信心[U]",
+    "en": "confidence",
+    "zh": "n.自信，信心[U]"
+  },
+  {
+    "word": "confine",
+    "kk": "[kənˋfaɪn]",
+    "pos": "",
+    "meaning": "vt.限制；使局限[(+to)]",
+    "en": "confine",
+    "zh": "vt.限制；使局限[(+to)]"
+  },
+  {
+    "word": "confusion",
+    "kk": "[kənˋfjuʒən]",
+    "pos": "",
+    "meaning": "n.混亂；慌亂；困惑",
+    "en": "confusion",
+    "zh": "n.混亂；慌亂；困惑"
+  },
+  {
+    "word": "congratulate",
+    "kk": "[kənˋgrætʃə͵let]",
+    "pos": "",
+    "meaning": "vt.祝賀；恭禧",
+    "en": "congratulate",
+    "zh": "vt.祝賀；恭禧"
+  },
+  {
+    "word": "congress",
+    "kk": "[ˋkɑŋgrəs]",
+    "pos": "",
+    "meaning": "n.(正式)會議；代表大",
+    "en": "congress",
+    "zh": "n.(正式)會議；代表大"
+  },
+  {
+    "word": "conjunction",
+    "kk": "[kənˋdʒʌŋkʃən]",
+    "pos": "",
+    "meaning": "n.【文】連接詞；",
+    "en": "conjunction",
+    "zh": "n.【文】連接詞；"
+  },
+  {
+    "word": "conquer",
+    "kk": "[ˋkɑŋkɚ]",
+    "pos": "",
+    "meaning": "vt.征服；攻克，攻取",
+    "en": "conquer",
+    "zh": "vt.征服；攻克，攻取"
+  },
+  {
+    "word": "conscience",
+    "kk": "[ˋkɑnʃəns]",
+    "pos": "",
+    "meaning": "n.良心；道義心",
+    "en": "conscience",
+    "zh": "n.良心；道義心"
+  },
+  {
+    "word": "consequence",
+    "kk": "[ˋkɑnsə͵kwɛns]",
+    "pos": "",
+    "meaning": "n.結果，後果",
+    "en": "consequence",
+    "zh": "n.結果，後果"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[",
+    "en": "",
+    "zh": "["
+  },
+  {
+    "word": "consequent",
+    "kk": "[ˋkɑnsə͵kwɛnt]",
+    "pos": "",
+    "meaning": "a.隨之發生的",
+    "en": "consequent",
+    "zh": "a.隨之發生的"
+  },
+  {
+    "word": "conservative",
+    "kk": "[kənˋsɝvətɪv]",
+    "pos": "",
+    "meaning": "a.保守的，守舊的",
+    "en": "conservative",
+    "zh": "a.保守的，守舊的"
+  },
+  {
+    "word": "consist",
+    "kk": "[kənˋsɪst]",
+    "pos": "",
+    "meaning": "vi.由..組成[(+of)]；在於…",
+    "en": "consist",
+    "zh": "vi.由..組成[(+of)]；在於…"
+  },
+  {
+    "word": "",
+    "kk": "[(+in)]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "consistent",
+    "kk": "[kənˋsɪstənt]",
+    "pos": "",
+    "meaning": "a.始終如一的，前後",
+    "en": "consistent",
+    "zh": "a.始終如一的，前後"
+  },
+  {
+    "word": "consonant",
+    "kk": "[ˋkɑnsənənt]",
+    "pos": "",
+    "meaning": "n.【語】子音；子音",
+    "en": "consonant",
+    "zh": "n.【語】子音；子音"
+  },
+  {
+    "word": "字母",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "字母",
+    "zh": ""
+  },
+  {
+    "word": "constitute",
+    "kk": "[ˋkɑnstə͵tjut]",
+    "pos": "",
+    "meaning": "vt.構成，組成",
+    "en": "constitute",
+    "zh": "vt.構成，組成"
+  },
+  {
+    "word": "constitution",
+    "kk": "[͵kɑnstəˋtjuʃən]",
+    "pos": "",
+    "meaning": "n.憲法；章程[C]",
+    "en": "constitution",
+    "zh": "n.憲法；章程[C]"
+  },
+  {
+    "word": "construct",
+    "kk": "[kənˋstrʌkt]",
+    "pos": "",
+    "meaning": "vt.建造，構成",
+    "en": "construct",
+    "zh": "vt.建造，構成"
+  },
+  {
+    "word": "construction",
+    "kk": "[kənˋstrʌkʃən]",
+    "pos": "",
+    "meaning": "n.建造，建設",
+    "en": "construction",
+    "zh": "n.建造，建設"
+  },
+  {
+    "word": "constructive",
+    "kk": "[kənˋstrʌktɪv]",
+    "pos": "",
+    "meaning": "a.建設性的；結構",
+    "en": "constructive",
+    "zh": "a.建設性的；結構"
+  },
+  {
+    "word": "consult",
+    "kk": "[kənˋsʌlt]",
+    "pos": "",
+    "meaning": "vt.與…商量；請教；",
+    "en": "consult",
+    "zh": "vt.與…商量；請教；"
+  },
+  {
+    "word": "consultant",
+    "kk": "[kənˋsʌltənt]",
+    "pos": "",
+    "meaning": "n.顧問",
+    "en": "consultant",
+    "zh": "n.顧問"
+  },
+  {
+    "word": "consume",
+    "kk": "[kənˋsjum]",
+    "pos": "",
+    "meaning": "vt.消耗，花費",
+    "en": "consume",
+    "zh": "vt.消耗，花費"
+  },
+  {
+    "word": "consumer",
+    "kk": "[kənˋsjumɚ]",
+    "pos": "",
+    "meaning": "n.消費者；消耗者",
+    "en": "consumer",
+    "zh": "n.消費者；消耗者"
+  },
+  {
+    "word": "container",
+    "kk": "[kənˋtenɚ]",
+    "pos": "",
+    "meaning": "n.容器(如箱、盒、罐等)",
+    "en": "container",
+    "zh": "n.容器(如箱、盒、罐等)"
+  },
+  {
+    "word": "content",
+    "kk": "[kənˋtɛnt]",
+    "pos": "",
+    "meaning": "a.滿足的，滿意的 vt.滿足",
+    "en": "content",
+    "zh": "a.滿足的，滿意的 vt.滿足"
+  },
+  {
+    "word": "content(s)",
+    "kk": "[ˋkɑntɛnt]",
+    "pos": "",
+    "meaning": "n.含量；內容",
+    "en": "content(s)",
+    "zh": "n.含量；內容"
+  },
+  {
+    "word": "contentment",
+    "kk": "[kənˋtɛntmənt]",
+    "pos": "",
+    "meaning": "a.滿足，知足；",
+    "en": "contentment",
+    "zh": "a.滿足，知足；"
+  },
+  {
+    "word": "滿意",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "滿意",
+    "zh": ""
+  },
+  {
+    "word": "contest",
+    "kk": "[ˋkɑntɛst]",
+    "pos": "",
+    "meaning": "n.爭奪，競爭，比賽",
+    "en": "contest",
+    "zh": "n.爭奪，競爭，比賽"
+  },
+  {
+    "word": "",
+    "kk": "[kənˋtɛst]",
+    "pos": "",
+    "meaning": "vt.vi.爭奪；與…競賽",
+    "en": "",
+    "zh": "vt.vi.爭奪；與…競賽"
+  },
+  {
+    "word": "context",
+    "kk": "[ˋkɑntɛkst]",
+    "pos": "",
+    "meaning": "n.【語】上下文",
+    "en": "context",
+    "zh": "n.【語】上下文"
+  },
+  {
+    "word": "continual",
+    "kk": "[kənˋtɪnjʊəl]",
+    "pos": "",
+    "meaning": "a.不間斷的，連續的",
+    "en": "continual",
+    "zh": "a.不間斷的，連續的"
+  },
+  {
+    "word": "continuous",
+    "kk": "[kənˋtɪnjʊəs]",
+    "pos": "",
+    "meaning": "a.連續的，不斷的",
+    "en": "continuous",
+    "zh": "a.連續的，不斷的"
+  },
+  {
+    "word": "contrary",
+    "kk": "[ˋkɑntrɛrɪ]",
+    "pos": "",
+    "meaning": "n.相反；相反的事物",
+    "en": "contrary",
+    "zh": "n.相反；相反的事物"
+  },
+  {
+    "word": "a.相反的，對立的",
+    "kk": "[(+to)]",
+    "pos": "",
+    "meaning": "",
+    "en": "a.相反的，對立的",
+    "zh": ""
+  },
+  {
+    "word": "contrast",
+    "kk": "[ˋkɑn͵træst]",
+    "pos": "",
+    "meaning": "n.對比，對照[U] vi.",
+    "en": "contrast",
+    "zh": "n.對比，對照[U] vi."
+  },
+  {
+    "word": "",
+    "kk": "[kənˋtræst]",
+    "pos": "",
+    "meaning": "vt.使對比，使對照",
+    "en": "",
+    "zh": "vt.使對比，使對照"
+  },
+  {
+    "word": "contribute",
+    "kk": "[kənˋtrɪbjut]",
+    "pos": "",
+    "meaning": "vt.vi.捐(款)；捐獻；",
+    "en": "contribute",
+    "zh": "vt.vi.捐(款)；捐獻；"
+  },
+  {
+    "word": "contribution",
+    "kk": "[͵kɑntrəˋbjuʃən]",
+    "pos": "",
+    "meaning": "n.貢獻；投稿",
+    "en": "contribution",
+    "zh": "n.貢獻；投稿"
+  },
+  {
+    "word": "convenience",
+    "kk": "[kənˋvinjəns]",
+    "pos": "",
+    "meaning": "n.方便[U]；便利設",
+    "en": "convenience",
+    "zh": "n.方便[U]；便利設"
+  },
+  {
+    "word": "施",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "施",
+    "zh": ""
+  },
+  {
+    "word": "convention",
+    "kk": "[kənˋvɛnʃən]",
+    "pos": "",
+    "meaning": "n.大會；全體與會者",
+    "en": "convention",
+    "zh": "n.大會；全體與會者"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "conventional",
+    "kk": "[kənˋvɛnʃən!]",
+    "pos": "",
+    "meaning": "a.會議的；慣例的",
+    "en": "conventional",
+    "zh": "a.會議的；慣例的"
+  },
+  {
+    "word": "converse",
+    "kk": "[kənˋvɝs]",
+    "pos": "",
+    "meaning": "vi.【書】交談",
+    "en": "converse",
+    "zh": "vi.【書】交談"
+  },
+  {
+    "word": "convey",
+    "kk": "[kənˋve]",
+    "pos": "",
+    "meaning": "vt.運送；傳遞[(+from/to)]",
+    "en": "convey",
+    "zh": "vt.運送；傳遞[(+from/to)]"
+  },
+  {
+    "word": "convince",
+    "kk": "[kənˋvɪns]",
+    "pos": "",
+    "meaning": "vt.使信服；說服[(+of)]",
+    "en": "convince",
+    "zh": "vt.使信服；說服[(+of)]"
+  },
+  {
+    "word": "cooperate",
+    "kk": "[koˋɑpə͵ret]",
+    "pos": "",
+    "meaning": "vt.合作，協作",
+    "en": "cooperate",
+    "zh": "vt.合作，協作"
+  },
+  {
+    "word": "",
+    "kk": "[(+with/in)]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "cooperation",
+    "kk": "[ko͵ɑpəˋreʃən]",
+    "pos": "",
+    "meaning": "n.合作，協力",
+    "en": "cooperation",
+    "zh": "n.合作，協力"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "合作社",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "合作社",
+    "zh": ""
+  },
+  {
+    "word": "cooperative",
+    "kk": "[koˋɑpə͵retɪv]",
+    "pos": "",
+    "meaning": "a.合作的；合作社",
+    "en": "cooperative",
+    "zh": "a.合作的；合作社"
+  },
+  {
+    "word": "cope",
+    "kk": "[kop]",
+    "pos": "",
+    "meaning": "vi.對付，妥善處理[(+with)]",
+    "en": "cope",
+    "zh": "vi.對付，妥善處理[(+with)]"
+  },
+  {
+    "word": "copper",
+    "kk": "[ˋkɑpɚ]",
+    "pos": "",
+    "meaning": "n.銅[U]",
+    "en": "copper",
+    "zh": "n.銅[U]"
+  },
+  {
+    "word": "cord",
+    "kk": "[kɔrd]",
+    "pos": "",
+    "meaning": "n.細繩，粗線；【解】腱，韌帶",
+    "en": "cord",
+    "zh": "n.細繩，粗線；【解】腱，韌帶"
+  },
+  {
+    "word": "cork",
+    "kk": "[kɔrk]",
+    "pos": "",
+    "meaning": "n.軟木[U]；軟木塞[C]",
+    "en": "cork",
+    "zh": "n.軟木[U]；軟木塞[C]"
+  },
+  {
+    "word": "correspond",
+    "kk": "[͵kɔrɪˋspɑnd]",
+    "pos": "",
+    "meaning": "vi.符合，一致；通",
+    "en": "correspond",
+    "zh": "vi.符合，一致；通"
+  },
+  {
+    "word": "costume",
+    "kk": "[ˋkɑstjum]",
+    "pos": "",
+    "meaning": "n.戲裝[U][C]",
+    "en": "costume",
+    "zh": "n.戲裝[U][C]"
+  },
+  {
+    "word": "cottage",
+    "kk": "[ˋkɑtɪdʒ]",
+    "pos": "",
+    "meaning": "n.農舍，小屋",
+    "en": "cottage",
+    "zh": "n.農舍，小屋"
+  },
+  {
+    "word": "council",
+    "kk": "[ˋkaʊns!]",
+    "pos": "",
+    "meaning": "n.會議；地方議會[C]",
+    "en": "council",
+    "zh": "n.會議；地方議會[C]"
+  },
+  {
+    "word": "counter1",
+    "kk": "[ˋkaʊntɚ]",
+    "pos": "",
+    "meaning": "n.計算者；櫃臺",
+    "en": "counter1",
+    "zh": "n.計算者；櫃臺"
+  },
+  {
+    "word": "counter2",
+    "kk": "[ˋkaʊntɚ]",
+    "pos": "",
+    "meaning": "a.n.相反(的)；反對(的)",
+    "en": "counter2",
+    "zh": "a.n.相反(的)；反對(的)"
+  },
+  {
+    "word": "courageous",
+    "kk": "[kəˋredʒəs]",
+    "pos": "",
+    "meaning": "a.英勇的，勇敢的",
+    "en": "courageous",
+    "zh": "a.英勇的，勇敢的"
+  },
+  {
+    "word": "courteous",
+    "kk": "[ˋkɝtjəs]",
+    "pos": "",
+    "meaning": "a.殷勤的，謙恭的",
+    "en": "courteous",
+    "zh": "a.殷勤的，謙恭的"
+  },
+  {
+    "word": "courtesy",
+    "kk": "[ˋkɝtəsɪ]",
+    "pos": "",
+    "meaning": "n.禮貌；殷勤，好意",
+    "en": "courtesy",
+    "zh": "n.禮貌；殷勤，好意"
+  },
+  {
+    "word": "crack",
+    "kk": "[kræk]",
+    "pos": "",
+    "meaning": "vi.vt.(使)爆裂，(使)破裂   n.",
+    "en": "crack",
+    "zh": "vi.vt.(使)爆裂，(使)破裂   n."
+  },
+  {
+    "word": "craft",
+    "kk": "[kræft]",
+    "pos": "",
+    "meaning": "n.工藝，手藝；船；飛機；",
+    "en": "craft",
+    "zh": "n.工藝，手藝；船；飛機；"
+  },
+  {
+    "word": "cram",
+    "kk": "[kræm]",
+    "pos": "",
+    "meaning": "vt.把…塞進[(+into)]；把…塞",
+    "en": "cram",
+    "zh": "vt.把…塞進[(+into)]；把…塞"
+  },
+  {
+    "word": "creation",
+    "kk": "[krɪˋeʃən]",
+    "pos": "",
+    "meaning": "n.創造；創作[U]；創作品",
+    "en": "creation",
+    "zh": "n.創造；創作[U]；創作品"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "creativity",
+    "kk": "[krɪeˋtɪvətɪ]",
+    "pos": "",
+    "meaning": "n.創造力",
+    "en": "creativity",
+    "zh": "n.創造力"
+  },
+  {
+    "word": "cripple",
+    "kk": "[ˋkrɪp!]",
+    "pos": "",
+    "meaning": "n.跛子；殘廢的人 vt.使…殘",
+    "en": "cripple",
+    "zh": "n.跛子；殘廢的人 vt.使…殘"
+  },
+  {
+    "word": "critic",
+    "kk": "[ˋkrɪtɪk]",
+    "pos": "",
+    "meaning": "n.批評家，評論家",
+    "en": "critic",
+    "zh": "n.批評家，評論家"
+  },
+  {
+    "word": "critical",
+    "kk": "[ˋkrɪtɪk!]",
+    "pos": "",
+    "meaning": "a.緊要的，關鍵危急的；",
+    "en": "critical",
+    "zh": "a.緊要的，關鍵危急的；"
+  },
+  {
+    "word": "criticism",
+    "kk": "[ˋkrɪtɪ͵sizəm]",
+    "pos": "",
+    "meaning": "n.批評；評論",
+    "en": "criticism",
+    "zh": "n.批評；評論"
+  },
+  {
+    "word": "criticize",
+    "kk": "[ˋkrɪtɪ͵saɪz]",
+    "pos": "",
+    "meaning": "vt.vi.批評；批判",
+    "en": "criticize",
+    "zh": "vt.vi.批評；批判"
+  },
+  {
+    "word": "cruelty",
+    "kk": "[ˋkruəltɪ]",
+    "pos": "",
+    "meaning": "n.殘酷，殘忍[U]",
+    "en": "cruelty",
+    "zh": "n.殘酷，殘忍[U]"
+  },
+  {
+    "word": "crush",
+    "kk": "[krʌʃ]",
+    "pos": "",
+    "meaning": "n.vt.vi.壓碎，壓壞；碾碎  n.迷",
+    "en": "crush",
+    "zh": "n.vt.vi.壓碎，壓壞；碾碎  n.迷"
+  },
+  {
+    "word": "cube",
+    "kk": "[kjub]",
+    "pos": "",
+    "meaning": "n.立方體；方塊；三次方",
+    "en": "cube",
+    "zh": "n.立方體；方塊；三次方"
+  },
+  {
+    "word": "cucumber",
+    "kk": "[ˋkjukəmbɚ]",
+    "pos": "",
+    "meaning": "n.黃瓜，胡瓜[C]",
+    "en": "cucumber",
+    "zh": "n.黃瓜，胡瓜[C]"
+  },
+  {
+    "word": "cue",
+    "kk": "[kju]",
+    "pos": "",
+    "meaning": "n.【戲】提示；信號  vt.給…暗示",
+    "en": "cue",
+    "zh": "n.【戲】提示；信號  vt.給…暗示"
+  },
+  {
+    "word": "cunning",
+    "kk": "[ˋkʌnɪŋ]",
+    "pos": "",
+    "meaning": "a.狡猾的，奸詐的",
+    "en": "cunning",
+    "zh": "a.狡猾的，奸詐的"
+  },
+  {
+    "word": "curiosity",
+    "kk": "[͵kjʊrɪˋɑsətɪ]",
+    "pos": "",
+    "meaning": "n.好奇心[U]",
+    "en": "curiosity",
+    "zh": "n.好奇心[U]"
+  },
+  {
+    "word": "curl",
+    "kk": "[kɝl]",
+    "pos": "",
+    "meaning": "n.卷毛，卷髮[C] vt.vi.捲曲",
+    "en": "curl",
+    "zh": "n.卷毛，卷髮[C] vt.vi.捲曲"
+  },
+  {
+    "word": "curse",
+    "kk": "[kɝs]",
+    "pos": "",
+    "meaning": "n.vt.vi.詛咒，咒罵",
+    "en": "curse",
+    "zh": "n.vt.vi.詛咒，咒罵"
+  },
+  {
+    "word": "curve",
+    "kk": "[kɝv]",
+    "pos": "",
+    "meaning": "n.曲線，弧線；【棒】曲球 vi.",
+    "en": "curve",
+    "zh": "n.曲線，弧線；【棒】曲球 vi."
+  },
+  {
+    "word": "cushion",
+    "kk": "[ˋkʊʃən]",
+    "pos": "",
+    "meaning": "n.坐墊；靠墊；避震器",
+    "en": "cushion",
+    "zh": "n.坐墊；靠墊；避震器"
+  },
+  {
+    "word": "damn",
+    "kk": "[dæm]",
+    "pos": "",
+    "meaning": "vt.罵…該死，咒罵 int.該死",
+    "en": "damn",
+    "zh": "vt.罵…該死，咒罵 int.該死"
+  },
+  {
+    "word": "damp",
+    "kk": "[dæmp]",
+    "pos": "",
+    "meaning": "a.有濕氣的；潮濕的",
+    "en": "damp",
+    "zh": "a.有濕氣的；潮濕的"
+  },
+  {
+    "word": "deadline",
+    "kk": "[ˋdɛd͵laɪn]",
+    "pos": "",
+    "meaning": "n.截止期限，最後限期",
+    "en": "deadline",
+    "zh": "n.截止期限，最後限期"
+  },
+  {
+    "word": "declare",
+    "kk": "[dɪˋklɛr]",
+    "pos": "",
+    "meaning": "vt.宣布，宣告；聲明",
+    "en": "declare",
+    "zh": "vt.宣布，宣告；聲明"
+  },
+  {
+    "word": "",
+    "kk": "[+(that)]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "decoration",
+    "kk": "[͵dɛkəˋreʃən]",
+    "pos": "",
+    "meaning": "n.裝飾[U]；裝飾品",
+    "en": "decoration",
+    "zh": "n.裝飾[U]；裝飾品"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "decrease",
+    "kk": "[ˋdikris]",
+    "pos": "",
+    "meaning": "n.減；減少，減小",
+    "en": "decrease",
+    "zh": "n.減；減少，減小"
+  },
+  {
+    "word": "",
+    "kk": "[dɪˋkris]",
+    "pos": "",
+    "meaning": "vt.vi.減；減少，減小",
+    "en": "",
+    "zh": "vt.vi.減；減少，減小"
+  },
+  {
+    "word": "defeat",
+    "kk": "[dɪˋfit]",
+    "pos": "",
+    "meaning": "vt.n.戰勝，擊敗；失敗，挫敗",
+    "en": "defeat",
+    "zh": "vt.n.戰勝，擊敗；失敗，挫敗"
+  },
+  {
+    "word": "defend",
+    "kk": "[dɪˋfɛnd]",
+    "pos": "",
+    "meaning": "vt.防禦;保衛；為…辯護；",
+    "en": "defend",
+    "zh": "vt.防禦;保衛；為…辯護；"
+  },
+  {
+    "word": "defense",
+    "kk": "[dɪˋfɛns]",
+    "pos": "",
+    "meaning": "n.防禦，保衛；辯護；【體】",
+    "en": "defense",
+    "zh": "n.防禦，保衛；辯護；【體】"
+  },
+  {
+    "word": "defensible",
+    "kk": "[dɪˋfɛnsəb!]",
+    "pos": "",
+    "meaning": "a.可防禦的；可辯護",
+    "en": "defensible",
+    "zh": "a.可防禦的；可辯護"
+  },
+  {
+    "word": "defensive",
+    "kk": "[dɪˋfɛnsɪv]",
+    "pos": "",
+    "meaning": "a.防禦的；保護的；保",
+    "en": "defensive",
+    "zh": "a.防禦的；保護的；保"
+  },
+  {
+    "word": "definite",
+    "kk": "[ˋdɛfənɪt]",
+    "pos": "",
+    "meaning": "a.明確的，確切的",
+    "en": "definite",
+    "zh": "a.明確的，確切的"
+  },
+  {
+    "word": "delicate",
+    "kk": "[ˋdɛləkət]",
+    "pos": "",
+    "meaning": "a.易碎的；嬌貴的；精美",
+    "en": "delicate",
+    "zh": "a.易碎的；嬌貴的；精美"
+  },
+  {
+    "word": "delight",
+    "kk": "[dɪˋlaɪt]",
+    "pos": "",
+    "meaning": "n.欣喜 [U]；樂事 [C]  vt.",
+    "en": "delight",
+    "zh": "n.欣喜 [U]；樂事 [C]  vt."
+  },
+  {
+    "word": "delightful",
+    "kk": "[dɪˋlaɪtfəl]",
+    "pos": "",
+    "meaning": "a.令人愉快的，令人高",
+    "en": "delightful",
+    "zh": "a.令人愉快的，令人高"
+  },
+  {
+    "word": "demand",
+    "kk": "[dɪˋmænd]",
+    "pos": "",
+    "meaning": "n.vt.要求，請求",
+    "en": "demand",
+    "zh": "n.vt.要求，請求"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[(+for)]",
+    "en": "",
+    "zh": "[(+for)]"
+  },
+  {
+    "word": "demonstrate",
+    "kk": "[ˋdɛmən͵stret]",
+    "pos": "",
+    "meaning": "vt.(用實驗、實例",
+    "en": "demonstrate",
+    "zh": "vt.(用實驗、實例"
+  },
+  {
+    "word": "demonstration",
+    "kk": "[͵dɛmənˋstreʃən]",
+    "pos": "",
+    "meaning": "n.(用實驗，",
+    "en": "demonstration",
+    "zh": "n.(用實驗，"
+  },
+  {
+    "word": "dense",
+    "kk": "[dɛns]",
+    "pos": "",
+    "meaning": "a.密集的，稠密的",
+    "en": "dense",
+    "zh": "a.密集的，稠密的"
+  },
+  {
+    "word": "depart",
+    "kk": "[dɪˋpɑrt]",
+    "pos": "",
+    "meaning": "vi.【書】起程，出發；離開，",
+    "en": "depart",
+    "zh": "vi.【書】起程，出發；離開，"
+  },
+  {
+    "word": "departure",
+    "kk": "[dɪˋpɑrtʃɚ]",
+    "pos": "",
+    "meaning": "n.離開；出發，起程",
+    "en": "departure",
+    "zh": "n.離開；出發，起程"
+  },
+  {
+    "word": "dependable",
+    "kk": "[dɪˋpɛndəb!]",
+    "pos": "",
+    "meaning": "a.可靠的；可信任的",
+    "en": "dependable",
+    "zh": "a.可靠的；可信任的"
+  },
+  {
+    "word": "dependent",
+    "kk": "[dɪˋpɛndənt]",
+    "pos": "",
+    "meaning": "a.依靠(賴)的；取決",
+    "en": "dependent",
+    "zh": "a.依靠(賴)的；取決"
+  },
+  {
+    "word": "depress",
+    "kk": "[dɪˋprɛs]",
+    "pos": "",
+    "meaning": "vt.使…沮喪，使…消沉；",
+    "en": "depress",
+    "zh": "vt.使…沮喪，使…消沉；"
+  },
+  {
+    "word": "depression",
+    "kk": "[dɪˋprɛʃən]",
+    "pos": "",
+    "meaning": "n.沮喪，消沉；不景氣，",
+    "en": "depression",
+    "zh": "n.沮喪，消沉；不景氣，"
+  },
+  {
+    "word": "deserve",
+    "kk": "[dɪˋzɝv]",
+    "pos": "",
+    "meaning": "vt.應受，該得 [+to-v]",
+    "en": "deserve",
+    "zh": "vt.應受，該得 [+to-v]"
+  },
+  {
+    "word": "desperate",
+    "kk": "[ˋdɛspərɪt]",
+    "pos": "",
+    "meaning": "a.情急拼命的；極度渴",
+    "en": "desperate",
+    "zh": "a.情急拼命的；極度渴"
+  },
+  {
+    "word": "despite",
+    "kk": "[dɪˋspaɪt]",
+    "pos": "",
+    "meaning": "n.惡意；怨恨",
+    "en": "despite",
+    "zh": "n.惡意；怨恨"
+  },
+  {
+    "word": "destruction",
+    "kk": "[dɪˋstrʌkʃən]",
+    "pos": "",
+    "meaning": "n.破壞；毀滅",
+    "en": "destruction",
+    "zh": "n.破壞；毀滅"
+  },
+  {
+    "word": "detective",
+    "kk": "[dɪˋtɛktɪv]",
+    "pos": "",
+    "meaning": "n.偵探；私家偵探  a.偵",
+    "en": "detective",
+    "zh": "n.偵探；私家偵探  a.偵"
+  },
+  {
+    "word": "determination",
+    "kk": "[dɪ͵tɝməˋneʃən]",
+    "pos": "",
+    "meaning": "n.堅定；果斷；",
+    "en": "determination",
+    "zh": "n.堅定；果斷；"
+  },
+  {
+    "word": "device",
+    "kk": "[dɪˋvaɪs]",
+    "pos": "",
+    "meaning": "n.設備，儀器，裝置",
+    "en": "device",
+    "zh": "n.設備，儀器，裝置"
+  },
+  {
+    "word": "devise",
+    "kk": "[dɪˋvaɪz]",
+    "pos": "",
+    "meaning": "vt.設計；發明；策劃",
+    "en": "devise",
+    "zh": "vt.設計；發明；策劃"
+  },
+  {
+    "word": "devote",
+    "kk": "[dɪˋvot]",
+    "pos": "",
+    "meaning": "vt.將…奉獻(給)[(+to)]",
+    "en": "devote",
+    "zh": "vt.將…奉獻(給)[(+to)]"
+  },
+  {
+    "word": "diaper",
+    "kk": "[ˋdaɪəpɚ]",
+    "pos": "",
+    "meaning": "n.【美】尿布[C]",
+    "en": "diaper",
+    "zh": "n.【美】尿布[C]"
+  },
+  {
+    "word": "differ",
+    "kk": "[ˋdɪfɚ]",
+    "pos": "",
+    "meaning": "vi.不同，相異[(+from)]",
+    "en": "differ",
+    "zh": "vi.不同，相異[(+from)]"
+  },
+  {
+    "word": "digest1",
+    "kk": "[daɪˋdʒɛst]",
+    "pos": "",
+    "meaning": "vt.消化(食物)；領悟，融",
+    "en": "digest1",
+    "zh": "vt.消化(食物)；領悟，融"
+  },
+  {
+    "word": "digest2",
+    "kk": "[ˋdaɪdʒɛst]",
+    "pos": "",
+    "meaning": "n.摘要；文摘[C]",
+    "en": "digest2",
+    "zh": "n.摘要；文摘[C]"
+  },
+  {
+    "word": "digestion",
+    "kk": "[dəˋdʒɛstʃən]",
+    "pos": "",
+    "meaning": "n.消化；(知識等的)",
+    "en": "digestion",
+    "zh": "n.消化；(知識等的)"
+  },
+  {
+    "word": "領悟",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "領悟",
+    "zh": ""
+  },
+  {
+    "word": "digital",
+    "kk": "[ˋdɪdʒɪt!]",
+    "pos": "",
+    "meaning": "a.數位的；數字的",
+    "en": "digital",
+    "zh": "a.數位的；數字的"
+  },
+  {
+    "word": "dignity",
+    "kk": "[ˋdɪgnətɪ]",
+    "pos": "",
+    "meaning": "n.尊嚴；莊嚴[U]",
+    "en": "dignity",
+    "zh": "n.尊嚴；莊嚴[U]"
+  },
+  {
+    "word": "diligence",
+    "kk": "[ˋdɪlədʒəns]",
+    "pos": "",
+    "meaning": "n.勤勉，勤奮",
+    "en": "diligence",
+    "zh": "n.勤勉，勤奮"
+  },
+  {
+    "word": "diploma",
+    "kk": "[dɪˋplomə]",
+    "pos": "",
+    "meaning": "n.畢業文憑，學位證書",
+    "en": "diploma",
+    "zh": "n.畢業文憑，學位證書"
+  },
+  {
+    "word": "diplomat",
+    "kk": "[ˋdɪpləmæt]",
+    "pos": "",
+    "meaning": "n.外交官",
+    "en": "diplomat",
+    "zh": "n.外交官"
+  },
+  {
+    "word": "disadvantage",
+    "kk": "[͵dɪsədˋvæntɪdʒ]",
+    "pos": "",
+    "meaning": "n.不利；損害",
+    "en": "disadvantage",
+    "zh": "n.不利；損害"
+  },
+  {
+    "word": "disaster",
+    "kk": "[dɪˋzæstɚ]",
+    "pos": "",
+    "meaning": "n.災害，災難，不幸[C][U]",
+    "en": "disaster",
+    "zh": "n.災害，災難，不幸[C][U]"
+  },
+  {
+    "word": "discipline",
+    "kk": "[ˋdɪsəplɪn]",
+    "pos": "",
+    "meaning": "n.紀律，風紀；教養[U]",
+    "en": "discipline",
+    "zh": "n.紀律，風紀；教養[U]"
+  },
+  {
+    "word": "disconnect",
+    "kk": "[͵dɪskəˋnɛkt]",
+    "pos": "",
+    "meaning": "vt.使分離，分開",
+    "en": "disconnect",
+    "zh": "vt.使分離，分開"
+  },
+  {
+    "word": "discourage",
+    "kk": "[dɪsˋkɝɪdʒ]",
+    "pos": "",
+    "meaning": "vt.使洩氣；勸阻",
+    "en": "discourage",
+    "zh": "vt.使洩氣；勸阻"
+  },
+  {
+    "word": "discouragement",
+    "kk": "[dɪsˋkɝɪdʒmənt]",
+    "pos": "",
+    "meaning": "n.沮喪，氣",
+    "en": "discouragement",
+    "zh": "n.沮喪，氣"
+  },
+  {
+    "word": "餒",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "餒",
+    "zh": "；"
+  },
+  {
+    "word": "事物",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "事物",
+    "zh": ""
+  },
+  {
+    "word": "disguise",
+    "kk": "[dɪsˋgaɪz]",
+    "pos": "",
+    "meaning": "n.vt.假扮，偽裝",
+    "en": "disguise",
+    "zh": "n.vt.假扮，偽裝"
+  },
+  {
+    "word": "disgust",
+    "kk": "[dɪsˋgʌst]",
+    "pos": "",
+    "meaning": "n.作嘔；厭惡  vt.使作嘔",
+    "en": "disgust",
+    "zh": "n.作嘔；厭惡  vt.使作嘔"
+  },
+  {
+    "word": "dismiss",
+    "kk": "[dɪsˋmɪs]",
+    "pos": "",
+    "meaning": "vt.讓…離開；解散；不考",
+    "en": "dismiss",
+    "zh": "vt.讓…離開；解散；不考"
+  },
+  {
+    "word": "disorder",
+    "kk": "[dɪsˋɔrdɚ]",
+    "pos": "",
+    "meaning": "n.混亂，無秩序[U]",
+    "en": "disorder",
+    "zh": "n.混亂，無秩序[U]"
+  },
+  {
+    "word": "dispute",
+    "kk": "[dɪˋspjut]",
+    "pos": "",
+    "meaning": "n.vt.vi.爭論；爭執",
+    "en": "dispute",
+    "zh": "n.vt.vi.爭論；爭執"
+  },
+  {
+    "word": "distinct",
+    "kk": "[dɪˋstɪŋkt]",
+    "pos": "a.",
+    "meaning": "與其他不同的，有區別",
+    "en": "distinct",
+    "zh": "與其他不同的，有區別"
+  },
+  {
+    "word": "distinguish",
+    "kk": "[dɪˋstɪŋgwɪʃ]",
+    "pos": "",
+    "meaning": "vt.vi.區別；識別",
+    "en": "distinguish",
+    "zh": "vt.vi.區別；識別"
+  },
+  {
+    "word": "distinguished",
+    "kk": "[dɪˋstɪŋgwɪʃt]",
+    "pos": "",
+    "meaning": "a.卓越的；著名的",
+    "en": "distinguished",
+    "zh": "a.卓越的；著名的"
+  },
+  {
+    "word": "distribute",
+    "kk": "[dɪˋstrɪbjʊt]",
+    "pos": "",
+    "meaning": "vt.分發；分配",
+    "en": "distribute",
+    "zh": "vt.分發；分配"
+  },
+  {
+    "word": "distribution",
+    "kk": "[͵dɪstrəˋbjuʃən]",
+    "pos": "",
+    "meaning": "n.分發；配給物",
+    "en": "distribution",
+    "zh": "n.分發；配給物"
+  },
+  {
+    "word": "district",
+    "kk": "[ˋdɪstrɪkt]",
+    "pos": "",
+    "meaning": "n.區，行政區；地區，區域",
+    "en": "district",
+    "zh": "n.區，行政區；地區，區域"
+  },
+  {
+    "word": "disturb",
+    "kk": "[dɪsˋtɝb]",
+    "pos": "",
+    "meaning": "vt.vi.妨礙，打擾",
+    "en": "disturb",
+    "zh": "vt.vi.妨礙，打擾"
+  },
+  {
+    "word": "divine",
+    "kk": "[dəˋvaɪn]",
+    "pos": "",
+    "meaning": "a.神的，神性的",
+    "en": "divine",
+    "zh": "a.神的，神性的"
+  },
+  {
+    "word": "divorce",
+    "kk": "[dəˋvors]",
+    "pos": "",
+    "meaning": "n.vt.vi.離婚",
+    "en": "divorce",
+    "zh": "n.vt.vi.離婚"
+  },
+  {
+    "word": "dominant",
+    "kk": "[ˋdɑmənənt]",
+    "pos": "",
+    "meaning": "a.佔優勢的，支配的",
+    "en": "dominant",
+    "zh": "a.佔優勢的，支配的"
+  },
+  {
+    "word": "dominate",
+    "kk": "[ˋdɑmə͵net]",
+    "pos": "",
+    "meaning": "vt.vi.支配，統治，控",
+    "en": "dominate",
+    "zh": "vt.vi.支配，統治，控"
+  },
+  {
+    "word": "dormitory",
+    "kk": "[ˋdɔrmə͵torɪ]",
+    "pos": "",
+    "meaning": "n.學生宿舍(dorm)",
+    "en": "dormitory",
+    "zh": "n.學生宿舍(dorm)"
+  },
+  {
+    "word": "download",
+    "kk": "[ˋdaʊn͵lod]",
+    "pos": "",
+    "meaning": "vt.下載",
+    "en": "download",
+    "zh": "vt.下載"
+  },
+  {
+    "word": "doze",
+    "kk": "[doz]",
+    "pos": "",
+    "meaning": "vi.n.打瞌睡，打盹",
+    "en": "doze",
+    "zh": "vi.n.打瞌睡，打盹"
+  },
+  {
+    "word": "draft",
+    "kk": "[dræft]",
+    "pos": "",
+    "meaning": "n.草稿[C]；【美】徵兵[U]",
+    "en": "draft",
+    "zh": "n.草稿[C]；【美】徵兵[U]"
+  },
+  {
+    "word": "dread",
+    "kk": "[drɛd]",
+    "pos": "",
+    "meaning": "vt.vi.懼怕；擔心",
+    "en": "dread",
+    "zh": "vt.vi.懼怕；擔心"
+  },
+  {
+    "word": "",
+    "kk": "[+to-v]",
+    "pos": "",
+    "meaning": "[+v-ing][+(that)]",
+    "en": "",
+    "zh": "[+v-ing][+(that)]"
+  },
+  {
+    "word": "drift",
+    "kk": "[drɪft]",
+    "pos": "",
+    "meaning": "vi.vt.n.漂，漂流",
+    "en": "drift",
+    "zh": "vi.vt.n.漂，漂流"
+  },
+  {
+    "word": "drill",
+    "kk": "[drɪl]",
+    "pos": "",
+    "meaning": "vt.vi.鑽(孔)；在…上鑽孔；操練；",
+    "en": "drill",
+    "zh": "vt.vi.鑽(孔)；在…上鑽孔；操練；"
+  },
+  {
+    "word": "n.鑽，鑽頭；鑽床",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "；操練；訓",
+    "en": "n.鑽，鑽頭；鑽床",
+    "zh": "；操練；訓"
+  },
+  {
+    "word": "練",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[U]",
+    "en": "練",
+    "zh": "[U]"
+  },
+  {
+    "word": "durable",
+    "kk": "[ˋdjʊrəb!]",
+    "pos": "",
+    "meaning": "a.經久的，耐用的",
+    "en": "durable",
+    "zh": "a.經久的，耐用的"
+  },
+  {
+    "word": "dusty",
+    "kk": "[ˋdʌstɪ]",
+    "pos": "",
+    "meaning": "a.滿是灰塵的，灰塵覆蓋的",
+    "en": "dusty",
+    "zh": "a.滿是灰塵的，灰塵覆蓋的"
+  },
+  {
+    "word": "dye",
+    "kk": "[daɪ]",
+    "pos": "",
+    "meaning": "n.染料，染色[C][U]  vt.vi.染(色)",
+    "en": "dye",
+    "zh": "n.染料，染色[C][U]  vt.vi.染(色)"
+  },
+  {
+    "word": "dynamic",
+    "kk": "[daɪˋnæmɪk]",
+    "pos": "",
+    "meaning": "a.力學的；有活力的",
+    "en": "dynamic",
+    "zh": "a.力學的；有活力的"
+  },
+  {
+    "word": "dynasty",
+    "kk": "[ˋdaɪnəstɪ]",
+    "pos": "",
+    "meaning": "n.王朝；朝代[C]",
+    "en": "dynasty",
+    "zh": "n.王朝；朝代[C]"
+  },
+  {
+    "word": "earnest",
+    "kk": "[ˋɝnɪst]",
+    "pos": "",
+    "meaning": "a.認真的；誠摯的  n.認真，",
+    "en": "earnest",
+    "zh": "a.認真的；誠摯的  n.認真，"
+  },
+  {
+    "word": "誠摯",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "誠摯",
+    "zh": ""
+  },
+  {
+    "word": "earphone",
+    "kk": "[ˋɪr͵fon]",
+    "pos": "",
+    "meaning": "n.耳機；聽筒",
+    "en": "earphone",
+    "zh": "n.耳機；聽筒"
+  },
+  {
+    "word": "economic",
+    "kk": "[͵ikəˋnɑmɪk]",
+    "pos": "",
+    "meaning": "a.經濟上的；合算的",
+    "en": "economic",
+    "zh": "a.經濟上的；合算的"
+  },
+  {
+    "word": "economical",
+    "kk": "[͵ikəˋnɑmɪk!]",
+    "pos": "",
+    "meaning": "a.經濟的，節約的",
+    "en": "economical",
+    "zh": "a.經濟的，節約的"
+  },
+  {
+    "word": "economics",
+    "kk": "[͵ikəˋnɑmɪks]",
+    "pos": "",
+    "meaning": "n.經濟學",
+    "en": "economics",
+    "zh": "n.經濟學"
+  },
+  {
+    "word": "economist",
+    "kk": "[iˋkɑnəmɪst]",
+    "pos": "",
+    "meaning": "n.經濟學者；節儉的",
+    "en": "economist",
+    "zh": "n.經濟學者；節儉的"
+  },
+  {
+    "word": "economy",
+    "kk": "[ɪˋkɑnəmɪ]",
+    "pos": "n.",
+    "meaning": "經濟(情況)；節約；",
+    "en": "economy",
+    "zh": "經濟(情況)；節約；"
+  },
+  {
+    "word": "efficiency",
+    "kk": "[ɪˋfɪʃənsɪ]",
+    "pos": "",
+    "meaning": "n.效率；效能",
+    "en": "efficiency",
+    "zh": "n.效率；效能"
+  },
+  {
+    "word": "elastic",
+    "kk": "[ɪˋlæstɪk]",
+    "pos": "",
+    "meaning": "a.有彈性的，有彈力的",
+    "en": "elastic",
+    "zh": "a.有彈性的，有彈力的"
+  },
+  {
+    "word": "electrician",
+    "kk": "[͵ilɛkˋtrɪʃən]",
+    "pos": "",
+    "meaning": "n.電工",
+    "en": "electrician",
+    "zh": "n.電工"
+  },
+  {
+    "word": "electronics",
+    "kk": "[ɪlɛkˋtrɑnɪks]",
+    "pos": "",
+    "meaning": "n.電子學",
+    "en": "electronics",
+    "zh": "n.電子學"
+  },
+  {
+    "word": "elegant",
+    "kk": "[ˋɛləgənt]",
+    "pos": "",
+    "meaning": "a.雅緻的，優美的",
+    "en": "elegant",
+    "zh": "a.雅緻的，優美的"
+  },
+  {
+    "word": "elementary",
+    "kk": "[͵ɛləˋmɛntərɪ]",
+    "pos": "",
+    "meaning": "a.基本的；初級的，",
+    "en": "elementary",
+    "zh": "a.基本的；初級的，"
+  },
+  {
+    "word": "eliminate",
+    "kk": "[ɪˋlɪmə͵net]",
+    "pos": "",
+    "meaning": "vt.排除]；(比賽中)淘汰",
+    "en": "eliminate",
+    "zh": "vt.排除]；(比賽中)淘汰"
+  },
+  {
+    "word": "elsewhere",
+    "kk": "[ˋɛls͵hwɛr]",
+    "pos": "",
+    "meaning": "adv.在別處；往別處",
+    "en": "elsewhere",
+    "zh": "adv.在別處；往別處"
+  },
+  {
+    "word": "e-mail/email",
+    "kk": "[ˋiˋmel]",
+    "pos": "",
+    "meaning": "n.【電腦】電子郵件",
+    "en": "e-mail/email",
+    "zh": "n.【電腦】電子郵件"
+  },
+  {
+    "word": "embarrass",
+    "kk": "[ɪmˋbærəs]",
+    "pos": "",
+    "meaning": "vt.使窘；使不好意思",
+    "en": "embarrass",
+    "zh": "vt.使窘；使不好意思"
+  },
+  {
+    "word": "embarrassment",
+    "kk": "[ɪmˋbærəsmənt]",
+    "pos": "",
+    "meaning": "n.窘；難堪",
+    "en": "embarrassment",
+    "zh": "n.窘；難堪"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "物)",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "物)",
+    "zh": ""
+  },
+  {
+    "word": "embassy",
+    "kk": "[ˋɛmbəsɪ]",
+    "pos": "",
+    "meaning": "n.(常大寫)大使館[C]",
+    "en": "embassy",
+    "zh": "n.(常大寫)大使館[C]"
+  },
+  {
+    "word": "emerge",
+    "kk": "[ɪˋmɝdʒ]",
+    "pos": "",
+    "meaning": "vi.浮現；出現[(+from/out",
+    "en": "emerge",
+    "zh": "vi.浮現；出現[(+from/out"
+  },
+  {
+    "word": "emotional",
+    "kk": "[ɪˋmoʃən!]",
+    "pos": "",
+    "meaning": "a.感情(上)的；易動情",
+    "en": "emotional",
+    "zh": "a.感情(上)的；易動情"
+  },
+  {
+    "word": "emphasis",
+    "kk": "[ˋɛmfəsɪs]",
+    "pos": "",
+    "meaning": "n.強調，重視，重點",
+    "en": "emphasis",
+    "zh": "n.強調，重視，重點"
+  },
+  {
+    "word": "empire",
+    "kk": "[ˋɛmpaɪr]",
+    "pos": "",
+    "meaning": "n.帝國[C]；大企業[C]",
+    "en": "empire",
+    "zh": "n.帝國[C]；大企業[C]"
+  },
+  {
+    "word": "enclose",
+    "kk": "[ɪnˋkloz]",
+    "pos": "",
+    "meaning": "vt.圍住；圈起",
+    "en": "enclose",
+    "zh": "vt.圍住；圈起"
+  },
+  {
+    "word": "encounter",
+    "kk": "[ɪnˋkaʊntɚ]",
+    "pos": "",
+    "meaning": "n.vt.遭遇(敵人)；遇到",
+    "en": "encounter",
+    "zh": "n.vt.遭遇(敵人)；遇到"
+  },
+  {
+    "word": "endanger",
+    "kk": "[ɪnˋdendʒɚ]",
+    "pos": "",
+    "meaning": "vt.危及；使遭到危險",
+    "en": "endanger",
+    "zh": "vt.危及；使遭到危險"
+  },
+  {
+    "word": "endure",
+    "kk": "[ɪnˋdjʊr]",
+    "pos": "",
+    "meaning": "vt.忍耐，忍受；容忍",
+    "en": "endure",
+    "zh": "vt.忍耐，忍受；容忍"
+  },
+  {
+    "word": "enforce",
+    "kk": "[ɪnˋfors]",
+    "pos": "",
+    "meaning": "vt.實施，執行",
+    "en": "enforce",
+    "zh": "vt.實施，執行"
+  },
+  {
+    "word": "enforcement",
+    "kk": "[ɪnˋforsmənt]",
+    "pos": "",
+    "meaning": "n.實施，執行；強",
+    "en": "enforcement",
+    "zh": "n.實施，執行；強"
+  },
+  {
+    "word": "engineering",
+    "kk": "[͵ɛndʒəˋnɪrɪŋ]",
+    "pos": "",
+    "meaning": "n.工程；工程學[U]",
+    "en": "engineering",
+    "zh": "n.工程；工程學[U]"
+  },
+  {
+    "word": "enlarge",
+    "kk": "[ɪnˋlɑrdʒ]",
+    "pos": "",
+    "meaning": "vt.放大；擴大；擴展",
+    "en": "enlarge",
+    "zh": "vt.放大；擴大；擴展"
+  },
+  {
+    "word": "enlargement",
+    "kk": "[ɪnˋlɑrdʒmənt]",
+    "pos": "",
+    "meaning": "n.放大；擴大；",
+    "en": "enlargement",
+    "zh": "n.放大；擴大；"
+  },
+  {
+    "word": "enormous",
+    "kk": "[ɪˋnɔrməs]",
+    "pos": "",
+    "meaning": "a.巨大的，龐大的",
+    "en": "enormous",
+    "zh": "a.巨大的，龐大的"
+  },
+  {
+    "word": "entertain",
+    "kk": "[͵ɛntɚˋten]",
+    "pos": "",
+    "meaning": "vt.娛樂；招待，款待",
+    "en": "entertain",
+    "zh": "vt.娛樂；招待，款待"
+  },
+  {
+    "word": "entertainment",
+    "kk": "[͵ɛntɚˋtenmənt]",
+    "pos": "",
+    "meaning": "n.娛樂；餘興；",
+    "en": "entertainment",
+    "zh": "n.娛樂；餘興；"
+  },
+  {
+    "word": "enthusiasm",
+    "kk": "[ɪnˋθjuzɪ͵æzəm]",
+    "pos": "",
+    "meaning": "n.熱情，熱忱",
+    "en": "enthusiasm",
+    "zh": "n.熱情，熱忱"
+  },
+  {
+    "word": "envious",
+    "kk": "[ˋɛnvɪəs]",
+    "pos": "",
+    "meaning": "a.嫉妒的；羨慕的[(+of)]",
+    "en": "envious",
+    "zh": "a.嫉妒的；羨慕的[(+of)]"
+  },
+  {
+    "word": "equality",
+    "kk": "[iˋkwɑlətɪ]",
+    "pos": "",
+    "meaning": "n.相等；平等；【數】等",
+    "en": "equality",
+    "zh": "n.相等；平等；【數】等"
+  },
+  {
+    "word": "equip",
+    "kk": "[ɪˋkwɪp]",
+    "pos": "",
+    "meaning": "vt.裝備，配備[(+for/with)]",
+    "en": "equip",
+    "zh": "vt.裝備，配備[(+for/with)]"
+  },
+  {
+    "word": "equipment",
+    "kk": "[ɪˋkwɪpmənt]",
+    "pos": "",
+    "meaning": "n.配備，裝備；設備；",
+    "en": "equipment",
+    "zh": "n.配備，裝備；設備；"
+  },
+  {
+    "word": "era",
+    "kk": "[ˋɪrə]",
+    "pos": "",
+    "meaning": "n.時代；年代",
+    "en": "era",
+    "zh": "n.時代；年代"
+  },
+  {
+    "word": "errand",
+    "kk": "[ˋɛrənd]",
+    "pos": "",
+    "meaning": "n.差事，差使",
+    "en": "errand",
+    "zh": "n.差事，差使"
+  },
+  {
+    "word": "escalator",
+    "kk": "[ˋɛskə͵letɚ]",
+    "pos": "",
+    "meaning": "n.電扶梯",
+    "en": "escalator",
+    "zh": "n.電扶梯"
+  },
+  {
+    "word": "essay",
+    "kk": "[ˋɛse]",
+    "pos": "",
+    "meaning": "n.論說文；散文",
+    "en": "essay",
+    "zh": "n.論說文；散文"
+  },
+  {
+    "word": "essential",
+    "kk": "[ɪˋsɛnʃəl]",
+    "pos": "",
+    "meaning": "a.必要的，不可缺的",
+    "en": "essential",
+    "zh": "a.必要的，不可缺的"
+  },
+  {
+    "word": "",
+    "kk": "[(+to/for)]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "establish",
+    "kk": "[əˋstæblɪʃ]",
+    "pos": "",
+    "meaning": "vt.建立，設立；確定，",
+    "en": "establish",
+    "zh": "vt.建立，設立；確定，"
+  },
+  {
+    "word": "establishment",
+    "kk": "[ɪsˋtæblɪʃmənt]",
+    "pos": "",
+    "meaning": "n.建立，設立",
+    "en": "establishment",
+    "zh": "n.建立，設立"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "",
+    "zh": "；"
+  },
+  {
+    "word": "建立的機構，公司",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "建立的機構，公司",
+    "zh": ""
+  },
+  {
+    "word": "estimate",
+    "kk": "[ˋɛstə͵met]",
+    "pos": "",
+    "meaning": "vt.vi.n.估計，估量",
+    "en": "estimate",
+    "zh": "vt.vi.n.估計，估量"
+  },
+  {
+    "word": "evaluate",
+    "kk": "[ɪˋvæljʊ͵et]",
+    "pos": "",
+    "meaning": "vt.估…的價；對…評價",
+    "en": "evaluate",
+    "zh": "vt.估…的價；對…評價"
+  },
+  {
+    "word": "evaluation",
+    "kk": "[ɪ͵væljʊˋeʃən]",
+    "pos": "",
+    "meaning": "n.估價，評價；估",
+    "en": "evaluation",
+    "zh": "n.估價，評價；估"
+  },
+  {
+    "word": "eve",
+    "kk": "[iv]",
+    "pos": "",
+    "meaning": "n.(通常大寫)(節日等的)前夜，前夕",
+    "en": "eve",
+    "zh": "n.(通常大寫)(節日等的)前夜，前夕"
+  },
+  {
+    "word": "eventual",
+    "kk": "[ɪˋvɛntʃʊəl]",
+    "pos": "",
+    "meaning": "a.最終發生的；最後的",
+    "en": "eventual",
+    "zh": "a.最終發生的；最後的"
+  },
+  {
+    "word": "evidence",
+    "kk": "[ˋɛvədəns]",
+    "pos": "",
+    "meaning": "n.證據；證詞；證人；",
+    "en": "evidence",
+    "zh": "n.證據；證詞；證人；"
+  },
+  {
+    "word": "evident",
+    "kk": "[ˋɛvədənt]",
+    "pos": "",
+    "meaning": "a.明顯的；明白的",
+    "en": "evident",
+    "zh": "a.明顯的；明白的"
+  },
+  {
+    "word": "exaggerate",
+    "kk": "[ɪgˋzædʒə͵ret]",
+    "pos": "",
+    "meaning": "vt.vi.誇張，誇大",
+    "en": "exaggerate",
+    "zh": "vt.vi.誇張，誇大"
+  },
+  {
+    "word": "examinee",
+    "kk": "[ɪg͵zæməˋni]",
+    "pos": "",
+    "meaning": "n.應試者；受檢查者",
+    "en": "examinee",
+    "zh": "n.應試者；受檢查者"
+  },
+  {
+    "word": "examiner",
+    "kk": "[ɪgˋzæmɪnɚ]",
+    "pos": "",
+    "meaning": "n.主考人；檢查人；",
+    "en": "examiner",
+    "zh": "n.主考人；檢查人；"
+  },
+  {
+    "word": "exception",
+    "kk": "[ɪkˋsɛpʃən]",
+    "pos": "",
+    "meaning": "n.例外[C]；除外，除去",
+    "en": "exception",
+    "zh": "n.例外[C]；除外，除去"
+  },
+  {
+    "word": "exhaust",
+    "kk": "[ɪgˋzɔst]",
+    "pos": "",
+    "meaning": "vt.用完，耗盡；使精疲力盡",
+    "en": "exhaust",
+    "zh": "vt.用完，耗盡；使精疲力盡"
+  },
+  {
+    "word": "n.排出；排氣(水)；排出的氣",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "n.排出；排氣(水)；排出的氣",
+    "zh": ""
+  },
+  {
+    "word": "exhibit",
+    "kk": "[ɪgˋzɪbɪt]",
+    "pos": "",
+    "meaning": "n.vt.展示，陳列；(在法庭)",
+    "en": "exhibit",
+    "zh": "n.vt.展示，陳列；(在法庭)"
+  },
+  {
+    "word": "expand",
+    "kk": "[ɪkˋspænd]",
+    "pos": "",
+    "meaning": "vt.vi.展開，張開(帆，翅)；",
+    "en": "expand",
+    "zh": "vt.vi.展開，張開(帆，翅)；"
+  },
+  {
+    "word": "expansion",
+    "kk": "[ɪkˋspænʃən]",
+    "pos": "",
+    "meaning": "n.擴展；擴張；膨脹",
+    "en": "expansion",
+    "zh": "n.擴展；擴張；膨脹"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "explanation",
+    "kk": "[͵ɛkspləˋneʃən]",
+    "pos": "",
+    "meaning": "n.說明，解釋",
+    "en": "explanation",
+    "zh": "n.說明，解釋"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "[C]",
+    "en": "",
+    "zh": "[C]"
+  },
+  {
+    "word": "explore",
+    "kk": "[ɪkˋsplor]",
+    "pos": "",
+    "meaning": "vt.vi.探測；探勘；探索",
+    "en": "explore",
+    "zh": "vt.vi.探測；探勘；探索"
+  },
+  {
+    "word": "explosion",
+    "kk": "[ɪkˋsploʒən]",
+    "pos": "",
+    "meaning": "n.爆發；爆炸；擴張，",
+    "en": "explosion",
+    "zh": "n.爆發；爆炸；擴張，"
+  },
+  {
+    "word": "explosive",
+    "kk": "[ɪkˋsplosɪv]",
+    "pos": "",
+    "meaning": "a.爆炸(性)的 n.爆炸",
+    "en": "explosive",
+    "zh": "a.爆炸(性)的 n.爆炸"
+  },
+  {
+    "word": "expose",
+    "kk": "[ɪkˋspoz]",
+    "pos": "",
+    "meaning": "vt.使暴露於；使接觸到；揭",
+    "en": "expose",
+    "zh": "vt.使暴露於；使接觸到；揭"
+  },
+  {
+    "word": "exposure",
+    "kk": "[ɪkˋspoʒɚ]",
+    "pos": "",
+    "meaning": "n.暴露；暴曬[U]；揭發",
+    "en": "exposure",
+    "zh": "n.暴露；暴曬[U]；揭發"
+  },
+  {
+    "word": "extend",
+    "kk": "[ɪkˋstɛnd]",
+    "pos": "",
+    "meaning": "vt.vi.延長，延伸；擴大，",
+    "en": "extend",
+    "zh": "vt.vi.延長，延伸；擴大，"
+  },
+  {
+    "word": "extent",
+    "kk": "[ɪkˋstɛnt]",
+    "pos": "",
+    "meaning": "n.廣度，寬度；程度；限度；",
+    "en": "extent",
+    "zh": "n.廣度，寬度；程度；限度；"
+  },
+  {
+    "word": "facial",
+    "kk": "[ˋfeʃəl]",
+    "pos": "",
+    "meaning": "a.臉的；面部的  n.臉部按摩",
+    "en": "facial",
+    "zh": "a.臉的；面部的  n.臉部按摩"
+  },
+  {
+    "word": "facility",
+    "kk": "[fəˋsɪlətɪ]",
+    "pos": "",
+    "meaning": "n.能力，技能[U]；設備，",
+    "en": "facility",
+    "zh": "n.能力，技能[U]；設備，"
+  },
+  {
+    "word": "設施",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "設施",
+    "zh": ""
+  },
+  {
+    "word": "faithful",
+    "kk": "[ˋfeθfəl]",
+    "pos": "",
+    "meaning": "a.忠實的；忠誠的",
+    "en": "faithful",
+    "zh": "a.忠實的；忠誠的"
+  },
+  {
+    "word": "fame",
+    "kk": "[fem]",
+    "pos": "",
+    "meaning": "n.聲譽，名望 [U]",
+    "en": "fame",
+    "zh": "n.聲譽，名望 [U]"
+  },
+  {
+    "word": "fantastic",
+    "kk": "[fænˋtæstɪk]",
+    "pos": "",
+    "meaning": "a.【口】極好的，了不",
+    "en": "fantastic",
+    "zh": "a.【口】極好的，了不"
+  },
+  {
+    "word": "fantasy",
+    "kk": "[ˋfæntəsɪ]",
+    "pos": "",
+    "meaning": "n.空想；幻想；夢想；空",
+    "en": "fantasy",
+    "zh": "n.空想；幻想；夢想；空"
+  },
+  {
+    "word": "farewell",
+    "kk": "[ˋfɛrˋwɛl]",
+    "pos": "",
+    "meaning": "int.再會！別了!  n.告別",
+    "en": "farewell",
+    "zh": "int.再會！別了!  n.告別"
+  },
+  {
+    "word": "fatal",
+    "kk": "[ˋfet!]",
+    "pos": "",
+    "meaning": "a.命運的；致命的，生死攸關的",
+    "en": "fatal",
+    "zh": "a.命運的；致命的，生死攸關的"
+  },
+  {
+    "word": "favorable",
+    "kk": "[ˋfevərəb!]",
+    "pos": "",
+    "meaning": "a.贊同的；有利的，適",
+    "en": "favorable",
+    "zh": "a.贊同的；有利的，適"
+  },
+  {
+    "word": "feast",
+    "kk": "[fist]",
+    "pos": "",
+    "meaning": "n.盛宴，筵席",
+    "en": "feast",
+    "zh": "n.盛宴，筵席"
+  },
+  {
+    "word": "ferry",
+    "kk": "[ˋfɛrɪ]",
+    "pos": "",
+    "meaning": "n.渡輪",
+    "en": "ferry",
+    "zh": "n.渡輪"
+  },
+  {
+    "word": "fertile",
+    "kk": "[ˋfɝt!]",
+    "pos": "",
+    "meaning": "a.(動植物)多產的；(土地)肥沃",
+    "en": "fertile",
+    "zh": "a.(動植物)多產的；(土地)肥沃"
+  },
+  {
+    "word": "fetch",
+    "kk": "[fɛtʃ]",
+    "pos": "",
+    "meaning": "vt.去拿…；(去)拿來",
+    "en": "fetch",
+    "zh": "vt.去拿…；(去)拿來"
+  },
+  {
+    "word": "fiction",
+    "kk": "[ˋfɪkʃən]",
+    "pos": "",
+    "meaning": "n.(總稱)小說[U]；虛構，想",
+    "en": "fiction",
+    "zh": "n.(總稱)小說[U]；虛構，想"
+  },
+  {
+    "word": "像",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "像",
+    "zh": ""
+  },
+  {
+    "word": "fierce",
+    "kk": "[fɪrs]",
+    "pos": "a.",
+    "meaning": "兇猛的；殘酷的；猛烈的，激",
+    "en": "fierce",
+    "zh": "兇猛的；殘酷的；猛烈的，激"
+  },
+  {
+    "word": "finance",
+    "kk": "[faɪˋnæns]",
+    "pos": "",
+    "meaning": "n.財政；金融；財政學[U]",
+    "en": "finance",
+    "zh": "n.財政；金融；財政學[U]"
+  },
+  {
+    "word": "financial",
+    "kk": "[faɪˋnænʃəl]",
+    "pos": "",
+    "meaning": "a.財政的；金融的；金",
+    "en": "financial",
+    "zh": "a.財政的；金融的；金"
+  },
+  {
+    "word": "firecracker",
+    "kk": "[ˋfaɪr͵krækɚ]",
+    "pos": "",
+    "meaning": "n.爆竹，鞭炮[C]",
+    "en": "firecracker",
+    "zh": "n.爆竹，鞭炮[C]"
+  },
+  {
+    "word": "fireplace",
+    "kk": "[ˋfaɪr͵ples]",
+    "pos": "",
+    "meaning": "n.壁爐[C]",
+    "en": "fireplace",
+    "zh": "n.壁爐[C]"
+  },
+  {
+    "word": "flatter",
+    "kk": "[ˋflætɚ]",
+    "pos": "",
+    "meaning": "vt.諂媚；奉承",
+    "en": "flatter",
+    "zh": "vt.諂媚；奉承"
+  },
+  {
+    "word": "flee",
+    "kk": "[fli]",
+    "pos": "",
+    "meaning": "vi.vt.逃，逃走",
+    "en": "flee",
+    "zh": "vi.vt.逃，逃走"
+  },
+  {
+    "word": "flexible",
+    "kk": "[ˋflɛksəb!]",
+    "pos": "",
+    "meaning": "a.可彎曲的；有彈性的；",
+    "en": "flexible",
+    "zh": "a.可彎曲的；有彈性的；"
+  },
+  {
+    "word": "fluent",
+    "kk": "[ˋfluənt]",
+    "pos": "",
+    "meaning": "a.流利的，流暢的",
+    "en": "fluent",
+    "zh": "a.流利的，流暢的"
+  },
+  {
+    "word": "flunk",
+    "kk": "[flʌŋk]",
+    "pos": "",
+    "meaning": "vt.vi.使(某人)不及格；通不過",
+    "en": "flunk",
+    "zh": "vt.vi.使(某人)不及格；通不過"
+  },
+  {
+    "word": "flush",
+    "kk": "[flʌʃ]",
+    "pos": "",
+    "meaning": "vi.湧；湧流；(臉)發紅",
+    "en": "flush",
+    "zh": "vi.湧；湧流；(臉)發紅"
+  },
+  {
+    "word": "foam",
+    "kk": "[fom]",
+    "pos": "",
+    "meaning": "n.泡沫；滅火泡沫[U]  vi.起泡",
+    "en": "foam",
+    "zh": "n.泡沫；滅火泡沫[U]  vi.起泡"
+  },
+  {
+    "word": "forbid",
+    "kk": "[fɚˋbɪd]",
+    "pos": "",
+    "meaning": "vt.禁止，不許[+v-ing]",
+    "en": "forbid",
+    "zh": "vt.禁止，不許[+v-ing]"
+  },
+  {
+    "word": "forecast",
+    "kk": "[ˋfor͵kæst]",
+    "pos": "",
+    "meaning": "n.vt.vi.預測，預報",
+    "en": "forecast",
+    "zh": "n.vt.vi.預測，預報"
+  },
+  {
+    "word": "formation",
+    "kk": "[fɔrˋmeʃən]",
+    "pos": "",
+    "meaning": "n.形成，構成；構成物；",
+    "en": "formation",
+    "zh": "n.形成，構成；構成物；"
+  },
+  {
+    "word": "formula",
+    "kk": "[ˋfɔrmjələ]",
+    "pos": "",
+    "meaning": "n.慣用語句；慣例；配方，",
+    "en": "formula",
+    "zh": "n.慣用語句；慣例；配方，"
+  },
+  {
+    "word": "fort",
+    "kk": "[fort]",
+    "pos": "",
+    "meaning": "n.堡壘，要塞",
+    "en": "fort",
+    "zh": "n.堡壘，要塞"
+  },
+  {
+    "word": "fortunate",
+    "kk": "[ˋfɔrtʃənɪt]",
+    "pos": "",
+    "meaning": "a.幸運的，僥倖的",
+    "en": "fortunate",
+    "zh": "a.幸運的，僥倖的"
+  },
+  {
+    "word": "fossil",
+    "kk": "[ˋfɑs!]",
+    "pos": "",
+    "meaning": "n.化石；頑固不化的人",
+    "en": "fossil",
+    "zh": "n.化石；頑固不化的人"
+  },
+  {
+    "word": "foundation",
+    "kk": "[faʊnˋdeʃən]",
+    "pos": "",
+    "meaning": "n.建立，創辦；基礎；",
+    "en": "foundation",
+    "zh": "n.建立，創辦；基礎；"
+  },
+  {
+    "word": "founder",
+    "kk": "[ˋfaʊndɚ]",
+    "pos": "",
+    "meaning": "n.創立者；奠基者",
+    "en": "founder",
+    "zh": "n.創立者；奠基者"
+  },
+  {
+    "word": "fragrance",
+    "kk": "[ˋfregrəns]",
+    "pos": "",
+    "meaning": "n.芬芳；香味；香氣",
+    "en": "fragrance",
+    "zh": "n.芬芳；香味；香氣"
+  },
+  {
+    "word": "fragrant",
+    "kk": "[ˋfregrənt]",
+    "pos": "",
+    "meaning": "a.香的，芳香的",
+    "en": "fragrant",
+    "zh": "a.香的，芳香的"
+  },
+  {
+    "word": "frame",
+    "kk": "[frem]",
+    "pos": "",
+    "meaning": "n.架構，骨架；結構；框架，",
+    "en": "frame",
+    "zh": "n.架構，骨架；結構；框架，"
+  },
+  {
+    "word": "freeway",
+    "kk": "[ˋfrɪ͵we]",
+    "pos": "",
+    "meaning": "n.【美】高速公路",
+    "en": "freeway",
+    "zh": "n.【美】高速公路"
+  },
+  {
+    "word": "frequency",
+    "kk": "[ˋfrikwənsɪ]",
+    "pos": "",
+    "meaning": "n.頻率，次數",
+    "en": "frequency",
+    "zh": "n.頻率，次數"
+  },
+  {
+    "word": "freshman",
+    "kk": "[ˋfrɛʃmən]",
+    "pos": "",
+    "meaning": "n.(大學等的)一年級生；",
+    "en": "freshman",
+    "zh": "n.(大學等的)一年級生；"
+  },
+  {
+    "word": "frost",
+    "kk": "[frɑst]",
+    "pos": "",
+    "meaning": "n.霜  vt.vi.結霜",
+    "en": "frost",
+    "zh": "n.霜  vt.vi.結霜"
+  },
+  {
+    "word": "frown",
+    "kk": "[fraʊn]",
+    "pos": "",
+    "meaning": "vi.vt.n.皺眉；表示不滿",
+    "en": "frown",
+    "zh": "vi.vt.n.皺眉；表示不滿"
+  },
+  {
+    "word": "frustration",
+    "kk": "[͵frʌsˋtreʃən]",
+    "pos": "",
+    "meaning": "n.挫折，失敗",
+    "en": "frustration",
+    "zh": "n.挫折，失敗"
+  },
+  {
+    "word": "fuel",
+    "kk": "[ˋfjʊəl]",
+    "pos": "",
+    "meaning": "n.燃料  vt.vi.對…供給燃料；激",
+    "en": "fuel",
+    "zh": "n.燃料  vt.vi.對…供給燃料；激"
+  },
+  {
+    "word": "fulfill",
+    "kk": "[fʊlˋfɪl]",
+    "pos": "",
+    "meaning": "vt.執行(命令等)；履行(諾言",
+    "en": "fulfill",
+    "zh": "vt.執行(命令等)；履行(諾言"
+  },
+  {
+    "word": "fulfillment",
+    "kk": "[fʊlˋfɪlmənt]",
+    "pos": "",
+    "meaning": "n.完成，履行；實現",
+    "en": "fulfillment",
+    "zh": "n.完成，履行；實現"
+  },
+  {
+    "word": "functional",
+    "kk": "[ˋfʌŋkʃən!]",
+    "pos": "",
+    "meaning": "a.機能的",
+    "en": "functional",
+    "zh": "a.機能的"
+  },
+  {
+    "word": "fundamental",
+    "kk": "[͵fʌndəˋmɛnt!]",
+    "pos": "",
+    "meaning": "a.基礎的；根本",
+    "en": "fundamental",
+    "zh": "a.基礎的；根本"
+  },
+  {
+    "word": "funeral",
+    "kk": "[ˋfjunərəl]",
+    "pos": "",
+    "meaning": "n.葬禮；葬儀",
+    "en": "funeral",
+    "zh": "n.葬禮；葬儀"
+  },
+  {
+    "word": "furious",
+    "kk": "[ˋfjʊərɪəs]",
+    "pos": "a.",
+    "meaning": "狂怒的；狂暴的，猛烈",
+    "en": "furious",
+    "zh": "狂怒的；狂暴的，猛烈"
+  },
+  {
+    "word": "furnish",
+    "kk": "[ˋfɝnɪʃ]",
+    "pos": "",
+    "meaning": "vt.給(房間)配置(傢俱等)；裝",
+    "en": "furnish",
+    "zh": "vt.給(房間)配置(傢俱等)；裝"
+  },
+  {
+    "word": "furthermore",
+    "kk": "[ˋfɝðɚˋmor]",
+    "pos": "",
+    "meaning": "adv.而且，此外",
+    "en": "furthermore",
+    "zh": "adv.而且，此外"
+  },
+  {
+    "word": "gallery",
+    "kk": "[ˋgælərɪ]",
+    "pos": "",
+    "meaning": "n.畫廊，美術館",
+    "en": "gallery",
+    "zh": "n.畫廊，美術館"
+  },
+  {
+    "word": "gangster",
+    "kk": "[ˋgæŋstɚ]",
+    "pos": "",
+    "meaning": "n.(結成團伙的)歹徒，匪",
+    "en": "gangster",
+    "zh": "n.(結成團伙的)歹徒，匪"
+  },
+  {
+    "word": "gaze",
+    "kk": "[gez]",
+    "pos": "",
+    "meaning": "vi.n.凝視，注視，盯",
+    "en": "gaze",
+    "zh": "vi.n.凝視，注視，盯"
+  },
+  {
+    "word": "gear",
+    "kk": "[gɪr]",
+    "pos": "",
+    "meaning": "n.齒輪；傳動裝置；(汽車)排檔；",
+    "en": "gear",
+    "zh": "n.齒輪；傳動裝置；(汽車)排檔；"
+  },
+  {
+    "word": "gene",
+    "kk": "[dʒin]",
+    "pos": "",
+    "meaning": "n.【生】基因，遺傳因子",
+    "en": "gene",
+    "zh": "n.【生】基因，遺傳因子"
+  },
+  {
+    "word": "generation",
+    "kk": "[͵dʒɛnəˋreʃən]",
+    "pos": "",
+    "meaning": "n.世代，一代；產",
+    "en": "generation",
+    "zh": "n.世代，一代；產"
+  },
+  {
+    "word": "generosity",
+    "kk": "[͵dʒɛnəˋrɑsətɪ]",
+    "pos": "",
+    "meaning": "n.寬宏大量；慷慨",
+    "en": "generosity",
+    "zh": "n.寬宏大量；慷慨"
+  },
+  {
+    "word": "genius",
+    "kk": "[ˋdʒinjəs]",
+    "pos": "",
+    "meaning": "n.天資，天賦 [U]；天才，",
+    "en": "genius",
+    "zh": "n.天資，天賦 [U]；天才，"
+  },
+  {
+    "word": "英才",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "英才",
+    "zh": ""
+  },
+  {
+    "word": "genuine",
+    "kk": "[ˋdʒɛnjʊɪn]",
+    "pos": "",
+    "meaning": "a.真的，非偽造的；真誠",
+    "en": "genuine",
+    "zh": "a.真的，非偽造的；真誠"
+  },
+  {
+    "word": "germ",
+    "kk": "[dʒɝm]",
+    "pos": "",
+    "meaning": "n.細菌；微生物",
+    "en": "germ",
+    "zh": "n.細菌；微生物"
+  },
+  {
+    "word": "gifted",
+    "kk": "[ˋgɪftɪd]",
+    "pos": "",
+    "meaning": "a.有天資的，有天賦的",
+    "en": "gifted",
+    "zh": "a.有天資的，有天賦的"
+  },
+  {
+    "word": "gigantic",
+    "kk": "[dʒaɪˋgæntɪk]",
+    "pos": "a.",
+    "meaning": "巨大的；巨人的",
+    "en": "gigantic",
+    "zh": "巨大的；巨人的"
+  },
+  {
+    "word": "giggle",
+    "kk": "[ˋgɪg!]",
+    "pos": "n.vi",
+    "meaning": "咯咯地笑；傻笑[(+at)]",
+    "en": "giggle",
+    "zh": "咯咯地笑；傻笑[(+at)]"
+  },
+  {
+    "word": "ginger",
+    "kk": "[ˋdʒɪndʒɚ]",
+    "pos": "",
+    "meaning": "n.薑；【口】精力，活力",
+    "en": "ginger",
+    "zh": "n.薑；【口】精力，活力"
+  },
+  {
+    "word": "glide",
+    "kk": "[glaɪd]",
+    "pos": "",
+    "meaning": "n.vt.vi.滑動，滑行",
+    "en": "glide",
+    "zh": "n.vt.vi.滑動，滑行"
+  },
+  {
+    "word": "glimpse",
+    "kk": "[glɪmps]",
+    "pos": "",
+    "meaning": "n.vi.vt.瞥見；一瞥",
+    "en": "glimpse",
+    "zh": "n.vi.vt.瞥見；一瞥"
+  },
+  {
+    "word": "globe",
+    "kk": "[glob]",
+    "pos": "",
+    "meaning": "n.球；球狀物；地球儀",
+    "en": "globe",
+    "zh": "n.球；球狀物；地球儀"
+  },
+  {
+    "word": "glorious",
+    "kk": "[ˋglorɪəs]",
+    "pos": "",
+    "meaning": "a.光榮的，榮耀的",
+    "en": "glorious",
+    "zh": "a.光榮的，榮耀的"
+  },
+  {
+    "word": "goods",
+    "kk": "[gʊdz]",
+    "pos": "",
+    "meaning": "n.商品；貨物",
+    "en": "goods",
+    "zh": "n.商品；貨物"
+  },
+  {
+    "word": "grace",
+    "kk": "[gres]",
+    "pos": "",
+    "meaning": "n.優美；優雅；(票據到期後的)",
+    "en": "grace",
+    "zh": "n.優美；優雅；(票據到期後的)"
+  },
+  {
+    "word": "寬限",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；",
+    "en": "寬限",
+    "zh": "；"
+  },
+  {
+    "word": "【宗】(飯前或飯後的)感恩祈禱",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；(神的)",
+    "en": "【宗】(飯前或飯後的)感恩祈禱",
+    "zh": "；(神的)"
+  },
+  {
+    "word": "graceful",
+    "kk": "[ˋgresfəl]",
+    "pos": "",
+    "meaning": "a.優美的，雅緻的",
+    "en": "graceful",
+    "zh": "a.優美的，雅緻的"
+  },
+  {
+    "word": "gracious",
+    "kk": "[ˋgreʃəs]",
+    "pos": "",
+    "meaning": "a.親切的；和藹的；慈祥",
+    "en": "gracious",
+    "zh": "a.親切的；和藹的；慈祥"
+  },
+  {
+    "word": "graduation",
+    "kk": "[͵grædʒʊˋeʃən]",
+    "pos": "",
+    "meaning": "n.畢業[U]；畢業典",
+    "en": "graduation",
+    "zh": "n.畢業[U]；畢業典"
+  },
+  {
+    "word": "禮",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "禮",
+    "zh": ""
+  },
+  {
+    "word": "grammar",
+    "kk": "[ˋgræmɚ]",
+    "pos": "",
+    "meaning": "n.文法[U]",
+    "en": "grammar",
+    "zh": "n.文法[U]"
+  },
+  {
+    "word": "grammatical",
+    "kk": "[grəˋmætɪk!]",
+    "pos": "",
+    "meaning": "a.文法的；文法正",
+    "en": "grammatical",
+    "zh": "a.文法的；文法正"
+  },
+  {
+    "word": "grapefruit",
+    "kk": "[ˋgrep͵frut]",
+    "pos": "",
+    "meaning": "n.葡萄柚",
+    "en": "grapefruit",
+    "zh": "n.葡萄柚"
+  },
+  {
+    "word": "grateful",
+    "kk": "[ˋgretfəl]",
+    "pos": "",
+    "meaning": "a.感謝的，感激的",
+    "en": "grateful",
+    "zh": "a.感謝的，感激的"
+  },
+  {
+    "word": "gratitude",
+    "kk": "[ˋgrætə͵tjud]",
+    "pos": "",
+    "meaning": "n.感恩，感謝",
+    "en": "gratitude",
+    "zh": "n.感恩，感謝"
+  },
+  {
+    "word": "grave1",
+    "kk": "[grev]",
+    "pos": "",
+    "meaning": "n.墓穴；埋葬處",
+    "en": "grave1",
+    "zh": "n.墓穴；埋葬處"
+  },
+  {
+    "word": "grave2",
+    "kk": "[grev]",
+    "pos": "",
+    "meaning": "a.重大的；嚴重的；嚴肅的，",
+    "en": "grave2",
+    "zh": "a.重大的；嚴重的；嚴肅的，"
+  },
+  {
+    "word": "greasy",
+    "kk": "[ˋgrizɪ]",
+    "pos": "",
+    "meaning": "a.油汙的，油膩的；油滑的",
+    "en": "greasy",
+    "zh": "a.油汙的，油膩的；油滑的"
+  },
+  {
+    "word": "greeting(s)",
+    "kk": "[ˋgritɪŋ]",
+    "pos": "",
+    "meaning": "n.問候，招呼；(生日等",
+    "en": "greeting(s)",
+    "zh": "n.問候，招呼；(生日等"
+  },
+  {
+    "word": "grief",
+    "kk": "[grif]",
+    "pos": "",
+    "meaning": "n.悲痛，悲傷",
+    "en": "grief",
+    "zh": "n.悲痛，悲傷"
+  },
+  {
+    "word": "grieve",
+    "kk": "[griv]",
+    "pos": "",
+    "meaning": "vt.vi.(使)悲傷；(使)苦惱",
+    "en": "grieve",
+    "zh": "vt.vi.(使)悲傷；(使)苦惱"
+  },
+  {
+    "word": "grind",
+    "kk": "[graɪnd]",
+    "pos": "",
+    "meaning": "vt.vi.磨(碎)；碾(碎)",
+    "en": "grind",
+    "zh": "vt.vi.磨(碎)；碾(碎)"
+  },
+  {
+    "word": "guarantee",
+    "kk": "[gærənˋti]",
+    "pos": "",
+    "meaning": "n.保證；商品保證；保",
+    "en": "guarantee",
+    "zh": "n.保證；商品保證；保"
+  },
+  {
+    "word": "guilt",
+    "kk": "[gɪlt]",
+    "pos": "",
+    "meaning": "n.有罪；犯罪；過失；內疚",
+    "en": "guilt",
+    "zh": "n.有罪；犯罪；過失；內疚"
+  },
+  {
+    "word": "guilty",
+    "kk": "[ˋgɪltɪ]",
+    "pos": "",
+    "meaning": "a.有罪的，犯…罪的[(+of)]",
+    "en": "guilty",
+    "zh": "a.有罪的，犯…罪的[(+of)]"
+  },
+  {
+    "word": "gulf",
+    "kk": "[gʌlf]",
+    "pos": "",
+    "meaning": "n.海灣",
+    "en": "gulf",
+    "zh": "n.海灣"
+  },
+  {
+    "word": "habitual",
+    "kk": "[həˋbɪtʃʊəl]",
+    "pos": "",
+    "meaning": "a.習慣的，習以為常的",
+    "en": "habitual",
+    "zh": "a.習慣的，習以為常的"
+  },
+  {
+    "word": "halt",
+    "kk": "[hɔlt]",
+    "pos": "",
+    "meaning": "n.vt.vi.暫停，停止；終止",
+    "en": "halt",
+    "zh": "n.vt.vi.暫停，停止；終止"
+  },
+  {
+    "word": "handwriting",
+    "kk": "[ˋhænd͵raɪtɪŋ]",
+    "pos": "",
+    "meaning": "n.筆跡；書寫；手",
+    "en": "handwriting",
+    "zh": "n.筆跡；書寫；手"
+  },
+  {
+    "word": "harden",
+    "kk": "[ˋhɑrdn]",
+    "pos": "",
+    "meaning": "vt.vi.(使)變硬；(使)變堅固",
+    "en": "harden",
+    "zh": "vt.vi.(使)變硬；(使)變堅固"
+  },
+  {
+    "word": "hardship",
+    "kk": "[ˋhɑrdʃɪp]",
+    "pos": "",
+    "meaning": "n.艱難，困苦",
+    "en": "hardship",
+    "zh": "n.艱難，困苦"
+  },
+  {
+    "word": "hardware",
+    "kk": "[ˋhɑrd͵wɛr]",
+    "pos": "",
+    "meaning": "n.金屬器件，五金器",
+    "en": "hardware",
+    "zh": "n.金屬器件，五金器"
+  },
+  {
+    "word": "harmonica",
+    "kk": "[hɑrˋmɑnɪkə]",
+    "pos": "",
+    "meaning": "n.口琴",
+    "en": "harmonica",
+    "zh": "n.口琴"
+  },
+  {
+    "word": "harmony",
+    "kk": "[ˋhɑrmənɪ]",
+    "pos": "",
+    "meaning": "n.和睦；和諧；和聲",
+    "en": "harmony",
+    "zh": "n.和睦；和諧；和聲"
+  },
+  {
+    "word": "harsh",
+    "kk": "[hɑrʃ]",
+    "pos": "",
+    "meaning": "a.粗糙的；刺耳的；澀口的；刺",
+    "en": "harsh",
+    "zh": "a.粗糙的；刺耳的；澀口的；刺"
+  },
+  {
+    "word": "haste",
+    "kk": "[hest]",
+    "pos": "",
+    "meaning": "n.急忙，迅速",
+    "en": "haste",
+    "zh": "n.急忙，迅速"
+  },
+  {
+    "word": "hasten",
+    "kk": "[ˋhesn]",
+    "pos": "",
+    "meaning": "vt.vi.催促；加速",
+    "en": "hasten",
+    "zh": "vt.vi.催促；加速"
+  },
+  {
+    "word": "hatred",
+    "kk": "[ˋhetrɪd]",
+    "pos": "",
+    "meaning": "n.憎恨，增惡；敵意",
+    "en": "hatred",
+    "zh": "n.憎恨，增惡；敵意"
+  },
+  {
+    "word": "headphone(s)",
+    "kk": "[ˋhɛd͵fon]",
+    "pos": "",
+    "meaning": "n.頭戴式耳機",
+    "en": "headphone(s)",
+    "zh": "n.頭戴式耳機"
+  },
+  {
+    "word": "healthful",
+    "kk": "[ˋhɛlθfəl]",
+    "pos": "",
+    "meaning": "a.有益於健康的",
+    "en": "healthful",
+    "zh": "a.有益於健康的"
+  },
+  {
+    "word": "helicopter",
+    "kk": "[ˋhɛlɪkɑptɚ]",
+    "pos": "",
+    "meaning": "n.直升機",
+    "en": "helicopter",
+    "zh": "n.直升機"
+  },
+  {
+    "word": "herd",
+    "kk": "[hɝd]",
+    "pos": "",
+    "meaning": "n.畜群；牧群",
+    "en": "herd",
+    "zh": "n.畜群；牧群"
+  },
+  {
+    "word": "hesitation",
+    "kk": "[͵hɛzəˋteʃən]",
+    "pos": "",
+    "meaning": "n.躊躇，猶豫",
+    "en": "hesitation",
+    "zh": "n.躊躇，猶豫"
+  },
+  {
+    "word": "highly",
+    "kk": "[ˋhaɪlɪ]",
+    "pos": "",
+    "meaning": "adv.非常，很，高度地",
+    "en": "highly",
+    "zh": "adv.非常，很，高度地"
+  },
+  {
+    "word": "homeland",
+    "kk": "[ˋhom͵lænd]",
+    "pos": "",
+    "meaning": "n.祖國；故國；家鄉",
+    "en": "homeland",
+    "zh": "n.祖國；故國；家鄉"
+  },
+  {
+    "word": "honeymoon",
+    "kk": "[ˋhʌnɪ͵mun]",
+    "pos": "",
+    "meaning": "n.蜜月(假期、旅行)",
+    "en": "honeymoon",
+    "zh": "n.蜜月(假期、旅行)"
+  },
+  {
+    "word": "honorable",
+    "kk": "[ˋɑnərəb!]",
+    "pos": "",
+    "meaning": "a.可尊敬的；高尚的；",
+    "en": "honorable",
+    "zh": "a.可尊敬的；高尚的；"
+  },
+  {
+    "word": "hook",
+    "kk": "[hʊk]",
+    "pos": "",
+    "meaning": "n.鉤，掛鉤，魚鉤；鉤拳；鉤射",
+    "en": "hook",
+    "zh": "n.鉤，掛鉤，魚鉤；鉤拳；鉤射"
+  },
+  {
+    "word": "hopeful",
+    "kk": "[ˋhopfəl]",
+    "pos": "",
+    "meaning": "a.有希望的；有前途的",
+    "en": "hopeful",
+    "zh": "a.有希望的；有前途的"
+  },
+  {
+    "word": "horizon",
+    "kk": "[həˋraɪzn]",
+    "pos": "",
+    "meaning": "n.地平線；眼界；",
+    "en": "horizon",
+    "zh": "n.地平線；眼界；"
+  },
+  {
+    "word": "horrify",
+    "kk": "[ˋhɔrə͵faɪ]",
+    "pos": "",
+    "meaning": "vt.使恐懼，使驚懼",
+    "en": "horrify",
+    "zh": "vt.使恐懼，使驚懼"
+  },
+  {
+    "word": "hose",
+    "kk": "[hoz]",
+    "pos": "",
+    "meaning": "n.軟管；(軟)水管",
+    "en": "hose",
+    "zh": "n.軟管；(軟)水管"
+  },
+  {
+    "word": "host",
+    "kk": "[host]",
+    "pos": "",
+    "meaning": "n.主人；旅館老板；(廣播，電視",
+    "en": "host",
+    "zh": "n.主人；旅館老板；(廣播，電視"
+  },
+  {
+    "word": "hostel",
+    "kk": "[ˋhɑst!]",
+    "pos": "",
+    "meaning": "n.(青年)旅舍",
+    "en": "hostel",
+    "zh": "n.(青年)旅舍"
+  },
+  {
+    "word": "household",
+    "kk": "[ˋhaʊs͵hold]",
+    "pos": "",
+    "meaning": "n.一家人；家眷；家",
+    "en": "household",
+    "zh": "n.一家人；家眷；家"
+  },
+  {
+    "word": "housewife",
+    "kk": "[ˋhaʊs͵waɪf]",
+    "pos": "",
+    "meaning": "n.家庭主婦",
+    "en": "housewife",
+    "zh": "n.家庭主婦"
+  },
+  {
+    "word": "housework",
+    "kk": "[ˋhaʊs͵wɝk]",
+    "pos": "",
+    "meaning": "n.家事[U]",
+    "en": "housework",
+    "zh": "n.家事[U]"
+  },
+  {
+    "word": "humanity",
+    "kk": "[hjuˋmænətɪ]",
+    "pos": "",
+    "meaning": "n.人性；人道；(總稱)",
+    "en": "humanity",
+    "zh": "n.人性；人道；(總稱)"
+  },
+  {
+    "word": "humidity",
+    "kk": "[hjuˋmɪdətɪ]",
+    "pos": "",
+    "meaning": "n.濕氣，濕度[U]",
+    "en": "humidity",
+    "zh": "n.濕氣，濕度[U]"
+  },
+  {
+    "word": "hurricane",
+    "kk": "[ˋhɝɪ͵ken]",
+    "pos": "",
+    "meaning": "n.颶風，暴風雨",
+    "en": "hurricane",
+    "zh": "n.颶風，暴風雨"
+  },
+  {
+    "word": "hydrogen",
+    "kk": "[ˋhaɪdrədʒən]",
+    "pos": "",
+    "meaning": "n.【化】氫[U]",
+    "en": "hydrogen",
+    "zh": "n.【化】氫[U]"
+  },
+  {
+    "word": "iceberg",
+    "kk": "[ˋaɪs͵bɝg]",
+    "pos": "",
+    "meaning": "n.冰山；冷峻的人",
+    "en": "iceberg",
+    "zh": "n.冰山；冷峻的人"
+  },
+  {
+    "word": "identical",
+    "kk": "[aɪˋdɛntɪk!]",
+    "pos": "",
+    "meaning": "",
+    "en": "identical",
+    "zh": ""
+  },
+  {
+    "word": "identification/ID",
+    "kk": "[aɪ͵dɛntəfəˋkeʃən]",
+    "pos": "",
+    "meaning": "",
+    "en": "identification/ID",
+    "zh": ""
+  },
+  {
+    "word": "identify",
+    "kk": "[aɪˋdɛntə͵faɪ]",
+    "pos": "",
+    "meaning": "vt.確認；識別 vi.認",
+    "en": "identify",
+    "zh": "vt.確認；識別 vi.認"
+  },
+  {
+    "word": "idiom",
+    "kk": "[ˋɪdɪəm]",
+    "pos": "",
+    "meaning": "n.慣用語；成語",
+    "en": "idiom",
+    "zh": "n.慣用語；成語"
+  },
+  {
+    "word": "idle",
+    "kk": "[ˋaɪd!]",
+    "pos": "",
+    "meaning": "a.閒置的；空閒的；懶惰的；無",
+    "en": "idle",
+    "zh": "a.閒置的；空閒的；懶惰的；無"
+  },
+  {
+    "word": "idol",
+    "kk": "[ˋaɪd!]",
+    "pos": "",
+    "meaning": "n.偶像；受崇拜之人(或物)",
+    "en": "idol",
+    "zh": "n.偶像；受崇拜之人(或物)"
+  },
+  {
+    "word": "ignorant",
+    "kk": "[ˋɪgnərənt]",
+    "pos": "",
+    "meaning": "a.無知的，不學無術的；",
+    "en": "ignorant",
+    "zh": "a.無知的，不學無術的；"
+  },
+  {
+    "word": "illustrate",
+    "kk": "[ˋɪləstret]",
+    "pos": "",
+    "meaning": "vt.(用圖，實例等)說明，",
+    "en": "illustrate",
+    "zh": "vt.(用圖，實例等)說明，"
+  },
+  {
+    "word": "illustration",
+    "kk": "[ɪ͵lʌsˋtreʃən]",
+    "pos": "",
+    "meaning": "",
+    "en": "illustration",
+    "zh": ""
+  },
+  {
+    "word": "n.說明，圖示",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；實例；插圖[C]",
+    "en": "n.說明，圖示",
+    "zh": "；實例；插圖[C]"
+  },
+  {
+    "word": "imaginable",
+    "kk": "[ɪˋmædʒɪnəb!]",
+    "pos": "",
+    "meaning": "a.可想像得到的",
+    "en": "imaginable",
+    "zh": "a.可想像得到的"
+  },
+  {
+    "word": "imaginary",
+    "kk": "[ɪˋmædʒə͵nɛrɪ]",
+    "pos": "",
+    "meaning": "a.想像中的；虛構",
+    "en": "imaginary",
+    "zh": "a.想像中的；虛構"
+  },
+  {
+    "word": "imaginative",
+    "kk": "[ɪˋmædʒə͵netɪv]",
+    "pos": "",
+    "meaning": "a.有想像力的",
+    "en": "imaginative",
+    "zh": "a.有想像力的"
+  },
+  {
+    "word": "imitate",
+    "kk": "[ˋɪmə͵tet]",
+    "pos": "",
+    "meaning": "vt.模仿",
+    "en": "imitate",
+    "zh": "vt.模仿"
+  },
+  {
+    "word": "imitation",
+    "kk": "[͵ɪməˋteʃən]",
+    "pos": "",
+    "meaning": "n.模仿，模擬[U]；",
+    "en": "imitation",
+    "zh": "n.模仿，模擬[U]；"
+  },
+  {
+    "word": "仿製品；贗品",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "仿製品；贗品",
+    "zh": ""
+  },
+  {
+    "word": "immigrant",
+    "kk": "[ˋɪməgrənt]",
+    "pos": "",
+    "meaning": "n.(外來)移民，僑民[C]",
+    "en": "immigrant",
+    "zh": "n.(外來)移民，僑民[C]"
+  },
+  {
+    "word": "immigrate",
+    "kk": "[ˋɪmə͵gret]",
+    "pos": "",
+    "meaning": "vi.遷移；遷入",
+    "en": "immigrate",
+    "zh": "vi.遷移；遷入"
+  },
+  {
+    "word": "immigration",
+    "kk": "[͵ɪməˋgreʃən]",
+    "pos": "",
+    "meaning": "n.移居；",
+    "en": "immigration",
+    "zh": "n.移居；"
+  },
+  {
+    "word": "impact",
+    "kk": "[ɪmˋpækt]",
+    "pos": "",
+    "meaning": "vt.vi.衝擊，撞擊",
+    "en": "impact",
+    "zh": "vt.vi.衝擊，撞擊"
+  },
+  {
+    "word": "",
+    "kk": "[ˋɪmpækt]",
+    "pos": "",
+    "meaning": "n.衝擊，撞擊，碰撞[U]",
+    "en": "",
+    "zh": "n.衝擊，撞擊，碰撞[U]"
+  },
+  {
+    "word": "imply",
+    "kk": "[ɪmˋplaɪ]",
+    "pos": "",
+    "meaning": "vt.暗指；暗示",
+    "en": "imply",
+    "zh": "vt.暗指；暗示"
+  },
+  {
+    "word": "impression",
+    "kk": "[ɪmˋprɛʃən]",
+    "pos": "",
+    "meaning": "n.印象[C][U][(+on)]",
+    "en": "impression",
+    "zh": "n.印象[C][U][(+on)]"
+  },
+  {
+    "word": "incident",
+    "kk": "[ˋɪnsədnt]",
+    "pos": "",
+    "meaning": "n.事件；事變[C]；插曲[C]",
+    "en": "incident",
+    "zh": "n.事件；事變[C]；插曲[C]"
+  },
+  {
+    "word": "including",
+    "kk": "[ɪnˋkludɪŋ]",
+    "pos": "",
+    "meaning": "prep.包括；包含",
+    "en": "including",
+    "zh": "prep.包括；包含"
+  },
+  {
+    "word": "indication",
+    "kk": "[͵ɪndəˋkeʃən]",
+    "pos": "",
+    "meaning": "n.指示；指點；徵兆；",
+    "en": "indication",
+    "zh": "n.指示；指點；徵兆；"
+  },
+  {
+    "word": "industrialize",
+    "kk": "[ɪnˋdʌstrɪəl͵aɪz]",
+    "pos": "",
+    "meaning": "vt.vi.(使)工業化",
+    "en": "industrialize",
+    "zh": "vt.vi.(使)工業化"
+  },
+  {
+    "word": "infant",
+    "kk": "[ˋɪnfənt]",
+    "pos": "",
+    "meaning": "n.嬰兒",
+    "en": "infant",
+    "zh": "n.嬰兒"
+  },
+  {
+    "word": "infect",
+    "kk": "[ɪnˋfɛkt]",
+    "pos": "",
+    "meaning": "vt.【醫】傳染；感染",
+    "en": "infect",
+    "zh": "vt.【醫】傳染；感染"
+  },
+  {
+    "word": "infection",
+    "kk": "[ɪnˋfɛkʃən]",
+    "pos": "",
+    "meaning": "n.傳染；侵染[U]",
+    "en": "infection",
+    "zh": "n.傳染；侵染[U]"
+  },
+  {
+    "word": "inflation",
+    "kk": "[ɪnˋfleʃən]",
+    "pos": "",
+    "meaning": "n.通貨膨脹[U][C]；充氣；",
+    "en": "inflation",
+    "zh": "n.通貨膨脹[U][C]；充氣；"
+  },
+  {
+    "word": "膨脹",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "膨脹",
+    "zh": ""
+  },
+  {
+    "word": "influential",
+    "kk": "[͵ɪnflʊˋɛnʃəl]",
+    "pos": "",
+    "meaning": "a.有影響力的；有權",
+    "en": "influential",
+    "zh": "a.有影響力的；有權"
+  },
+  {
+    "word": "information",
+    "kk": "[͵ɪnfɚˋmeʃən]",
+    "pos": "",
+    "meaning": "",
+    "en": "information",
+    "zh": ""
+  },
+  {
+    "word": "n.消息；情報；資訊",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；詢問處",
+    "en": "n.消息；情報；資訊",
+    "zh": "；詢問處"
+  },
+  {
+    "word": "informative",
+    "kk": "[ɪnˋfɔrmətɪv]",
+    "pos": "",
+    "meaning": "a.教育性的；見聞",
+    "en": "informative",
+    "zh": "a.教育性的；見聞"
+  },
+  {
+    "word": "ingredient",
+    "kk": "[ɪnˋgridɪənt]",
+    "pos": "",
+    "meaning": "n.(烹調的)原料；",
+    "en": "ingredient",
+    "zh": "n.(烹調的)原料；"
+  },
+  {
+    "word": "initial",
+    "kk": "[ɪˋnɪʃəl]",
+    "pos": "",
+    "meaning": "a.開始的，最初的",
+    "en": "initial",
+    "zh": "a.開始的，最初的"
+  },
+  {
+    "word": "innocence",
+    "kk": "[ˋɪnəsns]",
+    "pos": "",
+    "meaning": "n.無罪；清白；天真無邪，",
+    "en": "innocence",
+    "zh": "n.無罪；清白；天真無邪，"
+  },
+  {
+    "word": "input",
+    "kk": "[ˋɪn͵pʊt]",
+    "pos": "",
+    "meaning": "n.vt.投入；輸入",
+    "en": "input",
+    "zh": "n.vt.投入；輸入"
+  },
+  {
+    "word": "insert",
+    "kk": "[ɪnˋsɝt]",
+    "pos": "",
+    "meaning": "vt.插入；嵌入",
+    "en": "insert",
+    "zh": "vt.插入；嵌入"
+  },
+  {
+    "word": "inspection",
+    "kk": "[ɪnˋspɛkʃən]",
+    "pos": "",
+    "meaning": "n.檢查，檢驗",
+    "en": "inspection",
+    "zh": "n.檢查，檢驗"
+  },
+  {
+    "word": "inspiration",
+    "kk": "[͵ɪnspəˋreʃən]",
+    "pos": "",
+    "meaning": "",
+    "en": "inspiration",
+    "zh": ""
+  },
+  {
+    "word": "n.靈感",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；鼓舞人心的人(或事物)[C]",
+    "en": "n.靈感",
+    "zh": "；鼓舞人心的人(或事物)[C]"
+  },
+  {
+    "word": "inspire",
+    "kk": "[ɪnˋspaɪr]",
+    "pos": "",
+    "meaning": "vt.vi.鼓舞，激勵",
+    "en": "inspire",
+    "zh": "vt.vi.鼓舞，激勵"
+  },
+  {
+    "word": "install",
+    "kk": "[ɪnˋstɔl]",
+    "pos": "",
+    "meaning": "vt.安裝，設置",
+    "en": "install",
+    "zh": "vt.安裝，設置"
+  },
+  {
+    "word": "instinct",
+    "kk": "[ˋɪnstɪŋkt]",
+    "pos": "",
+    "meaning": "n.本能；天性[(+to-v)]；直",
+    "en": "instinct",
+    "zh": "n.本能；天性[(+to-v)]；直"
+  },
+  {
+    "word": "instruct",
+    "kk": "[ɪnˋstrʌkt]",
+    "pos": "",
+    "meaning": "vt.指示，命令；教授；訓",
+    "en": "instruct",
+    "zh": "vt.指示，命令；教授；訓"
+  },
+  {
+    "word": "instructor",
+    "kk": "[ɪnˋstrʌktɚ]",
+    "pos": "",
+    "meaning": "n.教員；指導者；",
+    "en": "instructor",
+    "zh": "n.教員；指導者；"
+  },
+  {
+    "word": "insult",
+    "kk": "[ɪnˋsʌlt]",
+    "pos": "",
+    "meaning": "vt.侮辱，羞辱  [ˋɪnsʌlt]n.",
+    "en": "insult",
+    "zh": "vt.侮辱，羞辱  [ˋɪnsʌlt]n."
+  },
+  {
+    "word": "insurance",
+    "kk": "[ɪnˋʃʊrəns]",
+    "pos": "",
+    "meaning": "n.保險；保險契約[U]",
+    "en": "insurance",
+    "zh": "n.保險；保險契約[U]"
+  },
+  {
+    "word": "intellectual",
+    "kk": "[͵ɪnt!ˋɛktʃʊəl]",
+    "pos": "",
+    "meaning": "a.智力的；理智的",
+    "en": "intellectual",
+    "zh": "a.智力的；理智的"
+  },
+  {
+    "word": "intelligence",
+    "kk": "[ɪnˋtɛlədʒəns]",
+    "pos": "",
+    "meaning": "n.智慧；情報 [U]",
+    "en": "intelligence",
+    "zh": "n.智慧；情報 [U]"
+  },
+  {
+    "word": "intelligent",
+    "kk": "[ɪnˋtɛlədʒənt]",
+    "pos": "",
+    "meaning": "a.聰明的；明智的",
+    "en": "intelligent",
+    "zh": "a.聰明的；明智的"
+  },
+  {
+    "word": "intend",
+    "kk": "[ɪnˋtɛnd]",
+    "pos": "",
+    "meaning": "vt.想要；打算",
+    "en": "intend",
+    "zh": "vt.想要；打算"
+  },
+  {
+    "word": "",
+    "kk": "[+to-v]",
+    "pos": "",
+    "meaning": "[+v-ing][+(that)]",
+    "en": "",
+    "zh": "[+v-ing][+(that)]"
+  },
+  {
+    "word": "intense",
+    "kk": "[ɪnˋtɛns]",
+    "pos": "",
+    "meaning": "a.強烈的，劇烈的；熱情的",
+    "en": "intense",
+    "zh": "a.強烈的，劇烈的；熱情的"
+  },
+  {
+    "word": "intensify",
+    "kk": "[ɪnˋtɛnsə͵faɪ]",
+    "pos": "",
+    "meaning": "vt.vi.加強，增強",
+    "en": "intensify",
+    "zh": "vt.vi.加強，增強"
+  },
+  {
+    "word": "intensity",
+    "kk": "[ɪnˋtɛnsətɪ]",
+    "pos": "",
+    "meaning": "n.(思想、感情、活動等",
+    "en": "intensity",
+    "zh": "n.(思想、感情、活動等"
+  },
+  {
+    "word": "intensive",
+    "kk": "[ɪnˋtɛnsɪv]",
+    "pos": "",
+    "meaning": "a.加強的；密集的",
+    "en": "intensive",
+    "zh": "a.加強的；密集的"
+  },
+  {
+    "word": "intention",
+    "kk": "[ɪnˋtɛnʃən]",
+    "pos": "",
+    "meaning": "n.意圖，意向，目的",
+    "en": "intention",
+    "zh": "n.意圖，意向，目的"
+  },
+  {
+    "word": "interact",
+    "kk": "[͵ɪntəˋrækt]",
+    "pos": "",
+    "meaning": "vt.vi.互動； 互相作用",
+    "en": "interact",
+    "zh": "vt.vi.互動； 互相作用"
+  },
+  {
+    "word": "interaction",
+    "kk": "[͵ɪntəˋrækʃən]",
+    "pos": "",
+    "meaning": "n.互動； 互相作用",
+    "en": "interaction",
+    "zh": "n.互動； 互相作用"
+  },
+  {
+    "word": "interfere",
+    "kk": "[͵ɪntɚˋfɪr]",
+    "pos": "",
+    "meaning": "vt.vi.妨礙；衝突[(+with)]",
+    "en": "interfere",
+    "zh": "vt.vi.妨礙；衝突[(+with)]"
+  },
+  {
+    "word": "intermediate",
+    "kk": "[͵ɪntɚˋmidɪət]",
+    "pos": "",
+    "meaning": "a.中間的，中等程",
+    "en": "intermediate",
+    "zh": "a.中間的，中等程"
+  },
+  {
+    "word": "Internet",
+    "kk": "[ˋɪntɚnɛt]",
+    "pos": "",
+    "meaning": "n.【電腦】網際網路",
+    "en": "Internet",
+    "zh": "n.【電腦】網際網路"
+  },
+  {
+    "word": "interpret",
+    "kk": "[ɪnˋtɝprɪt]",
+    "pos": "",
+    "meaning": "vt.vi.解釋，說明，詮釋；",
+    "en": "interpret",
+    "zh": "vt.vi.解釋，說明，詮釋；"
+  },
+  {
+    "word": "interruption",
+    "kk": "[͵ɪntəˋrʌpʃən]",
+    "pos": "",
+    "meaning": "n.中止；阻礙；干",
+    "en": "interruption",
+    "zh": "n.中止；阻礙；干"
+  },
+  {
+    "word": "intimate",
+    "kk": "[ˋɪntəmɪt]",
+    "pos": "",
+    "meaning": "a.親密的，熟悉的[(+with)]",
+    "en": "intimate",
+    "zh": "a.親密的，熟悉的[(+with)]"
+  },
+  {
+    "word": "intonation",
+    "kk": "[͵ɪntoˋneʃən]",
+    "pos": "",
+    "meaning": "n.語調；聲調",
+    "en": "intonation",
+    "zh": "n.語調；聲調"
+  },
+  {
+    "word": "invade",
+    "kk": "[ɪnˋved]",
+    "pos": "",
+    "meaning": "vt.vi.侵入，侵略；侵犯",
+    "en": "invade",
+    "zh": "vt.vi.侵入，侵略；侵犯"
+  },
+  {
+    "word": "invasion",
+    "kk": "[ɪnˋveʒən]",
+    "pos": "",
+    "meaning": "n.侵入，侵略；侵犯",
+    "en": "invasion",
+    "zh": "n.侵入，侵略；侵犯"
+  },
+  {
+    "word": "invention",
+    "kk": "[ɪnˋvɛnʃən]",
+    "pos": "",
+    "meaning": "n.發明，創造[U]；",
+    "en": "invention",
+    "zh": "n.發明，創造[U]；"
+  },
+  {
+    "word": "發明物，創作品",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "發明物，創作品",
+    "zh": ""
+  },
+  {
+    "word": "invest",
+    "kk": "[ɪnˋvɛst]",
+    "pos": "",
+    "meaning": "vt.vi.投(資)[(+in)]",
+    "en": "invest",
+    "zh": "vt.vi.投(資)[(+in)]"
+  },
+  {
+    "word": "investment",
+    "kk": "[ɪnˋvɛstmənt]",
+    "pos": "",
+    "meaning": "n.投資；投資額",
+    "en": "investment",
+    "zh": "n.投資；投資額"
+  },
+  {
+    "word": "investigation",
+    "kk": "[ɪn͵vɛstəˋgeʃən]",
+    "pos": "",
+    "meaning": "n.研究；調查",
+    "en": "investigation",
+    "zh": "n.研究；調查"
+  },
+  {
+    "word": "involve",
+    "kk": "[ɪnˋvɑlv]",
+    "pos": "",
+    "meaning": "vt.使捲入，連累；牽涉",
+    "en": "involve",
+    "zh": "vt.使捲入，連累；牽涉"
+  },
+  {
+    "word": "",
+    "kk": "[(+in/with)]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "involvement",
+    "kk": "[ɪnˋvɑlvmənt]",
+    "pos": "",
+    "meaning": "n.捲入，連累；牽",
+    "en": "involvement",
+    "zh": "n.捲入，連累；牽"
+  },
+  {
+    "word": "isolate",
+    "kk": "[ˋaɪs!͵et]",
+    "pos": "",
+    "meaning": "vt.vi.使孤立；使脫離",
+    "en": "isolate",
+    "zh": "vt.vi.使孤立；使脫離"
+  },
+  {
+    "word": "isolation",
+    "kk": "[͵aɪs!ˋeʃən]",
+    "pos": "",
+    "meaning": "n.隔離；孤立;脫離；【物】",
+    "en": "isolation",
+    "zh": "n.隔離；孤立;脫離；【物】"
+  },
+  {
+    "word": "itch",
+    "kk": "[ɪtʃ]",
+    "pos": "",
+    "meaning": "n.vi.vt.(發)癢",
+    "en": "itch",
+    "zh": "n.vi.vt.(發)癢"
+  },
+  {
+    "word": "jealousy",
+    "kk": "[ˋdʒɛləsɪ]",
+    "pos": "",
+    "meaning": "n.妒忌；猜忌",
+    "en": "jealousy",
+    "zh": "n.妒忌；猜忌"
+  },
+  {
+    "word": "junior",
+    "kk": "[ˋdʒunjɚ]",
+    "pos": "",
+    "meaning": "a.年紀較輕的；資淺的；",
+    "en": "junior",
+    "zh": "a.年紀較輕的；資淺的；"
+  },
+  {
+    "word": "keen",
+    "kk": "[kin]",
+    "pos": "",
+    "meaning": "a.熱心的，熱衷的；渴望的；敏",
+    "en": "keen",
+    "zh": "a.熱心的，熱衷的；渴望的；敏"
+  },
+  {
+    "word": "knuckle",
+    "kk": "[ˋnʌk!]",
+    "pos": "",
+    "meaning": "n.指(根)關節",
+    "en": "knuckle",
+    "zh": "n.指(根)關節"
+  },
+  {
+    "word": "labor",
+    "kk": "[ˋlebɚ]",
+    "pos": "",
+    "meaning": "n.勞動[U]；勞工 [U]；陣痛[U]",
+    "en": "labor",
+    "zh": "n.勞動[U]；勞工 [U]；陣痛[U]"
+  },
+  {
+    "word": "laboratory",
+    "kk": "[ˋlæbrə͵torɪ]",
+    "pos": "",
+    "meaning": "n.實驗室，研究室",
+    "en": "laboratory",
+    "zh": "n.實驗室，研究室"
+  },
+  {
+    "word": "lag",
+    "kk": "[læg]",
+    "pos": "",
+    "meaning": "n.vi.vt.走得慢；落後；延遲",
+    "en": "lag",
+    "zh": "n.vi.vt.走得慢；落後；延遲"
+  },
+  {
+    "word": "landmark",
+    "kk": "[ˋlænd͵mɑrk]",
+    "pos": "",
+    "meaning": "n.地標，陸標；",
+    "en": "landmark",
+    "zh": "n.地標，陸標；"
+  },
+  {
+    "word": "landscape",
+    "kk": "[ˋlænd͵skep]",
+    "pos": "",
+    "meaning": "n.(陸上的)風景，景色",
+    "en": "landscape",
+    "zh": "n.(陸上的)風景，景色"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "landslide",
+    "kk": "[ˋlænd͵slaɪd]",
+    "pos": "",
+    "meaning": "n.山崩；土石流",
+    "en": "landslide",
+    "zh": "n.山崩；土石流"
+  },
+  {
+    "word": "largely",
+    "kk": "[ˋlɑrdʒlɪ]",
+    "pos": "",
+    "meaning": "adv.大部分；主要地",
+    "en": "largely",
+    "zh": "adv.大部分；主要地"
+  },
+  {
+    "word": "lately",
+    "kk": "[ˋletlɪ]",
+    "pos": "",
+    "meaning": "adv.最近，近來",
+    "en": "lately",
+    "zh": "adv.最近，近來"
+  },
+  {
+    "word": "launch",
+    "kk": "[lɔntʃ]",
+    "pos": "",
+    "meaning": "vt.n.使(船)下水；發射；投擲；",
+    "en": "launch",
+    "zh": "vt.n.使(船)下水；發射；投擲；"
+  },
+  {
+    "word": "lawful",
+    "kk": "[ˋlɔfəl]",
+    "pos": "a.",
+    "meaning": "合法的；法定的",
+    "en": "lawful",
+    "zh": "合法的；法定的"
+  },
+  {
+    "word": "lead2",
+    "kk": "[lid]",
+    "pos": "",
+    "meaning": "vt.vi.n.引導；領(路)  [lɛd] n.鉛",
+    "en": "lead2",
+    "zh": "vt.vi.n.引導；領(路)  [lɛd] n.鉛"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "lean1",
+    "kk": "[lin]",
+    "pos": "",
+    "meaning": "n.vi.vt.傾斜；倚，靠",
+    "en": "lean1",
+    "zh": "n.vi.vt.傾斜；倚，靠"
+  },
+  {
+    "word": "lean2",
+    "kk": "[lin]",
+    "pos": "",
+    "meaning": "a.瘦的；無收成的",
+    "en": "lean2",
+    "zh": "a.瘦的；無收成的"
+  },
+  {
+    "word": "learned",
+    "kk": "[ˋlɝnɪd]",
+    "pos": "",
+    "meaning": "a.有學問的，博學的",
+    "en": "learned",
+    "zh": "a.有學問的，博學的"
+  },
+  {
+    "word": "learning",
+    "kk": "[ˋlɝnɪŋ]",
+    "pos": "",
+    "meaning": "n.學習；學問",
+    "en": "learning",
+    "zh": "n.學習；學問"
+  },
+  {
+    "word": "lecture",
+    "kk": "[ˋlɛktʃɚ]",
+    "pos": "",
+    "meaning": "n.授課；演講；訓話，告誡",
+    "en": "lecture",
+    "zh": "n.授課；演講；訓話，告誡"
+  },
+  {
+    "word": "lecturer",
+    "kk": "[ˋlɛktʃərɚ]",
+    "pos": "",
+    "meaning": "n.講演者",
+    "en": "lecturer",
+    "zh": "n.講演者"
+  },
+  {
+    "word": "legend",
+    "kk": "[ˋlɛdʒənd]",
+    "pos": "",
+    "meaning": "n.傳說；傳奇故事；傳奇",
+    "en": "legend",
+    "zh": "n.傳說；傳奇故事；傳奇"
+  },
+  {
+    "word": "人物",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "人物",
+    "zh": ""
+  },
+  {
+    "word": "leisurely",
+    "kk": "[ˋliʒɚlɪ]",
+    "pos": "",
+    "meaning": "a.從容不迫的，悠閒的",
+    "en": "leisurely",
+    "zh": "a.從容不迫的，悠閒的"
+  },
+  {
+    "word": "license",
+    "kk": "[ˋlaɪsns]",
+    "pos": "",
+    "meaning": "n.執照，牌照；許可證",
+    "en": "license",
+    "zh": "n.執照，牌照；許可證"
+  },
+  {
+    "word": "lighten",
+    "kk": "[ˋlaɪtn]",
+    "pos": "",
+    "meaning": "vt.vi.變亮；發亮",
+    "en": "lighten",
+    "zh": "vt.vi.變亮；發亮"
+  },
+  {
+    "word": "limitation",
+    "kk": "[͵lɪməˋteʃən]",
+    "pos": "",
+    "meaning": "n.限制，極限，限度",
+    "en": "limitation",
+    "zh": "n.限制，極限，限度"
+  },
+  {
+    "word": "liquor",
+    "kk": "[ˋlɪkɚ]",
+    "pos": "",
+    "meaning": "n.酒；含酒精飲料[U][C]",
+    "en": "liquor",
+    "zh": "n.酒；含酒精飲料[U][C]"
+  },
+  {
+    "word": "literary",
+    "kk": "[ˋlɪtə͵rɛrɪ]",
+    "pos": "",
+    "meaning": "a.文學的，文藝的；文言",
+    "en": "literary",
+    "zh": "a.文學的，文藝的；文言"
+  },
+  {
+    "word": "literature",
+    "kk": "[ˋlɪtərətʃɚ]",
+    "pos": "",
+    "meaning": "n.文學；文獻[U]",
+    "en": "literature",
+    "zh": "n.文學；文獻[U]"
+  },
+  {
+    "word": "loan",
+    "kk": "[lon]",
+    "pos": "",
+    "meaning": "n.借出；貸款[C]",
+    "en": "loan",
+    "zh": "n.借出；貸款[C]"
+  },
+  {
+    "word": "location",
+    "kk": "[loˋkeʃən]",
+    "pos": "",
+    "meaning": "n.位置；場所，所在地[C]",
+    "en": "location",
+    "zh": "n.位置；場所，所在地[C]"
+  },
+  {
+    "word": "locker",
+    "kk": "[ˋlɑkɚ]",
+    "pos": "",
+    "meaning": "n.(體育館等公共場所的)衣物",
+    "en": "locker",
+    "zh": "n.(體育館等公共場所的)衣物"
+  },
+  {
+    "word": "logic",
+    "kk": "[ˋlɑdʒɪk]",
+    "pos": "",
+    "meaning": "n.邏輯；邏輯學",
+    "en": "logic",
+    "zh": "n.邏輯；邏輯學"
+  },
+  {
+    "word": "logical",
+    "kk": "[ˋlɑdʒɪk!]",
+    "pos": "",
+    "meaning": "a.合邏輯的；合理的",
+    "en": "logical",
+    "zh": "a.合邏輯的；合理的"
+  },
+  {
+    "word": "lotion",
+    "kk": "[ˋloʃən]",
+    "pos": "",
+    "meaning": "n.(化妝等用的)化妝水，護膚",
+    "en": "lotion",
+    "zh": "n.(化妝等用的)化妝水，護膚"
+  },
+  {
+    "word": "lousy",
+    "kk": "[ˋlaʊzɪ]",
+    "pos": "",
+    "meaning": "a.【俚】不潔的；卑鄙的；討",
+    "en": "lousy",
+    "zh": "a.【俚】不潔的；卑鄙的；討"
+  },
+  {
+    "word": "loyal",
+    "kk": "[ˋlɔɪəl]",
+    "pos": "",
+    "meaning": "a.忠誠的，忠心的",
+    "en": "loyal",
+    "zh": "a.忠誠的，忠心的"
+  },
+  {
+    "word": "loyalty",
+    "kk": "[ˋlɔɪəltɪ]",
+    "pos": "",
+    "meaning": "n.忠誠；忠心[U]",
+    "en": "loyalty",
+    "zh": "n.忠誠；忠心[U]"
+  },
+  {
+    "word": "lunar",
+    "kk": "[ˋlunɚ]",
+    "pos": "",
+    "meaning": "a.月的；月球上的；陰曆的",
+    "en": "lunar",
+    "zh": "a.月的；月球上的；陰曆的"
+  },
+  {
+    "word": "luxurious",
+    "kk": "[lʌgˋʒʊrɪəs]",
+    "pos": "",
+    "meaning": "a.奢侈的；驕奢淫逸的",
+    "en": "luxurious",
+    "zh": "a.奢侈的；驕奢淫逸的"
+  },
+  {
+    "word": "luxury",
+    "kk": "[ˋlʌkʃərɪ]",
+    "pos": "",
+    "meaning": "n.奢侈，奢華[U]；奢侈品[C]",
+    "en": "luxury",
+    "zh": "n.奢侈，奢華[U]；奢侈品[C]"
+  },
+  {
+    "word": "machinery",
+    "kk": "[məˋʃinərɪ]",
+    "pos": "",
+    "meaning": "n.機器；機械 [U]",
+    "en": "machinery",
+    "zh": "n.機器；機械 [U]"
+  },
+  {
+    "word": "madam",
+    "kk": "[ˋmædəm]",
+    "pos": "",
+    "meaning": "n.(對婦女的敬稱)夫人，",
+    "en": "madam",
+    "zh": "n.(對婦女的敬稱)夫人，"
+  },
+  {
+    "word": "小姐(ma’am",
+    "kk": "[mæm]",
+    "pos": "",
+    "meaning": ")",
+    "en": "小姐(ma’am",
+    "zh": ")"
+  },
+  {
+    "word": "magnetic",
+    "kk": "[mægˋnɛtɪk]",
+    "pos": "a.",
+    "meaning": "磁鐵的；磁性的，",
+    "en": "magnetic",
+    "zh": "磁鐵的；磁性的，"
+  },
+  {
+    "word": "magnificent",
+    "kk": "[mægˋnɪfəsənt]",
+    "pos": "",
+    "meaning": "a.壯麗的，宏偉",
+    "en": "magnificent",
+    "zh": "a.壯麗的，宏偉"
+  },
+  {
+    "word": "makeup1",
+    "kk": "[ˋmekʌp]",
+    "pos": "",
+    "meaning": "n.虛構",
+    "en": "makeup1",
+    "zh": "n.虛構"
+  },
+  {
+    "word": "makeup2",
+    "kk": "[ˋmekʌp]",
+    "pos": "",
+    "meaning": "n.化妝品；補充；補考",
+    "en": "makeup2",
+    "zh": "n.化妝品；補充；補考"
+  },
+  {
+    "word": "manual",
+    "kk": "[ˋmænjʊəl]",
+    "pos": "",
+    "meaning": "n.手冊，簡介 a.手的；手",
+    "en": "manual",
+    "zh": "n.手冊，簡介 a.手的；手"
+  },
+  {
+    "word": "manufacture",
+    "kk": "[͵mænjəˋfæktʃɚ]",
+    "pos": "",
+    "meaning": "vt.vi.(大量)製",
+    "en": "manufacture",
+    "zh": "vt.vi.(大量)製"
+  },
+  {
+    "word": "manufacturer",
+    "kk": "[mænjəˋfæktʃərɚ]",
+    "pos": "",
+    "meaning": "n.製造業者，",
+    "en": "manufacturer",
+    "zh": "n.製造業者，"
+  },
+  {
+    "word": "marathon",
+    "kk": "[ˋmærə͵θɑn]",
+    "pos": "",
+    "meaning": "n.【體】(可大寫)馬拉",
+    "en": "marathon",
+    "zh": "n.【體】(可大寫)馬拉"
+  },
+  {
+    "word": "margin",
+    "kk": "[ˋmɑrdʒɪn]",
+    "pos": "",
+    "meaning": "n.邊，邊沿，邊緣",
+    "en": "margin",
+    "zh": "n.邊，邊沿，邊緣"
+  },
+  {
+    "word": "maturity",
+    "kk": "[məˋtjʊrətɪ]",
+    "pos": "",
+    "meaning": "n.成熟；完善",
+    "en": "maturity",
+    "zh": "n.成熟；完善"
+  },
+  {
+    "word": "maximum",
+    "kk": "[ˋmæksəməm]",
+    "pos": "",
+    "meaning": "n.最大量，最大數",
+    "en": "maximum",
+    "zh": "n.最大量，最大數"
+  },
+  {
+    "word": "measure2",
+    "kk": "[ˋmɛʒɚ]",
+    "pos": "",
+    "meaning": "vt.測量；計量",
+    "en": "measure2",
+    "zh": "vt.測量；計量"
+  },
+  {
+    "word": "mechanic",
+    "kk": "[məˋkænɪk]",
+    "pos": "",
+    "meaning": "n.機械工，技工",
+    "en": "mechanic",
+    "zh": "n.機械工，技工"
+  },
+  {
+    "word": "mechanical",
+    "kk": "[məˋkænɪk!]",
+    "pos": "",
+    "meaning": "a.機械的，用機械的",
+    "en": "mechanical",
+    "zh": "a.機械的，用機械的"
+  },
+  {
+    "word": "memorable",
+    "kk": "[ˋmɛmərəb!]",
+    "pos": "",
+    "meaning": "a.值得懷念的；難忘",
+    "en": "memorable",
+    "zh": "a.值得懷念的；難忘"
+  },
+  {
+    "word": "memorial",
+    "kk": "[məˋmorɪəl]",
+    "pos": "",
+    "meaning": "n.紀念物；紀念碑；紀",
+    "en": "memorial",
+    "zh": "n.紀念物；紀念碑；紀"
+  },
+  {
+    "word": "mercy",
+    "kk": "[ˋmɝsɪ]",
+    "pos": "",
+    "meaning": "n.慈悲，憐憫；仁慈，寬容",
+    "en": "mercy",
+    "zh": "n.慈悲，憐憫；仁慈，寬容"
+  },
+  {
+    "word": "mere",
+    "kk": "[mɪr]",
+    "pos": "",
+    "meaning": "a.僅僅的，只不過的",
+    "en": "mere",
+    "zh": "a.僅僅的，只不過的"
+  },
+  {
+    "word": "merit",
+    "kk": "[ˋmɛrɪt]",
+    "pos": "",
+    "meaning": "n.長處，優點[C]；功績，功勞",
+    "en": "merit",
+    "zh": "n.長處，優點[C]；功績，功勞"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "messenger",
+    "kk": "[ˋmɛsndʒɚ]",
+    "pos": "",
+    "meaning": "n.送信人；(電報郵件",
+    "en": "messenger",
+    "zh": "n.送信人；(電報郵件"
+  },
+  {
+    "word": "messy",
+    "kk": "[ˋmɛsɪ]",
+    "pos": "",
+    "meaning": "a.凌亂的; 雜亂的; 邋遢的",
+    "en": "messy",
+    "zh": "a.凌亂的; 雜亂的; 邋遢的"
+  },
+  {
+    "word": "microscope",
+    "kk": "[ˋmaɪkrə͵skop]",
+    "pos": "",
+    "meaning": "n.顯微鏡[C]",
+    "en": "microscope",
+    "zh": "n.顯微鏡[C]"
+  },
+  {
+    "word": "mild",
+    "kk": "[maɪld]",
+    "pos": "",
+    "meaning": "a.溫和的，溫柔的",
+    "en": "mild",
+    "zh": "a.溫和的，溫柔的"
+  },
+  {
+    "word": "mineral",
+    "kk": "[ˋmɪnərəl]",
+    "pos": "",
+    "meaning": "n.礦物；礦泉水 a.礦物的",
+    "en": "mineral",
+    "zh": "n.礦物；礦泉水 a.礦物的"
+  },
+  {
+    "word": "minimum",
+    "kk": "[ˋmɪnəməm]",
+    "pos": "",
+    "meaning": "n.最小量，最小數[C]",
+    "en": "minimum",
+    "zh": "n.最小量，最小數[C]"
+  },
+  {
+    "word": "minister",
+    "kk": "[ˋmɪnɪstɚ]",
+    "pos": "",
+    "meaning": "n.部長；大臣；牧師",
+    "en": "minister",
+    "zh": "n.部長；大臣；牧師"
+  },
+  {
+    "word": "ministry",
+    "kk": "[ˋmɪnɪstrɪ]",
+    "pos": "",
+    "meaning": "n.(常大寫)(政府的)部",
+    "en": "ministry",
+    "zh": "n.(常大寫)(政府的)部"
+  },
+  {
+    "word": "mischief",
+    "kk": "[ˋmɪstʃɪf]",
+    "pos": "",
+    "meaning": "n.頑皮，淘氣；胡鬧[U]",
+    "en": "mischief",
+    "zh": "n.頑皮，淘氣；胡鬧[U]"
+  },
+  {
+    "word": "miserable",
+    "kk": "[ˋmɪzərəb!]",
+    "pos": "",
+    "meaning": "a.不幸的；悲哀的",
+    "en": "miserable",
+    "zh": "a.不幸的；悲哀的"
+  },
+  {
+    "word": "misfortune",
+    "kk": "[mɪsˋfɔrtʃən]",
+    "pos": "",
+    "meaning": "n.不幸[U]；不幸的",
+    "en": "misfortune",
+    "zh": "n.不幸[U]；不幸的"
+  },
+  {
+    "word": "事",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "事",
+    "zh": ""
+  },
+  {
+    "word": "mislead",
+    "kk": "[mɪsˋlid]",
+    "pos": "",
+    "meaning": "vt.誤導；把…引入歧途",
+    "en": "mislead",
+    "zh": "vt.誤導；把…引入歧途"
+  },
+  {
+    "word": "misunderstand",
+    "kk": "[ˋmɪsʌndɚˋstænd]",
+    "pos": "",
+    "meaning": "vt.誤會；曲",
+    "en": "misunderstand",
+    "zh": "vt.誤會；曲"
+  },
+  {
+    "word": "moderate",
+    "kk": "[ˋmɑdərɪt]",
+    "pos": "",
+    "meaning": "a.適度的；有節制的；",
+    "en": "moderate",
+    "zh": "a.適度的；有節制的；"
+  },
+  {
+    "word": "modest",
+    "kk": "[ˋmɑdɪst]",
+    "pos": "",
+    "meaning": "a.謙虛的，審慎的",
+    "en": "modest",
+    "zh": "a.謙虛的，審慎的"
+  },
+  {
+    "word": "modesty",
+    "kk": "[ˋmɑdɪstɪ]",
+    "pos": "",
+    "meaning": "n.謙遜，虛心[U]",
+    "en": "modesty",
+    "zh": "n.謙遜，虛心[U]"
+  },
+  {
+    "word": "monitor",
+    "kk": "[ˋmɑnətɚ]",
+    "pos": "",
+    "meaning": "n.監視器；(學校的)班長，",
+    "en": "monitor",
+    "zh": "n.監視器；(學校的)班長，"
+  },
+  {
+    "word": "monthly",
+    "kk": "[ˋmʌnθlɪ]",
+    "pos": "",
+    "meaning": "a.每月的；每月一次的",
+    "en": "monthly",
+    "zh": "a.每月的；每月一次的"
+  },
+  {
+    "word": "monument",
+    "kk": "[ˋmɑnjəmənt]",
+    "pos": "",
+    "meaning": "n.紀念碑，紀念塔，",
+    "en": "monument",
+    "zh": "n.紀念碑，紀念塔，"
+  },
+  {
+    "word": "moreover",
+    "kk": "[morˋovɚ]",
+    "pos": "",
+    "meaning": "adv.並且，加之，此外",
+    "en": "moreover",
+    "zh": "adv.並且，加之，此外"
+  },
+  {
+    "word": "mostly",
+    "kk": "[ˋmostlɪ]",
+    "pos": "",
+    "meaning": "adv.大多數地，大部分地",
+    "en": "mostly",
+    "zh": "adv.大多數地，大部分地"
+  },
+  {
+    "word": "motivate",
+    "kk": "[ˋmotə͵vet]",
+    "pos": "",
+    "meaning": "vt.給…動機；刺激；激",
+    "en": "motivate",
+    "zh": "vt.給…動機；刺激；激"
+  },
+  {
+    "word": "motivation",
+    "kk": "[͵motəˋveʃən]",
+    "pos": "",
+    "meaning": "n.動機；刺激；推",
+    "en": "motivation",
+    "zh": "n.動機；刺激；推"
+  },
+  {
+    "word": "mountainous",
+    "kk": "[ˋmaʊntənəs]",
+    "pos": "",
+    "meaning": "a.多山的；有山的",
+    "en": "mountainous",
+    "zh": "a.多山的；有山的"
+  },
+  {
+    "word": "mow",
+    "kk": "[mo]",
+    "pos": "",
+    "meaning": "vt.vi.(用鐮刀等)刈(草等)",
+    "en": "mow",
+    "zh": "vt.vi.(用鐮刀等)刈(草等)"
+  },
+  {
+    "word": "muddy",
+    "kk": "[ˋmʌdɪ]",
+    "pos": "",
+    "meaning": "a.多爛泥的；泥濘的",
+    "en": "muddy",
+    "zh": "a.多爛泥的；泥濘的"
+  },
+  {
+    "word": "multiple",
+    "kk": "[ˋmʌltəp!]",
+    "pos": "",
+    "meaning": "a.複合的；多樣的",
+    "en": "multiple",
+    "zh": "a.複合的；多樣的"
+  },
+  {
+    "word": "murderer",
+    "kk": "[ˋmɝdərɚ]",
+    "pos": "",
+    "meaning": "n.謀殺犯，兇手",
+    "en": "murderer",
+    "zh": "n.謀殺犯，兇手"
+  },
+  {
+    "word": "murmur",
+    "kk": "[ˋmɝmɚ]",
+    "pos": "",
+    "meaning": "n.低語聲；輕柔持續的聲",
+    "en": "murmur",
+    "zh": "n.低語聲；輕柔持續的聲"
+  },
+  {
+    "word": "mustache",
+    "kk": "[ˋmʌstæʃ]",
+    "pos": "",
+    "meaning": "n.髭，小鬍子",
+    "en": "mustache",
+    "zh": "n.髭，小鬍子"
+  },
+  {
+    "word": "mutual",
+    "kk": "[ˋmjutʃʊəl]",
+    "pos": "",
+    "meaning": "a.相互的，彼此的；共有",
+    "en": "mutual",
+    "zh": "a.相互的，彼此的；共有"
+  },
+  {
+    "word": "mysterious",
+    "kk": "[mɪsˋtɪrɪəs]",
+    "pos": "",
+    "meaning": "a.神祕的；不可思議",
+    "en": "mysterious",
+    "zh": "a.神祕的；不可思議"
+  },
+  {
+    "word": "namely",
+    "kk": "[ˋnemlɪ]",
+    "pos": "",
+    "meaning": "adv.即，那就是",
+    "en": "namely",
+    "zh": "adv.即，那就是"
+  },
+  {
+    "word": "nationality",
+    "kk": "[͵næʃəˋnælətɪ]",
+    "pos": "",
+    "meaning": "n.國籍",
+    "en": "nationality",
+    "zh": "n.國籍"
+  },
+  {
+    "word": "nearsighted",
+    "kk": "[ˋnɪrˋsaɪtɪd]",
+    "pos": "",
+    "meaning": "a.近視的；目光短淺",
+    "en": "nearsighted",
+    "zh": "a.近視的；目光短淺"
+  },
+  {
+    "word": "needy",
+    "kk": "[ˋnidɪ]",
+    "pos": "",
+    "meaning": "a.貧窮的",
+    "en": "needy",
+    "zh": "a.貧窮的"
+  },
+  {
+    "word": "neglect",
+    "kk": "[nɪgˋlɛkt]",
+    "pos": "",
+    "meaning": "vt.n.忽視，忽略",
+    "en": "neglect",
+    "zh": "vt.n.忽視，忽略"
+  },
+  {
+    "word": "negotiate",
+    "kk": "[nɪˋgoʃɪ͵et]",
+    "pos": "",
+    "meaning": "vt.vi.談判，協商",
+    "en": "negotiate",
+    "zh": "vt.vi.談判，協商"
+  },
+  {
+    "word": "nevertheless",
+    "kk": "[͵nɛvɚðəˋlɛs]",
+    "pos": "",
+    "meaning": "adv.不過，然而",
+    "en": "nevertheless",
+    "zh": "adv.不過，然而"
+  },
+  {
+    "word": "= nonetheless",
+    "kk": "[͵nʌnðəˋlɛs]",
+    "pos": "",
+    "meaning": "",
+    "en": "= nonetheless",
+    "zh": ""
+  },
+  {
+    "word": "nightmare",
+    "kk": "[ˋnaɪt͵mɛr]",
+    "pos": "",
+    "meaning": "n.夢魘；惡夢",
+    "en": "nightmare",
+    "zh": "n.夢魘；惡夢"
+  },
+  {
+    "word": "nonsense",
+    "kk": "[ˋnɑnsɛns]",
+    "pos": "",
+    "meaning": "n.胡說；胡鬧  int.胡說!",
+    "en": "nonsense",
+    "zh": "n.胡說；胡鬧  int.胡說!"
+  },
+  {
+    "word": "noun",
+    "kk": "[naʊn]",
+    "pos": "",
+    "meaning": "n.【文】名詞",
+    "en": "noun",
+    "zh": "n.【文】名詞"
+  },
+  {
+    "word": "nowadays",
+    "kk": "[ˋnaʊə͵dez]",
+    "pos": "",
+    "meaning": "adv.現今，時下",
+    "en": "nowadays",
+    "zh": "adv.現今，時下"
+  },
+  {
+    "word": "nuclear",
+    "kk": "[ˋnjuklɪɚ]",
+    "pos": "",
+    "meaning": "a.核心的，中心的；原子",
+    "en": "nuclear",
+    "zh": "a.核心的，中心的；原子"
+  },
+  {
+    "word": "numerous",
+    "kk": "[ˋnjumərəs]",
+    "pos": "",
+    "meaning": "a.許多的，很多的",
+    "en": "numerous",
+    "zh": "a.許多的，很多的"
+  },
+  {
+    "word": "nursery",
+    "kk": "[ˋnɝsərɪ]",
+    "pos": "",
+    "meaning": "n.幼兒室，育兒室；苗圃；",
+    "en": "nursery",
+    "zh": "n.幼兒室，育兒室；苗圃；"
+  },
+  {
+    "word": "nylon",
+    "kk": "[ˋnaɪlɑn]",
+    "pos": "",
+    "meaning": "n.尼龍[U]",
+    "en": "nylon",
+    "zh": "n.尼龍[U]"
+  },
+  {
+    "word": "obedience",
+    "kk": "[əˋbidjəns]",
+    "pos": "",
+    "meaning": "n.服從，順從[U]",
+    "en": "obedience",
+    "zh": "n.服從，順從[U]"
+  },
+  {
+    "word": "obedient",
+    "kk": "[əˋbidjənt]",
+    "pos": "",
+    "meaning": "a.服從的，順從的",
+    "en": "obedient",
+    "zh": "a.服從的，順從的"
+  },
+  {
+    "word": "objection",
+    "kk": "[əbˋdʒɛkʃən]",
+    "pos": "",
+    "meaning": "n.反對；異議",
+    "en": "objection",
+    "zh": "n.反對；異議"
+  },
+  {
+    "word": "objective1",
+    "kk": "[əbˋdʒɛktɪv]",
+    "pos": "",
+    "meaning": "a.客觀的，無偏見的",
+    "en": "objective1",
+    "zh": "a.客觀的，無偏見的"
+  },
+  {
+    "word": "objective2",
+    "kk": "[əbˋdʒɛktɪv]",
+    "pos": "",
+    "meaning": "n.目的，目標",
+    "en": "objective2",
+    "zh": "n.目的，目標"
+  },
+  {
+    "word": "observation",
+    "kk": "[͵ɑbzɝˋveʃən]",
+    "pos": "",
+    "meaning": "n.觀察；觀測",
+    "en": "observation",
+    "zh": "n.觀察；觀測"
+  },
+  {
+    "word": "obstacle",
+    "kk": "[ˋɑbstək!]",
+    "pos": "",
+    "meaning": "n.障礙(物)；妨礙",
+    "en": "obstacle",
+    "zh": "n.障礙(物)；妨礙"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[(+to)]",
+    "en": "",
+    "zh": "[(+to)]"
+  },
+  {
+    "word": "obtain",
+    "kk": "[əbˋten]",
+    "pos": "",
+    "meaning": "vt.得到，獲得",
+    "en": "obtain",
+    "zh": "vt.得到，獲得"
+  },
+  {
+    "word": "occasional",
+    "kk": "[əˋkeʒən!]",
+    "pos": "",
+    "meaning": "a.偶爾的，非經常的",
+    "en": "occasional",
+    "zh": "a.偶爾的，非經常的"
+  },
+  {
+    "word": "occupation",
+    "kk": "[͵ɑkjəˋpeʃən]",
+    "pos": "",
+    "meaning": "n.佔領[U]；職業[C]",
+    "en": "occupation",
+    "zh": "n.佔領[U]；職業[C]"
+  },
+  {
+    "word": "occupy",
+    "kk": "[ˋɑkjə͵paɪ]",
+    "pos": "",
+    "meaning": "vt.佔領，佔據",
+    "en": "occupy",
+    "zh": "vt.佔領，佔據"
+  },
+  {
+    "word": "offend",
+    "kk": "[əˋfɛnd]",
+    "pos": "",
+    "meaning": "vt.冒犯；觸怒",
+    "en": "offend",
+    "zh": "vt.冒犯；觸怒"
+  },
+  {
+    "word": "offense",
+    "kk": "[əˋfɛns]",
+    "pos": "",
+    "meaning": "n.罪過；犯法(行為)[C]；進",
+    "en": "offense",
+    "zh": "n.罪過；犯法(行為)[C]；進"
+  },
+  {
+    "word": "offensive",
+    "kk": "[əˋfɛnsɪv]",
+    "pos": "",
+    "meaning": "a.冒犯的；進攻的",
+    "en": "offensive",
+    "zh": "a.冒犯的；進攻的"
+  },
+  {
+    "word": "opera",
+    "kk": "[ˋɑpərə]",
+    "pos": "",
+    "meaning": "n.歌劇[C]；歌劇院[C]；歌劇",
+    "en": "opera",
+    "zh": "n.歌劇[C]；歌劇院[C]；歌劇"
+  },
+  {
+    "word": "藝術",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "藝術",
+    "zh": ""
+  },
+  {
+    "word": "operation",
+    "kk": "[͵ɑpəˋreʃən]",
+    "pos": "",
+    "meaning": "n.操作；運轉[U]；手",
+    "en": "operation",
+    "zh": "n.操作；運轉[U]；手"
+  },
+  {
+    "word": "術",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "術",
+    "zh": ""
+  },
+  {
+    "word": "oppose",
+    "kk": "[əˋpoz]",
+    "pos": "",
+    "meaning": "vt.vi.反對；反抗",
+    "en": "oppose",
+    "zh": "vt.vi.反對；反抗"
+  },
+  {
+    "word": "oral",
+    "kk": "[ˋorəl]",
+    "pos": "",
+    "meaning": "a.口頭的，口述的",
+    "en": "oral",
+    "zh": "a.口頭的，口述的"
+  },
+  {
+    "word": "orbit",
+    "kk": "[ˋɔrbɪt]",
+    "pos": "",
+    "meaning": "n.(天體等的)運行軌道",
+    "en": "orbit",
+    "zh": "n.(天體等的)運行軌道"
+  },
+  {
+    "word": "orchestra",
+    "kk": "[ˋɔrkɪstrə]",
+    "pos": "",
+    "meaning": "n.管弦樂隊[C",
+    "en": "orchestra",
+    "zh": "n.管弦樂隊[C"
+  },
+  {
+    "word": "organic",
+    "kk": "[ɔrˋgænɪk]",
+    "pos": "",
+    "meaning": "a.有機體的，生物的；器",
+    "en": "organic",
+    "zh": "a.有機體的，生物的；器"
+  },
+  {
+    "word": "otherwise",
+    "kk": "[ˋʌðɚ͵waɪz]",
+    "pos": "",
+    "meaning": "adv.否則,不然；用別",
+    "en": "otherwise",
+    "zh": "adv.否則,不然；用別"
+  },
+  {
+    "word": "outcome",
+    "kk": "[ˋaʊt͵kʌm]",
+    "pos": "",
+    "meaning": "n.結果；結局",
+    "en": "outcome",
+    "zh": "n.結果；結局"
+  },
+  {
+    "word": "outstanding",
+    "kk": "[ˋaʊtˋstændɪŋ]",
+    "pos": "",
+    "meaning": "a.顯著的；傑出的",
+    "en": "outstanding",
+    "zh": "a.顯著的；傑出的"
+  },
+  {
+    "word": "oval",
+    "kk": "[ˋov!]",
+    "pos": "",
+    "meaning": "n.卵形(物)[C] a.橢圓形的",
+    "en": "oval",
+    "zh": "n.卵形(物)[C] a.橢圓形的"
+  },
+  {
+    "word": "overcome",
+    "kk": "[͵ovɚˋkʌm]",
+    "pos": "",
+    "meaning": "vt.vi.戰勝；克服",
+    "en": "overcome",
+    "zh": "vt.vi.戰勝；克服"
+  },
+  {
+    "word": "overlook",
+    "kk": "[͵ovɚˋlʊk]",
+    "pos": "",
+    "meaning": "vt.vi.眺望，俯瞰；看漏，",
+    "en": "overlook",
+    "zh": "vt.vi.眺望，俯瞰；看漏，"
+  },
+  {
+    "word": "overnight",
+    "kk": "[ˋovɚˋnaɪt]",
+    "pos": "",
+    "meaning": "a.adv.整夜；一夜間，",
+    "en": "overnight",
+    "zh": "a.adv.整夜；一夜間，"
+  },
+  {
+    "word": "overtake",
+    "kk": "[͵ovɚˋtek]",
+    "pos": "",
+    "meaning": "vt.vi.追上；趕上；超車",
+    "en": "overtake",
+    "zh": "vt.vi.追上；趕上；超車"
+  },
+  {
+    "word": "overthrow",
+    "kk": "[ˋovɚθro]",
+    "pos": "",
+    "meaning": "vt.vi.打倒；推翻",
+    "en": "overthrow",
+    "zh": "vt.vi.打倒；推翻"
+  },
+  {
+    "word": "oxygen",
+    "kk": "[ˋɑksədʒən]",
+    "pos": "",
+    "meaning": "n.【化】氧；氧氣[U]",
+    "en": "oxygen",
+    "zh": "n.【化】氧；氧氣[U]"
+  },
+  {
+    "word": "pace",
+    "kk": "[pes]",
+    "pos": "",
+    "meaning": "n.一步； 步速；速度  vi.踱步，",
+    "en": "pace",
+    "zh": "n.一步； 步速；速度  vi.踱步，"
+  },
+  {
+    "word": "panel",
+    "kk": "[ˋpæn!]",
+    "pos": "",
+    "meaning": "n.嵌(鑲)板；【機】控制板；專",
+    "en": "panel",
+    "zh": "n.嵌(鑲)板；【機】控制板；專"
+  },
+  {
+    "word": "parachute",
+    "kk": "[ˋpærə͵ʃut]",
+    "pos": "",
+    "meaning": "n.降落傘",
+    "en": "parachute",
+    "zh": "n.降落傘"
+  },
+  {
+    "word": "paragraph",
+    "kk": "[ˋpærə͵græf]",
+    "pos": "",
+    "meaning": "n.(文章的)段，節",
+    "en": "paragraph",
+    "zh": "n.(文章的)段，節"
+  },
+  {
+    "word": "partial",
+    "kk": "[ˋpɑrʃəl]",
+    "pos": "",
+    "meaning": "a.部分的，局部的；不公平",
+    "en": "partial",
+    "zh": "a.部分的，局部的；不公平"
+  },
+  {
+    "word": "participation",
+    "kk": "[pɑr͵tɪsəˋpeʃən]",
+    "pos": "",
+    "meaning": "n.參加，參與",
+    "en": "participation",
+    "zh": "n.參加，參與"
+  },
+  {
+    "word": "participle",
+    "kk": "[ˋpɑrtəsəp!]",
+    "pos": "",
+    "meaning": "n.【文】分詞[C]",
+    "en": "participle",
+    "zh": "n.【文】分詞[C]"
+  },
+  {
+    "word": "partnership",
+    "kk": "[ˋpɑrtnɚ͵ʃɪp]",
+    "pos": "",
+    "meaning": "n.合夥(或合作)關",
+    "en": "partnership",
+    "zh": "n.合夥(或合作)關"
+  },
+  {
+    "word": "係",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "係",
+    "zh": ""
+  },
+  {
+    "word": "passive",
+    "kk": "[ˋpæsɪv]",
+    "pos": "",
+    "meaning": "a.被動的；消極的",
+    "en": "passive",
+    "zh": "a.被動的；消極的"
+  },
+  {
+    "word": "pasta",
+    "kk": "[ˋpɑstə]",
+    "pos": "",
+    "meaning": "n.麵糰；義大利麵(包括通心粉，",
+    "en": "pasta",
+    "zh": "n.麵糰；義大利麵(包括通心粉，"
+  },
+  {
+    "word": "pebble",
+    "kk": "[ˋpɛb!]",
+    "pos": "",
+    "meaning": "n.小卵石[C]",
+    "en": "pebble",
+    "zh": "n.小卵石[C]"
+  },
+  {
+    "word": "peculiar",
+    "kk": "[pɪˋkjuljɚ]",
+    "pos": "",
+    "meaning": "a.奇怪的；乖癖的",
+    "en": "peculiar",
+    "zh": "a.奇怪的；乖癖的"
+  },
+  {
+    "word": "pedal",
+    "kk": "[ˋpɛd!]",
+    "pos": "",
+    "meaning": "n.踏板；腳蹬",
+    "en": "pedal",
+    "zh": "n.踏板；腳蹬"
+  },
+  {
+    "word": "peer",
+    "kk": "[pɪr]",
+    "pos": "",
+    "meaning": "n.(地位，能力等)同等的人；同輩",
+    "en": "peer",
+    "zh": "n.(地位，能力等)同等的人；同輩"
+  },
+  {
+    "word": "penalty",
+    "kk": "[ˋpɛn!tɪ]",
+    "pos": "",
+    "meaning": "n.處罰；刑罰[U][C][(+for)]",
+    "en": "penalty",
+    "zh": "n.處罰；刑罰[U][C][(+for)]"
+  },
+  {
+    "word": "percent",
+    "kk": "[pɚˋsɛnt]",
+    "pos": "",
+    "meaning": "n.百分之一[C]；百分率(per",
+    "en": "percent",
+    "zh": "n.百分之一[C]；百分率(per"
+  },
+  {
+    "word": "percentage",
+    "kk": "[pɚˋsɛntɪdʒ]",
+    "pos": "",
+    "meaning": "n.比例；部分",
+    "en": "percentage",
+    "zh": "n.比例；部分"
+  },
+  {
+    "word": "perfection",
+    "kk": "[pɚˋfɛkʃən]",
+    "pos": "",
+    "meaning": "n.完美",
+    "en": "perfection",
+    "zh": "n.完美"
+  },
+  {
+    "word": "perfume",
+    "kk": "[ˋpɝfjum]",
+    "pos": "",
+    "meaning": "n.香水；香料",
+    "en": "perfume",
+    "zh": "n.香水；香料"
+  },
+  {
+    "word": "permanent",
+    "kk": "[ˋpɝmənənt]",
+    "pos": "",
+    "meaning": "a.永久的，永恆的 n.",
+    "en": "permanent",
+    "zh": "a.永久的，永恆的 n."
+  },
+  {
+    "word": "persuasion",
+    "kk": "[pɚˋsweʒən]",
+    "pos": "",
+    "meaning": "n.說服，勸說[U]",
+    "en": "persuasion",
+    "zh": "n.說服，勸說[U]"
+  },
+  {
+    "word": "persuasive",
+    "kk": "[pɚˋswesɪv]",
+    "pos": "",
+    "meaning": "a.勸說的；有說服力",
+    "en": "persuasive",
+    "zh": "a.勸說的；有說服力"
+  },
+  {
+    "word": "pessimistic",
+    "kk": "[͵pɛsəˋmɪstɪk]",
+    "pos": "",
+    "meaning": "a.悲觀的；悲觀主",
+    "en": "pessimistic",
+    "zh": "a.悲觀的；悲觀主"
+  },
+  {
+    "word": "petal",
+    "kk": "[ˋpɛt!]",
+    "pos": "",
+    "meaning": "n.花瓣",
+    "en": "petal",
+    "zh": "n.花瓣"
+  },
+  {
+    "word": "phenomenon",
+    "kk": "[fəˋnɑmə͵nɑn]",
+    "pos": "",
+    "meaning": "n.現象[C]",
+    "en": "phenomenon",
+    "zh": "n.現象[C]"
+  },
+  {
+    "word": "philosopher",
+    "kk": "[fəˋlɑsəfɚ]",
+    "pos": "",
+    "meaning": "n.哲學家",
+    "en": "philosopher",
+    "zh": "n.哲學家"
+  },
+  {
+    "word": "philosophical",
+    "kk": "[͵fɪləˋsɑfɪk!]",
+    "pos": "",
+    "meaning": "a.哲學的,冷",
+    "en": "philosophical",
+    "zh": "a.哲學的,冷"
+  },
+  {
+    "word": "philosophy",
+    "kk": "[fəˋlɑsəfɪ]",
+    "pos": "",
+    "meaning": "n.哲學[U]；人生觀；",
+    "en": "philosophy",
+    "zh": "n.哲學[U]；人生觀；"
+  },
+  {
+    "word": "主義",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "[C]",
+    "en": "主義",
+    "zh": "[C]"
+  },
+  {
+    "word": "photography",
+    "kk": "[fəˋtɑgrəfɪ]",
+    "pos": "",
+    "meaning": "n.攝影術[U]",
+    "en": "photography",
+    "zh": "n.攝影術[U]"
+  },
+  {
+    "word": "physical",
+    "kk": "[ˋfɪzɪk!]",
+    "pos": "",
+    "meaning": "a.身體的，肉體的；物理(學)",
+    "en": "physical",
+    "zh": "a.身體的，肉體的；物理(學)"
+  },
+  {
+    "word": "physician",
+    "kk": "[fɪˋzɪʃən]",
+    "pos": "",
+    "meaning": "n.醫師；內科醫生",
+    "en": "physician",
+    "zh": "n.醫師；內科醫生"
+  },
+  {
+    "word": "physicist",
+    "kk": "[ˋfɪzɪsɪst]",
+    "pos": "",
+    "meaning": "n.物理學家",
+    "en": "physicist",
+    "zh": "n.物理學家"
+  },
+  {
+    "word": "physics",
+    "kk": "[ˋfɪzɪks]",
+    "pos": "",
+    "meaning": "n.物理學",
+    "en": "physics",
+    "zh": "n.物理學"
+  },
+  {
+    "word": "pianist",
+    "kk": "[pɪˋænɪst]",
+    "pos": "",
+    "meaning": "n.鋼琴家；鋼琴演奏者",
+    "en": "pianist",
+    "zh": "n.鋼琴家；鋼琴演奏者"
+  },
+  {
+    "word": "pickpocket",
+    "kk": "[ˋpɪk͵pɑkɪt]",
+    "pos": "",
+    "meaning": "n.扒手",
+    "en": "pickpocket",
+    "zh": "n.扒手"
+  },
+  {
+    "word": "pioneer",
+    "kk": "[͵paɪəˋnɪr]",
+    "pos": "",
+    "meaning": "n.拓荒者；先驅者",
+    "en": "pioneer",
+    "zh": "n.拓荒者；先驅者"
+  },
+  {
+    "word": "pirate",
+    "kk": "[ˋpaɪrət]",
+    "pos": "",
+    "meaning": "n.海盜；劫掠者；剽竊者；盜",
+    "en": "pirate",
+    "zh": "n.海盜；劫掠者；剽竊者；盜"
+  },
+  {
+    "word": "plentiful",
+    "kk": "[ˋplɛntɪfəl]",
+    "pos": "",
+    "meaning": "a.豐富的，充足的",
+    "en": "plentiful",
+    "zh": "a.豐富的，充足的"
+  },
+  {
+    "word": "plot",
+    "kk": "[plɑt]",
+    "pos": "",
+    "meaning": "n.陰謀；祕密計畫；(小說，戲劇",
+    "en": "plot",
+    "zh": "n.陰謀；祕密計畫；(小說，戲劇"
+  },
+  {
+    "word": "plural",
+    "kk": "[ˋplʊrəl]",
+    "pos": "",
+    "meaning": "n.複數[U]  a.【文】複數的",
+    "en": "plural",
+    "zh": "n.複數[U]  a.【文】複數的"
+  },
+  {
+    "word": "p.m./pm/P.M./PM",
+    "kk": "[ˋpiˋɛm]",
+    "pos": "",
+    "meaning": "",
+    "en": "p.m./pm/P.M./PM",
+    "zh": ""
+  },
+  {
+    "word": "poisonous",
+    "kk": "[ˋpɔɪznəs]",
+    "pos": "",
+    "meaning": "a.有毒的；有害的",
+    "en": "poisonous",
+    "zh": "a.有毒的；有害的"
+  },
+  {
+    "word": "polish",
+    "kk": "[ˋpɑlɪʃ]",
+    "pos": "",
+    "meaning": "vt.vi.磨光，擦亮   n.磨光粉；",
+    "en": "polish",
+    "zh": "vt.vi.磨光，擦亮   n.磨光粉；"
+  },
+  {
+    "word": "pollution",
+    "kk": "[pəˋluʃən]",
+    "pos": "",
+    "meaning": "n.汙染",
+    "en": "pollution",
+    "zh": "n.汙染"
+  },
+  {
+    "word": "popularity",
+    "kk": "[͵pɑpjəˋlærətɪ]",
+    "pos": "",
+    "meaning": "n.普及；大眾化；",
+    "en": "popularity",
+    "zh": "n.普及；大眾化；"
+  },
+  {
+    "word": "portable",
+    "kk": "[ˋportəb!]",
+    "pos": "",
+    "meaning": "a.手提式的；輕便的",
+    "en": "portable",
+    "zh": "a.手提式的；輕便的"
+  },
+  {
+    "word": "porter",
+    "kk": "[ˋportɚ]",
+    "pos": "",
+    "meaning": "n.(車站，機場等的)搬運工人，",
+    "en": "porter",
+    "zh": "n.(車站，機場等的)搬運工人，"
+  },
+  {
+    "word": "portray",
+    "kk": "[porˋtre]",
+    "pos": "",
+    "meaning": "vt.畫(人物，風景等)；(用語",
+    "en": "portray",
+    "zh": "vt.畫(人物，風景等)；(用語"
+  },
+  {
+    "word": "possess",
+    "kk": "[pəˋzɛs]",
+    "pos": "",
+    "meaning": "vt.擁有，持有；具有；佔有",
+    "en": "possess",
+    "zh": "vt.擁有，持有；具有；佔有"
+  },
+  {
+    "word": "possession",
+    "kk": "[pəˋzɛʃən]",
+    "pos": "",
+    "meaning": "n.擁有；佔有[U]；所",
+    "en": "possession",
+    "zh": "n.擁有；佔有[U]；所"
+  },
+  {
+    "word": "precise",
+    "kk": "[prɪˋsaɪs]",
+    "pos": "",
+    "meaning": "a.精準的；確切的；恰好的",
+    "en": "precise",
+    "zh": "a.精準的；確切的；恰好的"
+  },
+  {
+    "word": "predict",
+    "kk": "[prɪˋdɪkt]",
+    "pos": "",
+    "meaning": "vt.vi.預言；預料；預報",
+    "en": "predict",
+    "zh": "vt.vi.預言；預料；預報"
+  },
+  {
+    "word": "preferable",
+    "kk": "[ˋprɛfərəb!]",
+    "pos": "",
+    "meaning": "a.更好的，更合意的",
+    "en": "preferable",
+    "zh": "a.更好的，更合意的"
+  },
+  {
+    "word": "",
+    "kk": "[(+to)]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "pregnancy",
+    "kk": "[ˋprɛgnənsɪ]",
+    "pos": "",
+    "meaning": "n.懷孕",
+    "en": "pregnancy",
+    "zh": "n.懷孕"
+  },
+  {
+    "word": "pregnant",
+    "kk": "[ˋprɛgnənt]",
+    "pos": "",
+    "meaning": "a.懷孕的，懷胎的",
+    "en": "pregnant",
+    "zh": "a.懷孕的，懷胎的"
+  },
+  {
+    "word": "preposition",
+    "kk": "[͵prɛpəˋzɪʃən]",
+    "pos": "",
+    "meaning": "n.【文】介系詞，",
+    "en": "preposition",
+    "zh": "n.【文】介系詞，"
+  },
+  {
+    "word": "presentation",
+    "kk": "[͵prizɛnˋteʃən]",
+    "pos": "",
+    "meaning": "n.贈送；顯示；演",
+    "en": "presentation",
+    "zh": "n.贈送；顯示；演"
+  },
+  {
+    "word": "preservation",
+    "kk": "[͵prɛzɚˋveʃən]",
+    "pos": "",
+    "meaning": "n.保護；保存；",
+    "en": "preservation",
+    "zh": "n.保護；保存；"
+  },
+  {
+    "word": "preserve",
+    "kk": "[prɪˋzɝv]",
+    "pos": "",
+    "meaning": "vt.vi.保存，保藏；維護",
+    "en": "preserve",
+    "zh": "vt.vi.保存，保藏；維護"
+  },
+  {
+    "word": "prevention",
+    "kk": "[prɪˋvɛnʃən]",
+    "pos": "",
+    "meaning": "n.預防，防止[U]",
+    "en": "prevention",
+    "zh": "n.預防，防止[U]"
+  },
+  {
+    "word": "prime",
+    "kk": "[praɪm]",
+    "pos": "",
+    "meaning": "a.最初的；原始的；主要的；",
+    "en": "prime",
+    "zh": "a.最初的；原始的；主要的；"
+  },
+  {
+    "word": "primitive",
+    "kk": "[ˋprɪmətɪv]",
+    "pos": "",
+    "meaning": "a.原始的；遠古的",
+    "en": "primitive",
+    "zh": "a.原始的；遠古的"
+  },
+  {
+    "word": "privacy",
+    "kk": "[ˋpraɪvəsɪ]",
+    "pos": "",
+    "meaning": "n.私下；私事；私生活；",
+    "en": "privacy",
+    "zh": "n.私下；私事；私生活；"
+  },
+  {
+    "word": "隱私",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "隱私",
+    "zh": ""
+  },
+  {
+    "word": "privilege",
+    "kk": "[ˋprɪv!ɪdʒ]",
+    "pos": "",
+    "meaning": "n.特權；優特",
+    "en": "privilege",
+    "zh": "n.特權；優特"
+  },
+  {
+    "word": "procedure",
+    "kk": "[prəˋsidʒɚ]",
+    "pos": "",
+    "meaning": "n.程序；手續；步驟",
+    "en": "procedure",
+    "zh": "n.程序；手續；步驟"
+  },
+  {
+    "word": "proceed",
+    "kk": "[prəˋsid]",
+    "pos": "",
+    "meaning": "vt.vi.繼續進行；開始，著",
+    "en": "proceed",
+    "zh": "vt.vi.繼續進行；開始，著"
+  },
+  {
+    "word": "production",
+    "kk": "[prəˋdʌkʃən]",
+    "pos": "",
+    "meaning": "n.生產；製作[U]",
+    "en": "production",
+    "zh": "n.生產；製作[U]"
+  },
+  {
+    "word": "productive",
+    "kk": "[prəˋdʌktɪv]",
+    "pos": "",
+    "meaning": "a.生產的；多產的；",
+    "en": "productive",
+    "zh": "a.生產的；多產的；"
+  },
+  {
+    "word": "profession",
+    "kk": "[prəˋfɛʃən]",
+    "pos": "",
+    "meaning": "n.(尤指受過良好教育",
+    "en": "profession",
+    "zh": "n.(尤指受過良好教育"
+  },
+  {
+    "word": "業",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "業",
+    "zh": ""
+  },
+  {
+    "word": "professional",
+    "kk": "[prəˋfɛʃən!]",
+    "pos": "",
+    "meaning": "n.職業選手；專家，",
+    "en": "professional",
+    "zh": "n.職業選手；專家，"
+  },
+  {
+    "word": "professor",
+    "kk": "[prəˋfɛsɚ]",
+    "pos": "",
+    "meaning": "n.教授",
+    "en": "professor",
+    "zh": "n.教授"
+  },
+  {
+    "word": "profitable",
+    "kk": "[ˋprɑfɪtəb!]",
+    "pos": "",
+    "meaning": "a.有利的，贏利的；有",
+    "en": "profitable",
+    "zh": "a.有利的，贏利的；有"
+  },
+  {
+    "word": "prominent",
+    "kk": "[ˋprɑmənənt]",
+    "pos": "",
+    "meaning": "a.突出的；顯著的；",
+    "en": "prominent",
+    "zh": "a.突出的；顯著的；"
+  },
+  {
+    "word": "promising",
+    "kk": "[ˋprɑmɪsɪŋ]",
+    "pos": "",
+    "meaning": "a.有希望的，有前途的",
+    "en": "promising",
+    "zh": "a.有希望的，有前途的"
+  },
+  {
+    "word": "promotion",
+    "kk": "[prəˋmoʃən]",
+    "pos": "",
+    "meaning": "n.晉級；發揚；提倡；",
+    "en": "promotion",
+    "zh": "n.晉級；發揚；提倡；"
+  },
+  {
+    "word": "促銷",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "促銷",
+    "zh": ""
+  },
+  {
+    "word": "prompt1",
+    "kk": "[prɑmpt]",
+    "pos": "a.",
+    "meaning": "敏捷的，及時的，迅速",
+    "en": "prompt1",
+    "zh": "敏捷的，及時的，迅速"
+  },
+  {
+    "word": "prompt2",
+    "kk": "[prɑmpt]",
+    "pos": "vt..",
+    "meaning": "促使；激勵；慫恿",
+    "en": "prompt2",
+    "zh": "促使；激勵；慫恿"
+  },
+  {
+    "word": "pronoun",
+    "kk": "[ˋpronaʊn]",
+    "pos": "",
+    "meaning": "n.【文】代名詞",
+    "en": "pronoun",
+    "zh": "n.【文】代名詞"
+  },
+  {
+    "word": "pronunciation",
+    "kk": "[prə͵nʌnsɪˋeʃən]",
+    "pos": "",
+    "meaning": "n.發音；發音",
+    "en": "pronunciation",
+    "zh": "n.發音；發音"
+  },
+  {
+    "word": "prosper",
+    "kk": "[ˋprɑspɚ]",
+    "pos": "",
+    "meaning": "vi.vt.(使)繁榮，(使)昌盛；",
+    "en": "prosper",
+    "zh": "vi.vt.(使)繁榮，(使)昌盛；"
+  },
+  {
+    "word": "prosperity",
+    "kk": "[prɑsˋpɛrətɪ]",
+    "pos": "",
+    "meaning": "n.興旺，繁榮，昌盛，",
+    "en": "prosperity",
+    "zh": "n.興旺，繁榮，昌盛，"
+  },
+  {
+    "word": "成功",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "成功",
+    "zh": ""
+  },
+  {
+    "word": "prosperous",
+    "kk": "[ˋprɑspərəs]",
+    "pos": "",
+    "meaning": "a.興旺的，繁榮的，",
+    "en": "prosperous",
+    "zh": "a.興旺的，繁榮的，"
+  },
+  {
+    "word": "protein",
+    "kk": "[ˋprotiɪn]",
+    "pos": "",
+    "meaning": "n.蛋白質",
+    "en": "protein",
+    "zh": "n.蛋白質"
+  },
+  {
+    "word": "protest",
+    "kk": "[prəˋtɛst]",
+    "pos": "",
+    "meaning": "vi.抗議，反對  [ˋprotɛst] n.",
+    "en": "protest",
+    "zh": "vi.抗議，反對  [ˋprotɛst] n."
+  },
+  {
+    "word": "proverb",
+    "kk": "[ˋprɑvɝb]",
+    "pos": "",
+    "meaning": "n.諺語，俗語",
+    "en": "proverb",
+    "zh": "n.諺語，俗語"
+  },
+  {
+    "word": "psychological",
+    "kk": "[͵saɪkəˋlɑdʒɪk!]",
+    "pos": "",
+    "meaning": "a.心理學的",
+    "en": "psychological",
+    "zh": "a.心理學的"
+  },
+  {
+    "word": "psychologist",
+    "kk": "[saɪˋkɑlədʒɪst]",
+    "pos": "",
+    "meaning": "n.心理學家",
+    "en": "psychologist",
+    "zh": "n.心理學家"
+  },
+  {
+    "word": "psychology",
+    "kk": "[saɪˋkɑlədʒɪ]",
+    "pos": "",
+    "meaning": "n.心理學[U]",
+    "en": "psychology",
+    "zh": "n.心理學[U]"
+  },
+  {
+    "word": "publication",
+    "kk": "[͵pʌblɪˋkeʃən]",
+    "pos": "",
+    "meaning": "n.出版；發行[U]；",
+    "en": "publication",
+    "zh": "n.出版；發行[U]；"
+  },
+  {
+    "word": "出版物；刊物",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "出版物；刊物",
+    "zh": ""
+  },
+  {
+    "word": "publicity",
+    "kk": "[pʌbˋlɪsətɪ]",
+    "pos": "",
+    "meaning": "n.(公眾的)注意，名聲；",
+    "en": "publicity",
+    "zh": "n.(公眾的)注意，名聲；"
+  },
+  {
+    "word": "publish",
+    "kk": "[ˋpʌblɪʃ]",
+    "pos": "",
+    "meaning": "vt.vi.出版；發行",
+    "en": "publish",
+    "zh": "vt.vi.出版；發行"
+  },
+  {
+    "word": "publisher",
+    "kk": "[ˋpʌblɪʃɚ]",
+    "pos": "",
+    "meaning": "n.出版(或發行)者",
+    "en": "publisher",
+    "zh": "n.出版(或發行)者"
+  },
+  {
+    "word": "pursuit",
+    "kk": "[pɚˋsut]",
+    "pos": "",
+    "meaning": "n.追蹤，追擊；追求，尋求",
+    "en": "pursuit",
+    "zh": "n.追蹤，追擊；追求，尋求"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "[(+of)]",
+    "en": "",
+    "zh": "[(+of)]"
+  },
+  {
+    "word": "quake",
+    "kk": "[kwek]",
+    "pos": "",
+    "meaning": "n.vi.顫抖，哆嗦；震動",
+    "en": "quake",
+    "zh": "n.vi.顫抖，哆嗦；震動"
+  },
+  {
+    "word": "quilt",
+    "kk": "[kwɪlt]",
+    "pos": "",
+    "meaning": "n.被(子)；被褥",
+    "en": "quilt",
+    "zh": "n.被(子)；被褥"
+  },
+  {
+    "word": "quotation",
+    "kk": "[kwoˋteʃən]",
+    "pos": "",
+    "meaning": "n.引用，引證[U]；引",
+    "en": "quotation",
+    "zh": "n.引用，引證[U]；引"
+  },
+  {
+    "word": "文；語錄",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "文；語錄",
+    "zh": ""
+  },
+  {
+    "word": "rage",
+    "kk": "[redʒ]",
+    "pos": "",
+    "meaning": "n.(一陣)狂怒，盛怒  vi.發怒，",
+    "en": "rage",
+    "zh": "n.(一陣)狂怒，盛怒  vi.發怒，"
+  },
+  {
+    "word": "rainfall",
+    "kk": "[ˋren͵fɔl]",
+    "pos": "",
+    "meaning": "n.降雨，下雨",
+    "en": "rainfall",
+    "zh": "n.降雨，下雨"
+  },
+  {
+    "word": "realistic",
+    "kk": "[rɪəˋlɪstɪk]",
+    "pos": "",
+    "meaning": "a.現實的，注重實際的；",
+    "en": "realistic",
+    "zh": "a.現實的，注重實際的；"
+  },
+  {
+    "word": "rebel",
+    "kk": "[rɪˋbɛl]",
+    "pos": "vi",
+    "meaning": "造反；反叛",
+    "en": "rebel",
+    "zh": "造反；反叛"
+  },
+  {
+    "word": "",
+    "kk": "[ˋrɛb!]",
+    "pos": "",
+    "meaning": "n.造反者；反抗者",
+    "en": "",
+    "zh": "n.造反者；反抗者"
+  },
+  {
+    "word": "recall",
+    "kk": "[rɪˋkɔl]",
+    "pos": "",
+    "meaning": "n.vt.vi.回想，回憶",
+    "en": "recall",
+    "zh": "n.vt.vi.回想，回憶"
+  },
+  {
+    "word": "reception",
+    "kk": "[rɪˋsɛpʃən]",
+    "pos": "",
+    "meaning": "n.接收；接待；歡迎；",
+    "en": "reception",
+    "zh": "n.接收；接待；歡迎；"
+  },
+  {
+    "word": "recipe",
+    "kk": "[ˋrɛsəpɪ]",
+    "pos": "",
+    "meaning": "n.食譜",
+    "en": "recipe",
+    "zh": "n.食譜"
+  },
+  {
+    "word": "recite",
+    "kk": "[riˋsaɪt]",
+    "pos": "",
+    "meaning": "vt.vi.背誦；朗誦",
+    "en": "recite",
+    "zh": "vt.vi.背誦；朗誦"
+  },
+  {
+    "word": "recognition",
+    "kk": "[͵rɛkəgˋnɪʃən]",
+    "pos": "",
+    "meaning": "n.認出，識別；認",
+    "en": "recognition",
+    "zh": "n.認出，識別；認"
+  },
+  {
+    "word": "可",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "可",
+    "zh": ""
+  },
+  {
+    "word": "recovery",
+    "kk": "[rɪˋkʌvərɪ]",
+    "pos": "",
+    "meaning": "n.重獲；恢復，復甦",
+    "en": "recovery",
+    "zh": "n.重獲；恢復，復甦"
+  },
+  {
+    "word": "recreation",
+    "kk": "[͵rɛkrɪˋeʃən]",
+    "pos": "",
+    "meaning": "n.消遣；娛樂",
+    "en": "recreation",
+    "zh": "n.消遣；娛樂"
+  },
+  {
+    "word": "recycle",
+    "kk": "[riˋsaɪk!]",
+    "pos": "",
+    "meaning": "vt.使再循環；再利用",
+    "en": "recycle",
+    "zh": "vt.使再循環；再利用"
+  },
+  {
+    "word": "reduction",
+    "kk": "[rɪˋdʌkʃən]",
+    "pos": "",
+    "meaning": "n.減少；削減；【數】簡",
+    "en": "reduction",
+    "zh": "n.減少；削減；【數】簡"
+  },
+  {
+    "word": "refer",
+    "kk": "[rɪˋfɝ]",
+    "pos": "",
+    "meaning": "vt.把…歸因於；將…提交",
+    "en": "refer",
+    "zh": "vt.把…歸因於；將…提交"
+  },
+  {
+    "word": "",
+    "kk": "[(+to)]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "vi.談到；查閱，參考；打聽；涉及",
+    "kk": "[(+to)]",
+    "pos": "",
+    "meaning": "",
+    "en": "vi.談到；查閱，參考；打聽；涉及",
+    "zh": ""
+  },
+  {
+    "word": "reference",
+    "kk": "[ˋrɛfərəns]",
+    "pos": "",
+    "meaning": "n.提及；提交；參考",
+    "en": "reference",
+    "zh": "n.提及；提交；參考"
+  },
+  {
+    "word": "reflect",
+    "kk": "[rɪˋflɛkt]",
+    "pos": "",
+    "meaning": "vt.vi.反射；思考，反省",
+    "en": "reflect",
+    "zh": "vt.vi.反射；思考，反省"
+  },
+  {
+    "word": "reflection",
+    "kk": "[rɪˋflɛkʃən]",
+    "pos": "",
+    "meaning": "n.反射；回響；深思，",
+    "en": "reflection",
+    "zh": "n.反射；回響；深思，"
+  },
+  {
+    "word": "reform",
+    "kk": "[͵rɪˋfɔrm]",
+    "pos": "",
+    "meaning": "n.vt.改革，革新",
+    "en": "reform",
+    "zh": "n.vt.改革，革新"
+  },
+  {
+    "word": "refresh",
+    "kk": "[rɪˋfrɛʃ]",
+    "pos": "",
+    "meaning": "vt.vi.(使)清新；消除(…)疲勞",
+    "en": "refresh",
+    "zh": "vt.vi.(使)清新；消除(…)疲勞"
+  },
+  {
+    "word": "refugee",
+    "kk": "[͵rɛfjʊˋdʒi]",
+    "pos": "",
+    "meaning": "n.難民；流亡者",
+    "en": "refugee",
+    "zh": "n.難民；流亡者"
+  },
+  {
+    "word": "refusal",
+    "kk": "[rɪˋfjuz!]",
+    "pos": "",
+    "meaning": "n.拒絕[U][C][+to-v]",
+    "en": "refusal",
+    "zh": "n.拒絕[U][C][+to-v]"
+  },
+  {
+    "word": "regarding",
+    "kk": "[rɪˋgɑrdɪŋ]",
+    "pos": "",
+    "meaning": "prep.關於；就…而論",
+    "en": "regarding",
+    "zh": "prep.關於；就…而論"
+  },
+  {
+    "word": "register",
+    "kk": "[ˋrɛdʒɪstɚ]",
+    "pos": "",
+    "meaning": "n.vt.vi.登記，註冊",
+    "en": "register",
+    "zh": "n.vt.vi.登記，註冊"
+  },
+  {
+    "word": "registration",
+    "kk": "[͵rɛdʒɪˋstreʃən]",
+    "pos": "",
+    "meaning": "n.登記，註冊，掛",
+    "en": "registration",
+    "zh": "n.登記，註冊，掛"
+  },
+  {
+    "word": "號",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "號",
+    "zh": ""
+  },
+  {
+    "word": "regulate",
+    "kk": "[ˋrɛgjə͵let]",
+    "pos": "",
+    "meaning": "vt.vi.管理；控制；校準；",
+    "en": "regulate",
+    "zh": "vt.vi.管理；控制；校準；"
+  },
+  {
+    "word": "regulation",
+    "kk": "[͵rɛgjəˋleʃən]",
+    "pos": "",
+    "meaning": "n.規章；規則[C]；管",
+    "en": "regulation",
+    "zh": "n.規章；規則[C]；管"
+  },
+  {
+    "word": "rejection",
+    "kk": "[rɪˋdʒɛkʃən]",
+    "pos": "",
+    "meaning": "n.拒絕；退回；【醫】",
+    "en": "rejection",
+    "zh": "n.拒絕；退回；【醫】"
+  },
+  {
+    "word": "排斥",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "排斥",
+    "zh": ""
+  },
+  {
+    "word": "relative1",
+    "kk": "[ˋrɛlətɪv]",
+    "pos": "",
+    "meaning": "n.親戚，親屬；【文】關係",
+    "en": "relative1",
+    "zh": "n.親戚，親屬；【文】關係"
+  },
+  {
+    "word": "relative2",
+    "kk": "[ˋrɛlətɪv]",
+    "pos": "",
+    "meaning": "a.相對的，比較的；",
+    "en": "relative2",
+    "zh": "a.相對的，比較的；"
+  },
+  {
+    "word": "relaxation",
+    "kk": "[͵rilæksˋeʃən]",
+    "pos": "",
+    "meaning": "n.鬆弛，放鬆[U]",
+    "en": "relaxation",
+    "zh": "n.鬆弛，放鬆[U]"
+  },
+  {
+    "word": "relieve",
+    "kk": "[rɪˋliv]",
+    "pos": "",
+    "meaning": "vt.vi.緩和，減輕；解除",
+    "en": "relieve",
+    "zh": "vt.vi.緩和，減輕；解除"
+  },
+  {
+    "word": "reluctant",
+    "kk": "[rɪˋlʌktənt]",
+    "pos": "",
+    "meaning": "a.不情願的；勉強的",
+    "en": "reluctant",
+    "zh": "a.不情願的；勉強的"
+  },
+  {
+    "word": "remark",
+    "kk": "[rɪˋmɑrk]",
+    "pos": "",
+    "meaning": "vi.n.談到；評論；說；注意；",
+    "en": "remark",
+    "zh": "vi.n.談到；評論；說；注意；"
+  },
+  {
+    "word": "remarkable",
+    "kk": "[rɪˋmɑrkəb!]",
+    "pos": "",
+    "meaning": "a.值得注意的；非凡",
+    "en": "remarkable",
+    "zh": "a.值得注意的；非凡"
+  },
+  {
+    "word": "remedy",
+    "kk": "[ˋrɛmədɪ]",
+    "pos": "",
+    "meaning": "n.治療；治療法；藥物",
+    "en": "remedy",
+    "zh": "n.治療；治療法；藥物"
+  },
+  {
+    "word": "repetition",
+    "kk": "[͵rɛpɪˋtɪʃən]",
+    "pos": "",
+    "meaning": "n.重複；反覆",
+    "en": "repetition",
+    "zh": "n.重複；反覆"
+  },
+  {
+    "word": "representation",
+    "kk": "[͵rɛprɪzɛnˋteʃən]",
+    "pos": "",
+    "meaning": "n.代表；代表",
+    "en": "representation",
+    "zh": "n.代表；代表"
+  },
+  {
+    "word": "權",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "；表示，表現",
+    "en": "權",
+    "zh": "；表示，表現"
+  },
+  {
+    "word": "reputation",
+    "kk": "[͵rɛpjəˋteʃən]",
+    "pos": "",
+    "meaning": "n.名譽，名聲",
+    "en": "reputation",
+    "zh": "n.名譽，名聲"
+  },
+  {
+    "word": "rescue",
+    "kk": "[ˋrɛskju]",
+    "pos": "",
+    "meaning": "n.vt.援救；營救",
+    "en": "rescue",
+    "zh": "n.vt.援救；營救"
+  },
+  {
+    "word": "research",
+    "kk": "[rɪˋsɝtʃ]",
+    "pos": "",
+    "meaning": "n.vi.vt.(學術)研究；調查，",
+    "en": "research",
+    "zh": "n.vi.vt.(學術)研究；調查，"
+  },
+  {
+    "word": "researcher",
+    "kk": "[riˋsɝtʃɚ]",
+    "pos": "",
+    "meaning": "n.研究員；調查者",
+    "en": "researcher",
+    "zh": "n.研究員；調查者"
+  },
+  {
+    "word": "resemble",
+    "kk": "[rɪˋzɛmb!]",
+    "pos": "",
+    "meaning": "vt.像，類似",
+    "en": "resemble",
+    "zh": "vt.像，類似"
+  },
+  {
+    "word": "reservation",
+    "kk": "[͵rɛzɚˋveʃən]",
+    "pos": "",
+    "meaning": "n.保留(意見)；(公",
+    "en": "reservation",
+    "zh": "n.保留(意見)；(公"
+  },
+  {
+    "word": "resign",
+    "kk": "[rɪˋzaɪn]",
+    "pos": "",
+    "meaning": "vt.vi.放棄，辭職",
+    "en": "resign",
+    "zh": "vt.vi.放棄，辭職"
+  },
+  {
+    "word": "resignation",
+    "kk": "[͵rɛzɪgˋneʃən]",
+    "pos": "",
+    "meaning": "n.辭職；放棄；辭",
+    "en": "resignation",
+    "zh": "n.辭職；放棄；辭"
+  },
+  {
+    "word": "呈",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "呈",
+    "zh": ""
+  },
+  {
+    "word": "resistance",
+    "kk": "[rɪˋzɪstəns]",
+    "pos": "",
+    "meaning": "n.抵抗，反抗，抵抗力；",
+    "en": "resistance",
+    "zh": "n.抵抗，反抗，抵抗力；"
+  },
+  {
+    "word": "resolution",
+    "kk": "[͵rɛzəˋluʃən]",
+    "pos": "",
+    "meaning": "n.決心；決定",
+    "en": "resolution",
+    "zh": "n.決心；決定"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "[+to-v]；",
+    "en": "",
+    "zh": "[+to-v]；"
+  },
+  {
+    "word": "resolve",
+    "kk": "[rɪˋzɑlv]",
+    "pos": "",
+    "meaning": "vt.vi.決心，決定；解決;解",
+    "en": "resolve",
+    "zh": "vt.vi.決心，決定；解決;解"
+  },
+  {
+    "word": "respectable",
+    "kk": "[rɪˋspɛktəb!]",
+    "pos": "",
+    "meaning": "a.值得尊敬的",
+    "en": "respectable",
+    "zh": "a.值得尊敬的"
+  },
+  {
+    "word": "respectful",
+    "kk": "[rɪˋspɛktfəl]",
+    "pos": "",
+    "meaning": "a.恭敬的；尊敬人的",
+    "en": "respectful",
+    "zh": "a.恭敬的；尊敬人的"
+  },
+  {
+    "word": "restore",
+    "kk": "[rɪˋstor]",
+    "pos": "",
+    "meaning": "vt.vi.恢復；使復原；修復，",
+    "en": "restore",
+    "zh": "vt.vi.恢復；使復原；修復，"
+  },
+  {
+    "word": "restriction",
+    "kk": "[rɪˋstrɪkʃən]",
+    "pos": "",
+    "meaning": "n.限制；約束",
+    "en": "restriction",
+    "zh": "n.限制；約束"
+  },
+  {
+    "word": "retain",
+    "kk": "[rɪˋten]",
+    "pos": "",
+    "meaning": "vt.保留，保持",
+    "en": "retain",
+    "zh": "vt.保留，保持"
+  },
+  {
+    "word": "retire",
+    "kk": "[rɪˋtaɪr]",
+    "pos": "",
+    "meaning": "vt.vi.(使)退休；(令)退役",
+    "en": "retire",
+    "zh": "vt.vi.(使)退休；(令)退役"
+  },
+  {
+    "word": "retirement",
+    "kk": "[rɪˋtaɪrmənt]",
+    "pos": "",
+    "meaning": "n.退休；退職",
+    "en": "retirement",
+    "zh": "n.退休；退職"
+  },
+  {
+    "word": "retreat",
+    "kk": "[rɪˋtrit]",
+    "pos": "",
+    "meaning": "n.撤退；隱退處；休養所",
+    "en": "retreat",
+    "zh": "n.撤退；隱退處；休養所"
+  },
+  {
+    "word": "reunion",
+    "kk": "[riˋjunjən]",
+    "pos": "",
+    "meaning": "n.再聯合；(親友等的)團",
+    "en": "reunion",
+    "zh": "n.再聯合；(親友等的)團"
+  },
+  {
+    "word": "revenge",
+    "kk": "[rɪˋvɛndʒ]",
+    "pos": "",
+    "meaning": "vt.替…報仇[(+on/upon)]",
+    "en": "revenge",
+    "zh": "vt.替…報仇[(+on/upon)]"
+  },
+  {
+    "word": "n.報仇；報復",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "[(+for/on)]",
+    "en": "n.報仇；報復",
+    "zh": "[(+for/on)]"
+  },
+  {
+    "word": "revise",
+    "kk": "[rɪˋvaɪz]",
+    "pos": "",
+    "meaning": "vt.vi.修訂；校訂",
+    "en": "revise",
+    "zh": "vt.vi.修訂；校訂"
+  },
+  {
+    "word": "revision",
+    "kk": "[rɪˋvɪʒən]",
+    "pos": "",
+    "meaning": "n.修訂；修訂本，訂正版",
+    "en": "revision",
+    "zh": "n.修訂；修訂本，訂正版"
+  },
+  {
+    "word": "",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "revolution",
+    "kk": "[͵rɛvəˋluʃən]",
+    "pos": "",
+    "meaning": "n.革命；(天體的)運",
+    "en": "revolution",
+    "zh": "n.革命；(天體的)運"
+  },
+  {
+    "word": "revolutionary",
+    "kk": "[͵rɛvəˋluʃən͵ɛrɪ]",
+    "pos": "",
+    "meaning": "a.革命的",
+    "en": "revolutionary",
+    "zh": "a.革命的"
+  },
+  {
+    "word": "reward",
+    "kk": "[rɪˋwɔrd]",
+    "pos": "",
+    "meaning": "n.vt.報答；報償；獎賞",
+    "en": "reward",
+    "zh": "n.vt.報答；報償；獎賞"
+  },
+  {
+    "word": "rhyme",
+    "kk": "[raɪm]",
+    "pos": "",
+    "meaning": "n.韻，韻腳  vi.押韻",
+    "en": "rhyme",
+    "zh": "n.韻，韻腳  vi.押韻"
+  },
+  {
+    "word": "rhythm",
+    "kk": "[ˋrɪðəm]",
+    "pos": "",
+    "meaning": "n.節奏；韻律[U]；節拍[C]",
+    "en": "rhythm",
+    "zh": "n.節奏；韻律[U]；節拍[C]"
+  },
+  {
+    "word": "romance",
+    "kk": "[roˋmæns]",
+    "pos": "",
+    "meaning": "n.愛情小說；浪漫情調",
+    "en": "romance",
+    "zh": "n.愛情小說；浪漫情調"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "roughly",
+    "kk": "[ˋrʌflɪ]",
+    "pos": "",
+    "meaning": "adv.粗糙地；粗略地；大體上；",
+    "en": "roughly",
+    "zh": "adv.粗糙地；粗略地；大體上；"
+  },
+  {
+    "word": "route",
+    "kk": "[rut]",
+    "pos": "",
+    "meaning": "n.路；路線；航線[C]",
+    "en": "route",
+    "zh": "n.路；路線；航線[C]"
+  },
+  {
+    "word": "ruin",
+    "kk": "[ˋrʊɪn]",
+    "pos": "",
+    "meaning": "n.毀滅；崩潰；毀壞[U]；廢墟；",
+    "en": "ruin",
+    "zh": "n.毀滅；崩潰；毀壞[U]；廢墟；"
+  },
+  {
+    "word": "遺跡",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "遺跡",
+    "zh": ""
+  },
+  {
+    "word": "rural",
+    "kk": "[ˋrʊrəl]",
+    "pos": "",
+    "meaning": "a.農村的；田園的",
+    "en": "rural",
+    "zh": "a.農村的；田園的"
+  },
+  {
+    "word": "sacrifice",
+    "kk": "[ˋsækrə͵faɪs]",
+    "pos": "",
+    "meaning": "n.(供神的)牲禮，祭品；",
+    "en": "sacrifice",
+    "zh": "n.(供神的)牲禮，祭品；"
+  },
+  {
+    "word": "salary",
+    "kk": "[ˋsælərɪ]",
+    "pos": "",
+    "meaning": "n.薪資，薪水",
+    "en": "salary",
+    "zh": "n.薪資，薪水"
+  },
+  {
+    "word": "salesperson",
+    "kk": "[ˋselz͵pɚsn]",
+    "pos": "",
+    "meaning": "n.店員，售貨員",
+    "en": "salesperson",
+    "zh": "n.店員，售貨員"
+  },
+  {
+    "word": "saleswoman",
+    "kk": "[ˋselz͵wʊmən]",
+    "pos": "",
+    "meaning": "n.女店員；售貨",
+    "en": "saleswoman",
+    "zh": "n.女店員；售貨"
+  },
+  {
+    "word": "satellite",
+    "kk": "[ˋsæt!͵aɪt]",
+    "pos": "",
+    "meaning": "n.衛星；人造衛星",
+    "en": "satellite",
+    "zh": "n.衛星；人造衛星"
+  },
+  {
+    "word": "satisfaction",
+    "kk": "[͵sætɪsˋfækʃən]",
+    "pos": "",
+    "meaning": "n.滿意，滿足",
+    "en": "satisfaction",
+    "zh": "n.滿意，滿足"
+  },
+  {
+    "word": "scarcely",
+    "kk": "[ˋskɛrslɪ]",
+    "pos": "",
+    "meaning": "adv.幾乎不，幾乎沒有",
+    "en": "scarcely",
+    "zh": "adv.幾乎不，幾乎沒有"
+  },
+  {
+    "word": "scenery",
+    "kk": "[ˋsinərɪ]",
+    "pos": "",
+    "meaning": "n.風景，景色 [U]",
+    "en": "scenery",
+    "zh": "n.風景，景色 [U]"
+  },
+  {
+    "word": "scold",
+    "kk": "[skold]",
+    "pos": "",
+    "meaning": "vt.vi.n.罵，責罵",
+    "en": "scold",
+    "zh": "vt.vi.n.罵，責罵"
+  },
+  {
+    "word": "scratch",
+    "kk": "[skrætʃ]",
+    "pos": "",
+    "meaning": "n.vt.vi.抓；搔；擦；刮",
+    "en": "scratch",
+    "zh": "n.vt.vi.抓；搔；擦；刮"
+  },
+  {
+    "word": "screwdriver",
+    "kk": "[ˋskru͵draɪvɚ]",
+    "pos": "",
+    "meaning": "n.螺絲起子",
+    "en": "screwdriver",
+    "zh": "n.螺絲起子"
+  },
+  {
+    "word": "sculpture",
+    "kk": "[ˋskʌlptʃɚ]",
+    "pos": "",
+    "meaning": "n.雕塑品；雕像[C]；雕",
+    "en": "sculpture",
+    "zh": "n.雕塑品；雕像[C]；雕"
+  },
+  {
+    "word": "刻術",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "刻術",
+    "zh": ""
+  },
+  {
+    "word": "seagull",
+    "kk": "[ˋsigʌl]",
+    "pos": "",
+    "meaning": "n.海鷗(gull)",
+    "en": "seagull",
+    "zh": "n.海鷗(gull)"
+  },
+  {
+    "word": "senior",
+    "kk": "[ˋsinjɚ]",
+    "pos": "",
+    "meaning": "a.年長的，前輩的；四年級生",
+    "en": "senior",
+    "zh": "a.年長的，前輩的；四年級生"
+  },
+  {
+    "word": "settler",
+    "kk": "[ˋsɛtlɚ]",
+    "pos": "",
+    "meaning": "n.移居者；殖民者；(糾紛等",
+    "en": "settler",
+    "zh": "n.移居者；殖民者；(糾紛等"
+  },
+  {
+    "word": "severe",
+    "kk": "[səˋvɪr]",
+    "pos": "a.",
+    "meaning": "嚴重的；劇烈的；嚴厲的；",
+    "en": "severe",
+    "zh": "嚴重的；劇烈的；嚴厲的；"
+  },
+  {
+    "word": "shameful",
+    "kk": "[ˋʃemfəl]",
+    "pos": "",
+    "meaning": "a.可恥的，丟臉的",
+    "en": "shameful",
+    "zh": "a.可恥的，丟臉的"
+  },
+  {
+    "word": "shaver",
+    "kk": "[ˋʃevɚ]",
+    "pos": "",
+    "meaning": "n.理髮師；刮鬍鬚的用具",
+    "en": "shaver",
+    "zh": "n.理髮師；刮鬍鬚的用具"
+  },
+  {
+    "word": "shelter",
+    "kk": "[ˋʃɛltɚ]",
+    "pos": "",
+    "meaning": "n.遮蓋物；躲避處；避難所",
+    "en": "shelter",
+    "zh": "n.遮蓋物；躲避處；避難所"
+  },
+  {
+    "word": "shift",
+    "kk": "[ʃɪft]",
+    "pos": "",
+    "meaning": "vt.vi.轉移；移動；變(速)，換(檔)",
+    "en": "shift",
+    "zh": "vt.vi.轉移；移動；變(速)，換(檔)"
+  },
+  {
+    "word": "shortsighted",
+    "kk": "[ˋʃɔrtˋsaɪtɪd]",
+    "pos": "",
+    "meaning": "a.近視的；目光短淺",
+    "en": "shortsighted",
+    "zh": "a.近視的；目光短淺"
+  },
+  {
+    "word": "shrug",
+    "kk": "[ʃrʌg]",
+    "pos": "",
+    "meaning": "n.vi.vt.(表示疑惑，蔑視，無奈",
+    "en": "shrug",
+    "zh": "n.vi.vt.(表示疑惑，蔑視，無奈"
+  },
+  {
+    "word": "shuttle",
+    "kk": "[ˋʃʌt!]",
+    "pos": "",
+    "meaning": "n.(紡織機的)梭子；接駁車；",
+    "en": "shuttle",
+    "zh": "n.(紡織機的)梭子；接駁車；"
+  },
+  {
+    "word": "sightseeing",
+    "kk": "[ˋsaɪt͵siɪŋ]",
+    "pos": "",
+    "meaning": "n.觀光，遊覽[U]",
+    "en": "sightseeing",
+    "zh": "n.觀光，遊覽[U]"
+  },
+  {
+    "word": "signature",
+    "kk": "[ˋsɪgnətʃɚ]",
+    "pos": "",
+    "meaning": "n.簽名，簽署；(人物)",
+    "en": "signature",
+    "zh": "n.簽名，簽署；(人物)"
+  },
+  {
+    "word": "significance",
+    "kk": "[sɪgˋnɪfəkəns]",
+    "pos": "",
+    "meaning": "n.重要性，重要",
+    "en": "significance",
+    "zh": "n.重要性，重要"
+  },
+  {
+    "word": "",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "",
+    "zh": ""
+  },
+  {
+    "word": "sincerity",
+    "kk": "[sɪnˋsɛrətɪ]",
+    "pos": "",
+    "meaning": "n.真實；誠心誠意",
+    "en": "sincerity",
+    "zh": "n.真實；誠心誠意"
+  },
+  {
+    "word": "singular",
+    "kk": "[ˋsɪŋgjəlɚ]",
+    "pos": "",
+    "meaning": "a.【文】單數的 n.【文】",
+    "en": "singular",
+    "zh": "a.【文】單數的 n.【文】"
+  },
+  {
+    "word": "site",
+    "kk": "[saɪt]",
+    "pos": "",
+    "meaning": "n.地點，場所；【電腦】網點",
+    "en": "site",
+    "zh": "n.地點，場所；【電腦】網點"
+  },
+  {
+    "word": "sketch",
+    "kk": "[skɛtʃ]",
+    "pos": "",
+    "meaning": "n.vt.vi.速寫，素描",
+    "en": "sketch",
+    "zh": "n.vt.vi.速寫，素描"
+  },
+  {
+    "word": "sledge",
+    "kk": "[slɛdʒ]",
+    "pos": "",
+    "meaning": "n.雪橇 vi.乘雪橇 vt.用雪橇",
+    "en": "sledge",
+    "zh": "n.雪橇 vi.乘雪橇 vt.用雪橇"
+  },
+  {
+    "word": "sleigh",
+    "kk": "[sle]",
+    "pos": "",
+    "meaning": "n.雪橇 vi.乘雪橇 vt.用雪橇運送",
+    "en": "sleigh",
+    "zh": "n.雪橇 vi.乘雪橇 vt.用雪橇運送"
+  },
+  {
+    "word": "slight",
+    "kk": "[slaɪt]",
+    "pos": "",
+    "meaning": "a.輕微的；微小的；少量的",
+    "en": "slight",
+    "zh": "a.輕微的；微小的；少量的"
+  },
+  {
+    "word": "slogan",
+    "kk": "[ˋslogən]",
+    "pos": "",
+    "meaning": "n.口號，標語",
+    "en": "slogan",
+    "zh": "n.口號，標語"
+  },
+  {
+    "word": "smog",
+    "kk": "[smɑg]",
+    "pos": "",
+    "meaning": "n.煙霧(= smoke and fog)[U]",
+    "en": "smog",
+    "zh": "n.煙霧(= smoke and fog)[U]"
+  },
+  {
+    "word": "sneeze",
+    "kk": "[sniz]",
+    "pos": "",
+    "meaning": "vi.打噴嚏 n.噴嚏(聲)[C]",
+    "en": "sneeze",
+    "zh": "vi.打噴嚏 n.噴嚏(聲)[C]"
+  },
+  {
+    "word": "sob",
+    "kk": "[sɑb]",
+    "pos": "",
+    "meaning": "vi.vt.n.嗚咽；啜泣",
+    "en": "sob",
+    "zh": "vi.vt.n.嗚咽；啜泣"
+  },
+  {
+    "word": "socket",
+    "kk": "[ˋsɑkɪt]",
+    "pos": "",
+    "meaning": "n.托座，承口；【電】插座；",
+    "en": "socket",
+    "zh": "n.托座，承口；【電】插座；"
+  },
+  {
+    "word": "software",
+    "kk": "[ˋsɔft͵wɛr]",
+    "pos": "",
+    "meaning": "n.【電腦】軟體 [U]",
+    "en": "software",
+    "zh": "n.【電腦】軟體 [U]"
+  },
+  {
+    "word": "solar",
+    "kk": "[ˋsolɚ]",
+    "pos": "",
+    "meaning": "a.太陽的；日光的",
+    "en": "solar",
+    "zh": "a.太陽的；日光的"
+  },
+  {
+    "word": "sophomore",
+    "kk": "[ˋsɑfmor]",
+    "pos": "",
+    "meaning": "n.(大學，高中的)二年",
+    "en": "sophomore",
+    "zh": "n.(大學，高中的)二年"
+  },
+  {
+    "word": "sorrowful",
+    "kk": "[ˋsɑrəfəl]",
+    "pos": "",
+    "meaning": "a.悲傷的，傷心的",
+    "en": "sorrowful",
+    "zh": "a.悲傷的，傷心的"
+  },
+  {
+    "word": "souvenir",
+    "kk": "[͵suvəˋnɪr]",
+    "pos": "",
+    "meaning": "n.紀念品，紀念物",
+    "en": "souvenir",
+    "zh": "n.紀念品，紀念物"
+  },
+  {
+    "word": "spare",
+    "kk": "[spɛr]",
+    "pos": "",
+    "meaning": "vt.分出，騰出(時間，人手)；節",
+    "en": "spare",
+    "zh": "vt.分出，騰出(時間，人手)；節"
+  },
+  {
+    "word": "spark",
+    "kk": "[spɑrk]",
+    "pos": "",
+    "meaning": "n.火花，火星  vt.發動；點燃",
+    "en": "spark",
+    "zh": "n.火花，火星  vt.發動；點燃"
+  },
+  {
+    "word": "sparkle",
+    "kk": "[ˋspɑrk!]",
+    "pos": "",
+    "meaning": "n.火花；閃耀，閃光",
+    "en": "sparkle",
+    "zh": "n.火花；閃耀，閃光"
+  },
+  {
+    "word": "sparrow",
+    "kk": "[ˋspæro]",
+    "pos": "",
+    "meaning": "n.麻雀",
+    "en": "sparrow",
+    "zh": "n.麻雀"
+  },
+  {
+    "word": "spear",
+    "kk": "[spɪr]",
+    "pos": "",
+    "meaning": "n.矛；魚叉",
+    "en": "spear",
+    "zh": "n.矛；魚叉"
+  },
+  {
+    "word": "species",
+    "kk": "[ˋspiʃiz]",
+    "pos": "",
+    "meaning": "n.種類；【生】物種",
+    "en": "species",
+    "zh": "n.種類；【生】物種"
+  },
+  {
+    "word": "spicy",
+    "kk": "[ˋspaɪsɪ]",
+    "pos": "",
+    "meaning": "a.加有香料的；香的；辛辣的",
+    "en": "spicy",
+    "zh": "a.加有香料的；香的；辛辣的"
+  },
+  {
+    "word": "spiritual",
+    "kk": "[ˋspɪrɪtʃʊəl]",
+    "pos": "",
+    "meaning": "a.精神(上)的，心靈的",
+    "en": "spiritual",
+    "zh": "a.精神(上)的，心靈的"
+  },
+  {
+    "word": "splendid",
+    "kk": "[ˋsplɛndɪd]",
+    "pos": "",
+    "meaning": "a.有光彩的；燦爛的；極",
+    "en": "splendid",
+    "zh": "a.有光彩的；燦爛的；極"
+  },
+  {
+    "word": "split",
+    "kk": "[splɪt]",
+    "pos": "",
+    "meaning": "vt.vi.劈開；切開",
+    "en": "split",
+    "zh": "vt.vi.劈開；切開"
+  },
+  {
+    "word": "sportsman",
+    "kk": "[ˋsportsmən]",
+    "pos": "",
+    "meaning": "n.喜好運動的人；運",
+    "en": "sportsman",
+    "zh": "n.喜好運動的人；運"
+  },
+  {
+    "word": "sportsmanship",
+    "kk": "[ˋsportsmən͵ʃɪp]",
+    "pos": "",
+    "meaning": "n.運動員精",
+    "en": "sportsmanship",
+    "zh": "n.運動員精"
+  },
+  {
+    "word": "status",
+    "kk": "[ˋstetəs]",
+    "pos": "",
+    "meaning": "n.地位，身分；情形，狀況",
+    "en": "status",
+    "zh": "n.地位，身分；情形，狀況"
+  },
+  {
+    "word": "stem",
+    "kk": "[stɛm]",
+    "pos": "",
+    "meaning": "n.莖，(樹)幹，(葉)柄",
+    "en": "stem",
+    "zh": "n.莖，(樹)幹，(葉)柄"
+  },
+  {
+    "word": "vi.起源於，由…而造成",
+    "kk": "[(+from)]",
+    "pos": "",
+    "meaning": "",
+    "en": "vi.起源於，由…而造成",
+    "zh": ""
+  },
+  {
+    "word": "stingy",
+    "kk": "[ˋstɪndʒɪ]",
+    "pos": "",
+    "meaning": "a.吝嗇的，小氣的",
+    "en": "stingy",
+    "zh": "a.吝嗇的，小氣的"
+  },
+  {
+    "word": "strengthen",
+    "kk": "[ˋstrɛŋθən]",
+    "pos": "",
+    "meaning": "vt.vi.加強；增強；鞏",
+    "en": "strengthen",
+    "zh": "vt.vi.加強；增強；鞏"
+  },
+  {
+    "word": "strive",
+    "kk": "[straɪv]",
+    "pos": "",
+    "meaning": "vi.努力，苦幹，奮鬥",
+    "en": "strive",
+    "zh": "vi.努力，苦幹，奮鬥"
+  },
+  {
+    "word": "stroke1",
+    "kk": "[strok]",
+    "pos": "",
+    "meaning": "n.打，擊，敲；(病)突然發作；",
+    "en": "stroke1",
+    "zh": "n.打，擊，敲；(病)突然發作；"
+  },
+  {
+    "word": "stroke2",
+    "kk": "[strok]",
+    "pos": "",
+    "meaning": "vt.n.(用手)撫，摸，捋",
+    "en": "stroke2",
+    "zh": "vt.n.(用手)撫，摸，捋"
+  },
+  {
+    "word": "submarine",
+    "kk": "[ˋsʌbmə͵rin]",
+    "pos": "",
+    "meaning": "n.潛水艇  a.海底的",
+    "en": "submarine",
+    "zh": "n.潛水艇  a.海底的"
+  },
+  {
+    "word": "suggestion",
+    "kk": "[səˋdʒɛstʃən]",
+    "pos": "",
+    "meaning": "n.建議，提議；暗示",
+    "en": "suggestion",
+    "zh": "n.建議，提議；暗示"
+  },
+  {
+    "word": "summarize",
+    "kk": "[ˋsʌmə͵raɪz]",
+    "pos": "",
+    "meaning": "vt.vi.總結，概述",
+    "en": "summarize",
+    "zh": "vt.vi.總結，概述"
+  },
+  {
+    "word": "surf",
+    "kk": "[sɝf]",
+    "pos": "",
+    "meaning": "vt.vi.衝浪；快速瀏覽",
+    "en": "surf",
+    "zh": "vt.vi.衝浪；快速瀏覽"
+  },
+  {
+    "word": "surgeon",
+    "kk": "[ˋsɝdʒən]",
+    "pos": "",
+    "meaning": "n.外科醫生",
+    "en": "surgeon",
+    "zh": "n.外科醫生"
+  },
+  {
+    "word": "surgery",
+    "kk": "[ˋsɝdʒərɪ]",
+    "pos": "",
+    "meaning": "n.外科，(外科)手術[U]；",
+    "en": "surgery",
+    "zh": "n.外科，(外科)手術[U]；"
+  },
+  {
+    "word": "surrender",
+    "kk": "[səˋrɛndɚ]",
+    "pos": "",
+    "meaning": "vi.vt.n.投降，自首",
+    "en": "surrender",
+    "zh": "vi.vt.n.投降，自首"
+  },
+  {
+    "word": "surroundings",
+    "kk": "[səˋraʊndɪŋz]",
+    "pos": "",
+    "meaning": "n.環境；周圍的事",
+    "en": "surroundings",
+    "zh": "n.環境；周圍的事"
+  },
+  {
+    "word": "suspicious",
+    "kk": "[səˋspɪʃəs]",
+    "pos": "",
+    "meaning": "a.猜疑的，可疑的",
+    "en": "suspicious",
+    "zh": "a.猜疑的，可疑的"
+  },
+  {
+    "word": "sway",
+    "kk": "[swe]",
+    "pos": "",
+    "meaning": "vt.vi.n.搖動，搖擺",
+    "en": "sway",
+    "zh": "vt.vi.n.搖動，搖擺"
+  },
+  {
+    "word": "syllable",
+    "kk": "[ˋsɪləb!]",
+    "pos": "",
+    "meaning": "n.音節[C]",
+    "en": "syllable",
+    "zh": "n.音節[C]"
+  },
+  {
+    "word": "sympathetic",
+    "kk": "[͵sɪmpəˋθɛtɪk]",
+    "pos": "",
+    "meaning": "a.同情的；有同情",
+    "en": "sympathetic",
+    "zh": "a.同情的；有同情"
+  },
+  {
+    "word": "sympathy",
+    "kk": "[ˋsɪmpəθɪ]",
+    "pos": "",
+    "meaning": "n.同情，同情心",
+    "en": "sympathy",
+    "zh": "n.同情，同情心"
+  },
+  {
+    "word": "symphony",
+    "kk": "[ˋsɪmfənɪ]",
+    "pos": "",
+    "meaning": "n.交響樂，交響曲",
+    "en": "symphony",
+    "zh": "n.交響樂，交響曲"
+  },
+  {
+    "word": "syrup",
+    "kk": "[ˋsɪrəp]",
+    "pos": "",
+    "meaning": "n.糖漿；果汁",
+    "en": "syrup",
+    "zh": "n.糖漿；果汁"
+  },
+  {
+    "word": "systematic",
+    "kk": "[͵sɪstəˋmætɪk]",
+    "pos": "",
+    "meaning": "a.有系統的；有條",
+    "en": "systematic",
+    "zh": "a.有系統的；有條"
+  },
+  {
+    "word": "tap1",
+    "kk": "[tæp]",
+    "pos": "",
+    "meaning": "n.龍頭(酒桶等的)塞子，栓子；竊",
+    "en": "tap1",
+    "zh": "n.龍頭(酒桶等的)塞子，栓子；竊"
+  },
+  {
+    "word": "tap2",
+    "kk": "[tæp]",
+    "pos": "",
+    "meaning": "n.vt.vi.輕拍，輕叩，輕敲",
+    "en": "tap2",
+    "zh": "n.vt.vi.輕拍，輕叩，輕敲"
+  },
+  {
+    "word": "technician",
+    "kk": "[tɛkˋnɪʃən]",
+    "pos": "",
+    "meaning": "n.技術人員，技師",
+    "en": "technician",
+    "zh": "n.技術人員，技師"
+  },
+  {
+    "word": "technological",
+    "kk": "[tɛknəˋlɑdʒɪk!]",
+    "pos": "",
+    "meaning": "a.技術(學)的，",
+    "en": "technological",
+    "zh": "a.技術(學)的，"
+  },
+  {
+    "word": "telegram",
+    "kk": "[ˋtɛlə͵græm]",
+    "pos": "",
+    "meaning": "n.電報",
+    "en": "telegram",
+    "zh": "n.電報"
+  },
+  {
+    "word": "telegraph",
+    "kk": "[ˋtɛlə͵græf]",
+    "pos": "",
+    "meaning": "n.電報",
+    "en": "telegraph",
+    "zh": "n.電報"
+  },
+  {
+    "word": "telescope",
+    "kk": "[ˋtɛlə͵skop]",
+    "pos": "",
+    "meaning": "n.(單筒)望遠鏡",
+    "en": "telescope",
+    "zh": "n.(單筒)望遠鏡"
+  },
+  {
+    "word": "tendency",
+    "kk": "[ˋtɛndənsɪ]",
+    "pos": "",
+    "meaning": "n.傾向；癖性；趨勢，",
+    "en": "tendency",
+    "zh": "n.傾向；癖性；趨勢，"
+  },
+  {
+    "word": "tense",
+    "kk": "[tɛns]",
+    "pos": "",
+    "meaning": "a.拉緊的，繃緊的",
+    "en": "tense",
+    "zh": "a.拉緊的，繃緊的"
+  },
+  {
+    "word": "tension",
+    "kk": "[ˋtɛnʃən]",
+    "pos": "",
+    "meaning": "n.拉緊，繃緊[U]；(精神上",
+    "en": "tension",
+    "zh": "n.拉緊，繃緊[U]；(精神上"
+  },
+  {
+    "word": "的)緊張",
+    "kk": "[U]",
+    "pos": "",
+    "meaning": "",
+    "en": "的)緊張",
+    "zh": ""
+  },
+  {
+    "word": "terrify",
+    "kk": "[ˋtɛrə͵faɪ]",
+    "pos": "",
+    "meaning": "vt.vi.使害怕，使恐怖",
+    "en": "terrify",
+    "zh": "vt.vi.使害怕，使恐怖"
+  },
+  {
+    "word": "terror",
+    "kk": "[ˋtɛrɚ]",
+    "pos": "",
+    "meaning": "n.恐怖，驚駭[U]；",
+    "en": "terror",
+    "zh": "n.恐怖，驚駭[U]；"
+  },
+  {
+    "word": "引起恐怖的事物(或人)",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "引起恐怖的事物(或人)",
+    "zh": ""
+  },
+  {
+    "word": "theme",
+    "kk": "[θim]",
+    "pos": "",
+    "meaning": "n.論題，話題；主題，主題思想",
+    "en": "theme",
+    "zh": "n.論題，話題；主題，主題思想"
+  },
+  {
+    "word": "thorough",
+    "kk": "[ˋθɝo]",
+    "pos": "",
+    "meaning": "a.徹底的；完全的",
+    "en": "thorough",
+    "zh": "a.徹底的；完全的"
+  },
+  {
+    "word": "thoughtful",
+    "kk": "[ˋθɔtfəl]",
+    "pos": "",
+    "meaning": "a.深思的；細心的；體貼",
+    "en": "thoughtful",
+    "zh": "a.深思的；細心的；體貼"
+  },
+  {
+    "word": "timid",
+    "kk": "[ˋtɪmɪd]",
+    "pos": "",
+    "meaning": "a.膽小的，易受驚的",
+    "en": "timid",
+    "zh": "a.膽小的，易受驚的"
+  },
+  {
+    "word": "tiresome",
+    "kk": "[ˋtaɪrsəm]",
+    "pos": "",
+    "meaning": "a.使人疲勞的；令人厭倦",
+    "en": "tiresome",
+    "zh": "a.使人疲勞的；令人厭倦"
+  },
+  {
+    "word": "tolerable",
+    "kk": "[ˋtɑlərəb!]",
+    "pos": "a.",
+    "meaning": "可忍受的；可容忍的",
+    "en": "tolerable",
+    "zh": "可忍受的；可容忍的"
+  },
+  {
+    "word": "tolerance",
+    "kk": "[ˋtɑlərəns]",
+    "pos": "",
+    "meaning": "n.寬容，寬大[U]；忍耐",
+    "en": "tolerance",
+    "zh": "n.寬容，寬大[U]；忍耐"
+  },
+  {
+    "word": "tolerate",
+    "kk": "[ˋtɑlə͵ret]",
+    "pos": "",
+    "meaning": "vt.vi.忍受；容忍",
+    "en": "tolerate",
+    "zh": "vt.vi.忍受；容忍"
+  },
+  {
+    "word": "tolerant",
+    "kk": "[ˋtɑlərənt]",
+    "pos": "",
+    "meaning": "a.忍受的，容忍的",
+    "en": "tolerant",
+    "zh": "a.忍受的，容忍的"
+  },
+  {
+    "word": "tomb",
+    "kk": "[tum]",
+    "pos": "",
+    "meaning": "n.墓；墓碑",
+    "en": "tomb",
+    "zh": "n.墓；墓碑"
+  },
+  {
+    "word": "tough",
+    "kk": "[tʌf]",
+    "pos": "a.",
+    "meaning": "堅韌的；強壯的；棘手的，費",
+    "en": "tough",
+    "zh": "堅韌的；強壯的；棘手的，費"
+  },
+  {
+    "word": "tragedy",
+    "kk": "[ˋtrædʒədɪ]",
+    "pos": "",
+    "meaning": "n.悲劇體裁[U]；(一齣)",
+    "en": "tragedy",
+    "zh": "n.悲劇體裁[U]；(一齣)"
+  },
+  {
+    "word": "悲劇",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "悲劇",
+    "zh": ""
+  },
+  {
+    "word": "tragic",
+    "kk": "[ˋtrædʒɪk]",
+    "pos": "",
+    "meaning": "a.悲劇的；悲慘的，不幸的",
+    "en": "tragic",
+    "zh": "a.悲劇的；悲慘的，不幸的"
+  },
+  {
+    "word": "transfer",
+    "kk": "[trænsˋfɝ]",
+    "pos": "",
+    "meaning": "vt.vi.轉換；換車；轉校",
+    "en": "transfer",
+    "zh": "vt.vi.轉換；換車；轉校"
+  },
+  {
+    "word": "transform",
+    "kk": "[trænsˋfɔrm]",
+    "pos": "",
+    "meaning": "vt.vi.(使)改變；(使)",
+    "en": "transform",
+    "zh": "vt.vi.(使)改變；(使)"
+  },
+  {
+    "word": "translate",
+    "kk": "[trænsˋlet]",
+    "pos": "",
+    "meaning": "vt.vi.翻譯，轉譯",
+    "en": "translate",
+    "zh": "vt.vi.翻譯，轉譯"
+  },
+  {
+    "word": "translation",
+    "kk": "[trænsˋleʃən]",
+    "pos": "",
+    "meaning": "n.翻譯[U]；譯文；",
+    "en": "translation",
+    "zh": "n.翻譯[U]；譯文；"
+  },
+  {
+    "word": "譯本",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "譯本",
+    "zh": ""
+  },
+  {
+    "word": "translator",
+    "kk": "[trænsˋletɚ]",
+    "pos": "",
+    "meaning": "n.翻譯員，翻譯者，翻",
+    "en": "translator",
+    "zh": "n.翻譯員，翻譯者，翻"
+  },
+  {
+    "word": "transportation",
+    "kk": "[͵trænspɚˋteʃən]",
+    "pos": "",
+    "meaning": "n.運輸[U];運",
+    "en": "transportation",
+    "zh": "n.運輸[U];運"
+  },
+  {
+    "word": "tremendous",
+    "kk": "[trɪˋmɛndəs]",
+    "pos": "",
+    "meaning": "a.巨大的，極大的",
+    "en": "tremendous",
+    "zh": "a.巨大的，極大的"
+  },
+  {
+    "word": "tribal",
+    "kk": "[traɪb!]",
+    "pos": "",
+    "meaning": "a.部落的，種族的[C]",
+    "en": "tribal",
+    "zh": "a.部落的，種族的[C]"
+  },
+  {
+    "word": "triumph",
+    "kk": "[ˋtraɪəmf]",
+    "pos": "",
+    "meaning": "n.(大)勝利；(大)成功[C]",
+    "en": "triumph",
+    "zh": "n.(大)勝利；(大)成功[C]"
+  },
+  {
+    "word": "troublesome",
+    "kk": "[ˋtrʌb!səm]",
+    "pos": "",
+    "meaning": "a.麻煩的，棘手的",
+    "en": "troublesome",
+    "zh": "a.麻煩的，棘手的"
+  },
+  {
+    "word": "tug-of-war",
+    "kk": "[tʌg əv wɔr]",
+    "pos": "",
+    "meaning": "n.拔河(比賽)",
+    "en": "tug-of-war",
+    "zh": "n.拔河(比賽)"
+  },
+  {
+    "word": "twinkle",
+    "kk": "[ˋtwɪŋk!]",
+    "pos": "",
+    "meaning": "n.vi.(星等)閃爍；閃耀",
+    "en": "twinkle",
+    "zh": "n.vi.(星等)閃爍；閃耀"
+  },
+  {
+    "word": "typist",
+    "kk": "[ˋtaɪpɪst]",
+    "pos": "",
+    "meaning": "n.打字員；打字者",
+    "en": "typist",
+    "zh": "n.打字員；打字者"
+  },
+  {
+    "word": "underpass",
+    "kk": "[ˋʌndɚ͵pæs]",
+    "pos": "",
+    "meaning": "n.地下道；地下人行",
+    "en": "underpass",
+    "zh": "n.地下道；地下人行"
+  },
+  {
+    "word": "unique",
+    "kk": "[juˋnik]",
+    "pos": "",
+    "meaning": "a.唯一的，獨一無二的",
+    "en": "unique",
+    "zh": "a.唯一的，獨一無二的"
+  },
+  {
+    "word": "universal",
+    "kk": "[͵junəˋvɝs!]",
+    "pos": "",
+    "meaning": "a.全體的；普遍的；一",
+    "en": "universal",
+    "zh": "a.全體的；普遍的；一"
+  },
+  {
+    "word": "university",
+    "kk": "[͵junəˋvɝsətɪ]",
+    "pos": "",
+    "meaning": "n.大學",
+    "en": "university",
+    "zh": "n.大學"
+  },
+  {
+    "word": "upload",
+    "kk": "[ʌpˋlod]",
+    "pos": "",
+    "meaning": "vt.vi.【電腦】上傳",
+    "en": "upload",
+    "zh": "vt.vi.【電腦】上傳"
+  },
+  {
+    "word": "urban",
+    "kk": "[ˋɝbən]",
+    "pos": "",
+    "meaning": "a.城市的",
+    "en": "urban",
+    "zh": "a.城市的"
+  },
+  {
+    "word": "urge",
+    "kk": "[ɝdʒ]",
+    "pos": "",
+    "meaning": "vt.vi.催促；力勸；慫恿",
+    "en": "urge",
+    "zh": "vt.vi.催促；力勸；慫恿"
+  },
+  {
+    "word": "urgent",
+    "kk": "[ˋɝdʒənt]",
+    "pos": "",
+    "meaning": "a.緊急的，急迫的",
+    "en": "urgent",
+    "zh": "a.緊急的，急迫的"
+  },
+  {
+    "word": "usage",
+    "kk": "[ˋjusɪdʒ]",
+    "pos": "",
+    "meaning": "n.使用，用法[U]",
+    "en": "usage",
+    "zh": "n.使用，用法[U]"
+  },
+  {
+    "word": "vain",
+    "kk": "[ven]",
+    "pos": "",
+    "meaning": "a.愛虛榮的，自負的；徒然的，",
+    "en": "vain",
+    "zh": "a.愛虛榮的，自負的；徒然的，"
+  },
+  {
+    "word": "vast",
+    "kk": "[væst]",
+    "pos": "",
+    "meaning": "a.廣闊的，廣大的，巨大的；巨",
+    "en": "vast",
+    "zh": "a.廣闊的，廣大的，巨大的；巨"
+  },
+  {
+    "word": "vegetarian",
+    "kk": "[͵vɛdʒəˋtɛrɪən]",
+    "pos": "",
+    "meaning": "n.素食者；食草動",
+    "en": "vegetarian",
+    "zh": "n.素食者；食草動"
+  },
+  {
+    "word": "verb",
+    "kk": "[vɝb]",
+    "pos": "",
+    "meaning": "n.【文】動詞[",
+    "en": "verb",
+    "zh": "n.【文】動詞["
+  },
+  {
+    "word": "very2",
+    "kk": "[ˋvɛrɪ]",
+    "pos": "",
+    "meaning": "adv.非常，很  a.正是；恰好是",
+    "en": "very2",
+    "zh": "adv.非常，很  a.正是；恰好是"
+  },
+  {
+    "word": "vessel",
+    "kk": "[ˋvɛs!]",
+    "pos": "",
+    "meaning": "n.船，艦；容器，器皿；血管，",
+    "en": "vessel",
+    "zh": "n.船，艦；容器，器皿；血管，"
+  },
+  {
+    "word": "vinegar",
+    "kk": "[ˋvɪnɪgɚ]",
+    "pos": "",
+    "meaning": "n.醋[U]",
+    "en": "vinegar",
+    "zh": "n.醋[U]"
+  },
+  {
+    "word": "violate",
+    "kk": "[ˋvaɪə͵let]",
+    "pos": "",
+    "meaning": "vt.vi.違犯；違反；侵犯",
+    "en": "violate",
+    "zh": "vt.vi.違犯；違反；侵犯"
+  },
+  {
+    "word": "violation",
+    "kk": "[͵vaɪəˋleʃən]",
+    "pos": "",
+    "meaning": "n.違反；違背[U]；違",
+    "en": "violation",
+    "zh": "n.違反；違背[U]；違"
+  },
+  {
+    "word": "反行為",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "",
+    "en": "反行為",
+    "zh": ""
+  },
+  {
+    "word": "virgin",
+    "kk": "[ˋvɝdʒɪn]",
+    "pos": "",
+    "meaning": "n.處女,未婚女子 a.處女的，",
+    "en": "virgin",
+    "zh": "n.處女,未婚女子 a.處女的，"
+  },
+  {
+    "word": "virtue",
+    "kk": "[ˋvɝtʃu]",
+    "pos": "",
+    "meaning": "n.善，德[U]；美德，德行[C][U]",
+    "en": "virtue",
+    "zh": "n.善，德[U]；美德，德行[C][U]"
+  },
+  {
+    "word": "virus",
+    "kk": "[ˋvaɪrəs]",
+    "pos": "",
+    "meaning": "n.病毒；濾過性病毒[C]",
+    "en": "virus",
+    "zh": "n.病毒；濾過性病毒[C]"
+  },
+  {
+    "word": "visual",
+    "kk": "[ˋvɪʒuəl]",
+    "pos": "",
+    "meaning": "a.視力的；視覺的；光學的",
+    "en": "visual",
+    "zh": "a.視力的；視覺的；光學的"
+  },
+  {
+    "word": "vital",
+    "kk": "[ˋvaɪt!]",
+    "pos": "",
+    "meaning": "a.生命的；維持生命所必需的",
+    "en": "vital",
+    "zh": "a.生命的；維持生命所必需的"
+  },
+  {
+    "word": "volcano",
+    "kk": "[vɑlˋkeno]",
+    "pos": "",
+    "meaning": "n.火山[C]",
+    "en": "volcano",
+    "zh": "n.火山[C]"
+  },
+  {
+    "word": "voluntary",
+    "kk": "[ˋvɑlən͵tɛrɪ]",
+    "pos": "",
+    "meaning": "a.自願的，志願的",
+    "en": "voluntary",
+    "zh": "a.自願的，志願的"
+  },
+  {
+    "word": "volunteer",
+    "kk": "[͵vɑlənˋtɪr]",
+    "pos": "",
+    "meaning": "n.志願者，義工",
+    "en": "volunteer",
+    "zh": "n.志願者，義工"
+  },
+  {
+    "word": "vi.vt.自願(做)",
+    "kk": "[(+to-v)]",
+    "pos": "",
+    "meaning": "",
+    "en": "vi.vt.自願(做)",
+    "zh": ""
+  },
+  {
+    "word": "vowel",
+    "kk": "[ˋvaʊəl]",
+    "pos": "",
+    "meaning": "n.【文】母音",
+    "en": "vowel",
+    "zh": "n.【文】母音"
+  },
+  {
+    "word": "voyage",
+    "kk": "[ˋvɔɪɪdʒ]",
+    "pos": "",
+    "meaning": "n.航海，航行",
+    "en": "voyage",
+    "zh": "n.航海，航行"
+  },
+  {
+    "word": "walnut",
+    "kk": "[ˋwɔlnət]",
+    "pos": "",
+    "meaning": "n.胡桃；胡桃樹[C]",
+    "en": "walnut",
+    "zh": "n.胡桃；胡桃樹[C]"
+  },
+  {
+    "word": "website",
+    "kk": "[ˋwɛb͵saɪt]",
+    "pos": "",
+    "meaning": "n.【電腦】網站",
+    "en": "website",
+    "zh": "n.【電腦】網站"
+  },
+  {
+    "word": "weekly",
+    "kk": "[ˋwiklɪ]",
+    "pos": "",
+    "meaning": "a.每週的；一週一次的",
+    "en": "weekly",
+    "zh": "a.每週的；一週一次的"
+  },
+  {
+    "word": "welfare",
+    "kk": "[ˋwɛl͵fɛr]",
+    "pos": "",
+    "meaning": "n.福利；幸福[U]",
+    "en": "welfare",
+    "zh": "n.福利；幸福[U]"
+  },
+  {
+    "word": "wit",
+    "kk": "[wɪt]",
+    "pos": "",
+    "meaning": "n.機智；智慧[U]",
+    "en": "wit",
+    "zh": "n.機智；智慧[U]"
+  },
+  {
+    "word": "witch",
+    "kk": "[wɪtʃ]",
+    "pos": "",
+    "meaning": "n.女巫，巫婆",
+    "en": "witch",
+    "zh": "n.女巫，巫婆"
+  },
+  {
+    "word": "wizard",
+    "kk": "[ˋwɪzɚd]",
+    "pos": "",
+    "meaning": "n.男巫；術士",
+    "en": "wizard",
+    "zh": "n.男巫；術士"
+  },
+  {
+    "word": "withdraw",
+    "kk": "[wɪðˋdrɔ]",
+    "pos": "",
+    "meaning": "vt.vi.抽回；收回；取回；",
+    "en": "withdraw",
+    "zh": "vt.vi.抽回；收回；取回；"
+  },
+  {
+    "word": "witness",
+    "kk": "[ˋwɪtnɪs]",
+    "pos": "",
+    "meaning": "n.目擊者；見證人  vt.目擊",
+    "en": "witness",
+    "zh": "n.目擊者；見證人  vt.目擊"
+  },
+  {
+    "word": "wreck",
+    "kk": "[rɛk]",
+    "pos": "",
+    "meaning": "n.(船等的)失事，遇難[U]；船難",
+    "en": "wreck",
+    "zh": "n.(船等的)失事，遇難[U]；船難"
+  },
+  {
+    "word": "事故",
+    "kk": "[C]",
+    "pos": "",
+    "meaning": "vt.vi.(使)失事，(使)遇難",
+    "en": "事故",
+    "zh": "vt.vi.(使)失事，(使)遇難"
+  },
+  {
+    "word": "wrinkle",
+    "kk": "[ˋrɪŋk!]",
+    "pos": "",
+    "meaning": "n.皺紋  vt.vi.(使)起皺紋",
+    "en": "wrinkle",
+    "zh": "n.皺紋  vt.vi.(使)起皺紋"
+  },
+  {
+    "word": "yearly",
+    "kk": "[ˋjɪrlɪ]",
+    "pos": "",
+    "meaning": "a.每年的，一年一次的",
+    "en": "yearly",
+    "zh": "a.每年的，一年一次的"
+  },
+  {
+    "word": "yogurt",
+    "kk": "[ˋjogɚt]",
+    "pos": "",
+    "meaning": "n.酸奶酪；酵母乳 (yoghourt)",
+    "en": "yogurt",
+    "zh": "n.酸奶酪；酵母乳 (yoghourt)"
+  },
+  {
+    "word": "youthful",
+    "kk": "[ˋjuθfəl]",
+    "pos": "",
+    "meaning": "a.年輕的；青年的；富青春",
+    "en": "youthful",
+    "zh": "a.年輕的；青年的；富青春"
+  }
+]
