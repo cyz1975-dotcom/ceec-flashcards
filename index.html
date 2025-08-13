@@ -1,406 +1,513 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
 <title>CEEC 英漢翻轉單字卡（行動版）</title>
 <style>
-  :root {
-    --bg: #f3e7c5;        /* 淺米色背景 */
-    --panel: #faefd3;     /* 卡片淺米 */
-    --border: #d8c9a8;
-    --text: #4b2e1f;      /* 深咖啡字 */
-    --muted: #7a5a43;
-    --accent: #8b5a2b;
-    --good: #3d8b6d;
-    --bad: #b23a3a;
+  :root{
+    --bg:#f2e4c9;           /* 米色底 */
+    --bg-soft:#f6ecd7;
+    --ink:#4a2e22;          /* 深咖啡字 */
+    --ink-soft:#725346;
+    --btn:#ead8b7;
+    --btn-ink:#4a2e22;
+    --accent:#c79e6f;
+    --accent-ink:#3c2a20;
+    --good:#3aa66f;
+    --bad:#c85151;
   }
-  html, body {
-    margin: 0; padding: 0; height: 100%;
-    background: var(--bg);
-    color: var(--text);
-    -webkit-font-smoothing: antialiased;
-    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans TC", "Helvetica Neue", Arial;
+  html,body{height:100%}
+  body{
+    margin:0;
+    background:linear-gradient(180deg,var(--bg-soft),var(--bg));
+    color:var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Hiragino Sans CNS", "Microsoft JhengHei", system-ui, sans-serif;
   }
-  .app {
-    display:grid; grid-template-rows:auto auto 1fr auto; gap:10px;
-    min-height: 100dvh; max-width: 900px; margin: 0 auto;
-    padding: env(safe-area-inset-top) 12px env(safe-area-inset-bottom);
+  .container{max-width:980px;margin:0 auto;padding:12px 14px 80px}
+  h1{margin:8px 0 10px;font-size:20px;font-weight:800;letter-spacing:.5px}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  select, input[type="text"]{
+    height:40px;border-radius:12px;border:1px solid #d9c7a8;background:#fff6;
+    padding:0 12px;color:var(--ink);backdrop-filter: blur(2px);
   }
-  header {
-    display:grid; grid-template-columns: 1fr auto; gap:8px; align-items:center;
+  .chip{
+    height:40px;border:1px solid #dec8a6;background:var(--btn);
+    color:var(--btn-ink);border-radius:12px;padding:0 14px;display:inline-flex;
+    align-items:center;gap:6px;cursor:pointer;user-select:none;
   }
-  h1 { margin:6px 0 2px; font-size:18px; letter-spacing:.5px; color: var(--text);}
-  .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
-  input[type="text"], select {
-    background: #fff4dc; border:1px solid var(--border); color: var(--text);
-    padding:10px 12px; border-radius:12px; font-size:14px; min-width:0;
+  .chip:active{transform:translateY(1px)}
+  .switch{display:inline-flex;align-items:center;gap:8px}
+  .switch input{width:18px;height:18px}
+  .card{
+    margin-top:12px;border-radius:22px;border:1px solid #e2d1b4;background:#f7eddc;
+    min-height:48vh;padding:18px 16px;position:relative;overflow:hidden;
   }
-  .btn {
-    appearance: none; border:1px solid var(--border); background: #fff7e3; color: var(--text);
-    padding:10px 12px; border-radius:12px; font-size:14px; font-weight:700;
-    box-shadow: 0 2px 10px rgba(0,0,0,.06);
+  .card .num{position:absolute;left:16px;top:10px;opacity:.6;font-size:12px}
+  .card h2{
+    margin:0 auto;text-align:center;max-width:90%;
+    font-size: clamp(34px, 12vw, 72px); line-height:1.03; font-weight:800;
+    word-break:break-word;
   }
-  .btn.ghost { background: transparent; }
-  .btn.primary { background: #f8e7c2; border-color:#d8c9a8; }
-  .deckbar { display:grid; grid-template-columns: 1fr auto; gap:8px; align-items:center; }
-  .deckname { color: var(--muted); font-size:12px; }
-  .controls-top .btn { padding:8px 10px; }
-  main { display:grid; grid-template-rows: 1fr auto; gap:10px; }
-  .card {
-    display:grid; place-items:center;
-    background: var(--panel);
-    border:1px solid var(--border); border-radius:20px;
-    min-height: 48dvh; padding: 20px; position: relative;
+  .center{display:flex;justify-content:center;align-items:center}
+  .btn{
+    background:var(--btn);border:1px solid #dec8a6;color:var(--btn-ink);
+    border-radius:12px;padding:12px 16px;font-weight:700;cursor:pointer;
   }
-  .index, .hint { position:absolute; top:12px; font-size:12px; color: var(--muted);} 
-  .index { left:12px; } .hint { right:12px; }
-  .face { text-align:center; max-width: 92%; line-height: 1.25; }
-  .en { font-weight: 900; }
-  .phon { font-weight: 700; margin-top: 8px; color: var(--muted); }
-  .zh  { margin-top: 6px; }
-  .pos { font-size: 14px; color: var(--muted); margin-top: 4px; }
-  .controls { display:grid; grid-template-columns: repeat(5, 1fr); gap:8px; }
-  .star { position: absolute; bottom: 12px; right: 12px; font-size: 22px; }
-  .badge { padding:6px 8px; border-radius:10px; background:#fff4dc; border:1px solid var(--border); color:var(--muted); font-size:12px; }
-  .quiz { background: var(--panel); border:1px solid var(--border); border-radius:16px; padding:12px; }
-  .quiz-choices { display:grid; gap:8px; }
-  .choice { padding:12px; border-radius:12px; border:1px solid var(--border); background:#fff7e3; font-size: 16px; color: var(--text); text-align:left; }
-  .choice.correct { background:#e7faef; border-color:#bfead1; }
-  .choice.wrong   { background:#fde7e7; border-color:#f5c0c0; }
-  .endlist { background: var(--panel); border:1px solid var(--border); border-radius:16px; padding:12px; }
-  .enditem { padding:8px 10px; border-bottom:1px dashed var(--border);} 
-  .enditem:last-child { border-bottom: none; }
-  .small { font-size: 12px; color: var(--muted);} 
+  .btn:active{transform:translateY(1px)}
+  .toolbar{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
+  .footbar{position:sticky;bottom:0;left:0;right:0;background:linear-gradient(180deg,#0000, #0000 10%, #efe3cd 60%);padding:10px 0 14px}
+  .grid{display:grid;gap:10px}
+  .g4{grid-template-columns:repeat(1,1fr)}
+  @media(min-width:560px){ .g4{grid-template-columns:repeat(2,1fr)} }
+  @media(min-width:880px){ .g4{grid-template-columns:repeat(4,1fr)} }
+  .opt{padding:14px;border:1px solid #e2d1b4;border-radius:12px;background:#fff8;cursor:pointer}
+  .opt.correct{border-color:var(--good)}
+  .opt.wrong{border-color:var(--bad)}
+  .muted{opacity:.7}
+  .star{
+    position:absolute;right:14px;bottom:14px;
+    width:44px;height:44px;border-radius:12px;border:1px solid #dec8a6;background:#fff6;
+    display:flex;align-items:center;justify-content:center;cursor:pointer;
+  }
+  .star svg{width:24px;height:24px;fill:#b7a088}
+  .star.active svg{fill:#f2b10c}
+  .kk{display:block;text-align:center;margin:6px 0 2px;color:var(--ink-soft);font-weight:700}
+  .pos{display:block;text-align:center;margin-top:2px;color:var(--ink-soft)}
+  .pill{padding:4px 10px;border-radius:999px;background:#e8d6b7;color:var(--accent-ink);font-size:12px}
+  .hr{height:1px;background:#e8d6b7;margin:12px 0}
+  .tiny{font-size:12px}
 </style>
 </head>
 <body>
-<div class="app">
-  <header>
-    <div>
-      <h1>CEEC 英漢翻轉單字卡（行動版）</h1>
-      <div class="row">
-        <input id="search" type="text" placeholder="搜尋 英/中/詞性…" class="flex1" />
-        <select id="mode">
-          <option value="card">翻卡</option>
-          <option value="quiz-en">測驗 英→中</option>
-          <option value="quiz-zh">測驗 中→英</option>
-          <option value="starred">加星清單</option>
-        </select>
+  <div class="container">
+    <h1>CEEC 英漢翻轉單字卡（行動版）</h1>
+
+    <div class="row" style="gap:8px 10px">
+      <input id="q" type="text" placeholder="搜尋 英/中/詞性…" style="flex:1 1 220px" />
+      <select id="mode">
+        <option value="card">翻卡</option>
+        <option value="quiz_e2c">測驗 英→中</option>
+        <option value="quiz_c2e">測驗 中→英</option>
+      </select>
+      <div class="switch"><span class="pill">字體大小</span>
+        <span class="chip" id="fontMinus">−</span>
+        <span class="chip" id="fontPlus">＋</span>
       </div>
     </div>
-    <div class="row controls-top">
-      <button class="btn" id="fontMinus">−</button>
-      <span class="small">字體大小</span>
-      <button class="btn" id="fontPlus">＋</button>
-    </div>
-  </header>
 
-  <div class="deckbar">
-    <div class="deckname"><span id="deckName">未載入牌組</span> · <span id="count">0</span> 筆</div>
-    <div class="row">
+    <div class="row" style="gap:8px 10px;margin-top:8px">
       <select id="deckSelect"></select>
-      <button id="export" class="btn ghost">匯出目前牌組</button>
+      <span class="chip" id="exportDeck">匯出目前牌組</span>
+      <label class="switch"><input type="checkbox" id="onlyStar" /> 只看加星</label>
     </div>
-  </div>
 
-  <main>
-    <section id="cardView" class="card" role="button" aria-label="翻譯切換">
-      <div class="index" id="idx">0 / 0</div>
-      <div class="hint">點卡片顯示/隱藏翻譯</div>
-      <div class="face">
-        <div class="en" id="en" style="font-size:56px">載入中…</div>
-        <div class="phon" id="phon" style="display:none">[ ]</div>
-        <div class="zh" id="zh" style="display:none; font-size:28px"></div>
-        <div class="pos" id="pos" style="display:none"></div>
-        <div class="row" style="justify-content:center; gap:10px; margin-top:10px;">
-          <button id="toggleTrans" class="btn primary">顯示翻譯</button>
-          <button id="starBtn" class="btn star" title="加星">☆</button>
-        </div>
+    <div id="cardView" class="card" aria-live="polite">
+      <div class="num tiny" id="cardNum">1 / 1</div>
+      <h2 id="front">about</h2>
+      <div class="center" style="margin-top:10px">
+        <button id="toggleTrans" class="btn">顯示翻譯</button>
       </div>
-    </section>
+      <div id="transBox" class="center" style="flex-direction:column;margin-top:10px;display:none">
+        <span id="kk" class="kk">[ ]</span>
+        <div id="back" style="font-size:clamp(20px, 4.5vw, 34px);font-weight:800;text-align:center"></div>
+        <span id="pos" class="pos"></span>
+      </div>
+      <button id="starBtn" class="star" title="加星/取消">
+        <svg viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.62L12 2 9.19 8.62 2 9.24l5.46 4.73L5.82 21z"/></svg>
+      </button>
+    </div>
 
-    <section class="controls">
+    <div class="toolbar">
       <button id="prev" class="btn">← 上一張</button>
+      <button id="hideTrans" class="btn">隱藏翻譯</button>
       <button id="next" class="btn">下一張 →</button>
       <button id="shuffle" class="btn">隨機</button>
       <button id="reset" class="btn">重置進度</button>
-      <label class="btn ghost"><input type="checkbox" id="onlyStar" /> 只看加星</label>
-    </section>
+    </div>
 
-    <section id="quizView" class="quiz" hidden>
-      <div class="row" style="justify-content:space-between">
-        <div class="badge">第 <span id="qNum">0</span> 題 / 不限題數</div>
-        <div class="row" style="gap:6px">
-          <button id="quizPrev" class="btn">上一題</button>
-          <button id="quizEnd" class="btn">結束測驗</button>
-        </div>
+    <div id="quizPanel" style="display:none">
+      <div class="row" style="gap:10px 12px">
+        <label class="switch"><input type="checkbox" id="onlyWrongNext" checked /> 下次優先出「錯/未做」</label>
+        <button id="btnStartQuiz" class="btn">開始測驗</button>
+        <button id="btnPrevQ" class="btn" disabled>上一題</button>
+        <button id="btnEndQuiz" class="btn">結束測驗</button>
       </div>
-      <div class="quiz-q" id="qText" style="font-weight:800; font-size:20px; margin:8px 0 10px;">請選擇模式開始測驗</div>
-      <div class="small" id="qPhon" style="margin:-4px 0 8px; color:var(--muted)"></div>
-      <div class="quiz-choices" id="choices"></div>
-      <div class="row" style="margin-top:8px;">
-        <button id="quizStart" class="btn primary">開始測驗</button>
-      </div>
-    </section>
 
-    <section id="endView" class="endlist" hidden>
-      <div style="font-weight:800; margin-bottom:8px;">這次你答錯的題目</div>
-      <div id="endList"></div>
-      <div class="row" style="margin-top:10px;">
-        <button id="restartQuiz" class="btn">再測一次（僅錯題+未做）</button>
+      <div class="card" style="min-height:40vh">
+        <div class="num tiny"><span id="qIdx">第 0 / 0</span></div>
+        <h2 id="qWord">—</h2>
+        <div id="qPhon" class="kk" style="margin-top:8px"></div>
+        <div id="qPos" class="pos"></div>
+        <div class="grid g4" id="qOpts" style="margin-top:12px"></div>
       </div>
-    </section>
-  </main>
 
-  <footer class="row" style="justify-content:space-between">
-    <div class="small">已內建 CEEC 7000 六級單字。資料保存於本機。</div>
-    <div class="small"><a href="https://www.tyjh.tyc.edu.tw/uploads/1552438563395h2EQgNj0.pdf" target="_blank" style="color:var(--accent); text-decoration:none">原始字表</a></div>
-  </footer>
-</div>
+      <div id="quizResult" style="display:none;margin-top:10px">
+        <div class="hr"></div>
+        <div class="muted tiny">只列出錯題：</div>
+        <div id="wrongList"></div>
+      </div>
+    </div>
+
+    <div class="footbar tiny muted">
+      已內建 CEEC 7000 六級單字。星與字體設定會保存於本機。
+    </div>
+  </div>
 
 <script>
-// ---- 嵌入牌組（此處先留空，使用者已有內建資料；如果要外部載入，請替換成實際資料） ----
-const EMBED_DECKS = window.EMBED_DECKS || {};
+/* =================  小工具  ================= */
+const $ = id => document.getElementById(id);
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const LS = (k,v) => (v===undefined ? JSON.parse(localStorage.getItem(k)||'null')
+                                   : localStorage.setItem(k, JSON.stringify(v)));
+const KEY = {
+  STAR: lvl => `ceec.star.${lvl}`,
+  FONT: 'ceec.font.scale',
+  PROG: lvl => `ceec.prog.${lvl}`,
+  QUIZ: lvl => `ceec.quiz.${lvl}`   // { correct: {key:true}, wrong:{key:true} }
+};
+const wordKey = (x) => `${x.en}__${x.zh}`;
 
-// 若你要直接內建 Level 1~6 的 JSON，可把它們合併成：
-// const EMBED_DECKS = { "CEEC Level 1": [...], "CEEC Level 2": [...], ... };
-
-// ---- 簡化：若沒有內建，先放一組示範資料避免空白 ----
-if (!Object.keys(EMBED_DECKS).length) {
-  EMBED_DECKS["CEEC Level 1"] = [
-    { en:"airmail", zh:"航空郵政", pos:"n." },
-    { en:"street", zh:"街道", pos:"n." }
-  ];
-}
-
-// ---- DOM & 狀態 ----
-const $ = (id) => document.getElementById(id);
+/* =================  全域狀態  ================= */
 const state = {
-  decks: EMBED_DECKS, order: Object.keys(EMBED_DECKS),
-  currentDeck: null, idx:0, showTrans:false, filtered:[],
-  fontScale: parseFloat(localStorage.getItem('fc_fontScale')||'1') || 1,
-  starred: JSON.parse(localStorage.getItem('fc_starred')||'{}'),
-  quiz: { list:[], i:0, mode:'en', wrong:[], seenMap: JSON.parse(localStorage.getItem('fc_seenMap')||'{}') },
-  phonCache: JSON.parse(localStorage.getItem('fc_phon')||'{}'),
+  decks: {},          // { "CEEC Level 1": [ {en,zh,pos,kk}, ... ] }
+  order: [],
+  curDeck: "",
+  idx: 0,
+  fontScale: LS(KEY.FONT) ?? 0,
+  showingTrans: false,
+  // 快取
+  phonCache: {}
 };
 
-function applyFontScale() {
-  const en = $('en'), zh = $('zh');
-  const baseEn = 56, baseZh = 28;
-  en.style.fontSize = Math.round(baseEn * state.fontScale) + 'px';
-  zh.style.fontSize = Math.round(baseZh * state.fontScale) + 'px';
-}
+/* ====== 載入六級 JSON 檔 ====== */
+const FILES = [
+  ["CEEC Level 1", "CEEC_7000_Level1.json"],
+  ["CEEC Level 2", "CEEC_7000_Level2.json"],
+  ["CEEC Level 3", "CEEC_7000_Level3.json"],
+  ["CEEC Level 4", "CEEC_7000_Level4.json"],
+  ["CEEC Level 5", "CEEC_7000_Level5.json"],
+  ["CEEC Level 6", "CEEC_7000_Level6.json"]
+];
 
-function setDeck(name) {
-  if(!name || !state.decks[name]) return;
-  state.currentDeck = name; state.idx=0; state.showTrans=false;
-  applyFilter(); refreshDeckUI(); renderCard();
-}
-
-function refreshDeckUI() {
-  const sel = $('deckSelect'); sel.innerHTML='';
-  state.order.sort((a,b)=>{ const na=parseInt((a.match(/(\d+)/)||[])[1]||'999',10); const nb=parseInt((b.match(/(\d+)/)||[])[1]||'999',10); return na-nb; });
-  state.order.forEach(n=>{ const o=document.createElement('option'); o.value=n; o.textContent=n+' ('+(state.decks[n]?.length||0)+')'; if(n===state.currentDeck) o.selected=true; sel.appendChild(o); });
-  $('deckName').textContent = state.currentDeck || '未載入牌組';
-  $('count').textContent = (state.decks[state.currentDeck]||[]).length;
-  $('idx').textContent = (state.filtered.length? state.idx+1 : 0) + ' / ' + state.filtered.length;
-}
-
-function applyFilter() {
-  const q = ($('search').value||'').trim().toLowerCase();
-  const onlyStar = $('onlyStar').checked;
-  const all = (state.decks[state.currentDeck]||[]).slice();
-  let arr = !q ? all : all.filter(e => (e.en||'').toLowerCase().includes(q) || (e.zh||'').toLowerCase().includes(q) || (e.pos||'').toLowerCase().includes(q));
-  if(onlyStar) arr = arr.filter(e => !!state.starred[e.en]);
-  state.filtered = arr;
-  if(state.idx >= state.filtered.length) state.idx = 0;
-  $('idx').textContent = (state.filtered.length? state.idx+1 : 0) + ' / ' + state.filtered.length;
-}
-
-async function renderCard() {
-  const list = state.filtered; const has = list && list.length; const e = has ? list[state.idx] : null;
-  const show = state.showTrans;
-  $('en').textContent = e ? (e.en||'') : '（沒有結果）';
-  if(!show) {
-    $('zh').style.display='none'; $('pos').style.display='none'; $('phon').style.display='none';
-    $('toggleTrans').textContent = '顯示翻譯';
-  } else {
-    $('zh').style.display='block'; $('pos').style.display='block'; $('phon').style.display='block';
-    $('zh').textContent = e?.zh || '';
-    $('pos').textContent = e?.pos || '';
-    $('toggleTrans').textContent = '隱藏翻譯';
-    if(e) {
-      const cached = state.phonCache[e.en];
-      if(cached) $('phon').textContent = cached;
-      else {
-        $('phon').textContent = '[  ]';
-        try {
-          const ph = await fetchPhonetic(e.en);
-          $('phon').textContent = ph || '[  ]';
-        } catch(err) { $('phon').textContent = '[  ]'; }
-      }
-    }
+async function loadDecksFromFiles(){
+  const decks = {};
+  for(const [name,file] of FILES){
+    try{
+      const res = await fetch(file, {cache:'no-store'});
+      const arr = await res.json();
+      decks[name] = (arr||[]).map(x => ({
+        en: x.en || x.word || "",
+        zh: x.zh || x.meaning || "",
+        pos: x.pos || "",
+        kk: x.kk || ""
+      }));
+    }catch(e){ decks[name] = []; }
   }
-  $('idx').textContent = (has ? (state.idx+1) : 0) + ' / ' + (list?.length||0);
-  const starred = e ? !!state.starred[e.en] : false;
-  $('starBtn').textContent = starred ? '★' : '☆';
-  applyFontScale();
+  return decks;
 }
 
-async function fetchPhonetic(word) {
-  try {
-    const res = await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word));
-    if(!res.ok) throw new Error('net');
-    const data = await res.json();
-    let txt = '';
-    if(Array.isArray(data) && data.length) {
-      const entry = data[0];
-      if(entry && Array.isArray(entry.phonetics)) {
-        const found = entry.phonetics.find(p => p.text);
-        if(found && found.text) txt = found.text;
-      }
-      if(!txt && entry && entry.phonetic) txt = entry.phonetic;
-    }
-    if(txt) {
-      state.phonCache[word] = txt;
-      localStorage.setItem('fc_phon', JSON.stringify(state.phonCache));
-      return txt;
-    }
-  } catch(err) {}
-  return '';
-}
+/* ====== UI 綁定 ====== */
+$('fontPlus').onclick = ()=>{ state.fontScale = Math.min((state.fontScale||0)+1, 8); LS(KEY.FONT, state.fontScale); applyFontScale(); };
+$('fontMinus').onclick = ()=>{ state.fontScale = Math.max((state.fontScale||0)-1, -4); LS(KEY.FONT, state.fontScale); applyFontScale(); };
+$('onlyStar').onchange = ()=> renderCard();
+$('shuffle').onclick = ()=>{ shuffleDeck(); state.idx=0; renderCard(true); };
+$('reset').onclick = ()=> resetProgress();
+$('next').onclick = ()=>{ step(1); };
+$('prev').onclick = ()=>{ step(-1); };
+$('toggleTrans').onclick = ()=>{ state.showingTrans = true; showTrans(true); };
+$('hideTrans').onclick = ()=>{ state.showingTrans = false; showTrans(false); };
+$('deckSelect').onchange = e => setDeck(e.target.value);
+$('mode').onchange = onModeChange;
+$('exportDeck').onclick = exportCurrentDeck;
+$('starBtn').onclick = toggleStar;
 
-function flip() { state.showTrans = !state.showTrans; renderCard(); }
-function next() { if(!state.filtered.length) return; state.idx=(state.idx+1)%state.filtered.length; state.showTrans=false; renderCard(); }
-function prev() { if(!state.filtered.length) return; state.idx=(state.idx-1+state.filtered.length)%state.filtered.length; state.showTrans=false; renderCard(); }
-function shuffle() { const a=state.filtered; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]];} state.idx=0; state.showTrans=false; renderCard(); }
-function resetProgress() { state.idx=0; state.showTrans=false; renderCard(); }
+$('btnStartQuiz').onclick = startQuiz;
+$('btnPrevQ').onclick = prevQuiz;
+$('btnEndQuiz').onclick = endQuiz;
 
-function toggleStar() {
-  const e = state.filtered[state.idx]; if(!e) return;
-  if(state.starred[e.en]) delete state.starred[e.en];
-  else state.starred[e.en] = true;
-  localStorage.setItem('fc_starred', JSON.stringify(state.starred));
-  renderCard();
-}
-
-$('export').addEventListener('click', () =>{
-  const name = state.currentDeck || 'Deck';
-  const data = JSON.stringify(state.decks[state.currentDeck]||[], null, 2);
-  const blob = new Blob([data], {type:'application/json'});
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a'); a.href=url; a.download=name + '.json'; a.click(); URL.revokeObjectURL(url);
-});
-
-function buildQuizList() {
-  const deck = (state.decks[state.currentDeck]||[]);
-  const seen = state.quiz.seenMap[state.currentDeck] || {};
-  const poolPref = deck.filter(e => !seen[e.en] || seen[e.en] === 'wrong');
-  const pool = (poolPref.length >= 4 ? poolPref : deck).slice();
-  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1)); [pool[i],pool[j]]=[pool[j],pool[i]];}
-  state.quiz.list = pool;
-  state.quiz.i = 0;
-  state.quiz.wrong = [];
-  $('qNum').textContent = 1;
-}
-
-async function renderQuizQ() {
-  const q = state.quiz.list[state.quiz.i];
-  const mode = state.quiz.mode;
-  if(!q) { $('qText').textContent='沒有題目'; $('choices').innerHTML=''; return; }
-  $('qNum').textContent = state.quiz.i+1;
-  $('qText').textContent = mode==='en' ? (q.en||'') : (q.zh||'');
-  if(mode==='en') {
-    const cached = state.phonCache[q.en];
-    $('qPhon').textContent = cached ? cached : '';
-    if(!cached) { try { const ph = await fetchPhonetic(q.en); $('qPhon').textContent = ph; } catch(e) { $('qPhon').textContent=''; } }
-  } else { $('qPhon').textContent=''; }
-  const deck = (state.decks[state.currentDeck]||[]).slice();
-  const correct = mode==='en' ? (q.zh||'') : (q.en||'');
-  const opts = [correct];
-  while(opts.length<4 && deck.length) {
-    const x = deck.splice(Math.floor(Math.random()*deck.length),1)[0];
-    const val = mode==='en' ? (x.zh||'') : (x.en||'');
-    if(val && !opts.includes(val) && val !== correct) opts.push(val);
-  }
-  for(let i=opts.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [opts[i],opts[j]]=[opts[j],opts[i]]; }
-  const ctn = $('choices'); ctn.innerHTML='';
-  opts.forEach(txt=>{
-    const b = document.createElement('button');
-    b.className = 'choice';
-    b.textContent = txt;
-    b.onclick = () => {
-      const ok = (txt === correct);
-      const deckSeen = (state.quiz.seenMap[state.currentDeck] = state.quiz.seenMap[state.currentDeck] || {});
-      deckSeen[q.en] = ok ? 'right' : 'wrong';
-      if(!ok) state.quiz.wrong.push(q);
-      localStorage.setItem('fc_seenMap', JSON.stringify(state.quiz.seenMap));
-      [...ctn.children].forEach(ch=> ch.disabled = true);
-      b.classList.add(ok ? 'correct' : 'wrong');
-      setTimeout(()=>{ quizNext(); }, 450);
-    };
-    ctn.appendChild(b);
+/* ====== 初始化 ====== */
+(async function init(){
+  state.decks = await loadDecksFromFiles();
+  state.order = Object.keys(state.decks).sort((a,b)=>{
+    const na = parseInt((a.match(/(\d+)/)||[])[1]||'999',10);
+    const nb = parseInt((b.match(/(\d+)/)||[])[1]||'999',10);
+    return na - nb;
   });
-}
 
-function quizPrev() { if(state.quiz.i > 0) { state.quiz.i--; renderQuizQ(); } }
-function quizNext() { if(state.quiz.i < state.quiz.list.length - 1) { state.quiz.i++; renderQuizQ(); } else { endQuiz(); } }
-function endQuiz() {
-  $('quizView').hidden = true;
-  $('endView').hidden = false;
-  const box = $('endList'); box.innerHTML='';
-  if(!state.quiz.wrong.length) {
-    const div = document.createElement('div'); div.className='enditem'; div.textContent='本次全部答對！';
-    box.appendChild(div);
-  } else {
-    state.quiz.wrong.forEach(q=>{
-      const div = document.createElement('div'); div.className='enditem';
-      div.innerHTML = `<div style="font-weight:800">${q.en}</div><div class="small" style="margin:2px 0 4px; color:var(--muted)">${state.phonCache[q.en]||''}</div><div>${q.zh} <span class="small">(${q.pos||''})</span></div>`;
-      box.appendChild(div);
-    });
-  }
-}
-function restartQuiz() { $('endView').hidden = true; $('quizView').hidden = false; buildQuizList(); renderQuizQ(); }
+  const sel = $('deckSelect'); sel.innerHTML = '';
+  state.order.forEach(n=>{
+    const o = document.createElement('option');
+    o.value = n; o.textContent = `${n} (${state.decks[n]?.length||0})`;
+    sel.appendChild(o);
+  });
 
-$('deckSelect').addEventListener('change', e=> setDeck(e.target.value));
-$('search').addEventListener('input', ()=>{ applyFilter(); renderCard(); });
-
-$('toggleTrans').addEventListener('click', flip);
-$('cardView').addEventListener('click', (e)=>{ if(e.target.id==='toggleTrans' || e.target.id==='starBtn') return; flip(); });
-$('next').addEventListener('click', next);
-$('prev').addEventListener('click', prev);
-$('shuffle').addEventListener('click', shuffle);
-$('reset').addEventListener('click', resetProgress);
-$('onlyStar').addEventListener('change', ()=>{ applyFilter(); renderCard(); });
-$('starBtn').addEventListener('click', toggleStar);
-
-$('fontPlus').addEventListener('click', ()=>{ state.fontScale = Math.min(2.2, (state.fontScale||1)+0.1); localStorage.setItem('fc_fontScale', state.fontScale); applyFontScale(); });
-$('fontMinus').addEventListener('click', ()=>{ state.fontScale = Math.max(0.6, (state.fontScale||1)-0.1); localStorage.setItem('fc_fontScale', state.fontScale); applyFontScale(); });
-
-$('mode').addEventListener('change', (e)=>{
-  const v = e.target.value;
-  const quiz = v.startsWith('quiz');
-  $('quizView').hidden = !quiz;
-  $('endView').hidden = true;
-  $('cardView').style.display = quiz ? 'none' : 'grid';
-  if(quiz) {
-    state.quiz.mode = v==='quiz-en' ? 'en' : 'zh';
-    buildQuizList(); renderQuizQ();
-  }
-});
-
-$('quizStart').addEventListener('click', ()=>{ buildQuizList(); renderQuizQ(); });
-$('quizPrev').addEventListener('click', quizPrev);
-$('quizEnd').addEventListener('click', endQuiz);
-$('restartQuiz').addEventListener('click', restartQuiz);
-
-(function init(){
-  state.order = Object.keys(state.decks).sort((a,b)=>{ const na=parseInt((a.match(/(\d+)/)||[])[1]||'999',10); const nb=parseInt((b.match(/(\d+)/)||[])[1]||'999',10); return na-nb; });
-  const sel = $('deckSelect'); sel.innerHTML=''; state.order.forEach(n=>{ const o=document.createElement('option'); o.value=n; o.textContent=n+' ('+(state.decks[n]?.length||0)+')'; sel.appendChild(o); });
   setDeck(state.order[0]);
   applyFontScale();
+  onModeChange();
 })();
+
+/* =================  卡片模式  ================= */
+function setDeck(name){
+  state.curDeck = name;
+  state.idx = 0;
+  state.showingTrans = false;
+  renderCard(true);
+}
+
+function getFilteredDeck(){
+  const arr = state.decks[state.curDeck] || [];
+  if (!$('onlyStar').checked) return arr;
+  const star = LS(KEY.STAR(state.curDeck)) || {};
+  return arr.filter(x => star[wordKey(x)]);
+}
+
+function renderCard(scrollTop){
+  const arr = getFilteredDeck();
+  if (!arr.length){
+    $('front').textContent = '（無資料）';
+    $('back').textContent = '';
+    $('kk').textContent = '';
+    $('pos').textContent = '';
+    $('cardNum').textContent = '0 / 0';
+    $('starBtn').classList.remove('active');
+    return;
+  }
+  state.idx = Math.max(0, Math.min(state.idx, arr.length-1));
+  const e = arr[state.idx];
+  $('front').textContent = e.en;
+  $('cardNum').textContent = `${state.idx+1} / ${arr.length}`;
+  $('transBox').style.display = state.showingTrans ? 'flex' : 'none';
+  if (state.showingTrans) fillTrans(e);
+  // star
+  const star = LS(KEY.STAR(state.curDeck)) || {};
+  $('starBtn').className = 'star' + (star[wordKey(e)] ? ' active':'');
+  if (scrollTop) window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function fillTrans(e){
+  $('back').textContent = e.zh || '';
+  $('pos').textContent = (e.pos||'').trim();
+  const kk = (e.kk||'').trim();
+  $('kk').textContent = kk || '[ ]';
+}
+function showTrans(on){ $('transBox').style.display = on ? 'flex':'none'; if (on) fillTrans(getFilteredDeck()[state.idx]||{}); }
+function step(d){ state.idx += d; renderCard(true); }
+function shuffleDeck(){
+  const arr = state.decks[state.curDeck]||[];
+  for(let i=arr.length-1;i>0;i--){ const j = Math.floor(Math.random()*(i+1)); [arr[i],arr[j]]=[arr[j],arr[i]]; }
+}
+
+function applyFontScale(){
+  const s = Math.max(0.8, 1 + (state.fontScale||0)*0.08);
+  document.documentElement.style.setProperty('--scale', s);
+}
+function toggleStar(){
+  const arr = getFilteredDeck(); if (!arr.length) return;
+  const e = arr[state.idx];
+  const k = wordKey(e);
+  const star = LS(KEY.STAR(state.curDeck)) || {};
+  star[k] ? delete star[k] : star[k] = true;
+  LS(KEY.STAR(state.curDeck), star);
+  $('starBtn').className = 'star' + (star[k] ? ' active':'');
+}
+
+/* =================  搜尋（卡片/測驗共用）  ================= */
+$('q').addEventListener('input', ()=> { state.idx=0; renderCard(); });
+
+function textFilter(e, kw){
+  if (!kw) return true;
+  kw = kw.toLowerCase();
+  return (e.en||'').toLowerCase().includes(kw) ||
+         (e.zh||'').toLowerCase().includes(kw) ||
+         (e.pos||'').toLowerCase().includes(kw);
+}
+
+/* =================  模式切換  ================= */
+function onModeChange(){
+  const m = $('mode').value;
+  const isCard = m === 'card';
+  $('cardView').style.display = isCard ? 'block':'none';
+  document.querySelector('.toolbar').style.display = isCard ? 'flex':'none';
+  $('quizPanel').style.display = isCard ? 'none':'block';
+}
+
+/* =================  測驗模式  ================= */
+let quiz = null; // {list, idx, order, ans, wrong, seen, histKey}
+
+function buildQuizPool(){
+  const level = state.curDeck;
+  const raw = (state.decks[level]||[]).filter(e => textFilter(e, $('q').value));
+  if (!raw.length) return [];
+
+  const hist = LS(KEY.QUIZ(level)) || {correct:{}, wrong:{}};
+  const onlyWrongNext = $('onlyWrongNext').checked;
+
+  let pool = raw.slice();
+  if (onlyWrongNext){
+    const wrongList = raw.filter(e => hist.wrong[wordKey(e)]);
+    const unseen = raw.filter(e => !hist.correct[wordKey(e)] && !hist.wrong[wordKey(e)]);
+    // 優先：錯題 + 未做
+    pool = [...wrongList, ...unseen];
+    // 如果全清空，保底用全部
+    if (!pool.length) pool = raw.slice();
+  }
+  return shuffle(pool).slice(0, Infinity);
+}
+function shuffle(arr){ const a=arr.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a;}
+
+function startQuiz(){
+  const list = buildQuizPool();
+  quiz = {
+    list, idx:0, mode:$('mode').value, wrong:[], ans:[], order:[], seen:new Set(),
+    histKey: KEY.QUIZ(state.curDeck)
+  };
+  $('quizResult').style.display = 'none';
+  $('btnPrevQ').disabled = true;
+  renderQuestion();
+}
+function prevQuiz(){
+  if (!quiz) return;
+  if (quiz.idx>0){ quiz.idx--; renderQuestion(true); }
+  $('btnPrevQ').disabled = quiz.idx<=0;
+}
+function endQuiz(){
+  if (!quiz) return;
+  showWrongList();
+}
+
+function renderQuestion(fromPrev=false){
+  const total = quiz.list.length;
+  if (!total){ $('qWord').textContent='（無題目）'; $('qOpts').innerHTML=''; $('qPhon').textContent=''; $('qPos').textContent=''; return;}
+  $('qIdx').textContent = `第 ${quiz.idx+1} / ${total}`;
+
+  const q = quiz.list[quiz.idx];
+  const mode = quiz.mode;
+  const opts = buildOptions(q, mode);
+  quiz.order[quiz.idx] = opts;
+
+  // 題幹
+  if (mode==='quiz_e2c'){
+    $('qWord').textContent = q.en;
+    $('qPhon').textContent = (q.kk||'').trim() || '[ ]';
+    $('qPos').textContent = (q.pos||'').trim();
+  }else{
+    $('qWord').textContent = q.zh;
+    $('qPhon').textContent = '';
+    $('qPos').textContent = (q.pos||'').trim();
+  }
+
+  // 選項
+  const box = $('qOpts'); box.innerHTML='';
+  opts.forEach((o,i)=>{
+    const div = document.createElement('div');
+    div.className = 'opt';
+    div.textContent = o.text;
+    div.onclick = ()=> choose(i);
+    box.appendChild(div);
+  });
+
+  window.scrollTo({top:0,behavior: fromPrev? 'auto':'smooth'});
+}
+
+function buildOptions(q, mode){
+  const pool = shuffle(state.decks[state.curDeck]||[]);
+  const answers = new Set([wordKey(q)]);
+  const opts = [];
+
+  // 正確選項
+  if (mode==='quiz_e2c'){
+    opts.push({text:q.zh, key:wordKey(q), correct:true});
+  }else{
+    opts.push({text:q.en, key:wordKey(q), correct:true});
+  }
+
+  // 錯誤選項
+  for (const x of pool){
+    if (answers.has(wordKey(x))) continue;
+    answers.add(wordKey(x));
+    opts.push({text: mode==='quiz_e2c' ? x.zh : x.en, key:wordKey(x), correct:false});
+    if (opts.length>=4) break;
+  }
+  return shuffle(opts);
+}
+
+function choose(idx){
+  const opts = quiz.order[quiz.idx];
+  const choice = opts[idx];
+  markChoice(choice.correct);
+
+  // 記錄歷史
+  const level = state.curDeck;
+  const hist = LS(quiz.histKey) || {correct:{}, wrong:{}};
+  const q = quiz.list[quiz.idx];
+  const k = wordKey(q);
+  if (choice.correct){ hist.correct[k]=true; delete hist.wrong[k]; }
+  else { hist.wrong[k]=true; }
+  LS(quiz.histKey, hist);
+
+  if (!choice.correct){
+    quiz.wrong.push(q);
+  }
+  // 自動下一題
+  setTimeout(()=>{
+    quiz.idx++;
+    if (quiz.idx >= quiz.list.length){ showWrongList(); return; }
+    $('btnPrevQ').disabled = quiz.idx<=0;
+    renderQuestion();
+  }, 220);
+}
+
+function markChoice(isCorrect){
+  const nodes = Array.from(document.querySelectorAll('#qOpts .opt'));
+  nodes.forEach(n=>n.classList.remove('correct','wrong'));
+  // 標記正確與本次選擇
+  const opts = quiz.order[quiz.idx];
+  opts.forEach((o,i)=>{
+    if (o.correct) nodes[i].classList.add('correct');
+  });
+  // 本次點到的
+  const me = nodes.find((_,i)=>true && !0); // 不需特別標本次；已自動前往下一題
+}
+
+function showWrongList(){
+  $('quizResult').style.display = 'block';
+  const box = $('wrongList'); box.innerHTML='';
+  if (!quiz.wrong.length){
+    box.innerHTML = `<div class="muted">太強了！本次無錯題～</div>`;
+    return;
+  }
+  const ul = document.createElement('div');
+  ul.style.display='grid'; ul.style.gap='10px';
+  quiz.wrong.forEach(w=>{
+    const div = document.createElement('div');
+    div.className='opt';
+    div.innerHTML = `<div><strong>${w.en}</strong> <span class="kk">${(w.kk||'').trim()||'[ ]'}</span><div class="tiny muted">${w.pos||''}</div></div>
+                     <div style="margin-top:6px">${w.zh}</div>`;
+    ul.appendChild(div);
+  });
+  box.appendChild(ul);
+}
+
+/* =================  匯出目前牌組  ================= */
+function exportCurrentDeck(){
+  const name = state.curDeck.replace(/\s+/g,'_');
+  const data = JSON.stringify(state.decks[state.curDeck]||[], null, 2);
+  const blob = new Blob([data], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `${name}.json`;
+  a.click();
+  setTimeout(()=> URL.revokeObjectURL(a.href), 1000);
+}
+
+/* =================  進度重置  ================= */
+function resetProgress(){
+  if (!confirm('重置本牌組的星號與答題紀錄？')) return;
+  LS(KEY.STAR(state.curDeck), {});
+  LS(KEY.QUIZ(state.curDeck), {correct:{}, wrong:{}});
+  renderCard();
+}
 </script>
 </body>
 </html>
