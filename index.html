@@ -1,364 +1,403 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-Hant">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
 <title>CEEC 英漢翻譯單字卡（行動版）</title>
 <style>
   :root{
-    --bg:#f4e6c9;        /* 米色背景 */
-    --panel:#f2dfbb;     /* 面板 */
-    --card:#fffaf1;      /* 卡片白 */
-    --text:#4a2e20;      /* 深咖啡 */
-    --muted:#876a59;
-    --btn:#ead4ac;
-    --btn-2:#e5cfa4;
-    --ring:#d4b27e;
-    --shadow:0 8px 30px rgba(0,0,0,.07);
-    --radius:18px;
+    --bg:#f3e6cb;      /* 背景米色 */
+    --panel:#f0e0bf;   /* 面板淡米 */
+    --card:#ffffff;    /* 單字卡白 */
+    --ink:#4a3326;     /* 深咖啡字 */
+    --ink-soft:#6b5140;
+    --accent:#d9b98b;  /* 按鈕米金 */
+    --accent-strong:#c9a871;
+    --accent-ghost:#ead8b7;
+    --shadow: 0 6px 20px rgba(0,0,0,.08);
   }
-  html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans TC","PingFang TC","Hiragino Sans GB","Microsoft JhengHei",sans-serif;}
-  .wrap{max-width:960px;margin:0 auto;padding:16px 14px 80px;}
-  .row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-  .topbar{margin-bottom:14px}
-  .input,select,button{font-size:16px;border:0;border-radius:12px;background:#fff4df;color:var(--text);padding:12px 14px;box-shadow:var(--shadow);outline: none}
-  .select{position:relative}
-  .checkbox{display:flex;align-items:center;gap:8px}
-  .panel{background:var(--panel);border-radius:var(--radius);padding:12px;box-shadow:var(--shadow)}
+  html,body{height:100%}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family: ui-sans-serif, system-ui, -apple-system, "PingFang TC", "Noto Sans TC", "Segoe UI", Arial;
+    -webkit-font-smoothing:antialiased; line-height:1.5;
+  }
+  .wrap{max-width:980px;margin:0 auto;padding:16px 14px 28px;}
+  header{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+  .search{
+    flex:1;min-width:220px;display:flex;align-items:center;
+    background:var(--panel);border-radius:12px;padding:8px 12px;
+  }
+  .search input{
+    width:100%;border:0;background:transparent;outline:0;color:var(--ink);
+    font-size:16px;
+  }
+  .select, .chip{
+    background:var(--panel);border-radius:12px;padding:10px 12px;
+    display:flex;align-items:center;gap:8px;box-shadow: var(--shadow);
+  }
+  .select select{appearance:none;border:0;background:transparent;color:var(--ink);font-size:16px}
+  .chip input{margin-right:8px}
+  .board{background:linear-gradient(180deg,#f6e8ca, #efdfbf 22%, #efdfbf); padding:14px;border-radius:18px;box-shadow: var(--shadow);}
+
+  .meta{display:flex;justify-content:space-between;align-items:center;color:var(--ink-soft);font-weight:600;padding:4px 6px 10px}
   .card{
-    background:var(--card);border-radius:22px;box-shadow:var(--shadow);
-    min-height:58vh;display:flex;flex-direction:column;justify-content:center;align-items:center;
-    position:relative;overflow:hidden;padding:28px 20px;transition:transform .15s;
+    background:var(--card);border-radius:18px;box-shadow: var(--shadow);
+    height:48vh;min-height:320px;max-height:520px;
+    display:flex;align-items:center;justify-content:center;position:relative;
+    overflow:hidden;padding:12px;margin:0 6px;
   }
-  .card:active{transform:scale(.995)}
-  .counter{position:absolute;left:16px;top:12px;font-weight:600;color:var(--muted)}
-  .starBtn{
-    position:absolute;right:14px;top:12px;
-    background:transparent;border:none;font-size:24px;line-height:1;cursor:pointer;color:#b68a4a;
+  .star-btn{
+    position:absolute;top:12px;right:12px;
+    width:42px;height:42px;border-radius:14px;border:0;
+    background:var(--panel);box-shadow: var(--shadow);cursor:pointer;
+    display:grid;place-items:center;font-size:22px;color:var(--ink-soft);
   }
-  .word{font-size:42px;font-weight:800;letter-spacing:.5px;text-align:center;margin:0 0 12px}
-  .kk{font-family: "Noto Sans", "Noto Sans TC", system-ui; font-size:18px;color:#7b5b4b;margin:0 0 8px}
-  .def{font-size:18px;text-align:center;line-height:1.6}
-  .tapHint{position:absolute;bottom:14px;color:#a88a76;font-size:13px}
-  .sliderRow{display:flex;align-items:center;gap:10px;margin:12px 0 2px}
-  .pill{background:var(--btn);padding:8px 12px;border-radius:999px;font-weight:700;min-width:56px;text-align:center;color:#6a4d3b}
-  input[type="range"]{width:100%}
-  .btnbar{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}
-  .btn{background:var(--btn);border:0;border-radius:14px;padding:12px 18px;font-weight:700;box-shadow:var(--shadow);color:#6a4d3b}
+  .star-btn.active{color:#b38200;background:#ffecc2}
+  .word{font-size:44px;font-weight:800;letter-spacing:.5px;margin:0 0 10px;text-align:center;color:#111}
+  .kk{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;color:#8a6a53;margin:2px 0 10px;text-align:center}
+  .zh{font-size:20px;font-weight:700;text-align:center}
+  .pos{font-size:14px;opacity:.75;text-align:center}
+  .revealTip{
+    position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);
+    background:#f6e8ca;border:1px dashed #e2cfa6;border-radius:12px;padding:8px 12px;
+    color:#6b4e39;font-weight:700
+  }
+
+  .ctrls{display:flex;gap:12px;justify-content:space-between;flex-wrap:wrap;margin:14px 6px 0}
+  .btn{
+    background:var(--accent);border:0;border-radius:14px;padding:12px 18px;font-weight:800;
+    color:#3b2a1f;box-shadow: var(--shadow);min-width:110px
+  }
   .btn:active{transform:translateY(1px)}
-  .starsBoard{margin-top:14px}
-  .tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
-  .tab{background:var(--btn-2);border:0;border-radius:999px;padding:8px 14px;font-weight:700;color:#6a4d3b;opacity:.7}
-  .tab.active{opacity:1;outline:2px solid var(--ring)}
-  .starList{display:flex;flex-direction:column;gap:10px;max-height:40vh;overflow:auto}
-  .starItem{background:var(--card);border-radius:14px;padding:12px 14px;box-shadow:var(--shadow)}
-  .starItem b{font-size:18px}
-  .muted{color:#8f7766}
-  .hidden{display:none}
-  .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
-  /* Mobile tweaks */
-  @media (max-width:480px){
-    .word{font-size:38px}
-    .card{min-height:56vh}
+  .btn.ghost{background:var(--accent-ghost)}
+  .sliderRow{display:flex;align-items:center;gap:14px;padding:8px 6px 4px}
+  .badge{background:var(--panel);padding:10px 12px;border-radius:12px;min-width:52px;text-align:center;font-weight:900;box-shadow: var(--shadow)}
+
+  input[type=range]{width:100%}
+
+  /* starred list */
+  .favPanel{background:var(--panel);border-radius:18px;box-shadow: var(--shadow);padding:12px;margin-top:14px}
+  .favTabs{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 10px}
+  .tab{
+    background:#f6e8ca;border-radius:999px;padding:8px 14px;font-weight:900;color:#6b4e39;border:2px solid transparent;
+  }
+  .tab.active{background:#ffe9c4;border-color:#e5c38e}
+  .favList{display:flex;flex-direction:column;gap:10px;max-height:280px;overflow:auto;padding-right:6px}
+  .favItem{background:#fff;border-radius:14px;box-shadow: var(--shadow);padding:10px 12px}
+  .favItem .en{font-weight:900}
+  .muted{color:#876b57;font-size:13px}
+
+  /* small screens */
+  @media (max-width:420px){
+    .word{font-size:40px}
+    .card{height:46vh}
   }
 </style>
 </head>
 <body>
   <div class="wrap">
-    <!-- Top controls -->
-    <div class="panel topbar">
-      <div class="row">
-        <input id="q" class="input" placeholder="搜尋 英/中/詞性/KK…" />
-        <div class="select">
-          <select id="deck" class="input">
-            <option value="L1">CEEC Level 1</option>
-            <option value="L2">CEEC Level 2</option>
-            <option value="L3">CEEC Level 3</option>
-            <option value="L4">CEEC Level 4</option>
-            <option value="L5">CEEC Level 5</option>
-            <option value="L6">CEEC Level 6</option>
-            <option value="EXAM">學測單字</option>
-          </select>
-        </div>
-        <label class="checkbox"><input type="checkbox" id="onlyStar"/><span>只看加星</span></label>
+    <header>
+      <div class="search"><input id="q" placeholder="搜尋 英/中/詞性/KK…" /></div>
+      <div class="select">
+        <select id="level">
+          <option value="1">CEEC Level 1</option>
+          <option value="2">CEEC Level 2</option>
+          <option value="3">CEEC Level 3</option>
+          <option value="4">CEEC Level 4</option>
+          <option value="5">CEEC Level 5</option>
+          <option value="6">CEEC Level 6</option>
+          <option value="X">學測單字</option>
+        </select>
+        <span>▾</span>
       </div>
-    </div>
+      <label class="chip"><input type="checkbox" id="onlyFav" />只看加星</label>
+    </header>
 
-    <!-- Card -->
-    <div class="panel">
+    <section class="board">
+      <div class="meta">
+        <div><span id="idxNow">1</span> / <span id="idxMax">—</span></div>
+        <div id="deckName">CEEC Level 1</div>
+      </div>
+
       <div id="card" class="card" role="button" aria-label="點擊切換翻譯">
-        <div id="counter" class="counter">1 / 1</div>
-        <button id="starBtn" class="starBtn" title="加星/移除">☆</button>
-        <h1 id="word" class="word">loading…</h1>
-        <div id="kk" class="kk hidden">[kk]</div>
-        <div id="def" class="def hidden">中文＋詞性</div>
-        <div class="tapHint">點擊卡片可切換「只看英文 / 顯示翻譯」</div>
+        <button id="starBtn" class="star-btn" title="加星/移除">☆</button>
+        <div id="tip" class="revealTip">點白色卡片切換翻譯</div>
+        <div style="text-align:center;max-width:90%">
+          <h1 id="en" class="word">—</h1>
+          <div id="kk" class="kk" style="display:none">—</div>
+          <div id="zh" class="zh" style="display:none">—</div>
+          <div id="pos" class="pos" style="display:none">—</div>
+        </div>
       </div>
 
-      <!-- Slider -->
       <div class="sliderRow">
-        <span id="idxL" class="pill">1</span>
-        <input id="slider" type="range" min="1" max="1" step="1" />
-        <span id="idxR" class="pill">1</span>
+        <div class="badge" id="minLab">1</div>
+        <input type="range" id="slider" min="1" max="1" value="1" />
+        <div class="badge" id="maxLab">1</div>
       </div>
 
-      <!-- Buttons -->
-      <div class="btnbar">
-        <button id="prev" class="btn">← 上一張</button>
-        <button id="next" class="btn">下一張 →</button>
-        <button id="rand" class="btn">隨機</button>
-        <button id="reset" class="btn" title="清除此牌組的進度">重置進度</button>
+      <div class="ctrls">
+        <button class="btn ghost" id="prevBtn">← 上一張</button>
+        <button class="btn ghost" id="toggleBtn">隱藏翻譯</button>
+        <button class="btn" id="nextBtn">下一張 →</button>
+        <button class="btn ghost" id="randBtn">隨機</button>
       </div>
-    </div>
+    </section>
 
-    <!-- Starred board -->
-    <div class="panel starsBoard">
-      <div class="row" style="justify-content:space-between;align-items:center">
-        <div style="font-weight:900">加星清單</div>
+    <section class="favPanel">
+      <div class="muted" style="font-weight:900">加星清單</div>
+      <div class="favTabs">
+        <button class="tab" data-f="1">L1</button>
+        <button class="tab" data-f="2">L2</button>
+        <button class="tab" data-f="3">L3</button>
+        <button class="tab" data-f="4">L4</button>
+        <button class="tab" data-f="5">L5</button>
+        <button class="tab" data-f="6">L6</button>
+        <button class="tab" data-f="X">學測</button>
       </div>
-      <div class="tabs" id="starTabs">
-        <button class="tab" data-tab="L1">L1</button>
-        <button class="tab" data-tab="L2">L2</button>
-        <button class="tab" data-tab="L3">L3</button>
-        <button class="tab" data-tab="L4">L4</button>
-        <button class="tab" data-tab="L5">L5</button>
-        <button class="tab" data-tab="L6">L6</button>
-        <button class="tab" data-tab="EXAM">學測</button>
+      <div id="favList" class="favList">
+        <div class="muted">尚未加星</div>
       </div>
-      <div id="starList" class="starList"></div>
-    </div>
+    </section>
 
-    <p class="muted" style="margin:14px 8px 0">已內建 CEEC 7000 六級單字＋學測單字。星與字體設定會保存於本機。</p>
+    <p class="muted" style="margin:16px 6px 0">已內建 CEEC 7000 六級單字 + 學測單字。星與進度會保存於本機。</p>
   </div>
 
 <script>
-/** ---------- 基本設定 ---------- */
-const FILES = {
-  L1: 'CEEC_7000_Level1.json',
-  L2: 'CEEC_7000_Level2.json',
-  L3: 'CEEC_7000_Level3.json',
-  L4: 'CEEC_7000_Level4.json',
-  L5: 'CEEC_7000_Level5.json',
-  L6: 'CEEC_7000_Level6.json',
-  EXAM: 'CEEC_Exam.json',
+/* ---------- 資料載入 ---------- */
+const DATA_MAP = {
+  "1": "CEEC_7000_Level1.json",
+  "2": "CEEC_7000_Level2.json",
+  "3": "CEEC_7000_Level3.json",
+  "4": "CEEC_7000_Level4.json",
+  "5": "CEEC_7000_Level5.json",
+  "6": "CEEC_7000_Level6.json",
+  "X": "CEEC_Exam.json" // 學測
 };
-const els = {
-  deck: document.getElementById('deck'),
-  q: document.getElementById('q'),
-  onlyStar: document.getElementById('onlyStar'),
-  card: document.getElementById('card'),
-  word: document.getElementById('word'),
-  kk: document.getElementById('kk'),
-  def: document.getElementById('def'),
-  counter: document.getElementById('counter'),
-  starBtn: document.getElementById('starBtn'),
-  slider: document.getElementById('slider'),
-  idxL: document.getElementById('idxL'),
-  idxR: document.getElementById('idxR'),
-  prev: document.getElementById('prev'),
-  next: document.getElementById('next'),
-  rand: document.getElementById('rand'),
-  reset: document.getElementById('reset'),
-  starTabs: document.getElementById('starTabs'),
-  starList: document.getElementById('starList'),
+
+let decks = {}; // {level: [ {en, zh, kk, pos}, ... ]}
+let view = {
+  level: localStorage.getItem('v.level') || "1",
+  idx:  parseInt(localStorage.getItem('v.idx.'+(localStorage.getItem('v.level')||'1'))||"1",10),
+  showTrans: false,
+  onlyFav: localStorage.getItem('v.onlyFav') === '1',
+  query: ''
 };
-let dataCache = {};     // deck -> full array
-let viewList = [];      // filtered list (search / onlyStar)
-let curDeck = localStorage.getItem('deck') || 'L1';
-let showTrans = JSON.parse(localStorage.getItem('showTrans') || 'false'); // 卡片是否顯示翻譯
-let idx = 0;            // 當前 index（viewList 的）
-const keyProg = d => `progress_${d}`;
-const keyStars = 'stars_v2'; // { deck: { "word|kk": {w,kk,pos,def} } }
 
-/** ---------- 輔助 ---------- */
-const getStars = () => JSON.parse(localStorage.getItem(keyStars) || '{}');
-const setStars = v => localStorage.setItem(keyStars, JSON.stringify(v));
-const safeText = s => (s || '').toString();
-function makeId(item){ return `${safeText(item.word)}|${safeText(item.kk)}`; }
-function normalizeItem(raw){
-  // 兼容不同欄位名稱
-  return {
-    word: raw.word || raw.en || raw.w || '',
-    kk:   raw.kk || raw.phonetics || raw.ph || '',
-    pos:  raw.pos || raw.type || raw.t || '',
-    def:  raw.def || raw.cn || raw.zh || raw.c || '',
-  };
-}
+const $ = (s)=>document.querySelector(s);
+const $$=(s)=>document.querySelectorAll(s);
 
-/** ---------- 載入 & 建視圖 ---------- */
-async function loadDeck(deck){
-  if(!dataCache[deck]){
-    const res = await fetch(FILES[deck], {cache:'no-store'});
-    const arr = await res.json();
-    dataCache[deck] = arr.map(normalizeItem);
+const el = {
+  level: $('#level'), deckName: $('#deckName'),
+  idxNow: $('#idxNow'), idxMax: $('#idxMax'),
+  en: $('#en'), kk: $('#kk'), zh: $('#zh'), pos: $('#pos'),
+  card: $('#card'), tip: $('#tip'),
+  starBtn: $('#starBtn'),
+  slider: $('#slider'), minLab: $('#minLab'), maxLab: $('#maxLab'),
+  prev: $('#prevBtn'), next: $('#nextBtn'), rand: $('#randBtn'),
+  toggle: $('#toggleBtn'),
+  search: $('#q'), onlyFav: $('#onlyFav'),
+  favList: $('#favList')
+};
+
+el.level.value = view.level;
+el.onlyFav.checked = view.onlyFav;
+
+/* 取得收藏與進度 */
+const favKey = (lv)=>`fav.${lv}`;
+const progKey = (lv)=>`v.idx.${lv}`;
+const getFavSet = (lv)=> new Set(JSON.parse(localStorage.getItem(favKey(lv))||'[]'));
+const setFavSet = (lv,set)=> localStorage.setItem(favKey(lv), JSON.stringify([...set]));
+
+/* 載入所有資料（第一次載入用） */
+async function loadAll(){
+  for(const [lv,file] of Object.entries(DATA_MAP)){
+    decks[lv] = await fetch(file).then(r=>r.json());
   }
-  buildView();
-  // 恢復進度
-  const saved = +localStorage.getItem(keyProg(deck)) || 1;
-  idx = clamp(saved-1, 0, viewList.length-1);
-  updateSlider();
-  render();
-  refreshStarList();
 }
-function buildView(){
-  const all = dataCache[curDeck] || [];
-  const stars = getStars();
-  const starSet = new Set(Object.keys(stars[curDeck] || {}));
-  const q = els.q.value.trim().toLowerCase();
-  viewList = all.filter((it)=>{
-    const id = makeId(it);
-    if(els.onlyStar.checked && !starSet.has(id)) return false;
-    if(!q) return true;
-    const blob = (it.word + ' ' + it.def + ' ' + it.pos + ' ' + it.kk).toLowerCase();
-    return blob.includes(q);
-  });
-  if(viewList.length===0){ viewList=[{word:'（無結果）',kk:'',pos:'',def:'請調整搜尋或條件'}]; }
-  els.slider.max = String(viewList.length);
-  els.idxR.textContent = String(viewList.length);
-}
-function clamp(n,min,max){ return Math.max(min, Math.min(max, n)); }
+function safeStr(s){ return (s??'').toString(); }
 
-/** ---------- 畫面 ---------- */
+/* 根據目前條件取得「可用的索引清單」 */
+function filteredIndexList(){
+  const lv = view.level;
+  const data = decks[lv]||[];
+  const favs = getFavSet(lv);
+  let ids = data.map((_,i)=>i);
+
+  // 只看加星
+  if(view.onlyFav) ids = ids.filter(i=> favs.has(i));
+
+  // 搜尋
+  if(view.query.trim()){
+    const q = view.query.trim().toLowerCase();
+    ids = ids.filter(i=>{
+      const w = data[i];
+      return [w.en, w.zh, w.kk, w.pos].some(v=> safeStr(v).toLowerCase().includes(q));
+    });
+  }
+  return ids;
+}
+
+/* 畫面顯示 */
 function render(){
-  const it = viewList[idx] || {word:'',kk:'',pos:'',def:''};
-  els.word.textContent = it.word || '';
-  els.kk.textContent = it.kk ? `[${it.kk}]` : '';
-  els.def.textContent = [it.pos, it.def].filter(Boolean).join(' ');
-  // 顯示/隱藏 翻譯
-  els.kk.classList.toggle('hidden', !showTrans);
-  els.def.classList.toggle('hidden', !showTrans);
-  // 進度
-  els.counter.textContent = `${idx+1} / ${viewList.length}`;
-  els.idxL.textContent = String(idx+1);
-  els.slider.value = String(idx+1);
-  // 星號顯示
-  const stars = getStars();
-  const id = makeId(it);
-  const on = Boolean(stars[curDeck] && stars[curDeck][id]);
-  els.starBtn.textContent = on ? '★' : '☆';
-  // 存進度（每次 render 視為瀏覽）
-  localStorage.setItem(keyProg(curDeck), String(idx+1));
-  // 記住翻譯可見狀態
-  localStorage.setItem('showTrans', JSON.stringify(showTrans));
-}
-function updateSlider(){
-  els.idxR.textContent = String(viewList.length);
-  els.idxL.textContent = String(idx+1);
-  els.slider.max = String(viewList.length);
-  els.slider.value = String(idx+1);
-}
+  const lv = view.level;
+  const data = decks[lv]||[];
+  const ids = filteredIndexList();
 
-/** ---------- 星號清單 ---------- */
-function refreshStarList(tabKeep){
-  const stars = getStars();
-  // 啟用當前分頁樣式
-  const active = tabKeep || (localStorage.getItem('starTab') || 'L1');
-  [...els.starTabs.querySelectorAll('.tab')].forEach(b=>{
-    b.classList.toggle('active', b.dataset.tab === active);
-  });
-  localStorage.setItem('starTab', active);
+  const max = Math.max(ids.length, 1);
+  if(view.idx > max) view.idx = max;
+  if(view.idx < 1) view.idx = 1;
 
-  const group = stars[active] || {};
-  const list = Object.values(group); // {w,kk,pos,def}
-  els.starList.innerHTML = '';
-  if(list.length===0){
-    const p = document.createElement('div');
-    p.className='muted'; p.style.padding='6px 2px';
-    p.textContent = '（此分級尚無加星單字）';
-    els.starList.appendChild(p);
+  el.idxMax.textContent = max;
+  el.slider.max = max;
+  el.maxLab.textContent = max;
+  el.minLab.textContent = 1;
+
+  const realIndex = ids.length ? ids[view.idx-1] : -1;
+  el.idxNow.textContent = view.idx;
+  el.deckName.textContent = lv==='X' ? '學測單字' : `CEEC Level ${lv}`;
+
+  if(realIndex === -1){
+    el.en.textContent = '查無單字';
+    el.kk.style.display = el.zh.style.display = el.pos.style.display = 'none';
+    el.starBtn.classList.remove('active');
     return;
   }
-  list.forEach((it)=>{
+
+  const w = data[realIndex] || {};
+  el.en.textContent = safeStr(w.en||w.word||'—');
+  el.kk.textContent = w.kk ? `[ ${w.kk} ]` : '';
+  el.zh.textContent = safeStr(w.zh||w.cn||w.tw||'');
+  el.pos.textContent = safeStr(w.pos||'');
+  el.kk.style.display = el.zh.style.display = el.pos.style.display = view.showTrans ? '' : 'none';
+  el.toggle.textContent = view.showTrans ? '隱藏翻譯' : '顯示翻譯';
+  el.tip.style.display = view.showTrans ? 'none' : '';
+
+  // 星號狀態
+  const favs = getFavSet(lv);
+  el.starBtn.classList.toggle('active', favs.has(realIndex));
+
+  // Slider
+  el.slider.value = view.idx;
+
+  // 存進度
+  localStorage.setItem('v.level', lv);
+  localStorage.setItem(progKey(lv), String(view.idx));
+  localStorage.setItem('v.onlyFav', view.onlyFav ? '1':'0');
+
+  renderFavList(currentFavTab);
+}
+
+/* 收藏清單 */
+let currentFavTab = localStorage.getItem('fav.tab') || '1';
+function renderFavList(tabLv=currentFavTab){
+  currentFavTab = tabLv;
+  localStorage.setItem('fav.tab', currentFavTab);
+  $$('.favTabs .tab').forEach(b=>{
+    b.classList.toggle('active', b.dataset.f===currentFavTab);
+  });
+
+  const list = el.favList;
+  list.innerHTML = '';
+  const lv = currentFavTab;
+  const favs = [...getFavSet(lv)].sort((a,b)=>a-b);
+  const data = decks[lv]||[];
+  if(favs.length===0){
+    list.innerHTML = `<div class="muted">尚未加星</div>`;
+    return;
+  }
+  favs.forEach(i=>{
+    const w = data[i]; if(!w) return;
     const item = document.createElement('div');
-    item.className='starItem';
+    item.className='favItem';
     item.innerHTML = `
-      <b>${safeText(it.word)}</b>
-      <div class="muted" style="margin:4px 0">${it.kk?`[${safeText(it.kk)}]`:''}</div>
-      <div>${[safeText(it.pos), safeText(it.def)].filter(Boolean).join(' ')}</div>
+      <div class="en">${safeStr(w.en||w.word)}</div>
+      ${w.kk?`<div class="muted">[ ${w.kk} ]</div>`:''}
+      <div class="muted">${safeStr(w.pos||'')} ${safeStr(w.zh||w.cn||'')}</div>
     `;
-    item.addEventListener('click', ()=>{
-      // 點清單 → 跳到該單字（若不同牌組會自動切換）
-      if(curDeck !== it.deck){
-        els.deck.value = it.deck;
-        handleDeckChange();
-        return;
-      }
-      // 在同牌組內尋找第一個匹配位置
-      const pos = viewList.findIndex(v => makeId(v) === makeId(it));
-      if(pos >= 0){ idx = pos; render(); updateSlider(); window.scrollTo({top:0,behavior:'smooth'}); }
-    });
-    els.starList.appendChild(item);
+    item.onclick = ()=>{
+      // 切到該等級並定位
+      view.level = lv; el.level.value = lv;
+      view.query=''; el.search.value='';
+      view.onlyFav = false; el.onlyFav.checked=false;
+      const ids = filteredIndexList(); // 會因 onlyFav 清掉而變全列表
+      // 找出該索引位於全列表的位置
+      const pos = (decks[lv]||[]).map((_,k)=>k).indexOf(i);
+      view.idx = Math.max(1, pos+1);
+      view.showTrans = true;
+      render();
+      window.scrollTo({top:0,behavior:'smooth'});
+    };
+    list.appendChild(item);
   });
 }
 
-/** ---------- 事件 ---------- */
-function handleDeckChange(){
-  curDeck = els.deck.value;
-  localStorage.setItem('deck', curDeck);
-  loadDeck(curDeck);
-}
-els.deck.value = curDeck;
-els.deck.addEventListener('change', handleDeckChange);
-
-els.card.addEventListener('click', ()=>{
-  // 點卡片切換 翻譯顯示/隱藏
-  showTrans = !showTrans;
+/* 事件 */
+el.card.addEventListener('click', ()=>{
+  view.showTrans = !view.showTrans;
   render();
 });
 
-els.starBtn.addEventListener('click', (e)=>{
-  e.stopPropagation();
-  const it = viewList[idx];
-  const stars = getStars();
-  stars[curDeck] = stars[curDeck] || {};
-  const id = makeId(it);
-  if(stars[curDeck][id]) delete stars[curDeck][id];
-  else stars[curDeck][id] = {...it, deck: curDeck};
-  setStars(stars);
-  render();
-  refreshStarList();
+el.prev.addEventListener('click', ()=>{
+  view.idx = Math.max(1, view.idx-1); render();
 });
-
-els.prev.addEventListener('click', ()=>{ idx = clamp(idx-1,0,viewList.length-1); render(); updateSlider(); });
-els.next.addEventListener('click', ()=>{ idx = clamp(idx+1,0,viewList.length-1); render(); updateSlider(); });
-els.rand.addEventListener('click', ()=>{
-  idx = Math.floor(Math.random()*viewList.length);
-  render(); updateSlider();
+el.next.addEventListener('click', ()=>{
+  view.idx = Math.min(+el.slider.max||1, view.idx+1); render();
 });
-els.reset.addEventListener('click', ()=>{
-  localStorage.removeItem(keyProg(curDeck));
-  idx = 0; render(); updateSlider();
+el.rand.addEventListener('click', ()=>{
+  const max = +el.slider.max||1;
+  view.idx = Math.floor(Math.random()*max)+1; render();
 });
-els.slider.addEventListener('input', ()=>{ idx = +els.slider.value - 1; render(); });
-els.slider.addEventListener('change', ()=>{ localStorage.setItem(keyProg(curDeck), String(idx+1)); });
-
-els.q.addEventListener('input', ()=>{
-  buildView();
-  idx = 0;
-  updateSlider();
+el.slider.addEventListener('input', e=>{
+  view.idx = +e.target.value; render();
+});
+el.level.addEventListener('change', ()=>{
+  // 切換等級：讀取該等級上次進度
+  view.level = el.level.value;
+  view.idx = parseInt(localStorage.getItem(progKey(view.level))||'1',10);
+  el.deckName.textContent = view.level==='X' ? '學測單字' : `CEEC Level ${view.level}`;
   render();
 });
-els.onlyStar.addEventListener('change', ()=>{
-  buildView();
-  idx = 0;
-  updateSlider();
+el.toggle.addEventListener('click', ()=>{
+  view.showTrans=!view.showTrans; render();
+});
+el.onlyFav.addEventListener('change', ()=>{
+  view.onlyFav = el.onlyFav.checked; view.idx=1; render();
+});
+el.starBtn.addEventListener('click', ()=>{
+  const ids = filteredIndexList();
+  if(!ids.length) return;
+  const realIndex = ids[view.idx-1];
+  const favs = getFavSet(view.level);
+  if(favs.has(realIndex)) favs.delete(realIndex); else favs.add(realIndex);
+  setFavSet(view.level, favs);
   render();
 });
-els.starTabs.addEventListener('click', (e)=>{
-  const btn = e.target.closest('.tab'); if(!btn) return;
-  refreshStarList(btn.dataset.tab);
+el.search.addEventListener('input', e=>{
+  view.query = e.target.value||''; view.idx=1; render();
+});
+$$('.favTabs .tab').forEach(b=>{
+  b.addEventListener('click', ()=> renderFavList(b.dataset.f));
 });
 
-/** ---------- 啟動 ---------- */
+/* 啟動 */
 (async function init(){
-  try{
-    await loadDeck(curDeck);
-  }catch(err){
-    els.word.textContent = '讀取資料失敗';
-    els.def.textContent = String(err);
-    els.kk.classList.remove('hidden');
-    els.def.classList.remove('hidden');
+  await loadAll();
+  // 確保每個單字物件有 {en, zh, kk, pos}
+  for(const lv of Object.keys(decks)){
+    decks[lv] = (decks[lv]||[]).map(x=>({
+      en: x.en ?? x.word ?? x.term ?? '',
+      zh: x.zh ?? x.cn ?? x.tw ?? '',
+      kk: x.kk ?? x.phonetic ?? x.kk_us ?? '',
+      pos: x.pos ?? x.part ?? ''
+    }));
   }
+  // 初次標題
+  el.deckName.textContent = view.level==='X' ? '學測單字' : `CEEC Level ${view.level}`;
+  render();
+  // 初次收藏分頁
+  renderFavList(currentFavTab);
 })();
 </script>
 </body>
