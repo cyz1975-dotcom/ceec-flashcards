@@ -33,43 +33,42 @@
   .flag{display:flex;gap:8px;align-items:center;justify-content:flex-end}
   .tiny{font-size:12px;color:var(--ink-weak)}
 
-  /* 卡片 */
+  /* 卡片（高度縮小一些，讓下方清單更大） */
   .card{
-    position:relative;background:var(--paper);border-radius:18px;padding:18px 16px 22px;
-    box-shadow:0 14px 30px rgba(0,0,0,.08);min-height:62vh;margin-top:12px;overflow:hidden;
+    position:relative;background:var(--paper);border-radius:18px;padding:14px 14px 16px;
+    box-shadow:0 14px 30px rgba(0,0,0,.08);min-height:50vh;margin-top:12px;overflow:hidden;
   }
-  .num{position:absolute;left:14px;top:12px;color:var(--ink-weak);font-size:12px;font-weight:700}
+  .num{position:absolute;left:14px;top:10px;color:var(--ink-weak);font-size:12px;font-weight:700}
   .star{
-    position:absolute;right:14px;top:10px;width:36px;height:36px;border-radius:50%;border:0;background:transparent;
+    position:absolute;right:14px;top:8px;width:36px;height:36px;border-radius:50%;border:0;background:transparent;
     display:grid;place-items:center;cursor:pointer;
   }
   .star svg{width:22px;height:22px;fill:#c9c9c9}
   .star.active svg{fill:#f5c02e}
 
-  /* 置中內容 */
+  /* 置中內容；點擊切換翻譯 */
   .cardBody{
-    width:100%;min-height:40vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;
+    width:100%;min-height:32vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;
   }
-  #front{font-weight:900;letter-spacing:.6px;margin:4px 0 10px;font-size:clamp(28px,8.5vw,56px);color:var(--ink)}
-  #toggleTrans{margin-top:8px;padding:10px 14px;border-radius:12px;border:0;background:var(--accent);color:var(--ink);font-weight:900;box-shadow:0 6px 14px rgba(0,0,0,.06)}
-  #transBox{margin-top:12px;display:none;flex-direction:column;align-items:center}
+  #front{font-weight:900;letter-spacing:.6px;margin:6px 0 8px;font-size:clamp(28px,8.5vw,56px);color:var(--ink)}
+  #transBox{margin-top:6px;display:none;flex-direction:column;align-items:center}
   .kk{font-weight:800;color:#7a5337;margin-bottom:6px}
   #back{font-size:clamp(20px,4.6vw,34px);font-weight:900}
   .pos{color:var(--ink-weak);margin-top:3px}
 
   /* 進度滑桿 */
-  .sliderRow{display:flex;align-items:center;gap:10px;margin-top:10px}
+  .sliderRow{display:flex;align-items:center;gap:10px;margin-top:8px}
   .sliderRow input[type="range"]{flex:1;accent-color:#c9a86d}
   .pill{min-width:48px;text-align:center;background:#fff3dd;border:1px solid var(--ring);border-radius:10px;padding:6px 8px;font-weight:800;color:var(--ink)}
 
   /* 下方控制列 */
-  .controls{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:12px}
+  .controls{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:10px}
   .ctlBtn{border:1px solid var(--ring);background:#fff3dd;color:var(--ink);padding:12px 8px;border-radius:12px;font-weight:900;text-align:center}
   @media (max-width:520px){.controls{grid-template-columns:repeat(4,1fr)}}
 
-  /* 加星清單 */
+  /* 加星清單（高度拉大） */
   .starBoard{
-    margin-top:16px;background:#fff3dd;border:1px solid var(--ring);border-radius:14px;padding:12px;
+    margin-top:12px;background:#fff3dd;border:1px solid var(--ring);border-radius:14px;padding:12px;
   }
   .boardHead{display:flex;justify-content:space-between;align-items:center;gap:10px}
   .tabs{display:flex;gap:8px;flex-wrap:wrap}
@@ -77,13 +76,15 @@
     background:#f9e8c0;border:1px solid var(--ring);border-radius:999px;padding:6px 10px;font-weight:800;color:var(--ink);cursor:pointer
   }
   .tab.active{background:#e7cd99}
-  .list{margin-top:10px;display:grid;grid-template-columns:1fr;gap:8px;max-height:260px;overflow:auto}
+  .list{margin-top:10px;display:grid;grid-template-columns:1fr;gap:8px;max-height:380px;overflow:auto}
   .rowItem{
     background:#fff;border:1px solid var(--ring);border-radius:10px;padding:8px 10px;
     display:flex;flex-direction:column;gap:2px
   }
   .rowItem b{font-size:15px}
   .rowItem small{color:var(--ink-weak)}
+  /* 搜尋無結果提示 */
+  .empty{padding:10px;color:var(--ink-weak)}
 </style>
 </head>
 <body>
@@ -91,7 +92,7 @@
 
   <!-- 工具列 -->
   <div class="toolbar">
-    <input id="search" class="search" type="search" placeholder="搜尋 英/中/詞性…" />
+    <input id="search" class="search" type="search" placeholder="搜尋 英/中/詞性/KK…" />
     <select id="levelSel" class="sel" title="CEEC 等級">
       <option value="1">CEEC Level 1</option>
       <option value="2">CEEC Level 2</option>
@@ -107,18 +108,16 @@
     </div>
   </div>
 
-  <!-- 卡片 -->
+  <!-- 卡片（點白色區域切換翻譯） -->
   <div id="cardView" class="card" aria-live="polite">
     <div class="num tiny" id="cardNum">—</div>
 
-    <!-- 右上角星星 -->
     <button id="starBtn" class="star" title="加星/取消">
       <svg viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.62L12 2 9.19 8.62 2 9.24l5.46 4.73L5.82 21z"/></svg>
     </button>
 
-    <div class="cardBody">
+    <div id="cardBody" class="cardBody">
       <h2 id="front">Loading…</h2>
-      <button id="toggleTrans">顯示翻譯</button>
       <div id="transBox">
         <span id="kk" class="kk"></span>
         <div id="back"></div>
@@ -126,7 +125,6 @@
       </div>
     </div>
 
-    <!-- 進度滑桿 -->
     <div class="sliderRow">
       <span class="pill" id="nowPill">0</span>
       <input id="progress" type="range" min="1" max="1" value="1">
@@ -177,7 +175,7 @@
   // DOM
   const $ = s => document.querySelector(s);
   const $front = $('#front'), $kk=$('#kk'), $back=$('#back'), $pos=$('#pos');
-  const $cardNum=$('#cardNum'), $toggleTrans=$('#toggleTrans'), $transBox=$('#transBox'), $starBtn=$('#starBtn');
+  const $cardNum=$('#cardNum'), $transBox=$('#transBox'), $starBtn=$('#starBtn'), $cardBody=$('#cardBody');
   const $levelSel=$('#levelSel'), $search=$('#search'), $onlyStar=$('#onlyStar');
   const $progress=$('#progress'), $nowPill=$('#nowPill'), $totalPill=$('#totalPill');
   const $starTabs=$('#starTabs'), $starList=$('#starList');
@@ -193,21 +191,31 @@
   $levelSel.value = String(level);
   loadLevel(level);
 
-  // 事件
-  $toggleTrans.addEventListener('click', ()=>{ showTrans=!showTrans; render() });
+  // 事件：點卡片白色區切換翻譯
+  $cardBody.addEventListener('click', (e)=>{
+    // 避免點到星星或滑桿誤觸
+    if(e.target.closest('#starBtn') || e.target.closest('.sliderRow')) return;
+    showTrans = !showTrans; render();
+  });
   $('#hideBtn').addEventListener('click', ()=>{ showTrans=false; render() });
   $('#nextBtn').addEventListener('click', ()=>{ if(!viewCards.length)return; idx=(idx+1)%viewCards.length; saveProgress(); showTrans=false; render() });
   $('#prevBtn').addEventListener('click', ()=>{ if(!viewCards.length)return; idx=(idx-1+viewCards.length)%viewCards.length; saveProgress(); showTrans=false; render() });
   $('#randBtn').addEventListener('click', ()=>{ if(!viewCards.length)return; idx=Math.floor(Math.random()*viewCards.length); saveProgress(); showTrans=false; render() });
 
   $levelSel.addEventListener('change', ()=>{ level=+$levelSel.value; localStorage.setItem('ceec_level', level); idx = +localStorage.getItem(progressKey(level)) || 0; loadLevel(level) });
-  $search.addEventListener('input', ()=>{ applyFilters(true) });
+
+  // 改善搜尋：即時、去除多空白、大小寫不敏感；清空回復
+  let searchTimer=null;
+  $search.addEventListener('input', ()=>{
+    clearTimeout(searchTimer);
+    searchTimer=setTimeout(()=> applyFilters(true), 80);
+  });
   $onlyStar.addEventListener('change', ()=>{ applyFilters(true) });
 
   // 進度滑桿：滑動即看、放開即記住
   $progress.addEventListener('input', e=>{
     const v = Math.max(1, Math.min(viewCards.length, +e.target.value)) - 1;
-    if(viewCards.length){ idx = v; render(false) }  // 不存，等 change 再存
+    if(viewCards.length){ idx = v; render(false) }
   });
   $progress.addEventListener('change', ()=>{ saveProgress(); render() });
 
@@ -217,9 +225,8 @@
     const k = keyOf(level, it.en);
     if(starSet.has(k)) starSet.delete(k); else starSet.add(k);
     localStorage.setItem('ceec_stars', JSON.stringify([...starSet]));
-    // 不改 idx，所以不會「跳回第一張」
     renderStarBoard();                // 更新清單
-    if($onlyStar.checked){ applyFilters(false) }  // 只看加星時要即時重算，但仍保持 idx 不變(落在新清單範圍內)
+    if($onlyStar.checked){ applyFilters(false) }  // 只看加星時即時重算，但維持 idx
     render();
   });
 
@@ -236,7 +243,7 @@
     if(e.target.matches('input,textarea,select')) return;
     if(e.key==='ArrowRight') $('#nextBtn').click();
     if(e.key==='ArrowLeft')  $('#prevBtn').click();
-    if(e.key===' ') { e.preventDefault(); $toggleTrans.click(); }
+    if(e.key===' ') { e.preventDefault(); $cardBody.click(); }
   });
 
   // 工具函式
@@ -256,21 +263,31 @@
     render();
   }
 
+  function normalize(s){ return (s||'').toString().trim().toLowerCase().replace(/\s+/g,' ') }
+
   function applyFilters(resetToFirst){
-    const q = $search.value.trim().toLowerCase();
+    const q = normalize($search.value);
     const onlyStar = $onlyStar.checked;
-    viewCards = allCards.filter(it=>{
-      if(onlyStar && !starSet.has(keyOf(level, it.en))) return false;
-      if(!q) return true;
-      const hay = [it.en,it.zh,it.pos,it.kk].filter(Boolean).join(' ').toLowerCase();
-      return q.split(/\s+/).every(k=>hay.includes(k));
-    });
-    if(viewCards.length===0){ viewCards=[{en:"（沒有符合的單字）", zh:"", pos:"", kk:""}]; idx=0; }
+
+    if(!allCards || !allCards.length){ viewCards=[] }
     else{
-      if(resetToFirst){ idx=0 }
-      else{ idx = Math.min(idx, viewCards.length-1) }
+      viewCards = allCards.filter(it=>{
+        if(onlyStar && !starSet.has(keyOf(level, it.en))) return false;
+        if(!q) return true;
+        const hay = normalize([it.en,it.zh,it.pos,it.kk].filter(Boolean).join(' '));
+        return q.split(' ').every(k=> hay.includes(k));
+      });
     }
-    // 更新滑桿範圍
+
+    if(viewCards.length===0){
+      viewCards=[{en:"（沒有符合的單字）", zh:"清除搜尋或換關鍵字", pos:"", kk:""}];
+      idx=0; showTrans=true; // 直接顯示提示
+    }else{
+      if(resetToFirst){ idx=0 } else { idx = Math.min(idx, viewCards.length-1) }
+      showTrans=false; // 篩選後回到只看英文
+    }
+
+    // 更新滑桿
     $progress.max = String(viewCards.length||1);
     $totalPill.textContent = String(viewCards.length||0);
   }
@@ -283,9 +300,8 @@
     $kk.textContent    = it.kk || '';
     $kk.style.display  = it.kk ? 'block' : 'none';
 
-    // 翻譯顯示/隱藏（預設隱藏）
+    // 翻譯顯示/隱藏（預設隱藏；點卡面切換）
     $transBox.style.display = showTrans ? 'flex' : 'none';
-    $toggleTrans.textContent = showTrans ? '隱藏翻譯' : '顯示翻譯';
 
     // 編號
     $cardNum.textContent = `${Math.min(idx+1, viewCards.length)} / ${viewCards.length}`;
@@ -303,15 +319,16 @@
 
   function renderStarBoard(tabLevel){
     const lv = tabLevel || level;
-    // 切換 tab 高亮（若是初始化）
     [...$starTabs.children].forEach(btn=>{
       btn.classList.toggle('active', +btn.dataset.lv === lv);
     });
 
-    // 找出該 level 的星號清單
-    // 需要對應到字的中文與 kk，故盡量從目前 allCards 取；如果不是目前 level，就去抓一次對應 level 的 json（快取到 window）
-    const draw = (items)=>{
-      if(!items.length){ $starList.innerHTML = '<div class="tiny">尚未加星</div>'; return }
+    const keys = [...starSet].filter(k => +k.split('::')[0]===lv)
+                             .map(k => k.split('::')[1]);
+
+    const draw = (arr)=>{
+      const items = arr.filter(it=> keys.includes(it.en));
+      if(!items.length){ $starList.innerHTML = '<div class="empty">尚未加星</div>'; return }
       $starList.innerHTML = items.map(it=>(
         `<div class="rowItem">
            <b>${it.en}</b>
@@ -322,19 +339,14 @@
       )).join('');
     };
 
-    const keys = [...starSet].filter(k => +k.split('::')[0]===lv)
-                             .map(k => k.split('::')[1]);
-
-    // 快取：window._lvCache
+    // 快取
     window._lvCache = window._lvCache || {};
-    const useList = (arr)=> draw(arr.filter(it=> keys.includes(it.en)));
-
-    if(lv===level){ useList(allCards); return }
-    if(window._lvCache[lv]){ useList(window._lvCache[lv]); return }
+    if(lv===level){ draw(allCards); return }
+    if(window._lvCache[lv]){ draw(window._lvCache[lv]); return }
     fetch(LEVEL_FILES[lv], {cache:'no-store'})
       .then(r=>r.json())
-      .then(arr=>{ window._lvCache[lv]=arr; useList(arr) })
-      .catch(()=> draw([]));
+      .then(arr=>{ window._lvCache[lv]=arr; draw(arr) })
+      .catch(()=> $starList.innerHTML = '<div class="empty">讀取失敗</div>');
   }
 </script>
 </body>
